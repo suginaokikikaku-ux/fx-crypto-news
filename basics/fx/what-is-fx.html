@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">FX基礎</div>
+      <div class="badge fx">FX基礎</div>
       <h1>FXとは？</h1>
       <p class="lead">FXを学ぶときに最初にやるべきことは、手法を覚えることではなく、為替市場が何を見て動いているのかを理解することです。このページでは、FX全体の地図を初心者向けに整理します。</p>
       
-        <h2>FXとは何を見て理解する市場か</h2>
-        <p>FXは、異なる国の通貨の交換レートがどう動くかを見ていく市場です。単に上がるか下がるかを見るだけでなく、なぜその通貨が買われたり売られたりしたのかを理解することが重要です。</p><p>たとえばドル円が上がったとき、それは『ドルが強い』のか『円が弱い』のか、あるいはその両方なのかを分けて考える必要があります。つまりFXは、価格だけではなく背景の構造を読む市場です。</p><p>株のように企業の業績を中心に見るのではなく、FXでは金利、経済指標、中央銀行、地政学、資金の流れといったマクロ要因が強く効きます。だからこそ、ニュースの意味を理解できると学習効率が一気に上がります。</p>
       
-        <h2>FXを学ぶ前に押さえるべき基本用語</h2>
-        <p>最初に押さえるべきなのは、為替、通貨ペア、レバレッジ、スプレッドという4つの基本です。為替は通貨の交換、通貨ペアは2つの通貨をセットで見る考え方、レバレッジは資金効率の仕組み、スプレッドは実質コストにあたります。</p><p>この4つが曖昧なままだと、ニュースの意味も口座の違いも、価格の動きも理解しにくくなります。逆にここが固まると、その後の『ドル円』『金利』『ニュースの読み方』まで自然につながります。</p>
-      
-        <h2>初心者が最初に誤解しやすいこと</h2>
-        <p>初心者がよくやってしまうのは、FXを『チャートだけ見て判断するもの』だと思い込むことです。しかし実際には、チャートは結果であり、その背景には必ず材料があります。</p><p>もう1つの誤解は、FXを短期売買の技術だけで理解しようとすることです。もちろん技術も大事ですが、土台になる仕組みを理解しないままでは、ニュースの重みや市場のテーマを判断しにくくなります。つまり、最初は手法より構造理解が優先です。</p>
-      
-        <h2>このカテゴリで学べること</h2>
-        <p>このFX基礎カテゴリでは、為替とは何か、通貨ペアとは何か、他の資産との違い、レバレッジやスプレッドの意味、注文やスワップの基本までを順番に学べます。</p><p>この土台ができると、次の『ドル円』『なぜ為替は動くのか』『FXニュースの読み方』に進んだときに理解がつながります。つまり、このカテゴリは後の学習を支える基礎工事です。</p>
-      
+      <h2>FXとは何を見て理解する市場か</h2>
+      <p>FXは、異なる国の通貨の交換レートがどう動くかを見ていく市場です。単に上がるか下がるかを見るだけでなく、なぜその通貨が買われたり売られたりしたのかを理解することが重要です。</p><p>たとえばドル円が上がったとき、それは『ドルが強い』のか『円が弱い』のか、あるいはその両方なのかを分けて考える必要があります。つまりFXは、価格だけではなく背景の構造を読む市場です。</p><p>株のように企業の業績を中心に見るのではなく、FXでは金利、経済指標、中央銀行、地政学、資金の流れといったマクロ要因が強く効きます。だからこそ、ニュースの意味を理解できると学習効率が一気に上がります。</p>
+    
+      <h2>FXを学ぶ前に押さえるべき基本用語</h2>
+      <p>最初に押さえるべきなのは、為替、通貨ペア、レバレッジ、スプレッドという4つの基本です。為替は通貨の交換、通貨ペアは2つの通貨をセットで見る考え方、レバレッジは資金効率の仕組み、スプレッドは実質コストにあたります。</p><p>この4つが曖昧なままだと、ニュースの意味も口座の違いも、価格の動きも理解しにくくなります。逆にここが固まると、その後の『ドル円』『金利』『ニュースの読み方』まで自然につながります。</p>
+    
+      <h2>初心者が最初に誤解しやすいこと</h2>
+      <p>初心者がよくやってしまうのは、FXを『チャートだけ見て判断するもの』だと思い込むことです。しかし実際には、チャートは結果であり、その背景には必ず材料があります。</p><p>もう1つの誤解は、FXを短期売買の技術だけで理解しようとすることです。もちろん技術も大事ですが、土台になる仕組みを理解しないままでは、ニュースの重みや市場のテーマを判断しにくくなります。つまり、最初は手法より構造理解が優先です。</p>
+    
+      <h2>このカテゴリで学べること</h2>
+      <p>このFX基礎カテゴリでは、為替とは何か、通貨ペアとは何か、他の資産との違い、レバレッジやスプレッドの意味、注文やスワップの基本までを順番に学べます。</p><p>この土台ができると、次の『ドル円』『なぜ為替は動くのか』『FXニュースの読み方』に進んだときに理解がつながります。つまり、このカテゴリは後の学習を支える基礎工事です。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>FXは価格だけでなく背景を読む市場</li><li>最初は通貨ペア・為替・レバレッジ・スプレッドを押さえる</li><li>ニュース理解の土台としてFX基礎が必要</li><li>手法より先に構造理解を優先する</li>
@@ -117,14 +161,30 @@
       <h2>このページで目指す理解</h2>
       <p>FXとは何を扱う市場なのか、なぜ日本人がドル円から学ぶと理解しやすいのか、そして次に何を学ぶべきかを説明できる状態にする。</p>
     
+      <h2>このカテゴリで読めるページ</h2>
+    <div class="grid">
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-exchange-rate.html">為替とは何か</a></li><li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
-        </ul>
-      </div>
+            <a href="what-is-exchange-rate.html">
+              <h3>為替とは何か</h3>
+              <p>為替レートの意味と通貨交換の仕組みを理解する</p>
+            </a>
+          
+            <a href="what-is-currency-pair.html">
+              <h3>通貨ペアとは何か</h3>
+              <p>USD/JPYなど通貨ペアの読み方を理解する</p>
+            </a>
+          
+    </div>
+  
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-exchange-rate.html">為替とは何か</a></li><li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

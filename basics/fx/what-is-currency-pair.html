@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,22 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">FX基礎</div>
+      <div class="badge fx">FX基礎</div>
       <h1>通貨ペアとは何か</h1>
       <p class="lead">FXでは、通貨は必ず2つセットで見ます。この組み合わせが通貨ペアであり、USD/JPYの読み方を理解すると、相場の見え方がかなり整理されます。</p>
       
-        <h2>通貨ペアとは何か</h2>
-        <p>通貨ペアとは、2つの通貨を組み合わせて価格を表したものです。FXでは単独の通貨を扱うのではなく、必ず別の通貨との比較で価格を見ます。</p><p>たとえばUSD/JPYは『米ドルと日本円』、EUR/USDは『ユーロと米ドル』です。つまり、FXは比較の市場であり、通貨ペアがその基本単位です。</p>
-      
-        <h2>USD/JPYの読み方</h2>
-        <p>USD/JPYは、1米ドルを買うのに何円必要かを表しています。たとえば150なら、1ドル＝150円という意味です。</p><p>この数字が上がると、1ドルを買うのに必要な円が増えるので、一般にはドル高・円安の文脈で語られやすくなります。つまり、USD/JPYはドルの価格を円で見ている形です。</p>
-      
-        <h2>ベース通貨とクオート通貨</h2>
-        <p>通貨ペアの左側をベース通貨、右側をクオート通貨と呼びます。USD/JPYならUSDがベース通貨、JPYがクオート通貨です。</p><p>価格150は『1ベース通貨＝150クオート通貨』という意味です。このルールを理解すると、他の通貨ペアでも読み方が一気に統一されます。</p>
-      
-        <h2>ドルが強い・円が弱いの違い</h2>
-        <p>USD/JPYが上がると『ドルが強い』とも『円が弱い』とも言われますが、背景は同じとは限りません。米金利上昇でドルが買われる場合もあれば、日銀への見方で円が売られる場合もあります。</p><p>大事なのは、同じ値動きでも原因が違うことがあると理解することです。つまり、通貨ペアを読むときは、価格だけでなく背景まで見る必要があります。</p>
-      
+      <h2>通貨ペアとは何か</h2>
+      <p>通貨ペアとは、2つの通貨を組み合わせて価格を表したものです。FXでは単独の通貨を扱うのではなく、必ず別の通貨との比較で価格を見ます。</p><p>たとえばUSD/JPYは『米ドルと日本円』、EUR/USDは『ユーロと米ドル』です。つまり、FXは比較の市場であり、通貨ペアがその基本単位です。</p>
+    
+      <h2>USD/JPYの読み方</h2>
+      <p>USD/JPYは、1米ドルを買うのに何円必要かを表しています。たとえば150なら、1ドル＝150円という意味です。</p><p>この数字が上がると、1ドルを買うのに必要な円が増えるので、一般にはドル高・円安の文脈で語られやすくなります。つまり、USD/JPYはドルの価格を円で見ている形です。</p>
+    
+      <h2>ベース通貨とクオート通貨</h2>
+      <p>通貨ペアの左側をベース通貨、右側をクオート通貨と呼びます。USD/JPYならUSDがベース通貨、JPYがクオート通貨です。</p><p>価格150は『1ベース通貨＝150クオート通貨』という意味です。このルールを理解すると、他の通貨ペアでも読み方が一気に統一されます。</p>
+    
+      <h2>ドルが強い・円が弱いの違い</h2>
+      <p>USD/JPYが上がると『ドルが強い』とも『円が弱い』とも言われますが、背景は同じとは限りません。米金利上昇でドルが買われる場合もあれば、日銀への見方で円が売られる場合もあります。</p><p>大事なのは、同じ値動きでも原因が違うことがあると理解することです。つまり、通貨ペアを読むときは、価格だけでなく背景まで見る必要があります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>FXでは通貨を2つセットで見る</li><li>USD/JPYは1ドルの値段を円で見たもの</li><li>左がベース通貨、右がクオート通貨</li><li>同じ値動きでも背景は異なることがある</li>
@@ -118,13 +161,13 @@
       <p>通貨ペアとは何か、USD/JPYの価格が何を意味するのか、ベース通貨とクオート通貨の違いを説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-exchange-rate.html">為替とは何か</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="../common/fx-vs-crypto-overview.html">FXと暗号通貨の違い</a></li><li><a href="what-is-fx.html">FXとは？</a></li>
-        </ul>
-      </div>
-    
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-fx.html">FXとは？</a></li><li><a href="what-is-exchange-rate.html">為替とは何か</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="../common/fx-vs-crypto-overview.html">FXと暗号通貨の違い</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

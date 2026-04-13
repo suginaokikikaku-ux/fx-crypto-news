@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">ドル円</div>
+      <div class="badge fx">ドル円</div>
       <h1>ドル円とは？</h1>
       <p class="lead">日本人がFXを学ぶなら、まずはドル円から始めるのが自然です。情報が多く、日銀や米金利とのつながりも分かりやすいため、マクロ理解の入口として優れています。</p>
       
-        <h2>なぜドル円が重要なのか</h2>
-        <p>ドル円は、日本人にとって最も情報を追いやすい通貨ペアです。日本語の情報量が多く、日銀や日本経済と直接つながるため、相場との距離が近く感じやすいのが強みです。</p><p>さらに米国側の金利や指標も強く影響するので、ドル円を見ることで、日本と米国の両方のマクロ要因を学べます。つまりドル円は、学習効率の良い通貨ペアです。</p>
       
-        <h2>ドル円を見るときに押さえるべき視点</h2>
-        <p>ドル円を見るときは、単に上がった下がったで終わらせず、『ドルが強いのか』『円が弱いのか』『その両方か』を分けて考える必要があります。</p><p>また、短期の反応と中期の流れを混同しないことも大事です。ニュースで一時的に動いているのか、テーマとして継続性があるのかを見分ける視点が重要になります。</p>
-      
-        <h2>日銀と米金利が意識される理由</h2>
-        <p>ドル円は日米の通貨ペアなので、日銀の政策と米国金利の両方が意識されます。日銀が金融政策をどうするか、FRBが利上げ・利下げをどう考えているかは、ドル円に強く影響しやすいです。</p><p>とくに米金利はドルの魅力と結びつきやすく、日銀政策は円の見られ方に関わりやすいです。つまり、ドル円を見ることは日米の金融政策を見ることでもあります。</p>
-      
-        <h2>ドル円学習の次の一歩</h2>
-        <p>ドル円を深く理解したいなら、次は『なぜ為替は動くのか』『金利と為替の関係』『FXニュースの読み方』へ進むのが自然です。</p><p>ドル円は単独で完結するテーマではなく、マクロ全体への入口です。つまり、ドル円を軸に学習を広げると理解がつながりやすくなります。</p>
-      
+      <h2>なぜドル円が重要なのか</h2>
+      <p>ドル円は、日本人にとって最も情報を追いやすい通貨ペアです。日本語の情報量が多く、日銀や日本経済と直接つながるため、相場との距離が近く感じやすいのが強みです。</p><p>さらに米国側の金利や指標も強く影響するので、ドル円を見ることで、日本と米国の両方のマクロ要因を学べます。つまりドル円は、学習効率の良い通貨ペアです。</p>
+    
+      <h2>ドル円を見るときに押さえるべき視点</h2>
+      <p>ドル円を見るときは、単に上がった下がったで終わらせず、『ドルが強いのか』『円が弱いのか』『その両方か』を分けて考える必要があります。</p><p>また、短期の反応と中期の流れを混同しないことも大事です。ニュースで一時的に動いているのか、テーマとして継続性があるのかを見分ける視点が重要になります。</p>
+    
+      <h2>日銀と米金利が意識される理由</h2>
+      <p>ドル円は日米の通貨ペアなので、日銀の政策と米国金利の両方が意識されます。日銀が金融政策をどうするか、FRBが利上げ・利下げをどう考えているかは、ドル円に強く影響しやすいです。</p><p>とくに米金利はドルの魅力と結びつきやすく、日銀政策は円の見られ方に関わりやすいです。つまり、ドル円を見ることは日米の金融政策を見ることでもあります。</p>
+    
+      <h2>ドル円学習の次の一歩</h2>
+      <p>ドル円を深く理解したいなら、次は『なぜ為替は動くのか』『金利と為替の関係』『FXニュースの読み方』へ進むのが自然です。</p><p>ドル円は単独で完結するテーマではなく、マクロ全体への入口です。つまり、ドル円を軸に学習を広げると理解がつながりやすくなります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>ドル円は日本人にとって最も学びやすい通貨ペア</li><li>日銀と米金利の両方を見る必要がある</li><li>価格だけでなく背景を分けて考える</li><li>ドル円はマクロ理解の入口</li>
@@ -118,13 +162,15 @@
       <p>ドル円を見る意味、円安・円高の考え方、日銀や米金利との関係を説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

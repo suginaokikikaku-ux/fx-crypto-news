@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">基礎</div>
+      <div class="badge crypto">基礎</div>
       <h1>暗号通貨とは？</h1>
       <p class="lead">暗号通貨を理解するには、ビットコインだけを知っていれば十分というわけではありません。市場全体の分類と役割の違いを整理することで、ニュースやテーマの理解が進みます。</p>
       
-        <h2>暗号通貨とは何か</h2>
-        <p>暗号通貨は、ブロックチェーンを基盤にしたデジタル資産です。単なる値動きのある商品ではなく、送金、決済、アプリ基盤、テーマ投資など、役割の違いがあります。</p><p>そのため、同じ『暗号資産』という言葉でくくっても、中身はかなり違います。つまり、最初に分類を理解することが重要です。</p>
       
-        <h2>まず押さえるべき分類</h2>
-        <p>最初に押さえるべきなのは、ビットコイン、イーサリアム、アルトコイン、ステーブルコインの4分類です。BTCは市場全体の軸、ETHはアプリ基盤、アルトは個別テーマ、ステーブルコインは価格安定型という役割分担があります。</p><p>この違いを理解しないままニュースを追うと、『なぜそのニュースでその銘柄が動いたのか』が見えにくくなります。</p>
-      
-        <h2>価格だけで見ないための視点</h2>
-        <p>暗号資産は価格変動が目立つため、つい数字ばかりに目が向きがちです。しかし重要なのは、何を解決するプロジェクトなのか、どのテーマに属するのか、どれくらい使われているのかといった中身です。</p><p>価格は結果であり、背景には技術、採用、テーマ、資金循環があります。つまり、暗号資産は『価格の裏側』を理解していく市場です。</p>
-      
-        <h2>このカテゴリで学べること</h2>
-        <p>このカテゴリでは、ビットコイン、イーサリアム、アルトコイン、ステーブルコイン、法定通貨との違いなど、暗号資産の基礎を整理します。</p><p>その土台ができると、次の『ブロックチェーン』『市場テーマ』『プロジェクト分析』へ自然に進めます。</p>
-      
+      <h2>暗号通貨とは何か</h2>
+      <p>暗号通貨は、ブロックチェーンを基盤にしたデジタル資産です。単なる値動きのある商品ではなく、送金、決済、アプリ基盤、テーマ投資など、役割の違いがあります。</p><p>そのため、同じ『暗号資産』という言葉でくくっても、中身はかなり違います。つまり、最初に分類を理解することが重要です。</p>
+    
+      <h2>まず押さえるべき分類</h2>
+      <p>最初に押さえるべきなのは、ビットコイン、イーサリアム、アルトコイン、ステーブルコインの4分類です。BTCは市場全体の軸、ETHはアプリ基盤、アルトは個別テーマ、ステーブルコインは価格安定型という役割分担があります。</p><p>この違いを理解しないままニュースを追うと、『なぜそのニュースでその銘柄が動いたのか』が見えにくくなります。</p>
+    
+      <h2>価格だけで見ないための視点</h2>
+      <p>暗号資産は価格変動が目立つため、つい数字ばかりに目が向きがちです。しかし重要なのは、何を解決するプロジェクトなのか、どのテーマに属するのか、どれくらい使われているのかといった中身です。</p><p>価格は結果であり、背景には技術、採用、テーマ、資金循環があります。つまり、暗号資産は『価格の裏側』を理解していく市場です。</p>
+    
+      <h2>このカテゴリで学べること</h2>
+      <p>このカテゴリでは、ビットコイン、イーサリアム、アルトコイン、ステーブルコイン、法定通貨との違いなど、暗号資産の基礎を整理します。</p><p>その土台ができると、次の『ブロックチェーン』『市場テーマ』『プロジェクト分析』へ自然に進めます。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>暗号通貨は役割ごとに分類が必要</li><li>BTC・ETH・アルト・ステーブルの違いを押さえる</li><li>価格だけでなく中身を見る</li><li>基礎理解が次のテーマ学習につながる</li>
@@ -117,14 +161,25 @@
       <h2>このページで目指す理解</h2>
       <p>暗号通貨とは何か、主要な分類には何があり、それぞれをどう見分ければよいかを説明できる状態にする。</p>
     
+      <h2>このカテゴリで読めるページ</h2>
+    <div class="grid">
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-bitcoin.html">ビットコインとは何か</a></li><li><a href="what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../common/fx-vs-crypto-overview.html">FXと暗号通貨の違い</a></li>
-        </ul>
-      </div>
+            <a href="what-is-bitcoin.html">
+              <h3>ビットコインとは何か</h3>
+              <p>BTCの役割と価値の考え方を理解する</p>
+            </a>
+          
+    </div>
+  
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-bitcoin.html">ビットコインとは何か</a></li><li><a href="what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../common/fx-vs-crypto-overview.html">FXと暗号通貨の違い</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">共通</div>
+      <div class="badge common">共通</div>
       <h1>相場ニュースの読み方</h1>
       <p class="lead">ニュースは、読んだだけでは理解したことになりません。何が起きたのか、なぜ重要なのか、市場はどう反応したのかを分けて整理することが大切です。</p>
       
-        <h2>ニュースを読む基本手順</h2>
-        <p>ニュースは、まず何が起きたかを確認し、次にそれがなぜ重要かを考え、最後に市場がどう反応したかを見るのが基本です。この順番を意識するだけで、表面的な理解から一歩進みます。</p><p>大事なのは、ニュースを『読む』だけでなく『整理する』ことです。つまり、情報を流し見するのではなく、意味づけする視点が必要です。</p>
       
-        <h2>事実と解釈の違い</h2>
-        <p>ニュース本文の事実と、その事実を市場がどう受け止めたかは別物です。同じ発表でも、市場がどのテーマを気にしているかによって解釈は変わります。</p><p>だから見出しだけで判断するのではなく、『それは市場にとって何を意味したのか』を考える必要があります。</p>
-      
-        <h2>市場反応を見る意味</h2>
-        <p>ニュースそのものより、市場が何に反応したかを見る方が重要なことがあります。たとえば良いニュースでも価格が動かなければ、市場にとっては新しい意味を持たなかった可能性があります。</p><p>逆に、ニュースの中身以上に価格が動いたなら、市場が別の文脈を重ねて見ているかもしれません。つまり、反応を見ることでテーマの強さが見えます。</p>
-      
-        <h2>次に何を確認すべきか</h2>
-        <p>ニュースを見たら、その材料が単発で終わるのか、継続して追うべきかを考える必要があります。また、他の市場や指標に波及するかも確認すると理解が深まります。</p><p>FXなら金利、暗号資産ならテーマや利用指標まで広げて確認すると、ニュースが立体的に見えてきます。</p>
-      
+      <h2>ニュースを読む基本手順</h2>
+      <p>ニュースは、まず何が起きたかを確認し、次にそれがなぜ重要かを考え、最後に市場がどう反応したかを見るのが基本です。この順番を意識するだけで、表面的な理解から一歩進みます。</p><p>大事なのは、ニュースを『読む』だけでなく『整理する』ことです。つまり、情報を流し見するのではなく、意味づけする視点が必要です。</p>
+    
+      <h2>事実と解釈の違い</h2>
+      <p>ニュース本文の事実と、その事実を市場がどう受け止めたかは別物です。同じ発表でも、市場がどのテーマを気にしているかによって解釈は変わります。</p><p>だから見出しだけで判断するのではなく、『それは市場にとって何を意味したのか』を考える必要があります。</p>
+    
+      <h2>市場反応を見る意味</h2>
+      <p>ニュースそのものより、市場が何に反応したかを見る方が重要なことがあります。たとえば良いニュースでも価格が動かなければ、市場にとっては新しい意味を持たなかった可能性があります。</p><p>逆に、ニュースの中身以上に価格が動いたなら、市場が別の文脈を重ねて見ているかもしれません。つまり、反応を見ることでテーマの強さが見えます。</p>
+    
+      <h2>次に何を確認すべきか</h2>
+      <p>ニュースを見たら、その材料が単発で終わるのか、継続して追うべきかを考える必要があります。また、他の市場や指標に波及するかも確認すると理解が深まります。</p><p>FXなら金利、暗号資産ならテーマや利用指標まで広げて確認すると、ニュースが立体的に見えてきます。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>ニュースは事実・解釈・市場反応に分けて読む</li><li>見出しだけでは理解にならない</li><li>市場反応を見ることでテーマの強さが分かる</li><li>次に何を確認するかまで考える</li>
@@ -118,13 +162,15 @@
       <p>相場ニュースを事実・解釈・市場反応に分けて読み、次に何を確認すべきか考えられる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="../fx/how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="../crypto/what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="../fx/how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="../crypto/what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

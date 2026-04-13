@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,22 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">FX基礎</div>
+      <div class="badge fx">FX基礎</div>
       <h1>為替とは何か</h1>
       <p class="lead">為替とは、ある国のお金を別の国のお金に交換することです。FXを理解するには、まず『交換に値段がついていて、その値段が毎日変わる』という感覚を持つことが大切です。</p>
       
-        <h2>為替とは通貨を交換すること</h2>
-        <p>為替とは、異なる国の通貨を交換することです。日本円を米ドルに替える、ユーロを日本円に戻す、こうした行為そのものが為替です。</p><p>普段は意識しにくいですが、海外旅行、輸入品の価格、海外投資など、私たちの生活にも為替は深く関わっています。つまり、為替は特別な投資の話ではなく、国と国のお金の交換そのものです。</p>
-      
-        <h2>為替レートとは交換の値段</h2>
-        <p>為替レートとは、通貨を交換するときの値段です。『1ドル＝150円』なら、1米ドルを手に入れるために150円必要という意味です。</p><p>ここで重要なのは、為替レートは固定ではなく常に変わることです。スーパーの商品価格のように一定ではなく、市場参加者の売買によって常に更新されます。つまり為替レートは、通貨の交換価格そのものです。</p>
-      
-        <h2>なぜ為替レートは毎日変わるのか</h2>
-        <p>為替レートが毎日変わるのは、通貨の需要と供給が絶えず変化しているからです。ある通貨を買いたい人が増えれば上がりやすく、売りたい人が増えれば下がりやすくなります。</p><p>この需要と供給を動かす要因には、金利、経済指標、中央銀行の発言、地政学リスク、株式市場の動きなどがあります。だから為替レートは単なる数字ではなく、市場の期待や不安を映す鏡でもあります。</p>
-      
-        <h2>為替を理解するとニュースの見え方が変わる</h2>
-        <p>為替の基本を理解すると、ニュースの見方が変わります。たとえば『米CPIが強かった』という話を見たときに、単なる数字ではなく『金利見通しに影響してドルが意識されるかもしれない』とつなげて考えられるようになります。</p><p>逆に為替の仕組みが曖昧なままだと、ニュースを見ても『結局何が起きているのか』が分かりにくいままです。つまり、為替の理解はニュース理解の土台になります。</p>
-      
+      <h2>為替とは通貨を交換すること</h2>
+      <p>為替とは、異なる国の通貨を交換することです。日本円を米ドルに替える、ユーロを日本円に戻す、こうした行為そのものが為替です。</p><p>普段は意識しにくいですが、海外旅行、輸入品の価格、海外投資など、私たちの生活にも為替は深く関わっています。つまり、為替は特別な投資の話ではなく、国と国のお金の交換そのものです。</p>
+    
+      <h2>為替レートとは交換の値段</h2>
+      <p>為替レートとは、通貨を交換するときの値段です。『1ドル＝150円』なら、1米ドルを手に入れるために150円必要という意味です。</p><p>ここで重要なのは、為替レートは固定ではなく常に変わることです。スーパーの商品価格のように一定ではなく、市場参加者の売買によって常に更新されます。つまり為替レートは、通貨の交換価格そのものです。</p>
+    
+      <h2>なぜ為替レートは毎日変わるのか</h2>
+      <p>為替レートが毎日変わるのは、通貨の需要と供給が絶えず変化しているからです。ある通貨を買いたい人が増えれば上がりやすく、売りたい人が増えれば下がりやすくなります。</p><p>この需要と供給を動かす要因には、金利、経済指標、中央銀行の発言、地政学リスク、株式市場の動きなどがあります。だから為替レートは単なる数字ではなく、市場の期待や不安を映す鏡でもあります。</p>
+    
+      <h2>為替を理解するとニュースの見え方が変わる</h2>
+      <p>為替の基本を理解すると、ニュースの見方が変わります。たとえば『米CPIが強かった』という話を見たときに、単なる数字ではなく『金利見通しに影響してドルが意識されるかもしれない』とつなげて考えられるようになります。</p><p>逆に為替の仕組みが曖昧なままだと、ニュースを見ても『結局何が起きているのか』が分かりにくいままです。つまり、為替の理解はニュース理解の土台になります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>為替は通貨の交換</li><li>為替レートは交換価格</li><li>需要と供給で日々変動する</li><li>為替理解はニュース理解の土台</li>
@@ -118,13 +161,13 @@
       <p>為替とは何か、為替レートが何を表しているのか、なぜその数字が日々変動するのかを自分の言葉で説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="what-is-fx.html">FXとは？</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li>
-        </ul>
-      </div>
-    
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-fx.html">FXとは？</a></li><li><a href="what-is-currency-pair.html">通貨ペアとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

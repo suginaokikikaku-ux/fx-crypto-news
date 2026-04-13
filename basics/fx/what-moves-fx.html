@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">為替の仕組み</div>
+      <div class="badge fx">為替の仕組み</div>
       <h1>なぜ為替は動くのか</h1>
       <p class="lead">為替はなんとなく動いているわけではありません。何が今の市場の主役かを整理できるようになると、ニュースの理解が一段深くなります。</p>
       
-        <h2>為替を動かす主な要因</h2>
-        <p>為替を動かす主な要因には、金利、経済指標、中央銀行、地政学リスク、リスクオン・リスクオフ、ポジション調整などがあります。</p><p>大事なのは、すべてを同じ重さで見るのではなく、『今どれが主役なのか』を見分けることです。つまり相場理解とは、要因の優先順位を整理することでもあります。</p>
       
-        <h2>金利と経済指標が中心になる理由</h2>
-        <p>とくに金利は通貨の魅力に直結しやすく、為替市場で非常に重要です。利上げが意識される通貨は買われやすく、利下げが意識される通貨は相対的に弱く見られやすくなります。</p><p>経済指標は、その金利見通しに影響するため注目されます。CPIや雇用統計、PCEなどは、単体で重要というより『その先の金利観』を通じて見られることが多いです。</p>
-      
-        <h2>中央銀行と地政学の影響</h2>
-        <p>中央銀行は、金融政策の方向性を示す存在です。FRBや日銀のスタンスが変わるだけで、通貨の見られ方が大きく変わることがあります。</p><p>一方、地政学はリスク回避を通じて通貨に影響します。戦争や制裁、エネルギー問題などは、金利とは別軸で相場のテーマになることがあります。つまり、相場は経済だけではなく政治や安全保障でも動きます。</p>
-      
-        <h2>相場を動かすテーマを見分ける視点</h2>
-        <p>同じニュースでも、今の市場が何を気にしているかで反応は変わります。強いCPIでも反応が鈍いことがあるのは、すでに織り込まれていたり、他のテーマが優先されていたりするためです。</p><p>だから重要なのは、ニュースを単発で見るのではなく、『今の市場の主役テーマは何か』を考えることです。これができると、相場の見え方が一段変わります。</p>
-      
+      <h2>為替を動かす主な要因</h2>
+      <p>為替を動かす主な要因には、金利、経済指標、中央銀行、地政学リスク、リスクオン・リスクオフ、ポジション調整などがあります。</p><p>大事なのは、すべてを同じ重さで見るのではなく、『今どれが主役なのか』を見分けることです。つまり相場理解とは、要因の優先順位を整理することでもあります。</p>
+    
+      <h2>金利と経済指標が中心になる理由</h2>
+      <p>とくに金利は通貨の魅力に直結しやすく、為替市場で非常に重要です。利上げが意識される通貨は買われやすく、利下げが意識される通貨は相対的に弱く見られやすくなります。</p><p>経済指標は、その金利見通しに影響するため注目されます。CPIや雇用統計、PCEなどは、単体で重要というより『その先の金利観』を通じて見られることが多いです。</p>
+    
+      <h2>中央銀行と地政学の影響</h2>
+      <p>中央銀行は、金融政策の方向性を示す存在です。FRBや日銀のスタンスが変わるだけで、通貨の見られ方が大きく変わることがあります。</p><p>一方、地政学はリスク回避を通じて通貨に影響します。戦争や制裁、エネルギー問題などは、金利とは別軸で相場のテーマになることがあります。つまり、相場は経済だけではなく政治や安全保障でも動きます。</p>
+    
+      <h2>相場を動かすテーマを見分ける視点</h2>
+      <p>同じニュースでも、今の市場が何を気にしているかで反応は変わります。強いCPIでも反応が鈍いことがあるのは、すでに織り込まれていたり、他のテーマが優先されていたりするためです。</p><p>だから重要なのは、ニュースを単発で見るのではなく、『今の市場の主役テーマは何か』を考えることです。これができると、相場の見え方が一段変わります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>為替には主なドライバーがある</li><li>金利と指標は特に重要</li><li>中央銀行と地政学も無視できない</li><li>今の主役テーマを見分けることが重要</li>
@@ -118,13 +162,15 @@
       <p>為替を動かす主要ドライバーを分類し、それぞれが相場にどうつながるかを説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="what-is-fx.html">FXとは？</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="how-to-read-fx-news.html">FXニュースの読み方</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="what-is-usdjpy.html">ドル円とは？</a></li><li><a href="what-is-fx.html">FXとは？</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

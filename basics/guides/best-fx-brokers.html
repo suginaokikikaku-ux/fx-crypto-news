@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">導入</div>
+      <div class="badge guide">導入</div>
       <h1>FX口座の選び方</h1>
       <p class="lead">FX口座はどれでも同じに見えがちですが、実際にはコスト、使いやすさ、情報量、学びやすさに違いがあります。比較の軸を持つことが大切です。</p>
       
-        <h2>FX口座を選ぶときの基本</h2>
-        <p>FX口座は、実際に取引を行うための入り口です。だからこそ、単に知名度や広告だけで決めるのではなく、自分に合う比較軸を持つことが重要です。</p><p>最初の段階では、学習しやすい環境かどうかも大切です。つまり、口座選びは『使えるか』だけでなく『学びやすいか』でも見る必要があります。</p>
       
-        <h2>比較で見るポイント</h2>
-        <p>比較で見るべきポイントには、スプレッド、取引ツール、情報量、注文のしやすさ、サポート体制などがあります。単一の数字だけで決めると、後で使いにくさを感じることがあります。</p><p>特に初心者は、ツールが複雑すぎないか、情報が整理されているか、操作で迷いにくいかも見た方が良いです。</p>
-      
-        <h2>初心者が重視したいこと</h2>
-        <p>初心者は、最狭スプレッドだけを最優先にしすぎない方が安全です。コストは大事ですが、使いづらい環境では学習が進みにくくなります。</p><p>また、ニュースや経済カレンダー、基本情報が見やすいかも重要です。つまり、初心者には『総合的な使いやすさ』が大きな価値になります。</p>
-      
-        <h2>口座選びで失敗しやすい点</h2>
-        <p>よくある失敗は、数字だけで選んでしまうことです。たとえばスプレッドが狭くても、ツールが合わなかったり、情報が見にくかったりすると学習効率は落ちます。</p><p>もう1つは、自分の学習段階を無視して選ぶことです。最初から高機能すぎる環境より、理解しやすく継続しやすい環境の方が合う場合もあります。</p>
-      
+      <h2>FX口座を選ぶときの基本</h2>
+      <p>FX口座は、実際に取引を行うための入り口です。だからこそ、単に知名度や広告だけで決めるのではなく、自分に合う比較軸を持つことが重要です。</p><p>最初の段階では、学習しやすい環境かどうかも大切です。つまり、口座選びは『使えるか』だけでなく『学びやすいか』でも見る必要があります。</p>
+    
+      <h2>比較で見るポイント</h2>
+      <p>比較で見るべきポイントには、スプレッド、取引ツール、情報量、注文のしやすさ、サポート体制などがあります。単一の数字だけで決めると、後で使いにくさを感じることがあります。</p><p>特に初心者は、ツールが複雑すぎないか、情報が整理されているか、操作で迷いにくいかも見た方が良いです。</p>
+    
+      <h2>初心者が重視したいこと</h2>
+      <p>初心者は、最狭スプレッドだけを最優先にしすぎない方が安全です。コストは大事ですが、使いづらい環境では学習が進みにくくなります。</p><p>また、ニュースや経済カレンダー、基本情報が見やすいかも重要です。つまり、初心者には『総合的な使いやすさ』が大きな価値になります。</p>
+    
+      <h2>口座選びで失敗しやすい点</h2>
+      <p>よくある失敗は、数字だけで選んでしまうことです。たとえばスプレッドが狭くても、ツールが合わなかったり、情報が見にくかったりすると学習効率は落ちます。</p><p>もう1つは、自分の学習段階を無視して選ぶことです。最初から高機能すぎる環境より、理解しやすく継続しやすい環境の方が合う場合もあります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>口座は比較軸を持って選ぶ</li><li>スプレッドだけで決めない</li><li>初心者には使いやすさと情報量も重要</li><li>学習継続しやすい環境を選ぶ</li>
@@ -118,13 +162,15 @@
       <p>FX口座を比較する際の基本軸を説明でき、自分が何を基準に選ぶべきか整理できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../fx/what-is-fx.html">FXとは？</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../fx/what-is-fx.html">FXとは？</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

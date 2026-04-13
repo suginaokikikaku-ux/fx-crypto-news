@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">共通知識</div>
+      <div class="badge common">共通知識</div>
       <h1>リスク管理の基本</h1>
       <p class="lead">リスク管理は、損失を小さくするためだけの考え方ではありません。情報の受け取り方や判断の癖まで含めて整えることで、学習の質も安定します。</p>
       
-        <h2>リスク管理とは何を管理することか</h2>
-        <p>リスク管理とは、単に損失を減らすことではなく、無理のある判断や継続不能な状態を避けるための考え方です。</p><p>市場を見る人にとっては、資金だけでなく、情報の偏りや感情的な判断も大きなリスクになります。</p>
       
-        <h2>資金面のリスク管理</h2>
-        <p>資金面では、余裕資金で向き合うこと、無理なレバレッジを避けること、1回の判断にすべてをかけないことが基本です。</p><p>学習段階では特に、守ることを優先し、継続できる前提を崩さないことが重要です。</p>
-      
-        <h2>情報面のリスク管理</h2>
-        <p>情報面では、見出しだけで判断しないこと、複数の視点を持つこと、数字の出所を確認することが重要です。</p><p>情報が多いほど安心とは限らず、むしろ整理できない情報量は判断を鈍らせることがあります。</p>
-      
-        <h2>判断面のリスク管理</h2>
-        <p>判断面では、焦りや期待だけで結論を出さないこと、ニュースの事実と解釈を分けること、反応の理由を言語化することが大切です。</p><p>つまり、リスク管理はお金の話だけでなく、思考のクセを整えることでもあります。</p>
-      
+      <h2>リスク管理とは何を管理することか</h2>
+      <p>リスク管理とは、単に損失を減らすことではなく、無理のある判断や継続不能な状態を避けるための考え方です。</p><p>市場を見る人にとっては、資金だけでなく、情報の偏りや感情的な判断も大きなリスクになります。</p>
+    
+      <h2>資金面のリスク管理</h2>
+      <p>資金面では、余裕資金で向き合うこと、無理なレバレッジを避けること、1回の判断にすべてをかけないことが基本です。</p><p>学習段階では特に、守ることを優先し、継続できる前提を崩さないことが重要です。</p>
+    
+      <h2>情報面のリスク管理</h2>
+      <p>情報面では、見出しだけで判断しないこと、複数の視点を持つこと、数字の出所を確認することが重要です。</p><p>情報が多いほど安心とは限らず、むしろ整理できない情報量は判断を鈍らせることがあります。</p>
+    
+      <h2>判断面のリスク管理</h2>
+      <p>判断面では、焦りや期待だけで結論を出さないこと、ニュースの事実と解釈を分けること、反応の理由を言語化することが大切です。</p><p>つまり、リスク管理はお金の話だけでなく、思考のクセを整えることでもあります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>リスク管理は資金・情報・判断の3つで考える</li><li>継続できる状態を崩さないことが重要</li><li>情報の受け取り方もリスク管理の一部</li><li>感情的な判断を避ける仕組みが必要</li>
@@ -118,13 +162,15 @@
       <p>資金管理だけでなく、情報管理と判断管理まで含めたリスク管理の基本を説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

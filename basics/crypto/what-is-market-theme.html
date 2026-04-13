@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">テーマ</div>
+      <div class="badge crypto">テーマ</div>
       <h1>市場テーマとは何か</h1>
       <p class="lead">暗号資産市場は、銘柄単体だけでなく『テーマ』で資金が動くことがあります。テーマの理解があると、なぜ似た銘柄が一緒に注目されるのかが分かりやすくなります。</p>
       
-        <h2>市場テーマとは何か</h2>
-        <p>市場テーマとは、複数の銘柄やプロジェクトを共通の文脈でまとめて見る考え方です。個別銘柄ではなく、テーマ全体に関心が集まることで、関連銘柄がまとめて意識されることがあります。</p><p>これは暗号資産市場の特徴の1つで、株式のセクター物色に近い面もあります。つまり、暗号資産では『何のテーマに属するか』が重要です。</p>
       
-        <h2>代表的なテーマの例</h2>
-        <p>代表的なテーマには、AI、DeFi、NFT、L2、RWA、DePIN、GameFi などがあります。それぞれ技術的背景もユーザー層も、見るべき指標も違います。</p><p>同じ『暗号資産』でも、テーマによって注目される理由が異なるため、一括りにしないことが重要です。</p>
-      
-        <h2>テーマを見るときの基本視点</h2>
-        <p>テーマを見るときは、『なぜ今そのテーマが注目されているのか』『関連銘柄はどこまで広がっているか』『ニュースだけでなく利用状況に裏付けがあるか』を見る必要があります。</p><p>価格の上昇だけではなく、中身が伴っているかを確認する視点が重要です。</p>
-      
-        <h2>単発の話題と継続テーマの違い</h2>
-        <p>一時的な話題は、短期間で注目が集まっても持続しないことがあります。一方で、採用や利用が増え続けるテーマは継続して追う価値があります。</p><p>だから大切なのは、テーマの名前に飛びつくことではなく、そのテーマに継続性があるかを見極めることです。</p>
-      
+      <h2>市場テーマとは何か</h2>
+      <p>市場テーマとは、複数の銘柄やプロジェクトを共通の文脈でまとめて見る考え方です。個別銘柄ではなく、テーマ全体に関心が集まることで、関連銘柄がまとめて意識されることがあります。</p><p>これは暗号資産市場の特徴の1つで、株式のセクター物色に近い面もあります。つまり、暗号資産では『何のテーマに属するか』が重要です。</p>
+    
+      <h2>代表的なテーマの例</h2>
+      <p>代表的なテーマには、AI、DeFi、NFT、L2、RWA、DePIN、GameFi などがあります。それぞれ技術的背景もユーザー層も、見るべき指標も違います。</p><p>同じ『暗号資産』でも、テーマによって注目される理由が異なるため、一括りにしないことが重要です。</p>
+    
+      <h2>テーマを見るときの基本視点</h2>
+      <p>テーマを見るときは、『なぜ今そのテーマが注目されているのか』『関連銘柄はどこまで広がっているか』『ニュースだけでなく利用状況に裏付けがあるか』を見る必要があります。</p><p>価格の上昇だけではなく、中身が伴っているかを確認する視点が重要です。</p>
+    
+      <h2>単発の話題と継続テーマの違い</h2>
+      <p>一時的な話題は、短期間で注目が集まっても持続しないことがあります。一方で、採用や利用が増え続けるテーマは継続して追う価値があります。</p><p>だから大切なのは、テーマの名前に飛びつくことではなく、そのテーマに継続性があるかを見極めることです。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>暗号資産はテーマ単位でも動く</li><li>テーマごとに見るべき指標が違う</li><li>ニュースだけでなく利用状況も大事</li><li>継続テーマかどうかを見極める</li>
@@ -117,14 +161,25 @@
       <h2>このページで目指す理解</h2>
       <p>市場テーマという考え方を理解し、代表的なテーマとその見方を説明できる状態にする。</p>
     
+      <h2>このカテゴリで読めるページ</h2>
+    <div class="grid">
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-defi.html">DeFiとは何か</a></li><li><a href="what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
-        </ul>
-      </div>
+            <a href="what-is-defi.html">
+              <h3>DeFiとは何か</h3>
+              <p>分散型金融の基本と仕組み</p>
+            </a>
+          
+    </div>
+  
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-defi.html">DeFiとは何か</a></li><li><a href="what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

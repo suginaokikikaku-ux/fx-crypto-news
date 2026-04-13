@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">導入</div>
+      <div class="badge guide">導入</div>
       <h1>暗号通貨取引所の選び方</h1>
       <p class="lead">暗号通貨取引所は、どこでも同じように見えて実はかなり違います。比較の軸を持たずに選ぶと、後から使いにくさや学びにくさを感じやすくなります。</p>
       
-        <h2>取引所選びで見るべき基本</h2>
-        <p>暗号通貨取引所を選ぶときは、手数料だけでなく、安全性、使いやすさ、取り扱い銘柄、入出金のしやすさなどを総合的に見る必要があります。</p><p>どんなに話題の取引所でも、自分の目的に合っていなければ継続的に使いにくくなります。</p>
       
-        <h2>比較で重視したいポイント</h2>
-        <p>比較の軸としては、現物中心か、情報が見やすいか、日本円の入出金がしやすいか、初心者でも迷いにくい設計かが重要です。</p><p>また、どの銘柄を学びたいかによって、取り扱い銘柄の幅も大きな判断材料になります。</p>
-      
-        <h2>初心者が注意したいこと</h2>
-        <p>初心者は『取引できる銘柄が多いか』だけで選ばない方が安全です。むしろ、最初は主要銘柄を無理なく見られて、操作が分かりやすい環境の方が学習しやすいことが多いです。</p><p>また、価格だけで飛びつかず、送金や保管の基本も理解しながら使える環境かを見ることが大切です。</p>
-      
-        <h2>学習と運用を両立する視点</h2>
-        <p>学習用として使うなら、価格確認、ニュース理解、保管の基本、入出金の感覚が身につきやすいかも重要です。</p><p>つまり、取引所は売買の場所であると同時に、暗号通貨を理解するための入口でもあります。</p>
-      
+      <h2>取引所選びで見るべき基本</h2>
+      <p>暗号通貨取引所を選ぶときは、手数料だけでなく、安全性、使いやすさ、取り扱い銘柄、入出金のしやすさなどを総合的に見る必要があります。</p><p>どんなに話題の取引所でも、自分の目的に合っていなければ継続的に使いにくくなります。</p>
+    
+      <h2>比較で重視したいポイント</h2>
+      <p>比較の軸としては、現物中心か、情報が見やすいか、日本円の入出金がしやすいか、初心者でも迷いにくい設計かが重要です。</p><p>また、どの銘柄を学びたいかによって、取り扱い銘柄の幅も大きな判断材料になります。</p>
+    
+      <h2>初心者が注意したいこと</h2>
+      <p>初心者は『取引できる銘柄が多いか』だけで選ばない方が安全です。むしろ、最初は主要銘柄を無理なく見られて、操作が分かりやすい環境の方が学習しやすいことが多いです。</p><p>また、価格だけで飛びつかず、送金や保管の基本も理解しながら使える環境かを見ることが大切です。</p>
+    
+      <h2>学習と運用を両立する視点</h2>
+      <p>学習用として使うなら、価格確認、ニュース理解、保管の基本、入出金の感覚が身につきやすいかも重要です。</p><p>つまり、取引所は売買の場所であると同時に、暗号通貨を理解するための入口でもあります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>取引所は手数料だけで決めない</li><li>安全性・使いやすさ・銘柄数を総合で見る</li><li>初心者は分かりやすさを重視する</li><li>取引所は学習の入口でもある</li>
@@ -118,13 +162,15 @@
       <p>暗号通貨取引所を比較する際の基本観点を理解し、自分に合う選び方を整理できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="../crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../common/risk-management.html">リスク管理の基本</a></li><li><a href="best-fx-brokers.html">FX口座の選び方</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="../crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../common/risk-management.html">リスク管理の基本</a></li><li><a href="best-fx-brokers.html">FX口座の選び方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

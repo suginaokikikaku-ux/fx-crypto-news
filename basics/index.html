@@ -43,18 +43,12 @@
         radial-gradient(circle at top left, rgba(56, 189, 248, 0.10), transparent 28%),
         radial-gradient(circle at top right, rgba(167, 139, 250, 0.10), transparent 30%),
         linear-gradient(180deg, #020617 0%, #0b1120 100%);
-        color: var(--text);
+      color: var(--text);
     }
 
-    .container {
-      max-width: 1180px;
-      margin: 0 auto;
-    }
+    .container { max-width: 1180px; margin: 0 auto; }
 
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
+    a { color: inherit; text-decoration: none; }
 
     .back {
       display: inline-flex;
@@ -66,9 +60,7 @@
       font-size: 14px;
     }
 
-    .hero,
-    .section,
-    .toc {
+    .hero, .section, .toc {
       background: var(--panel);
       border: 1px solid var(--panel-border);
       border-radius: 20px;
@@ -77,9 +69,7 @@
       box-shadow: 0 10px 28px rgba(0,0,0,0.20);
     }
 
-    .hero {
-      padding: 34px 28px;
-    }
+    .hero { padding: 34px 28px; }
 
     .eyebrow {
       display: inline-block;
@@ -166,16 +156,12 @@
       color: var(--text-soft);
     }
 
-    .toc-grid,
-    .parent-grid,
-    .child-grid {
+    .toc-grid, .parent-grid, .child-grid {
       display: grid;
       gap: 16px;
     }
 
-    .toc-grid {
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    }
+    .toc-grid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
 
     .toc a {
       display: block;
@@ -183,7 +169,6 @@
       border-radius: 14px;
       background: var(--panel-soft);
       border: 1px solid var(--panel-border);
-      transition: background 0.2s ease, transform 0.2s ease;
     }
 
     .toc strong {
@@ -203,39 +188,30 @@
       margin-bottom: 18px;
     }
 
-    .parent-card,
-    .child-card {
+    .parent-card, .child-card {
       display: block;
       padding: 18px;
       border-radius: 16px;
       background: var(--panel-soft);
       border: 1px solid var(--panel-border);
-      transition: background 0.2s ease, transform 0.2s ease;
     }
 
-    .parent-card h3,
-    .child-card h3 {
+    .parent-card h3, .child-card h3 {
       margin: 0 0 8px;
       color: var(--heading);
       line-height: 1.35;
-      letter-spacing: -0.01em;
     }
 
-    .parent-card p,
-    .child-card p {
+    .parent-card p, .child-card p {
       margin: 0;
       color: var(--text-soft);
       font-size: 14px;
       line-height: 1.7;
     }
 
-    .parent-card h3 {
-      font-size: 20px;
-    }
+    .parent-card h3 { font-size: 20px; }
 
-    .child-group {
-      margin-top: 18px;
-    }
+    .child-group { margin-top: 18px; }
 
     .child-group h3 {
       margin: 0 0 12px;
@@ -264,28 +240,10 @@
     .common { color: var(--accent-common); background: rgba(52, 211, 153, 0.12); }
     .guide { color: var(--accent-guide); background: rgba(245, 158, 11, 0.14); }
 
-    .note {
-      margin-top: 20px;
-      padding: 14px 16px;
-      border-radius: 14px;
-      background: rgba(125, 211, 252, 0.08);
-      border: 1px solid rgba(125, 211, 252, 0.16);
-      color: #cbd5e1;
-      font-size: 14px;
-    }
-
     @media (max-width: 640px) {
-      .hero, .section, .toc {
-        padding: 22px;
-      }
-
-      h2 {
-        font-size: 24px;
-      }
-
-      .parent-card h3 {
-        font-size: 18px;
-      }
+      .hero, .section, .toc { padding: 22px; }
+      h2 { font-size: 24px; }
+      .parent-card h3 { font-size: 18px; }
     }
   </style>
 </head>
@@ -305,36 +263,6 @@
         <a href="#crypto-area">暗号通貨エリアを見る</a>
         <a href="#common-area">共通知識を見る</a>
         <a href="#guide-area">実用ガイドを見る</a>
-      </div>
-    </section>
-
-    <section class="toc">
-      <div class="section-head">
-        <div>
-          <h2>学習マップ</h2>
-          <p>最初に全体像を見てから、気になる分野へ進めるように整理しています。</p>
-        </div>
-      </div>
-      <div class="toc-grid">
-        <a href="#fx-area">
-          <strong>FXエリア</strong>
-          <span>基礎 / ドル円 / 為替の仕組み / 相場構造 / FXニュース</span>
-        </a>
-        <a href="#crypto-area">
-          <strong>暗号通貨エリア</strong>
-          <span>基礎 / ブロックチェーン / 主要銘柄 / 市場テーマ / プロジェクト分析</span>
-        </a>
-        <a href="#common-area">
-          <strong>共通知識</strong>
-          <span>ニュースの読み方 / 比較 / リスク管理 / 情報整理</span>
-        </a>
-        <a href="#guide-area">
-          <strong>実用ガイド</strong>
-          <span>口座・取引所選び / ウォレット / 学習習慣 / ニュース学習ルーティン</span>
-        </a>
-      </div>
-      <div class="note">
-        この一覧は manifest をもとに自動生成しています。ページ名・ファイル名・導線をズレにくくするため、今後は manifest を正本として管理します。
       </div>
     </section>
 

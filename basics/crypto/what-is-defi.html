@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,25 +123,25 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">テーマ</div>
+      <div class="badge crypto">テーマ</div>
       <h1>DeFiとは何か</h1>
       <p class="lead">DeFiは『分散型金融』と訳されますが、名前だけでは中身が伝わりにくい分野です。だからこそ、何ができて、何を見て、どこにリスクがあるのかを分けて理解することが重要です。</p>
       
-        <h2>DeFiとは何か</h2>
-        <p>DeFiは分散型金融のことで、中央管理者に頼らずブロックチェーン上で金融機能を提供する仕組みです。従来の銀行や証券会社が担っていた機能の一部を、スマートコントラクトで実現しようとする考え方です。</p><p>重要なのは、DeFiが単なる利回り商品ではなく『仕組み』だという点です。つまり、何を自動化し、どこに価値があるのかを理解する必要があります。</p>
-      
-        <h2>DeFiでできること</h2>
-        <p>DeFiでは、代表的にDEX、レンディング、ステーキング、イールドファーミングといった機能があります。DEXは仲介者なしの取引、レンディングは貸し借り、ステーキングはネットワーク参加報酬、イールドファーミングは流動性提供に対する報酬の文脈で語られます。</p><p>ただし、同じDeFiでも何が主役かはプロジェクトごとに違います。つまり、DeFiという言葉だけではなく『その中で何をしているプロジェクトなのか』まで見る必要があります。</p>
-      
-        <h2>見るべき指標</h2>
-        <p>DeFiを見るときは、TVL、取引量、利用者数、継続的な利用状況、手数料収益などが重要です。価格が上がっていても、実際に使われていないなら持続性には疑問が残ります。</p><p>逆に、価格が目立たなくても利用が着実に増えているなら、中身としては注目に値することがあります。つまり、DeFiでは価格より『利用の実態』を見ることが大切です。</p>
-      
-        <h2>リスクと注意点</h2>
-        <p>DeFiには、スマートコントラクトの不具合、流動性不足、ハッキング、トークン設計の問題などのリスクがあります。中央管理者がいないことは自由度の高さでもありますが、裏を返せば自己責任の範囲も広くなりやすいです。</p><p>そのため、メリットだけを見て判断するのではなく、何が壊れると困るのか、どの部分が脆弱なのかを理解しておくことが重要です。つまり、DeFiは便利さとリスクをセットで見る必要があります。</p>
-      
-        <h2>DeFiニュースの読み方</h2>
-        <p>DeFi関連ニュースを見るときは、単なる提携や話題性だけでなく、『利用が本当に増えるのか』『TVLや流動性に変化が出るのか』『短期材料なのか』を確認する必要があります。</p><p>ニュースに対して利用データやオンチェーン指標が追いついているかを見ると、表面的な盛り上がりと中身のある変化を分けやすくなります。</p>
-      
+      <h2>DeFiとは何か</h2>
+      <p>DeFiは分散型金融のことで、中央管理者に頼らずブロックチェーン上で金融機能を提供する仕組みです。従来の銀行や証券会社が担っていた機能の一部を、スマートコントラクトで実現しようとする考え方です。</p><p>重要なのは、DeFiが単なる利回り商品ではなく『仕組み』だという点です。つまり、何を自動化し、どこに価値があるのかを理解する必要があります。</p>
+    
+      <h2>DeFiでできること</h2>
+      <p>DeFiでは、代表的にDEX、レンディング、ステーキング、イールドファーミングといった機能があります。DEXは仲介者なしの取引、レンディングは貸し借り、ステーキングはネットワーク参加報酬、イールドファーミングは流動性提供に対する報酬の文脈で語られます。</p><p>ただし、同じDeFiでも何が主役かはプロジェクトごとに違います。つまり、DeFiという言葉だけではなく『その中で何をしているプロジェクトなのか』まで見る必要があります。</p>
+    
+      <h2>見るべき指標</h2>
+      <p>DeFiを見るときは、TVL、取引量、利用者数、継続的な利用状況、手数料収益などが重要です。価格が上がっていても、実際に使われていないなら持続性には疑問が残ります。</p><p>逆に、価格が目立たなくても利用が着実に増えているなら、中身としては注目に値することがあります。つまり、DeFiでは価格より『利用の実態』を見ることが大切です。</p>
+    
+      <h2>リスクと注意点</h2>
+      <p>DeFiには、スマートコントラクトの不具合、流動性不足、ハッキング、トークン設計の問題などのリスクがあります。中央管理者がいないことは自由度の高さでもありますが、裏を返せば自己責任の範囲も広くなりやすいです。</p><p>そのため、メリットだけを見て判断するのではなく、何が壊れると困るのか、どの部分が脆弱なのかを理解しておくことが重要です。つまり、DeFiは便利さとリスクをセットで見る必要があります。</p>
+    
+      <h2>DeFiニュースの読み方</h2>
+      <p>DeFi関連ニュースを見るときは、単なる提携や話題性だけでなく、『利用が本当に増えるのか』『TVLや流動性に変化が出るのか』『短期材料なのか』を確認する必要があります。</p><p>ニュースに対して利用データやオンチェーン指標が追いついているかを見ると、表面的な盛り上がりと中身のある変化を分けやすくなります。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>DeFiは中央管理者なしの金融機能</li><li>DEX、レンディング、ステーキングが主要要素</li><li>TVLや取引量など利用実態を見る必要がある</li><li>スマートコントラクトや流動性のリスクがある</li><li>ニュースだけでなく利用データを見る</li>
@@ -121,13 +164,13 @@
       <p>DeFiの役割、代表機能、見るべき指標、リスクを初心者が整理して説明できる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li>
-        </ul>
-      </div>
-    
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li><li><a href="../guides/best-crypto-exchanges.html">暗号通貨取引所の選び方</a></li><li><a href="../guides/best-fx-brokers.html">FX口座の選び方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>

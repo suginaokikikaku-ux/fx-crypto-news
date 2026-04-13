@@ -43,7 +43,13 @@
       font-size: 12px;
       font-weight: 700;
       color: #94a3b8;
+      border: 1px solid rgba(255,255,255,0.08);
     }
+    .badge.fx { color: #7dd3fc; }
+    .badge.crypto { color: #c4b5fd; }
+    .badge.common { color: #6ee7b7; }
+    .badge.guide { color: #fbbf24; }
+
     h1 { margin: 0 0 12px; font-size: 36px; line-height: 1.2; color: #f8fafc; }
     .lead { color: #94a3b8; font-size: 16px; margin-bottom: 24px; }
     h2 {
@@ -55,17 +61,54 @@
     p, li { color: #d1d5db; font-size: 16px; }
     ul { padding-left: 22px; }
     li { margin-bottom: 6px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .grid a {
+      display: block;
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: inherit;
+      transition: background 0.2s ease;
+    }
+    .grid a:hover {
+      background: rgba(255,255,255,0.08);
+      text-decoration: none;
+    }
+    .grid a h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: #f8fafc;
+    }
+    .grid a p {
+      margin: 0;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
     .next-links {
-      margin-top: 40px; padding-top: 24px;
+      margin-top: 40px;
+      padding-top: 24px;
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .next-links h2 { border-left: 4px solid #a78bfa; }
     .next-links ul { list-style: none; padding: 0; }
     .next-links li { margin-bottom: 10px; }
     .next-links li::before { content: "→ "; color: #a78bfa; }
+
     .breadcrumb {
-      display: flex; flex-wrap: wrap; gap: 6px;
-      margin-bottom: 18px; font-size: 13px; color: #64748b;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 18px;
+      font-size: 13px;
+      color: #64748b;
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
@@ -80,22 +123,23 @@
     </nav>
   
     <div class="card-wrapper">
-      <div class="badge">技術</div>
+      <div class="badge crypto">技術</div>
       <h1>ブロックチェーンとは？</h1>
       <p class="lead">暗号資産を深く理解するには、価格だけではなく、その土台であるブロックチェーンを知る必要があります。技術の全体像をつかむことで、プロジェクトの違いが見えやすくなります。</p>
       
-        <h2>ブロックチェーンとは何か</h2>
-        <p>ブロックチェーンは、取引履歴や状態を分散的に記録・共有する仕組みです。特定の企業だけで管理するのではなく、多数の参加者によって記録が維持されることが特徴です。</p><p>暗号資産はこの上で動いており、送金や保有、アプリ利用などの土台になっています。つまり、ブロックチェーンは暗号資産のインフラです。</p>
       
-        <h2>なぜ暗号資産の理解に必要なのか</h2>
-        <p>同じ暗号資産でも、どのチェーン上で動くのかによって、速さ、コスト、使われ方が変わります。だから価格だけ見ていても、プロジェクトの中身は見えてきません。</p><p>ブロックチェーン理解があると、『なぜこのプロジェクトが注目されるのか』『なぜL2が必要と言われるのか』といった話がつながりやすくなります。</p>
-      
-        <h2>ここから学ぶべき技術概念</h2>
-        <p>次に理解したいのは、分散管理、ノード、コンセンサスアルゴリズム、ガス代、トランザクション、L1、L2といった概念です。</p><p>これらはバラバラに見えて、実際にはブロックチェーンの役割と性能を理解するためにつながっています。</p>
-      
-        <h2>初心者が意識すべきポイント</h2>
-        <p>最初から細かい技術仕様を全部覚える必要はありません。まずは『誰が記録を維持しているのか』『何がコストになるのか』『何を改善しようとしているのか』という視点で見ると整理しやすいです。</p><p>つまり、技術の暗記ではなく、構造の理解を優先するのがコツです。</p>
-      
+      <h2>ブロックチェーンとは何か</h2>
+      <p>ブロックチェーンは、取引履歴や状態を分散的に記録・共有する仕組みです。特定の企業だけで管理するのではなく、多数の参加者によって記録が維持されることが特徴です。</p><p>暗号資産はこの上で動いており、送金や保有、アプリ利用などの土台になっています。つまり、ブロックチェーンは暗号資産のインフラです。</p>
+    
+      <h2>なぜ暗号資産の理解に必要なのか</h2>
+      <p>同じ暗号資産でも、どのチェーン上で動くのかによって、速さ、コスト、使われ方が変わります。だから価格だけ見ていても、プロジェクトの中身は見えてきません。</p><p>ブロックチェーン理解があると、『なぜこのプロジェクトが注目されるのか』『なぜL2が必要と言われるのか』といった話がつながりやすくなります。</p>
+    
+      <h2>ここから学ぶべき技術概念</h2>
+      <p>次に理解したいのは、分散管理、ノード、コンセンサスアルゴリズム、ガス代、トランザクション、L1、L2といった概念です。</p><p>これらはバラバラに見えて、実際にはブロックチェーンの役割と性能を理解するためにつながっています。</p>
+    
+      <h2>初心者が意識すべきポイント</h2>
+      <p>最初から細かい技術仕様を全部覚える必要はありません。まずは『誰が記録を維持しているのか』『何がコストになるのか』『何を改善しようとしているのか』という視点で見ると整理しやすいです。</p><p>つまり、技術の暗記ではなく、構造の理解を優先するのがコツです。</p>
+    
       <h2>押さえるべきポイント</h2>
       <ul>
         <li>ブロックチェーンは暗号資産の土台</li><li>チェーンの違いで使い勝手が変わる</li><li>L1やL2の理解につながる</li><li>暗記より構造理解が重要</li>
@@ -118,13 +162,15 @@
       <p>ブロックチェーンの役割と重要性を説明でき、次に学ぶべき技術概念への橋渡しができる状態にする。</p>
     
       
-      <div class="next-links">
-        <h2>次に読むページ</h2>
-        <ul>
-          <li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="what-is-crypto.html">暗号通貨とは？</a></li><li><a href="what-is-bitcoin.html">ビットコインとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
-        </ul>
-      </div>
     
+      
+    <div class="next-links">
+      <h2>次に読むページ</h2>
+      <ul>
+        <li><a href="what-is-market-theme.html">市場テーマとは何か</a></li><li><a href="what-is-crypto.html">暗号通貨とは？</a></li><li><a href="what-is-bitcoin.html">ビットコインとは何か</a></li><li><a href="../common/how-to-read-news.html">相場ニュースの読み方</a></li>
+      </ul>
+    </div>
+  
     </div>
   </div>
 </body>
