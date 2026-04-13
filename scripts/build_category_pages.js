@@ -2,14 +2,13 @@ import "dotenv/config";
 import fs from "fs";
 import path from "path";
 
-const siteDir = "site";
-const postsDir = path.join(siteDir, "posts");
+const postsDir = path.join("posts");
 const siteUrl = (process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily").replace(/\/$/, "");
-const heroImageRelativePath = "site/assets/img/hero.jpg";
-const heroImageFsPath = path.join(siteDir, "assets", "img", "hero.jpg");
+const heroImageRelativePath = "./site/assets/img/hero.jpg";
+const heroImageFsPath = path.join("site", "assets", "img", "hero.jpg");
 
 if (!fs.existsSync(postsDir)) {
-  console.error("site/posts がありません。先に build を実行してください。");
+  console.error("posts がありません。先に build を実行してください。");
   process.exit(1);
 }
 
@@ -75,7 +74,7 @@ function readPostMeta(file) {
     typeClass: getPostTypeClass(type),
     date,
     file,
-    relativeUrl: `./site/posts/${file}`,
+    relativeUrl: `./posts/${file}`,
     title: seoTitle,
     description: seoDescription
   };
