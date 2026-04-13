@@ -8,12 +8,13 @@
     "summarize": "node scripts/summarize_news.js",
     "build": "node scripts/build_article.js",
     "build:index": "node scripts/build_index.js",
-    "build:all": "npm run fetch && npm run summarize && npm run build && npm run build:index"
+    "build:categories": "node scripts/build_category_pages.js",
+    "build:knowledge": "node scripts/build_knowledge_pages.js",
+    "build:all": "npm run fetch && npm run summarize && npm run build && npm run build:index && npm run build:categories && npm run build:knowledge"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
     "openai": "^6.27.0",
     "rss-parser": "^3.13.0"
   }
-  
 }
