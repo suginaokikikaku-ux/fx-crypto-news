@@ -1,8 +1,9 @@
+import "dotenv/config";
 import fs from "fs";
 import path from "path";
 
 const basicsDir = path.join("basics");
-const siteUrlBase = process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily";
+const siteUrlBase = (process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily").replace(/\/$/, "");
 
 const pages = [
   {
@@ -217,7 +218,7 @@ function markdownToHtml(markdown = "") {
   let html = escapeHtml(markdown);
   html = html.replace(/^## (.*)$/gm, "<h2>$1</h2>");
   html = html.replace(/^\- (.*)$/gm, "<li>$1</li>");
-  html = html.replace(/^(\d+)\. (.*)$/gm, "<li>$1. $2</li>");
+  html = html.replace(/^(\d+)\. (.*)$/gm, "<li>$2</li>");
   html = html.replace(/(<li>.*<\/li>)/gs, (match) => `<ul>${match}</ul>`);
   html = html.replace(/\n\n/g, "</p><p>");
   html = `<p>${html}</p>`;
@@ -228,7 +229,7 @@ function markdownToHtml(markdown = "") {
 }
 
 function buildPage(page) {
-  const canonical = `${siteUrlBase.replace(/\/$/, "")}/basics/${page.slug}.html`;
+  const canonical = `${siteUrlBase}/basics/${page.slug}.html`;
   const contentHtml = markdownToHtml(page.content);
 
   return `<!DOCTYPE html>
@@ -333,6 +334,8 @@ const basicsIndexHtml = `<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>基礎知識一覧｜Macro Daily</title>
   <meta name="description" content="FXと暗号資産の初心者向け基礎知識ページ一覧です。" />
+  <link rel="canonical" href="${siteUrlBase}/basics/index.html" />
+  <meta name="robots" content="index,follow" />
   <style>
     body {
       margin: 0;
