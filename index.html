@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Macro Daily｜FX・BTC・マクロ市場のデイリーまとめ</title>
-  <meta name="description" content="USD/JPYとBTCの相場構造を解説。地政学リスクやドルの動向が影響する中での市場の流れを考察します。" />
+  <title>Macro Daily｜FX・暗号資産・マクロ市場のデイリーまとめ</title>
+  <meta name="description" content="USD/JPYの動向や地政学リスクが市場に与える影響を解説。金利やインフレ懸念が相場をどう変えるかを探る。" />
   <link rel="canonical" href="https://suginaokikikaku-ux.github.io/macro-daily/index.html" />
   <meta name="robots" content="index,follow" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Macro Daily｜FX・BTC・マクロ市場のデイリーまとめ" />
-  <meta property="og:description" content="USD/JPYとBTCの相場構造を解説。地政学リスクやドルの動向が影響する中での市場の流れを考察します。" />
+  <meta property="og:title" content="Macro Daily｜FX・暗号資産・マクロ市場のデイリーまとめ" />
+  <meta property="og:description" content="USD/JPYの動向や地政学リスクが市場に与える影響を解説。金利やインフレ懸念が相場をどう変えるかを探る。" />
   <meta property="og:url" content="https://suginaokikikaku-ux.github.io/macro-daily/index.html" />
   <meta property="og:site_name" content="Macro Daily" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -220,13 +220,43 @@
       box-shadow: 0 16px 32px rgba(0, 0, 0, 0.28);
     }
 
+    .card-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
     .card-meta {
       font-size: 12px;
       font-weight: 700;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--accent);
-      margin-bottom: 12px;
+    }
+
+    .card-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border: 1px solid rgba(255,255,255,0.12);
+    }
+
+    .card-badge-fx {
+      background: rgba(14, 165, 233, 0.14);
+      color: #7dd3fc;
+    }
+
+    .card-badge-crypto {
+      background: rgba(168, 85, 247, 0.16);
+      color: #d8b4fe;
     }
 
     .card-title {
@@ -304,12 +334,12 @@
         <div class="eyebrow">AI MARKET DIGEST</div>
         <h1>Macro Daily</h1>
         <p>
-          FX・BTC・マクロ市場の注目ニュースを毎日整理し、
-          USD/JPYやビットコインへの影響をわかりやすくまとめるデイリーサイトです。
+          FX・暗号資産・マクロ市場の注目ニュースを毎日整理し、
+          市場構造やテーマ性、次に見るべき論点をわかりやすくまとめるデイリーサイトです。
         </p>
         <div class="hero-actions">
-          <a class="hero-button" href="./site/posts/2026-04-13.html">最新記事を読む</a>
-          <span class="hero-note">毎日更新 / AI要約 / 相場視点で整理</span>
+          <a class="hero-button" href="./site/posts/fx-2026-04-13.html">最新記事を読む</a>
+          <span class="hero-note">毎日更新 / AI要約 / 市場整理</span>
         </div>
       </div>
     </section>
@@ -318,13 +348,38 @@
       <div class="section-header">
         <div>
           <h2 class="section-title">最新記事一覧</h2>
-          <p class="section-subtitle">新しい記事から順番に表示しています。</p>
+          <p class="section-subtitle">FX と CRYPTO の記事を新しい順に表示しています。</p>
         </div>
       </div>
       <div class="card-grid">
       
         <article class="article-card">
-          <div class="card-meta">2026-04-13</div>
+          <div class="card-meta-row">
+            <span class="card-badge card-badge-fx">FX</span>
+            <span class="card-meta">2026-04-13</span>
+          </div>
+          <a href="./site/posts/fx-2026-04-13.html" class="card-title">USD/JPYと地政学に影響される市場構造分析</a>
+          <p class="card-description">USD/JPYの動向や地政学リスクが市場に与える影響を解説。金利やインフレ懸念が相場をどう変えるかを探る。</p>
+          <div class="card-link-wrap">
+            <a href="./site/posts/fx-2026-04-13.html" class="card-link">記事を読む →</a>
+          </div>
+        </article>
+        <article class="article-card">
+          <div class="card-meta-row">
+            <span class="card-badge card-badge-crypto">CRYPTO</span>
+            <span class="card-meta">2026-04-13</span>
+          </div>
+          <a href="./site/posts/crypto-2026-04-13.html" class="card-title">暗号資産市場の動向と注目プロジェクトの進捗</a>
+          <p class="card-description">主要コインの動向や個別プロジェクトの進捗を分析し、今後の市場テーマを探ります。</p>
+          <div class="card-link-wrap">
+            <a href="./site/posts/crypto-2026-04-13.html" class="card-link">記事を読む →</a>
+          </div>
+        </article>
+        <article class="article-card">
+          <div class="card-meta-row">
+            <span class="card-badge card-badge-2026">OTHER</span>
+            <span class="card-meta">04-13</span>
+          </div>
           <a href="./site/posts/2026-04-13.html" class="card-title">USD/JPYとBTCの相場構造分析</a>
           <p class="card-description">USD/JPYとBTCの相場構造を解説。地政学リスクやドルの動向が影響する中での市場の流れを考察します。</p>
           <div class="card-link-wrap">
@@ -335,7 +390,7 @@
     </section>
 
     <footer class="footer">
-      <p><strong>Macro Daily</strong>｜FX・BTC・マクロ市場のデイリーまとめ</p>
+      <p><strong>Macro Daily</strong>｜FX・暗号資産・マクロ市場のデイリーまとめ</p>
     </footer>
   </div>
 </body>

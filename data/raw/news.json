@@ -2,6 +2,27 @@
   {
     "source": "FXStreet",
     "category": "fx",
+    "title": "USD/JPY Price Forecast: Strength beyond 160.00 awaited amid bullish technical setup",
+    "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-strength-beyond-16000-awaited-amid-bullish-technical-setup-202604130233",
+    "pubDate": "Mon, 13 Apr 2026 02:33:25 Z"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "title": "EUR/JPY holds losses near 186.50 as US–Iran talks fail",
+    "link": "https://www.fxstreet.com/news/eur-jpy-holds-losses-near-18650-as-us-iran-talks-fail-202604130220",
+    "pubDate": "Mon, 13 Apr 2026 02:20:15 Z"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "title": "USD/CHF holds gains near 0.7925 as failed US-Iran talks and inflation fears support USD",
+    "link": "https://www.fxstreet.com/news/usd-chf-holds-gains-near-07925-as-failed-us-iran-talks-and-inflation-fears-support-usd-202604130153",
+    "pubDate": "Mon, 13 Apr 2026 01:53:36 Z"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
     "title": "PBOC sets USD/CNY reference rate at 6.8657 vs. 6.8654 previous",
     "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-68657-vs-68654-previous-202604130115",
     "pubDate": "Mon, 13 Apr 2026 01:15:31 Z"
@@ -61,27 +82,6 @@
     "title": "Canadian Dollar falls further as USD haven demand counters WTI surge ",
     "link": "https://www.fxstreet.com/news/canadian-dollar-falls-further-as-usd-haven-demand-counters-wti-surge-202604122346",
     "pubDate": "Sun, 12 Apr 2026 23:46:18 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "title": "Pound Sterling declines as Hormuz blockade fears lift risk-off mood",
-    "link": "https://www.fxstreet.com/news/pound-sterling-declines-as-hormuz-blockade-fears-lift-risk-off-mood-202604122326",
-    "pubDate": "Sun, 12 Apr 2026 23:26:56 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "title": "WTI jumps roughly 8% toward $100 as US blockades Strait of Hormuz",
-    "link": "https://www.fxstreet.com/news/wti-jumps-roughly-8-toward-100-as-us-blockades-strait-of-hormuz-202604122314",
-    "pubDate": "Sun, 12 Apr 2026 23:14:30 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "title": "Japanese Yen falls as US Dollar rises after US–Iran talks collapse",
-    "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-dollar-rises-after-us-iran-talks-collapse-202604122304",
-    "pubDate": "Sun, 12 Apr 2026 23:04:21 Z"
   },
   {
     "source": "CoinDesk",
@@ -379,7 +379,7 @@
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Week in Focus: US-Iran Talks, Earnings Season, PPI and Chinese GDP",
     "link": "https://www.investing.com/analysis/week-in-focus-usiran-talks-earnings-season-ppi-and-chinese-gdp-200678229",
     "pubDate": "Apr 10, 2026 13:25 GMT"
@@ -393,7 +393,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "G10 Currency Consolidation Looks Constructive, but the Weekend Poses Risks",
     "link": "https://www.investing.com/analysis/g10-currency-consolidation-looks-constructive-but-the-weekend-poses-risks-200678220",
     "pubDate": "Apr 10, 2026 11:02 GMT"
@@ -421,7 +421,7 @@
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "US Dollar Is Seeking a Foothold",
     "link": "https://www.investing.com/analysis/us-dollar-is-seeking-a-foothold-200678216",
     "pubDate": "Apr 10, 2026 09:39 GMT"
@@ -435,7 +435,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "USD/JPY: Yen Fared Better, but Energy Rally Not Over",
     "link": "https://www.investing.com/analysis/usdjpy-yen-fared-better-but-energy-rally-not-over-200678213",
     "pubDate": "Apr 10, 2026 08:50 GMT"
@@ -456,7 +456,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "FX Outlook: First Inflation Test",
     "link": "https://www.investing.com/analysis/fx-outlook-first-inflation-test-200678205",
     "pubDate": "Apr 10, 2026 07:14 GMT"
@@ -477,7 +477,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "USD/CAD Outlook: Data Collision at the 200DMA After Bull Trend Break",
     "link": "https://www.investing.com/analysis/usdcad-outlook-data-collision-at-the-200dma-after-bull-trend-break-200678198",
     "pubDate": "Apr 10, 2026 06:08 GMT"
@@ -491,7 +491,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "AUD/USD, NZD/USD Outlook: Stealth Yuan Strength Fuels Break Higher",
     "link": "https://www.investing.com/analysis/audusd-nzdusd-outlook-stealth-yuan-strength-fuels-break-higher-200678191",
     "pubDate": "Apr 10, 2026 05:06 GMT"
@@ -505,7 +505,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "A Playbook for the Currency Opportunity in Today’s Market",
     "link": "https://www.investing.com/analysis/a-playbook-for-the-currency-opportunity-in-todays-market-200678183",
     "pubDate": "Apr 09, 2026 21:12 GMT"
@@ -526,7 +526,7 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "GBP/USD: 5th Wave On Deck",
     "link": "https://www.investing.com/analysis/gbpusd-5th-wave-on-deck-200678154",
     "pubDate": "Apr 09, 2026 12:43 GMT"
@@ -540,28 +540,28 @@
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "FX Outlook: Rough Start to Ceasefire Curbs Enthusiasm",
     "link": "https://www.investing.com/analysis/fx-outlook-rough-start-to-ceasefire-curbs-enthusiasm-200678147",
     "pubDate": "Apr 09, 2026 11:19 GMT"
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "US Dollar Stabilizes as Ceasefire Fragility Returns to Focus",
     "link": "https://www.investing.com/analysis/us-dollar-stabilizes-as-ceasefire-fragility-returns-to-focus-200678125",
     "pubDate": "Apr 09, 2026 08:15 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Pentagon Labels Anthropic a National Security Risk as Court Fight Deepens",
     "link": "https://www.investing.com/analysis/pentagon-labels-anthropic-a-national-security-risk-as-court-fight-deepens-200678123",
     "pubDate": "Apr 09, 2026 08:11 GMT"
   },
   {
     "source": "Investing",
-    "category": "forex",
+    "category": "fx",
     "title": "EUR/USD on the Plus Side: Middle East Truce Proves Fragile",
     "link": "https://www.investing.com/analysis/eurusd-on-the-plus-side-middle-east-truce-proves-fragile-200678122",
     "pubDate": "Apr 09, 2026 08:03 GMT"
@@ -596,42 +596,42 @@
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Geopolitical U-Turn Drives Market Repricing Across Oil, Gold and Stocks",
     "link": "https://www.investing.com/analysis/geopolitical-uturn-drives-market-repricing-across-oil-gold-and-stocks-200678040",
     "pubDate": "Apr 08, 2026 07:42 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Central Banks Risk Making a Mistake",
     "link": "https://www.investing.com/analysis/central-banks-risk-making-a-mistake-200677983",
     "pubDate": "Apr 07, 2026 12:05 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "US Labor Market Strength Supports US Dollar Despite Slower Job Growth",
     "link": "https://www.investing.com/analysis/us-labor-market-strength-supports-us-dollar-despite-slower-job-growth-200677898",
     "pubDate": "Apr 06, 2026 10:10 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Week In Focus: Trump’s Iran deadline, CPI, PCE, ISM Services PMI, FOMC Minutes",
     "link": "https://www.investing.com/analysis/week-in-focus-trumps-iran-deadline-cpi-pce-ism-services-pmi-fomc-minutes-200677778",
     "pubDate": "Apr 02, 2026 12:54 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Dollar Trapped in Consolidation Ahead of NFP and Easter Holidays",
     "link": "https://www.investing.com/analysis/dollar-trapped-in-consolidation-ahead-of-nfp-and-easter-holidays-200677764",
     "pubDate": "Apr 02, 2026 09:21 GMT"
   },
   {
     "source": "Investing",
-    "category": "macro_fundamental",
+    "category": "macro",
     "title": "Oil Rises and Gold Falls as Markets React to Iran Tensions",
     "link": "https://www.investing.com/analysis/oil-rises-and-gold-falls-as-markets-react-to-iran-tensions-200677581",
     "pubDate": "Mar 31, 2026 09:39 GMT"

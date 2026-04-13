@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場の動向と注目プロジェクトの進捗</title>
+  <meta name="description" content="主要コインの動向や個別プロジェクトの進捗を分析し、今後の市場テーマを探ります。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/macro-daily/site/posts/crypto-2026-04-13.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場の動向と注目プロジェクトの進捗" />
+  <meta property="og:description" content="主要コインの動向や個別プロジェクトの進捗を分析し、今後の市場テーマを探ります。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/macro-daily/site/posts/crypto-2026-04-13.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場の動向と注目プロジェクトの進捗","description":"主要コインの動向や個別プロジェクトの進捗を分析し、今後の市場テーマを探ります。","datePublished":"2026-04-13","dateModified":"2026-04-13","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/macro-daily/site/posts/crypto-2026-04-13.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場の動向と注目プロジェクトの進捗</h1>
+        <p>主要コインの動向や個別プロジェクトの進捗を分析し、今後の市場テーマを探ります。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-04-13 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinDesk / FXStreet / Investingのニュースをもとに整理しています。</div>
+      <h2>1. 1分で読める結論</h2>
+今日の暗号資産市場は、地政学的リスクが影響しつつもビットコインは安定した基盤を形成している。特にイラン戦争に関連した影響が強く、アルトコイン市場も注目の動きが見られる。</p><h2>2. 今日の暗号資産市場の地合い</h2>
+ビットコイン（BTC）は、地政学的な不安定さにもかかわらず、65,000ドル付近で底を固めていると見られ、投資家の間で安定感が増している。一方、イーサリアム（ETH）やソラナ（SOL）は、特にデリバティブ市場の動きが強く、選別的な資金流入が見られる。市場全体はリスクオンの姿勢が見えるが、特定のテーマ物色が進行中である。</p><h2>3. 今日の主要トピック3つ</h2>
+1. <strong>CFTCの規制権限主張</strong>  
+   CFTCのマイク・セリグ議長が予測市場における独自の規制権限を主張。これは、特にデリバティブ市場における規制の明確化につながる可能性があり、投資家の信頼感に影響を与える。</p><p>2. <strong>ビットコインの基盤形成</strong>  
+   ビットコインが65,000ドルで基盤を形成しているとされ、「ペーパーハンド」が排除されたことが強調されている。この動きは、より強固な投資家層が形成される可能性を示唆する。</p><p>3. <strong>デフィ市場のストレステスト</strong>  
+   DeFi市場の現状はストレステストとされており、今後の成長に向けた試金石となる可能性がある。特に、流動性の流出が続く中、どのプロジェクトが生き残るかが注目される。</p><h2>4. メインコインの整理</h2>
+<ul><li><strong>ビットコイン（BTC）</strong>: 65,000ドル付近で安定。地政学リスクの影響を受けつつも、底堅い動きが続く。</li>
+<li><strong>イーサリアム（ETH）</strong>: デリバティブ市場の需要が高まり、価格上昇が見られる。特に米国とイランの停戦後、関心が集まっている。</li>
+<li><strong>ソラナ（SOL）</strong>: 新機能の導入が進んでおり、エコシステムの拡大が期待される。一方で、流動性の確保が課題。</li></p><h2>5. 個別プロジェクトの進捗</h2>
+<li><strong>トロン（TRX）</strong>: ジャスティン・サンがトランプ支援のWLFIに対し厳しい批判を展開。これにより、トロンの透明性向上への期待が高まる。</li>
+<li><strong>テザー（USDT）</strong>: テザーに関連したスーパーPACが広告購入を行い、暗号資産市場における影響力の強化が図られている。</li>
+<li><strong>デフィ市場全体</strong>: 競争が激化しており、特に流動性の低下が見られるプロジェクトには注意が必要。これにより、持続可能なモデルを持つプロジェクトの選別が進む可能性がある。</li></p><h2>6. 今日の要約から見える示唆</h2>
+今日の市場では、地政学的リスクが強く影響しているものの、ビットコインが底を固めることで、アルトコイン市場への選別的な資金流入が期待される。今後、どのプロジェクトが持続可能な成長を遂げるかが注目される。</p><h2>7. 次に確認すべきこと</h2>
+<li>米国とイランの情勢進展を常にチェックすること。</li>
+<li>CFTCの規制関連の動きを追う。</li>
+<li>DeFi市場における流動性の変化を監視し、強いプロジェクトを見極める。</li>
+<li>特定のテーマに注目し、資金流入先を分析する。</li></ul><h2>8. 今日の結論</h2>
+暗号資産市場は地政学的リスクの中で安定感を見せている。今後のトレンドは、選別的な資金流入と個別プロジェクトの持続可能性にかかっている。</p>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinDesk / FXStreet / Investing</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto （CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] DeFi’s shakeout is a stress test, not a death sentence（CoinDesk / crypto） - <a href="https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Oil futures up 7% on Hyperliquid as Trump orders Naval blockade of Hormuz（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Market makers are fleeing public blockchains to protect their secret trading playbooks（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/12/market-makers-are-fleeing-public-blockchains-to-protect-their-secret-trading-playbooks" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Bitcoin analysts flag triggers for a massive surge to $88,000 even as war risks linger（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] Tron’s Justin Sun slams Trump-backed WLFI for treating users as ‘personal ATM’ after $75 Million DeFi loan（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/04/12/tron-s-justin-sun-slams-trump-backed-wlfi-for-treating-users-as-personal-atm-after-usd75-million-defi-loan" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Government officials, crypto leaders rally behind CLARITY Act passage ahead of Congress's resumption（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/government-officials-crypto-leaders-rally-behind-clarity-act-passage-ahead-of-congresss-resumption-202604110615" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Bitcoin Stalls Below $73,107 Resistance as Momentum Shows Early Fatigue（Investing / crypto） - <a href="https://www.investing.com/analysis/bitcoin-stalls-below-73107-resistance-as-momentum-shows-early-fatigue-200678261" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] World Liberty Financial rebuts WLFI Markets' lending concerns amid rising scrutiny（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/world-liberty-financial-rebuts-wlfi-markets-lending-concerns-amid-rising-scrutiny-202604102219" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] Chainlink Price Forecast: LINK breakout in focus, but 50-day EMA remains a hurdle（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/chainlink-price-forecast-link-breakout-in-focus-but-50-day-ema-remains-a-hurdle-202604101612" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
