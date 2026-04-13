@@ -15,9 +15,9 @@ const feeds = [
   // FX / Macro
   { source: "FXStreet", category: "fx", url: "https://www.fxstreet.com/rss/news" },
   { source: "FXStreet", category: "fx_analysis", url: "https://www.fxstreet.com/rss/analysis" },
-  { source: "Investing", category: "forex", url: "https://www.investing.com/rss/forex.rss" },
+  { source: "Investing", category: "fx", url: "https://www.investing.com/rss/forex.rss" },
   { source: "Investing", category: "macro", url: "https://www.investing.com/rss/market_overview.rss" },
-  { source: "Investing", category: "macro_fundamental", url: "https://www.investing.com/rss/market_overview_Fundamental.rss" },
+  { source: "Investing", category: "macro", url: "https://www.investing.com/rss/market_overview_Fundamental.rss" },
 
   // Stocks / Risk sentiment
   { source: "FXStreet", category: "stocks", url: "https://www.fxstreet.com/rss/stocks" },
