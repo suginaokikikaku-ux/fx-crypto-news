@@ -1,6 +1,7 @@
 import "dotenv/config";
 import fs from "fs";
 import path from "path";
+import { knowledgePages } from "./knowledge_pages_manifest.js";
 
 const postsDir = path.join("posts");
 const indexPath = "index.html";
@@ -10,7 +11,9 @@ const robotsPath = "robots.txt";
 const heroImageRelativePath = "site/assets/img/hero.jpg";
 const heroImageFsPath = path.join("site", "assets", "img", "hero.jpg");
 
-const siteUrl = (process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily").replace(/\/$/, "");
+const siteUrl = (
+  process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily"
+).replace(/\/$/, "");
 
 if (!fs.existsSync(postsDir)) {
   console.error("posts がありません。先に build を実行してください。");
@@ -18,7 +21,7 @@ if (!fs.existsSync(postsDir)) {
 }
 
 function escapeHtml(str = "") {
-  return str
+  return String(str)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
@@ -66,7 +69,7 @@ function readPostMeta(file) {
     relativeUrl: `./posts/${file}`,
     fullUrl: `${siteUrl}/posts/${file}`,
     title: seoTitle,
-    description: seoDescription
+    description: seoDescription,
   };
 }
 
@@ -103,6 +106,7 @@ function buildSection(title, subtitle, posts, emptyText) {
   `;
 }
 
+// ===== 記事一覧 =====
 const postFiles = fs
   .readdirSync(postsDir)
   .filter((file) => file.endsWith(".html"))
@@ -116,6 +120,15 @@ const cryptoPosts = posts.filter((post) => post.type === "crypto");
 const latestFx = fxPosts[0] || null;
 const latestCrypto = cryptoPosts[0] || null;
 const latestPost = posts[0] || null;
+
+// ===== 基礎知識ページ集計 =====
+const basicsStats = {
+  total: knowledgePages.length,
+  fx: knowledgePages.filter((p) => p.section === "fx").length,
+  crypto: knowledgePages.filter((p) => p.section === "crypto").length,
+  common: knowledgePages.filter((p) => p.section === "common").length,
+  guide: knowledgePages.filter((p) => p.section === "guide").length,
+};
 
 const heroImageExists = fs.existsSync(heroImageFsPath);
 
@@ -142,45 +155,51 @@ const basicsCards = `
     <div class="section-header">
       <div>
         <h2 class="section-title">初心者向けガイド</h2>
-        <p class="section-subtitle">基礎知識がない人向けに、最初に読むべきページをまとめています。</p>
+        <p class="section-subtitle">
+          基礎知識ページは全 ${basicsStats.total} ページです。
+          FX ${basicsStats.fx} / Crypto ${basicsStats.crypto} / 共通 ${basicsStats.common} / ガイド ${basicsStats.guide}
+        </p>
       </div>
     </div>
 
     <div class="guide-grid">
-      <a class="guide-card" href="./basics/fx/what-is-fx.html">
-        <span class="guide-badge">FX基礎</span>
-        <h3>FXとは？</h3>
-        <p>為替、ドル円、レバレッジの基本を初心者向けに整理。</p>
-      </a>
-
-      <a class="guide-card" href="./basics/fx/what-moves-fx.html">
-        <span class="guide-badge">FX基礎</span>
-        <h3>なぜ為替は動くのか</h3>
-        <p>金利、経済指標、リスクオンオフの基本を理解するページ。</p>
-      </a>
-
-      <a class="guide-card" href="./basics/crypto/what-is-crypto.html">
-        <span class="guide-badge">暗号資産基礎</span>
-        <h3>暗号通貨とは？</h3>
-        <p>ビットコイン、アルトコイン、ブロックチェーンの入口。</p>
-      </a>
-
-      <a class="guide-card" href="./basics/crypto/how-to-read-projects.html">
-        <span class="guide-badge">暗号資産基礎</span>
-        <h3>プロジェクトの見方</h3>
-        <p>進捗、提携、ユーザー数、テーマ性の読み方を整理。</p>
-      </a>
-
-      <a class="guide-card" href="./basics/start/how-to-start.html">
-        <span class="guide-badge">導入</span>
-        <h3>学習から導入までの流れ</h3>
-        <p>基礎学習 → 情報収集 → 比較 → 導入までの全体像を整理。</p>
-      </a>
-
       <a class="guide-card" href="./basics/index.html">
         <span class="guide-badge">一覧</span>
         <h3>基礎知識ページ一覧</h3>
-        <p>初心者向けの固定ページをまとめて確認できます。</p>
+        <p>
+          全 ${basicsStats.total} ページの学習コンテンツを一覧で確認できます。
+          FX ${basicsStats.fx} / Crypto ${basicsStats.crypto}
+        </p>
+      </a>
+
+      <a class="guide-card" href="./basics/fx/what-is-fx.html">
+        <span class="guide-badge">FX</span>
+        <h3>FX学習スタート</h3>
+        <p>FXの基礎からニュースの読み方まで学べます（${basicsStats.fx}ページ）</p>
+      </a>
+
+      <a class="guide-card" href="./basics/crypto/what-is-crypto.html">
+        <span class="guide-badge">CRYPTO</span>
+        <h3>暗号資産学習スタート</h3>
+        <p>暗号資産の基礎からテーマ理解まで学べます（${basicsStats.crypto}ページ）</p>
+      </a>
+
+      <a class="guide-card" href="./basics/common/how-to-read-news.html">
+        <span class="guide-badge">共通</span>
+        <h3>共通知識を学ぶ</h3>
+        <p>ニュースの読み方やリスク管理など、両市場に共通する土台を整理しています。</p>
+      </a>
+
+      <a class="guide-card" href="./basics/guides/study-roadmap.html">
+        <span class="guide-badge">ガイド</span>
+        <h3>学習ロードマップ</h3>
+        <p>初心者が何から学ぶべきかを順番で確認できます。</p>
+      </a>
+
+      <a class="guide-card" href="./basics/guides/best-fx-brokers.html">
+        <span class="guide-badge">実用</span>
+        <h3>導入前の実用ガイド</h3>
+        <p>口座・取引所・ウォレットなど、学習の次に確認したい実用テーマをまとめています。</p>
       </a>
     </div>
   </section>
