@@ -3,12 +3,12 @@ import fs from "fs";
 import path from "path";
 
 const siteDir = "site";
-const postsDir = "posts";
+const postsDir = path.join(siteDir, "posts");
 const indexPath = "index.html";
 const sitemapPath = "sitemap.xml";
 const robotsPath = "robots.txt";
 
-const heroImageRelativePath = "assets/img/hero.jpg";
+const heroImageRelativePath = "site/assets/img/hero.jpg";
 const heroImageFsPath = path.join(siteDir, "assets", "img", "hero.jpg");
 
 const siteUrl = (process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily").replace(/\/$/, "");
@@ -53,8 +53,8 @@ const posts = postFiles.map((file) => {
   return {
     date,
     file,
-    relativeUrl: `./posts/${file}`,
-    fullUrl: `${siteUrl}/posts/${file}`,
+    relativeUrl: `./site/posts/${file}`,
+    fullUrl: `${siteUrl}/site/posts/${file}`,
     title: seoTitle,
     description: seoDescription
   };
