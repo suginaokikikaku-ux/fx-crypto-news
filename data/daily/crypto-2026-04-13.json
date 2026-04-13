@@ -1,0 +1,190 @@
+{
+  "type": "crypto",
+  "date": "2026-04-13",
+  "seoTitle": "暗号資産市場の最新動向と主要プロジェクト進捗",
+  "seoDescription": "暗号資産市場の地合いや主要コインの状態、注目プロジェクトの進捗を整理し、今後の確認ポイントを解説します。",
+  "article": "## 1. 1分で読める結論\n今日の暗号資産市場は、リスクオフの雰囲気が漂っており、特にビットコイン（BTC）が$71,000を下回る動きを見せています。トランプ大統領によるホルムズ海峡の封鎖命令が影響し、全体的に市場は慎重な姿勢です。\n\n## 2. 今日の暗号資産市場の地合い\n現在の市場はリスクオフの傾向が強く、ビットコインは$71,000を下回り、主要コイン全体に下押し圧力がかかっています。市場は選別相場の様相を呈しており、特にビットコインの動向が注目されています。\n\n## 3. 今日の主要トピック3つ\n1. **トランプ大統領のホルムズ海峡封鎖命令**  \n   - **何が起きたか**: トランプ大統領がホルムズ海峡での封鎖を命じ、地政学的リスクが高まっている。  \n   - **なぜ重要か**: これにより原油価格が上昇し、暗号資産市場にも影響を及ぼす可能性がある。  \n   - **どこに波及するか**: 投資家のリスク回避姿勢が強まり、暗号資産からの資金流出が懸念される。\n\n2. **ビットコインが$71,000を下回る**  \n   - **何が起きたか**: ビットコインが$71,000を下回り、強気のシナリオが後退。  \n   - **なぜ重要か**: 価格が下落することで、投資家の心理に悪影響を及ぼす可能性がある。  \n   - **どこに波及するか**: アルトコインにも影響が及ぶ可能性があり、全体的な市場のボラティリティが増加する。\n\n3. **WLFIがジャスティン・サンに対して法的措置を検討**  \n   - **何が起きたか**: WLFIがジャスティン・サンに対し、DeFi取引の虚偽を理由に法的措置を取る可能性があると発表。  \n   - **なぜ重要か**: これはDeFi市場の信頼性に疑問を投げかける。  \n   - **どこに波及するか**: DeFiプロジェクト全体の規制強化や投資家の警戒感が高まる可能性がある。\n\n## 4. メインコインの整理\n- **ビットコイン（BTC）**: 現在$71,000を下回り、リスクオフの影響を受けている。\n- **イーサリアム（ETH）**: ビットコインに連動して下落傾向。\n- **ソラナ（SOL）**: 相対的に価格の安定性を保っているが、全体的な市場の影響を受けている。\n- **XRP**: 法的問題が継続しており、ボラティリティが高い。\n\n## 5. 個別プロジェクトの進捗\n- **WLFI**: ジャスティン・サンとの法的対立が浮上し、DeFi市場の信頼性に影響を与える可能性がある。\n- **トランプ関連プロジェクト**: 政治的な影響が暗号資産市場に波及している。\n- **Bitwise**: HYPE現物ETFの修正届出書をSECに提出し、規制の進展が期待される。\n\n## 6. 今日の要約から見える示唆\n市場全体がリスクオフの雰囲気であり、特にビットコインの価格動向が重要な指標となっている。トランプ大統領の動きが市場に影響を与えており、投資家は慎重な姿勢を維持している。\n\n## 7. 次に確認すべきこと\n- ビットコインの価格動向を引き続きウォッチし、$70,000のサポートラインの維持状況を確認する。\n- WLFIとジャスティン・サンの法的問題の進展を追う。\n- DeFi市場の規制動向や新たなプロジェクトの動きを注視する。\n\n## 8. 今日の結論\n暗号資産市場はリスクオフの状況が続いており、特にビットコインの動向が注目される。市場参加者は慎重な姿勢を保ちながら、今後の展開を見守る必要がある。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinDesk Japan"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "markets": [
+      "global",
+      "jp"
+    ],
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "newsCount": 15,
+    "sourceBalance": {
+      "marketStats": {
+        "global": 9,
+        "jp": 6
+      },
+      "categoryStats": {
+        "crypto": 15
+      },
+      "sourceStats": {
+        "CoinDesk": 9,
+        "CoinDesk Japan": 6
+      }
+    }
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "WLFI threatens legal action against Justin Sun after he accuses Trump-linked project of deceptive DeFi deals",
+      "link": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates",
+      "pubDate": "Mon, 13 Apr 2026 05:56:30 +0000",
+      "contentSnippet": "Trump-backed crypto project says it has ‘contracts’ and ‘evidence’ after Sun accused it of exploiting users."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin hits a wall – the chart just challenged the $88,000 bull case",
+      "link": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hits-a-wall-the-chart-just-delayed-the-bull-case",
+      "pubDate": "Mon, 13 Apr 2026 05:44:04 +0000",
+      "contentSnippet": "The price action is sending a clear warning signal that analysts' optimism may be running ahead of itself."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy signals another bitcoin buy as company needs just 2% annual BTC growth to cover dividends",
+      "link": "https://www.coindesk.com/markets/2026/04/13/strategy-signals-another-bitcoin-buy-as-company-needs-just-2-annual-btc-growth-to-cover-dividends",
+      "pubDate": "Mon, 13 Apr 2026 05:01:51 +0000",
+      "contentSnippet": "The company bought nearly three times more bitcoin than miners produced in March and is signaling it isn't done, even as its holdings remain billions underwater."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
+      "pubDate": "Sun, 12 Apr 2026 18:00:00 +0000",
+      "contentSnippet": "Selig said states do not have the ability to police prediction market providers, echoing his agency's stance as it pursues court cases to cement its authority."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "DeFi’s shakeout is a stress test, not a death sentence",
+      "link": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
+      "pubDate": "Sun, 12 Apr 2026 17:30:00 +0000",
+      "contentSnippet": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out",
+      "link": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
+      "contentSnippet": "Jurrien Timmer, director of global macro at Fidelity Investments, says strong earnings are helping markets absorb geopolitical shocks, despite ongoing risks."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Oil futures up 7% on Hyperliquid as Trump orders Naval blockade of Hormuz",
+      "link": "https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz",
+      "pubDate": "Sun, 12 Apr 2026 14:16:28 +0000",
+      "contentSnippet": "Oil prices spiked on the Hyperliquid platform after President Donald Trump ordered a naval blockade of the Strait of Hormuz"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Market makers are fleeing public blockchains to protect their secret trading playbooks",
+      "link": "https://www.coindesk.com/markets/2026/04/12/market-makers-are-fleeing-public-blockchains-to-protect-their-secret-trading-playbooks",
+      "pubDate": "Sun, 12 Apr 2026 14:00:00 +0000",
+      "contentSnippet": "Crypto trading is almost entirely public. One startup thinks it has borrowed an idea from Wall Street that could change that."
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz",
+      "link": "https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz",
+      "pubDate": "Sun, 12 Apr 2026 13:46:02 +0000",
+      "contentSnippet": "\"Effective immediately, the United States Navy ... will begin the process of blockading any and all ships trying to enter, or leave, the Strait of Hormuz,\" said the president in a social media post."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "マイニングとAIは正反対の道を歩む可能性がある",
+      "link": "https://www.nadanews.com/344411/",
+      "pubDate": "Mon, 13 Apr 2026 06:15:00 +0000",
+      "contentSnippet": "Galaxy Research（ギャラクシー・リサーチ）のAlex Thorn（アレックス・ソーン）氏は、ビットコイン（BTC）のマイニングとAIが対照的な発展 ...\nマイニングとAIは正反対の道を歩む可能性がある first appeared on NADA NEWS（ナダ・ニュース）."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Strategyのセイラー氏、ビットコインの追加購入を示唆",
+      "link": "https://www.nadanews.com/344391/",
+      "pubDate": "Mon, 13 Apr 2026 06:00:00 +0000",
+      "contentSnippet": "Strategy（ストラテジー）の共同創業者兼エグゼクティブ・チェアマンであるMichael Saylor（マイケル・セイラー）氏が、ビットコイン（BTC）の追 ...\nStrategyのセイラー氏、ビットコインの追加購入を示唆 first appeared on NADA NEWS（ナダ・ニュース）."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米イラン協議決裂・ホルムズ逆封鎖でもビットコインは下げ渋る【楽天ウォレットDaily Report】",
+      "link": "https://www.nadanews.com/344392/",
+      "pubDate": "Mon, 13 Apr 2026 05:43:04 +0000",
+      "contentSnippet": "ポイント ・7.3万ドルまで上昇後、7.1万ドル台に失速・米イラン協議決裂とホルムズ海峡逆封鎖でリスクオフ・トランプの逆封鎖は核放棄に向けた交渉材料強化・イラン ...\n米イラン協議決裂・ホルムズ逆封鎖でもビットコインは下げ渋る【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "NFTチケット、宿泊権、海外展開──非金融領域でも進むオンチェーン活用の実例【N.Avenue club Summit企業発表会 Part2】",
+      "link": "https://www.nadanews.com/341784/",
+      "pubDate": "Mon, 13 Apr 2026 04:00:00 +0000",
+      "contentSnippet": "NADA NEWSを運営するN.Avenueは、Web3をリサーチ・推進する企業リーダーを中心とした、国内最大の法人会員制Web3ビジネスコミュニティ「N.Av ...\nNFTチケット、宿泊権、海外展開──非金融領域でも進むオンチェーン活用の実例【N.Avenue club Summit企業発表会 Part2】 first appeared on NADA NEWS（ナダ・ニュース）."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Bitwise、HYPE現物ETFの第2次修正届出書をSECに提出",
+      "link": "https://www.nadanews.com/344386/",
+      "pubDate": "Mon, 13 Apr 2026 02:45:00 +0000",
+      "contentSnippet": "暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）は4月10日、永久先物に特化した分散型取引所（DEX）Hyperliquid（ハイパーリキッド）のネイ ...\nBitwise、HYPE現物ETFの第2次修正届出書をSECに提出 first appeared on NADA NEWS（ナダ・ニュース）."
+    },
+    {
+      "source": "CoinDesk Japan",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】",
+      "link": "https://www.nadanews.com/341781/",
+      "pubDate": "Mon, 13 Apr 2026 01:00:00 +0000",
+      "contentSnippet": "年に1回、Web3やブロックチェーン領域の最前線を走る企業が集結し、コミュニティ内の共創を促進するイベント「N.Avenue club Summit」が3月19 ...\n家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】 first appeared on NADA NEWS（ナダ・ニュース）."
+    }
+  ]
+}

@@ -1,639 +1,1212 @@
 [
   {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "マイニングとAIは正反対の道を歩む可能性がある",
+    "link": "https://www.nadanews.com/344411/",
+    "pubDate": "Mon, 13 Apr 2026 06:15:00 +0000",
+    "contentSnippet": "Galaxy Research（ギャラクシー・リサーチ）のAlex Thorn（アレックス・ソーン）氏は、ビットコイン（BTC）のマイニングとAIが対照的な発展 ...\nマイニングとAIは正反対の道を歩む可能性がある first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "韓国銀行、約62万ビットコイン誤配布受け仮想通貨にサーキットブレーカー導入を提言",
+    "link": "https://coinpost.jp/?p=701538",
+    "pubDate": "Mon, 13 Apr 2026 15:00:41 +0900",
+    "contentSnippet": "韓国銀行が2025年決済報告書にて、ビッサム誤送金事件を受け仮想通貨取引所へのサーキットブレーカー導入や二重確認システム整備を提言した。"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Aave Price Forecast: “Aave Will Win” framework passes, fueling bullish sentiment",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/aave-price-forecast-aave-will-win-framework-passes-fueling-bullish-sentiment-202604130600",
+    "pubDate": "Mon, 13 Apr 2026 06:00:00 Z",
+    "contentSnippet": "Aave (AAVE) price surges by over 5% on Monday, trading above $94, erasing the previous week’s losses. The bullish sentiment is boosted following the announcement of approval of the “Aave Will Win” proposal on Sunday."
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Strategyのセイラー氏、ビットコインの追加購入を示唆",
+    "link": "https://www.nadanews.com/344391/",
+    "pubDate": "Mon, 13 Apr 2026 06:00:00 +0000",
+    "contentSnippet": "Strategy（ストラテジー）の共同創業者兼エグゼクティブ・チェアマンであるMichael Saylor（マイケル・セイラー）氏が、ビットコイン（BTC）の追 ...\nStrategyのセイラー氏、ビットコインの追加購入を示唆 first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "WLFI threatens legal action against Justin Sun after he accuses Trump-linked project of deceptive DeFi deals",
+    "link": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates",
+    "pubDate": "Mon, 13 Apr 2026 05:56:30 +0000",
+    "contentSnippet": "Trump-backed crypto project says it has ‘contracts’ and ‘evidence’ after Sun accused it of exploiting users."
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin hits a wall – the chart just challenged the $88,000 bull case",
+    "link": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hits-a-wall-the-chart-just-delayed-the-bull-case",
+    "pubDate": "Mon, 13 Apr 2026 05:44:04 +0000",
+    "contentSnippet": "The price action is sending a clear warning signal that analysts' optimism may be running ahead of itself."
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/INR starts the week strongly as US-Iran failed talks boost oil prices",
+    "link": "https://www.fxstreet.com/news/usd-inr-starts-the-week-strongly-as-us-iran-failed-talks-boost-oil-prices-202604130543",
+    "pubDate": "Mon, 13 Apr 2026 05:43:18 Z",
+    "contentSnippet": "The Indian Rupee (INR) falls sharply in the opening trade against the US Dollar (USD) at the start of the week."
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米イラン協議決裂・ホルムズ逆封鎖でもビットコインは下げ渋る【楽天ウォレットDaily Report】",
+    "link": "https://www.nadanews.com/344392/",
+    "pubDate": "Mon, 13 Apr 2026 05:43:04 +0000",
+    "contentSnippet": "ポイント ・7.3万ドルまで上昇後、7.1万ドル台に失速・米イラン協議決裂とホルムズ海峡逆封鎖でリスクオフ・トランプの逆封鎖は核放棄に向けた交渉材料強化・イラン ...\n米イラン協議決裂・ホルムズ逆封鎖でもビットコインは下げ渋る【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold sticks to intraday losses above $4,700; hawkish Fed bets underpin USD and cap gains",
+    "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-failed-us-iran-talks-and-hawkish-fed-bets-support-usd-202604130428",
+    "pubDate": "Mon, 13 Apr 2026 05:38:08 Z",
+    "contentSnippet": "Gold (XAU/USD) rebounds from the $4,633-$4,632 area, or a four-day trough touched during the Asian session on Monday, and fills a major part of the weekly bearish gap amid mixed cues."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Aave DAO、約40億円の助成金を正式承認　「Aave Will Win」で収益構造を刷新",
+    "link": "https://coinpost.jp/?p=701512",
+    "pubDate": "Mon, 13 Apr 2026 14:32:15 +0900",
+    "contentSnippet": "DeFiレンディング最大手AaveのDAOが、Aave Labsに対し約2,500万ドルの開発助成金を拠出することが75%の賛成で可決された。新戦略「Aave Will Win」のもと、すべてのAave製品収益をDAOトレジャリーへ集約する収益モデル転換へ向けての第一弾となる。一方、主要コントリビューターの相次ぐ離脱が課題として浮上している。"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Pound Sterling bounces off low; GBP/USD lacks follow-through beyond 1.3400 on firmer USD",
+    "link": "https://www.fxstreet.com/news/pound-sterling-bounces-off-low-gbp-usd-lacks-follow-through-beyond-13400-on-firmer-usd-202604130525",
+    "pubDate": "Mon, 13 Apr 2026 05:25:21 Z",
+    "contentSnippet": "The GBP/USD pair opens with a bearish gap at the start of a new week and, for now, seems to have snapped a five-day winning streak to its highest level since late February, around the 1.3485 region set last week."
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Solana Price Forecast: Downside pressure builds amid fading momentum",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/solana-price-forecast-downside-pressure-builds-amid-fading-momentum-202604130515",
+    "pubDate": "Mon, 13 Apr 2026 05:15:00 Z",
+    "contentSnippet": "Solana (SOL) is trading under pressure at around $80 at press time on Monday, after a 4% decline on Sunday, which aligned with the broader cryptocurrency market correction."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "韓国ゲーム大手ネクソン親会社、仮想通貨取引所事業から撤収　保有残高も15%超減",
+    "link": "https://coinpost.jp/?p=701521",
+    "pubDate": "Mon, 13 Apr 2026 14:09:07 +0900",
+    "contentSnippet": "ネクソン親会社NXCがビットスタンプをロビンフッドに約318億円で売却、コービット株も全量処分を決定。仮想通貨保有残高も前年比15%超減と、仮想通貨事業を大幅に縮小。"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US President Trump: Blockade on Iranian Ports to begin officially on April 13 at 10:00 A.M. ET",
+    "link": "https://www.fxstreet.com/news/us-president-trump-blockade-on-iranian-ports-to-begin-officially-on-april-13-at-10-00-am-et-202604130507",
+    "pubDate": "Mon, 13 Apr 2026 05:07:38 Z",
+    "contentSnippet": "United States (US) President Donald Trump confirms, through a post on Truth.Social, the blockade on ships entering to and exiting from Iranian ports will officially begin today, April 13, at 10:00 AM ET (14:00 GMT)."
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "AUD/JPY hovers around 112.50 after paring latest losses",
+    "link": "https://www.fxstreet.com/news/aud-jpy-hovers-around-11250-after-paring-latest-losses-202604130504",
+    "pubDate": "Mon, 13 Apr 2026 05:04:32 Z",
+    "contentSnippet": "AUD/JPY pares its daily losses but remains in the negative territory, trading around 112.40 during the Asian hours on Monday."
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Strategy signals another bitcoin buy as company needs just 2% annual BTC growth to cover dividends",
     "link": "https://www.coindesk.com/markets/2026/04/13/strategy-signals-another-bitcoin-buy-as-company-needs-just-2-annual-btc-growth-to-cover-dividends",
-    "pubDate": "Mon, 13 Apr 2026 05:01:51 +0000"
+    "pubDate": "Mon, 13 Apr 2026 05:01:51 +0000",
+    "contentSnippet": "The company bought nearly three times more bitcoin than miners produced in March and is signaling it isn't done, even as its holdings remain billions underwater."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "Canadian Dollar pares losses vs USD as rallying oil prices counter hawkish Fed bets",
     "link": "https://www.fxstreet.com/news/canadian-dollar-pares-losses-vs-usd-as-rallying-oil-prices-counter-hawkish-fed-bets-202604130446",
-    "pubDate": "Mon, 13 Apr 2026 04:46:13 Z"
+    "pubDate": "Mon, 13 Apr 2026 04:46:13 Z",
+    "contentSnippet": "The USD/CAD pair retreats a few pips from the Asian session high and currently trades around the 1.3860-1.3855 region, up around 0.15% for the day."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "India Gold price today: Gold falls, according to FXStreet data",
     "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202604130435",
-    "pubDate": "Mon, 13 Apr 2026 04:35:33 Z"
+    "pubDate": "Mon, 13 Apr 2026 04:35:33 Z",
+    "contentSnippet": "Gold prices fell in India on Monday, according to data compiled by FXStreet."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Cardano Price Forecast: ADA struggles as mixed signals cap upside momentum",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/cardano-price-forecast-ada-struggles-as-mixed-signals-cap-upside-momentum-202604130433",
-    "pubDate": "Mon, 13 Apr 2026 04:33:46 Z"
+    "pubDate": "Mon, 13 Apr 2026 04:33:46 Z",
+    "contentSnippet": "Cardano (ADA) price struggles on Monday, trading below $0.240 after falling 5.5% last week. Mixed signals with a slight bearish bias from the derivatives market, coupled with weakening momentum indicators, suggest a possibility of deeper losses in ADA this week."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "IPO準備中のスペースX、2025年に50億ドルの赤字　買収したxAIの設備投資が主因か＝報道",
+    "link": "https://coinpost.jp/?p=701461",
+    "pubDate": "Mon, 13 Apr 2026 13:24:31 +0900",
+    "contentSnippet": "イーロン・マスク率いるスペースXが2025年に約50億ドルの赤字を計上したと伝えられる。評価額1兆7500億ドルのIPOへの影響も注目される。"
   },
   {
     "source": "FXStreet",
     "category": "fx",
-    "title": "Gold bulls seem hesitant as failed US‑Iran talks and hawkish Fed bets support USD",
-    "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-failed-us-iran-talks-and-hawkish-fed-bets-support-usd-202604130428",
-    "pubDate": "Mon, 13 Apr 2026 04:28:50 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "Hungary election: A landslide win for Magyar’s Tisza party, ending Orban’s 16-year rule ",
     "link": "https://www.fxstreet.com/news/hungary-election-a-landslide-win-for-magyars-tisza-party-ending-orbans-16-year-rule-202604130423",
-    "pubDate": "Mon, 13 Apr 2026 04:23:23 Z"
+    "pubDate": "Mon, 13 Apr 2026 04:23:23 Z",
+    "contentSnippet": "In a parliamentary election in Hungary on Sunday, Péter Magyar, leader of the nation’s center-right opposition Tisza party, defeated veteran incumbent Prime Minister Viktor Orbán in a landslide victory."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "イラン交渉決裂、石油・ビットコイン・世界市場に再びボラティリティ",
+    "link": "https://coinpost.jp/?p=701373",
+    "pubDate": "Mon, 13 Apr 2026 13:00:19 +0900",
+    "contentSnippet": "イランと米国の停戦合意後も交渉が決裂し、原油・ビットコイン・株式市場に再び不透明感が広がっている。ホルムズ海峡の通航制限が続く中、各市場の動向を解説する。"
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "NFTチケット、宿泊権、海外展開──非金融領域でも進むオンチェーン活用の実例【N.Avenue club Summit企業発表会 Part2】",
+    "link": "https://www.nadanews.com/341784/",
+    "pubDate": "Mon, 13 Apr 2026 04:00:00 +0000",
+    "contentSnippet": "NADA NEWSを運営するN.Avenueは、Web3をリサーチ・推進する企業リーダーを中心とした、国内最大の法人会員制Web3ビジネスコミュニティ「N.Av ...\nNFTチケット、宿泊権、海外展開──非金融領域でも進むオンチェーン活用の実例【N.Avenue club Summit企業発表会 Part2】 first appeared on NADA NEWS（ナダ・ニュース）."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Crypto Overview: Bitcoin holds at $70,000 as the US blocks the Strait of Hormuz – WLD, NEAR, TON keep steady",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-overview-bitcoin-holds-at-70-000-as-the-us-blocks-the-strait-of-hormuz-wld-near-ton-keep-steady-202604130357",
-    "pubDate": "Mon, 13 Apr 2026 03:57:16 Z"
+    "pubDate": "Mon, 13 Apr 2026 03:57:16 Z",
+    "contentSnippet": "Bitcoin (BTC) trades above $70,000 at press time on Monday, buoyant above its 50-day Exponential Moving Average (EMA) after Sunday’s 3% decline."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "WTI Price Forecast: Rallies to $98 as Trump aims to blockade Hormuz",
     "link": "https://www.fxstreet.com/news/wti-price-forecast-rallies-to-98-as-trump-aims-to-blockade-hormuz-202604130328",
-    "pubDate": "Mon, 13 Apr 2026 03:28:20 Z"
+    "pubDate": "Mon, 13 Apr 2026 03:28:20 Z",
+    "contentSnippet": "West Texas Intermediate (WTI), futures on NYMEX, trade 7.6% higher to near $98.00 during the Asian trading session on Monday."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-50-day-ema-eth-and-xrp-hover-near-breakdown-levels-202604130321",
-    "pubDate": "Mon, 13 Apr 2026 03:21:49 Z"
+    "pubDate": "Mon, 13 Apr 2026 03:21:49 Z",
+    "contentSnippet": "Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week."
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "EUR/USD Weekly Forecast: Middle East ceasefire hangs by a thread ",
     "link": "https://www.fxstreet.com/analysis/eur-usd-weekly-forecast-middle-east-headlines-to-set-the-tone-202604101428",
-    "pubDate": "Mon, 13 Apr 2026 03:15:00 Z"
+    "pubDate": "Mon, 13 Apr 2026 03:15:00 Z",
+    "contentSnippet": "The EUR/USD pair came back to life this week, settling a handful of pips above the 1.1700 mark. Risk-on flows began late Tuesday, when United States (US) President Donald Trump withdrew his threat to destroy Iran."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "EUR/USD Price Forecast: Rebounds to near 1.1700 as bullish bias prevails",
     "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rebounds-to-near-11700-as-bullish-bias-prevails-202604130310",
-    "pubDate": "Mon, 13 Apr 2026 03:10:57 Z"
+    "pubDate": "Mon, 13 Apr 2026 03:10:57 Z",
+    "contentSnippet": "EUR/USD edges higher after opening at a gap down, trading around 1.1690 during the Asian hours on Monday. The daily chart technical analysis indicates a bullish bias, as the pair is rising within an ascending channel."
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Bitwise、HYPE現物ETFの第2次修正届出書をSECに提出",
+    "link": "https://www.nadanews.com/344386/",
+    "pubDate": "Mon, 13 Apr 2026 02:45:00 +0000",
+    "contentSnippet": "暗号資産（仮想通貨）運用会社Bitwise（ビットワイズ）は4月10日、永久先物に特化した分散型取引所（DEX）Hyperliquid（ハイパーリキッド）のネイ ...\nBitwise、HYPE現物ETFの第2次修正届出書をSECに提出 first appeared on NADA NEWS（ナダ・ニュース）."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "USD/JPY Price Forecast: Strength beyond 160.00 awaited amid bullish technical setup",
     "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-strength-beyond-16000-awaited-amid-bullish-technical-setup-202604130233",
-    "pubDate": "Mon, 13 Apr 2026 02:33:25 Z"
+    "pubDate": "Mon, 13 Apr 2026 02:33:25 Z",
+    "contentSnippet": "The USD/JPY pair builds on gains from the past two days and opens with a bullish gap at the start of the new week, rising to the 159.85 region during the Asian session. However, intervention fears keep a lid on any further appreciation for spot prices."
   },
   {
     "source": "FXStreet",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "EUR/JPY holds losses near 186.50 as US–Iran talks fail",
     "link": "https://www.fxstreet.com/news/eur-jpy-holds-losses-near-18650-as-us-iran-talks-fail-202604130220",
-    "pubDate": "Mon, 13 Apr 2026 02:20:15 Z"
+    "pubDate": "Mon, 13 Apr 2026 02:20:15 Z",
+    "contentSnippet": "EUR/JPY pares its daily losses but remains in the negative territory, trading around 186.60 during the Asian hours on Monday. The currency cross faced challenges as the risk-sensitive Euro (EUR) lost ground following the failure of the United States (US)-Iran peace talks."
   },
   {
-    "source": "FXStreet",
-    "category": "fx",
-    "title": "USD/CHF holds gains near 0.7925 as failed US-Iran talks and inflation fears support USD",
-    "link": "https://www.fxstreet.com/news/usd-chf-holds-gains-near-07925-as-failed-us-iran-talks-and-inflation-fears-support-usd-202604130153",
-    "pubDate": "Mon, 13 Apr 2026 01:53:36 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "title": "PBOC sets USD/CNY reference rate at 6.8657 vs. 6.8654 previous",
-    "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-68657-vs-68654-previous-202604130115",
-    "pubDate": "Mon, 13 Apr 2026 01:15:31 Z"
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "セイラー氏、追加購入示唆　ビットコイン成長率次第で配当を無期限カバーと言及",
+    "link": "https://coinpost.jp/?p=701434",
+    "pubDate": "Mon, 13 Apr 2026 11:14:29 +0900",
+    "contentSnippet": "ストラテジー創業者セイラー氏がSNSでBitcoin Trackerを更新し「Think Bigger」と投稿。BTC成長率次第で配当を無期限カバー可能とも言及。過去のパターン通りなら翌日に追加購入開示の見通し。"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "Gold Price Forecast: XAU/USD downside is back in play amid risks to US-Iran ceasefire  ",
     "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-downside-is-back-in-play-amid-risks-to-us-iran-ceasefire-202604130109",
-    "pubDate": "Mon, 13 Apr 2026 01:09:05 Z"
+    "pubDate": "Mon, 13 Apr 2026 01:09:05 Z",
+    "contentSnippet": "Gold is re-attempting $4,700 early Monday, looking to fill up a $60 bearish opening gap, as markets brace for a re-escalation in the Middle East conflict."
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "US Dollar Weekly Forecast: Geopolitics fade, but inflation keeps the Dollar in play",
     "link": "https://www.fxstreet.com/analysis/us-dollar-weekly-forecast-geopolitics-cool-but-the-macro-case-still-holds-202604101753",
-    "pubDate": "Mon, 13 Apr 2026 01:06:00 Z"
+    "pubDate": "Mon, 13 Apr 2026 01:06:00 Z",
+    "contentSnippet": "A dreadful week for the US Dollar (USD) saw the US Dollar Index (DXY) recede to the area of multi-week troughs near 98.50, an area also coincident with its critical 200-day Simple Moving Average (SMA)."
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】",
+    "link": "https://www.nadanews.com/341781/",
+    "pubDate": "Mon, 13 Apr 2026 01:00:00 +0000",
+    "contentSnippet": "年に1回、Web3やブロックチェーン領域の最前線を走る企業が集結し、コミュニティ内の共創を促進するイベント「N.Avenue club Summit」が3月19 ...\n家賃決済、証券、国際送金──広がる金融オンチェーン化の実装事例【N.Avenue club Summit企業発表会 Part1】 first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "モルガン・スタンレー、ビットコインETFの次はトークン化MMFに照準＝報道",
+    "link": "https://coinpost.jp/?p=701394",
+    "pubDate": "Mon, 13 Apr 2026 09:37:39 +0900",
+    "contentSnippet": "モルガン・スタンレーのデジタル資産責任者が、仮想通貨分野でのさらなる事業展開を示唆。トークン化マネーマーケットファンドを次の重要な商品として挙げた。"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン急落、ホルムズ海峡リスクと原油高が重荷に｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=701363",
+    "pubDate": "Mon, 13 Apr 2026 09:27:09 +0900",
+    "contentSnippet": "ビットコインは米イラン和平交渉決裂とホルムズ海峡封鎖報道を受け急落。原油高もマイナーの採算を圧迫するが、現物買いやオプション市場の強気姿勢など内部環境は反発余地を示す。"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットディア、週間採掘165BTCを全売却　ゼロ保有戦略を継続",
+    "link": "https://coinpost.jp/?p=701365",
+    "pubDate": "Mon, 13 Apr 2026 08:23:39 +0900",
+    "contentSnippet": "ビットディアが4月10日時点の週次データを公開。採掘した165BTCを全量売却し、ゼロ保有戦略を継続。稼働ハッシュレートは68EH/sに達している。"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "イラン、ホルムズ海峡の通航料にビットコイン要求か　ギャラクシー研究責任者が真偽を分析",
+    "link": "https://coinpost.jp/?p=701360",
+    "pubDate": "Mon, 13 Apr 2026 08:05:24 +0900",
+    "contentSnippet": "ギャラクシーのリサーチ責任者がイランのホルムズ海峡BTC通航料報道を分析。情報の矛盾点と技術的疑問を整理しつつ、オンチェーン検証を進めていることを明らかにした。"
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "JPYCとHashPort 切り開くDeFi──新しい日本型金融構造【エックスウィンリサーチ】",
+    "link": "https://www.nadanews.com/344375/",
+    "pubDate": "Sun, 12 Apr 2026 22:12:43 +0000",
+    "contentSnippet": "● DeFiは中央集権を介さない金融として再び注目が加速● 自己管理（セルフカストディ）が金融の主導権を個人へ移行● ステーブルコインと日本の制度整備が普及を後 ...\nJPYCとHashPort 切り開くDeFi──新しい日本型金融構造【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto ",
     "link": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
-    "pubDate": "Sun, 12 Apr 2026 18:00:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 18:00:00 +0000",
+    "contentSnippet": "Selig said states do not have the ability to police prediction market providers, echoing his agency's stance as it pursues court cases to cement its authority."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "DeFi’s shakeout is a stress test, not a death sentence",
     "link": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
-    "pubDate": "Sun, 12 Apr 2026 17:30:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 17:30:00 +0000",
+    "contentSnippet": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Bitcoin may be forming a base at $65,000 as 'paper hands' have been flushed out",
     "link": "https://www.coindesk.com/markets/2026/04/07/oil-at-usd100-vs-bitcoin-at-usd70k-the-wild-ride-that-fidelity-strategist-says-is-a-real-buying-opportunity",
-    "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 15:00:00 +0000",
+    "contentSnippet": "Jurrien Timmer, director of global macro at Fidelity Investments, says strong earnings are helping markets absorb geopolitical shocks, despite ongoing risks."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Oil futures up 7% on Hyperliquid as Trump orders Naval blockade of Hormuz",
     "link": "https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz",
-    "pubDate": "Sun, 12 Apr 2026 14:16:28 +0000"
+    "pubDate": "Sun, 12 Apr 2026 14:16:28 +0000",
+    "contentSnippet": "Oil prices spiked on the Hyperliquid platform after President Donald Trump ordered a naval blockade of the Strait of Hormuz"
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "1 Stock to Buy, 1 Stock to Sell This Week: Netflix, Johnson & Johnson",
     "link": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-netflix-johnson--johnson-200678271",
-    "pubDate": "Apr 12, 2026 14:15 GMT"
+    "pubDate": "Apr 12, 2026 14:15 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Market makers are fleeing public blockchains to protect their secret trading playbooks",
     "link": "https://www.coindesk.com/markets/2026/04/12/market-makers-are-fleeing-public-blockchains-to-protect-their-secret-trading-playbooks",
-    "pubDate": "Sun, 12 Apr 2026 14:00:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 14:00:00 +0000",
+    "contentSnippet": "Crypto trading is almost entirely public. One startup thinks it has borrowed an idea from Wall Street that could change that."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Bitcoin slips below $71,000 as Trump orders U.S. to join Iran in blockade of Strait of Hormuz",
     "link": "https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz",
-    "pubDate": "Sun, 12 Apr 2026 13:46:02 +0000"
+    "pubDate": "Sun, 12 Apr 2026 13:46:02 +0000",
+    "contentSnippet": "\"Effective immediately, the United States Navy ... will begin the process of blockading any and all ships trying to enter, or leave, the Strait of Hormuz,\" said the president in a social media post."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Bitcoin analysts flag triggers for a massive surge to $88,000 even as war risks linger",
     "link": "https://www.coindesk.com/markets/2026/04/12/bitcoin-analysts-flag-triggers-for-a-massive-surge-to-usd88-000-even-as-war-risks-linger",
-    "pubDate": "Sun, 12 Apr 2026 13:21:19 +0000"
+    "pubDate": "Sun, 12 Apr 2026 13:21:19 +0000",
+    "contentSnippet": "Key factors, such as ETF flows, macro factors and on-chain supply favor a rally in bitcoin even as war risks linger."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO",
     "link": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
-    "pubDate": "Sun, 12 Apr 2026 13:00:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 13:00:00 +0000",
+    "contentSnippet": "The Fellowship PAC spent $300,000 with Nxum Group that was co-founded by Bo Hines, the chief of Tether's U.S. arm and former adviser to President Donald Trump."
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
     "link": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
-    "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000"
+    "pubDate": "Sun, 12 Apr 2026 12:00:00 +0000",
+    "contentSnippet": "As banks retreat from trade finance amid Iran-linked risk fears, non-bank lenders and traders are increasingly turning to stablecoins for settlement, according to Haycen’s Luke Sully."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン地政学リスク後退で反発、和平交渉とインフレ指標が次の焦点｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=701062",
+    "pubDate": "Sun, 12 Apr 2026 11:30:04 +0900",
+    "contentSnippet": "今週のBTCは米・イラン停戦合意を受け1150万円台まで回復。目先はイスラマバードでの和平交渉の行方と米インフレ指標が注目材料。交渉継続＋インフレ予想通りなら3月高値1200万円周辺を試す展開も。bitbankアナリスト長谷川氏が解説。"
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "不動産会社による証券会社買収、トークン化株式、AI×DeFi──今週の注目トピック3選【編集長 Re: チェック】",
+    "link": "https://www.nadanews.com/344334/",
+    "pubDate": "Sun, 12 Apr 2026 01:00:00 +0000",
+    "contentSnippet": "今週は印象的なニュースが続いた。NADA NEWSでは、暗号資産の分離課税や金商法移行、RLUSDが「100万円制限」回避を狙うという記事が注目を集めたが、その ...\n不動産会社による証券会社買収、トークン化株式、AI×DeFi──今週の注目トピック3選【編集長 Re: チェック】 first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "今週の主要仮想通貨材料まとめ、BTC創造者サトシの正体調査やETH財団のステーブルコイン変換計画など",
+    "link": "https://coinpost.jp/?p=700900",
+    "pubDate": "Sun, 12 Apr 2026 09:30:24 +0900",
+    "contentSnippet": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。"
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "【取材】偶然のビットコイン長期保有が示した投資のヒント——経済アナリスト・馬渕磨理子氏に聞く暗号資産の現在地",
+    "link": "https://www.nadanews.com/343345/",
+    "pubDate": "Sun, 12 Apr 2026 00:00:00 +0000",
+    "contentSnippet": "2026年度が始まった。4月10日時点で日経平均株価は5万6000円台を維持し、高値圏での推移が続いている。米・イランによる中東情勢の緊張など不透明な外部環境は ...\n【取材】偶然のビットコイン長期保有が示した投資のヒント——経済アナリスト・馬渕磨理子氏に聞く暗号資産の現在地 first appeared on NADA NEWS（ナダ・ニュース）."
+  },
+  {
+    "source": "CoinDesk Japan",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "インフレ再加速とビットコイン──供給ショックが左右するマクロ相場の本質【エックスウィンリサーチ】",
+    "link": "https://www.nadanews.com/344349/",
+    "pubDate": "Sat, 11 Apr 2026 23:30:00 +0000",
+    "contentSnippet": "● インフレ再加速は需要ではなく「供給ショック主導」の可能性が高い● BTCはインフレ率ではなく「金融環境」に強く連動する局面● ETFフローは新たな価格決定要 ...\nインフレ再加速とビットコイン──供給ショックが左右するマクロ相場の本質【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "The Next 2 Big Things in a Volatile Market: Space and Quantum",
     "link": "https://www.investing.com/analysis/the-next-2-big-things-in-a-volatile-market-space-and-quantum-200678260",
-    "pubDate": "Apr 11, 2026 06:39 GMT"
+    "pubDate": "Apr 11, 2026 06:39 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "The Apple AI Strategy: Discipline Over Hype",
     "link": "https://www.investing.com/analysis/the-apple-ai-strategy-discipline-over-hype-200678053",
-    "pubDate": "Apr 11, 2026 06:37 GMT"
+    "pubDate": "Apr 11, 2026 06:37 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "5 Mistakes Traders Make When Trying to Pick Tops and Bottoms",
     "link": "https://www.investing.com/analysis/5-mistakes-traders-make-when-trying-to-pick-tops-and-bottoms-200677993",
-    "pubDate": "Apr 11, 2026 06:33 GMT"
+    "pubDate": "Apr 11, 2026 06:33 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Government officials, crypto leaders rally behind CLARITY Act passage ahead of Congress's resumption",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/government-officials-crypto-leaders-rally-behind-clarity-act-passage-ahead-of-congresss-resumption-202604110615",
-    "pubDate": "Sat, 11 Apr 2026 06:15:18 Z"
+    "pubDate": "Sat, 11 Apr 2026 06:15:18 Z",
+    "contentSnippet": "US government officials and leading crypto industry figures are intensifying calls for Congress to advance the Digital Asset Market Clarity Act of 2025, as lawmakers prepare to resume full legislative activity next week."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553",
-    "pubDate": "Sat, 11 Apr 2026 05:53:59 Z"
+    "pubDate": "Sat, 11 Apr 2026 05:53:59 Z",
+    "contentSnippet": "Ethereum (ETH) saw major improvements across key onchain metrics after the US-Iran ceasefire announcement on Tuesday, according to a CryptoQuant analysis. The top altcoin rose by 6% within 24 hours following the move, its largest single-day gain in more than a month."
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Bitcoin Stalls Below $73,107 Resistance as Momentum Shows Early Fatigue",
     "link": "https://www.investing.com/analysis/bitcoin-stalls-below-73107-resistance-as-momentum-shows-early-fatigue-200678261",
-    "pubDate": "Apr 11, 2026 05:28 GMT"
+    "pubDate": "Apr 11, 2026 05:28 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "World Liberty Financial rebuts WLFI Markets' lending concerns amid rising scrutiny",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/world-liberty-financial-rebuts-wlfi-markets-lending-concerns-amid-rising-scrutiny-202604102219",
-    "pubDate": "Fri, 10 Apr 2026 22:19:47 Z"
+    "pubDate": "Fri, 10 Apr 2026 22:19:47 Z",
+    "contentSnippet": "World Liberty Financial (WLFI) has pushed back against recent criticism surrounding its borrowing activity on the WLFI Markets decentralized finance platform."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Consumer Confidence Plunges to April Record Low Amid War Concerns",
     "link": "https://www.investing.com/analysis/consumer-confidence-plunges-to-april-record-low-amid-war-concerns-200678259",
-    "pubDate": "Apr 10, 2026 20:36 GMT"
+    "pubDate": "Apr 10, 2026 20:36 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Why Simply Good Foods Stock Just Had Its Worst Day in Years",
     "link": "https://www.investing.com/analysis/why-simply-good-foods-stock-just-had-its-worst-day-in-years-200678257",
-    "pubDate": "Apr 10, 2026 20:31 GMT"
+    "pubDate": "Apr 10, 2026 20:31 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "From Trading Houses to Tokio Marine: Buffett’s Expanding Bet on Japan",
     "link": "https://www.investing.com/analysis/from-trading-houses-to-tokio-marine-buffetts-expanding-bet-on-japan-200678256",
-    "pubDate": "Apr 10, 2026 20:29 GMT"
+    "pubDate": "Apr 10, 2026 20:29 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "S&P 500 fights for eighth straight gain on Friday afternoon",
     "link": "https://www.fxstreet.com/news/sp-500-fights-for-eighth-straight-gain-on-friday-afternoon-202604101920",
-    "pubDate": "Fri, 10 Apr 2026 19:20:58 Z"
+    "pubDate": "Fri, 10 Apr 2026 19:20:58 Z",
+    "contentSnippet": "The S&P 500 is struggling to hold onto what would mark its eighth consecutive day of gains on Friday."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "CPI Report Breakdown: Why March Inflation Was Worse Than It Looks",
     "link": "https://www.investing.com/analysis/cpi-report-breakdown-why-march-inflation-was-worse-than-it-looks-200678255",
-    "pubDate": "Apr 10, 2026 19:18 GMT"
+    "pubDate": "Apr 10, 2026 19:18 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "3 Companies Aggressively Raising Dividends While Others Play Defense",
     "link": "https://www.investing.com/analysis/3-companies-aggressively-raising-dividends-while-others-play-defense-200678246",
-    "pubDate": "Apr 10, 2026 19:17 GMT"
+    "pubDate": "Apr 10, 2026 19:17 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Inflation, Deflation, and Energy Prices Take Toll on Markets",
     "link": "https://www.investing.com/analysis/inflation-deflation-and-energy-prices-take-toll-on-markets-200678245",
-    "pubDate": "Apr 10, 2026 19:13 GMT"
+    "pubDate": "Apr 10, 2026 19:13 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Automating Our Dependence Will Cripple Us",
     "link": "https://www.investing.com/analysis/automating-our-dependence-will-cripple-us-200678254",
-    "pubDate": "Apr 10, 2026 19:08 GMT"
+    "pubDate": "Apr 10, 2026 19:08 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Up Over 200% in 2026: What’s Next for AI Stock Aehr Test Systems?",
     "link": "https://www.investing.com/analysis/up-over-200-in-2026-whats-next-for-ai-stock-aehr-test-systems-200678253",
-    "pubDate": "Apr 10, 2026 19:06 GMT"
+    "pubDate": "Apr 10, 2026 19:06 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Gold Stocks Spring Setup Points to Strong Earnings and Seasonal Upside",
     "link": "https://www.investing.com/analysis/gold-stocks-spring-setup-points-to-strong-earnings-and-seasonal-upside-200678251",
-    "pubDate": "Apr 10, 2026 18:12 GMT"
+    "pubDate": "Apr 10, 2026 18:12 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Levi Strauss Gains as DTC Continues to Fuel Revenue Growth",
     "link": "https://www.investing.com/analysis/levi-strauss-gains-as-dtc-continues-to-fuel-revenue-growth-200678250",
-    "pubDate": "Apr 10, 2026 18:08 GMT"
+    "pubDate": "Apr 10, 2026 18:08 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "WD-40 Company Justifies Sell-Side Support With Q2 Results",
     "link": "https://www.investing.com/analysis/wd40-company-justifies-sellside-support-with-q2-results-200678248",
-    "pubDate": "Apr 10, 2026 18:01 GMT"
+    "pubDate": "Apr 10, 2026 18:01 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Why PriceSmart’s Discount May Not Last Much Longer",
     "link": "https://www.investing.com/analysis/why-pricesmarts-discount-may-not-last-much-longer-200678247",
-    "pubDate": "Apr 10, 2026 17:27 GMT"
+    "pubDate": "Apr 10, 2026 17:27 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Dip Buyers Rewarded as Market Strength Erases Iran Pullback",
     "link": "https://www.investing.com/analysis/dip-buyers-rewarded-as-market-strength-erases-iran-pullback-200678244",
-    "pubDate": "Apr 10, 2026 17:02 GMT"
+    "pubDate": "Apr 10, 2026 17:02 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "Broadcom Locks in Multi-Year AI Wins With Google and Anthropic",
     "link": "https://www.investing.com/analysis/broadcom-locks-in-multiyear-ai-wins-with-google-and-anthropic-200678243",
-    "pubDate": "Apr 10, 2026 16:59 GMT"
+    "pubDate": "Apr 10, 2026 16:59 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Chainlink Price Forecast: LINK breakout in focus, but 50-day EMA remains a hurdle",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/chainlink-price-forecast-link-breakout-in-focus-but-50-day-ema-remains-a-hurdle-202604101612",
-    "pubDate": "Fri, 10 Apr 2026 16:12:11 Z"
+    "pubDate": "Fri, 10 Apr 2026 16:12:11 Z",
+    "contentSnippet": "Chainlink (LINK) gains momentum, trading at $9.13 at the time of writing on Friday. The oracle token’s bullish outlook mirrors the broader crypto market's positive sentiment, driven by the fragile yet holding ceasefire between the United States (US) and Iran."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "XRP consolidates in narrow range as on-chain activity and ETF demand weaken",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-extends-sideways-action-amid-low-on-chain-activity-etf-outflows-202604101300",
-    "pubDate": "Fri, 10 Apr 2026 16:00:00 Z"
+    "pubDate": "Fri, 10 Apr 2026 16:00:00 Z",
+    "contentSnippet": "Ripple (XRP) hovers around $1.34 at the time of writing on Friday, as market participants turn their attention to ceasefire talks between the United States (US) and Iran in Pakistan over the weekend."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Housing Rents Show Larger Declines at Low End as Supply Increases",
     "link": "https://www.investing.com/analysis/housing-rents-show-larger-declines-at-low-end-as-supply-increases-200678239",
-    "pubDate": "Apr 10, 2026 15:46 GMT"
+    "pubDate": "Apr 10, 2026 15:46 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "GBP/USD Weekly Forecast: Technicals turn slightly bullish for Pound Sterling amid Mideast drama",
     "link": "https://www.fxstreet.com/analysis/gbp-usd-weekly-forecast-technicals-turn-slightly-bullish-for-pound-sterling-amid-mideast-drama-202604101516",
-    "pubDate": "Fri, 10 Apr 2026 15:16:10 Z"
+    "pubDate": "Fri, 10 Apr 2026 15:16:10 Z",
+    "contentSnippet": "The Pound Sterling (GBP) staged a stellar recovery from near four-month lows against the US Dollar (USD) and clinched two-month highs just shy of the 1.3500 threshold."
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "Gold Weekly Forecast: US-Iran ceasefire uncertainty keeps bulls at bay",
     "link": "https://www.fxstreet.com/analysis/gold-weekly-forecast-us-iran-ceasefire-uncertainty-keeps-bulls-at-bay-202604101501",
-    "pubDate": "Fri, 10 Apr 2026 15:01:36 Z"
+    "pubDate": "Fri, 10 Apr 2026 15:01:36 Z",
+    "contentSnippet": "Gold (XAU/USD) posted another week of gains as headlines from the Middle East remained the main driver for the precious metal and will continue to do so in the short term."
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Hyperliquid Price Forecast: HYPE eyes $50 breakout despite platform revenue, DeFi TVL cooling",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/hyperliquid-price-forecast-hype-eyes-50-breakout-despite-platform-revenue-defi-tvl-cooling-202604101454",
-    "pubDate": "Fri, 10 Apr 2026 14:54:06 Z"
+    "pubDate": "Fri, 10 Apr 2026 14:54:06 Z",
+    "contentSnippet": "Hyperliquid (HYPE) edges up above $41.00 at the time of writing on Friday, buoyed by improving sentiment around the native Decentralized Exchange (DEX) token."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "US Inflation Much More Likely to Be Transitory This Time Around",
     "link": "https://www.investing.com/analysis/us-inflation-much-more-likely-to-be-transitory-this-time-around-200678233",
-    "pubDate": "Apr 10, 2026 13:54 GMT"
+    "pubDate": "Apr 10, 2026 13:54 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Digital Asset Treasuries Must Focus on Revenue to Survive Bear Markets",
     "link": "https://www.investing.com/analysis/digital-asset-treasuries-must-focus-on-revenue-to-survive-bear-markets-200678232",
-    "pubDate": "Apr 10, 2026 13:38 GMT"
+    "pubDate": "Apr 10, 2026 13:38 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Week in Focus: US-Iran Talks, Earnings Season, PPI and Chinese GDP",
     "link": "https://www.investing.com/analysis/week-in-focus-usiran-talks-earnings-season-ppi-and-chinese-gdp-200678229",
-    "pubDate": "Apr 10, 2026 13:25 GMT"
+    "pubDate": "Apr 10, 2026 13:25 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Crypto Today: Bitcoin, Ethereum, XRP consolidate as market sentiment remains fragile",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-consolidate-as-market-sentiment-remains-fragile-202604101200",
-    "pubDate": "Fri, 10 Apr 2026 12:00:00 Z"
+    "pubDate": "Fri, 10 Apr 2026 12:00:00 Z",
+    "contentSnippet": "The cryptocurrency market has largely taken a breather on Friday after the United States (US) and Iran agreed to a ceasefire, which lifted sentiment and triggered a broader price recovery."
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "G10 Currency Consolidation Looks Constructive, but the Weekend Poses Risks",
     "link": "https://www.investing.com/analysis/g10-currency-consolidation-looks-constructive-but-the-weekend-poses-risks-200678220",
-    "pubDate": "Apr 10, 2026 11:02 GMT"
+    "pubDate": "Apr 10, 2026 11:02 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Bitcoin Faces Stress Test Ahead of CPI as Fed Pressure Meets Institutional Flows",
     "link": "https://www.investing.com/analysis/bitcoin-faces-stress-test-ahead-of-cpi-institutional-demand-vs-fed-pressure-200678219",
-    "pubDate": "Apr 10, 2026 10:44 GMT"
+    "pubDate": "Apr 10, 2026 10:44 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "US Dollar Is Seeking a Foothold",
     "link": "https://www.investing.com/analysis/us-dollar-is-seeking-a-foothold-200678216",
-    "pubDate": "Apr 10, 2026 09:39 GMT"
+    "pubDate": "Apr 10, 2026 09:39 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "USD/CAD Forecast: Bears turn cautious ahead of US-Iran talks, US CPI, Canadian jobs data",
     "link": "https://www.fxstreet.com/analysis/usd-cad-forecast-bears-turn-cautious-ahead-of-us-iran-talks-us-cpi-canadian-jobs-data-202604100859",
-    "pubDate": "Fri, 10 Apr 2026 08:59:21 Z"
+    "pubDate": "Fri, 10 Apr 2026 08:59:21 Z",
+    "contentSnippet": "The USD/CAD pair gains some positive traction on Friday, snapping a four-day losing streak to the 1.3800 neighborhood or over a two-week low set the previous day. Doubts over the durability of the US-Iran ceasefire support the safe-haven US Dollar (USD) and act as a tailwind for spot prices."
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "USD/JPY: Yen Fared Better, but Energy Rally Not Over",
     "link": "https://www.investing.com/analysis/usdjpy-yen-fared-better-but-energy-rally-not-over-200678213",
-    "pubDate": "Apr 10, 2026 08:50 GMT"
+    "pubDate": "Apr 10, 2026 08:50 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "The $5,000 Gold test: How upcoming US inflation data could reshape Fed expectations",
     "link": "https://www.fxstreet.com/analysis/the-5-000-gold-test-how-upcoming-us-inflation-data-could-reshape-fed-expectations-202604100825",
-    "pubDate": "Fri, 10 Apr 2026 08:25:57 Z"
+    "pubDate": "Fri, 10 Apr 2026 08:25:57 Z",
+    "contentSnippet": "Whether Gold prices climb toward a $5,000 breakout or face a hard rejection partly hinges on the upcoming March Consumer Price Index (CPI) report due on Friday."
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Crypto Market Gains Hold as Bitcoin Tests Key Resistance",
     "link": "https://www.investing.com/analysis/crypto-market-gains-hold-as-bitcoin-tests-key-resistance-200678209",
-    "pubDate": "Apr 10, 2026 07:43 GMT"
+    "pubDate": "Apr 10, 2026 07:43 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "FX Outlook: First Inflation Test",
     "link": "https://www.investing.com/analysis/fx-outlook-first-inflation-test-200678205",
-    "pubDate": "Apr 10, 2026 07:14 GMT"
+    "pubDate": "Apr 10, 2026 07:14 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "AI and Crypto Convergence Forces a Reality Check on Token Narratives",
     "link": "https://www.investing.com/analysis/ai-and-crypto-convergence-forces-a-reality-check-on-token-narratives-200678201",
-    "pubDate": "Apr 10, 2026 06:27 GMT"
+    "pubDate": "Apr 10, 2026 06:27 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "USD/CAD Outlook: Data Collision at the 200DMA After Bull Trend Break",
     "link": "https://www.investing.com/analysis/usdcad-outlook-data-collision-at-the-200dma-after-bull-trend-break-200678198",
-    "pubDate": "Apr 10, 2026 06:08 GMT"
+    "pubDate": "Apr 10, 2026 06:08 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "The Power of the 50 Daily Moving Average in Crypto",
     "link": "https://www.investing.com/analysis/the-power-of-the-50-daily-moving-average-in-crypto-200678192",
-    "pubDate": "Apr 10, 2026 05:11 GMT"
+    "pubDate": "Apr 10, 2026 05:11 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "AUD/USD, NZD/USD Outlook: Stealth Yuan Strength Fuels Break Higher",
     "link": "https://www.investing.com/analysis/audusd-nzdusd-outlook-stealth-yuan-strength-fuels-break-higher-200678191",
-    "pubDate": "Apr 10, 2026 05:06 GMT"
+    "pubDate": "Apr 10, 2026 05:06 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "Gold Price Forecast: XAU/USD sellers refuse to give up yet as US CPI, US-Iran peace talks loom",
     "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-sellers-refuse-to-give-up-yet-as-us-cpi-us-iran-peace-talks-loom-202604100227",
-    "pubDate": "Fri, 10 Apr 2026 02:27:51 Z"
+    "pubDate": "Fri, 10 Apr 2026 02:27:51 Z",
+    "contentSnippet": "Gold remains at a crossroads in Friday’s Asian trades, trying to find a clear direction as markets remain cautiously optimistic ahead of the US inflation report and the US-Iran peace negotiations."
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "A Playbook for the Currency Opportunity in Today’s Market",
     "link": "https://www.investing.com/analysis/a-playbook-for-the-currency-opportunity-in-todays-market-200678183",
-    "pubDate": "Apr 09, 2026 21:12 GMT"
+    "pubDate": "Apr 09, 2026 21:12 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "Australian Dollar Price Forecast: Focus remains on 0.7100",
     "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-focus-remains-on-07100-202604091834",
-    "pubDate": "Thu, 09 Apr 2026 18:34:43 Z"
+    "pubDate": "Thu, 09 Apr 2026 18:34:43 Z",
+    "contentSnippet": "The Aussie Dollar's continuous rebound seems to have strengthened in the last few days, giving bulls back control and paving the way for AUD/USD to perhaps test the upper end of its annual range sooner rather than later."
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
     "title": "Gold Price Forecast: XAU/USD gains upward traction ahead of US CPI ",
     "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-gains-upward-traction-ahead-of-us-cpi-202604091707",
-    "pubDate": "Thu, 09 Apr 2026 17:07:23 Z"
+    "pubDate": "Thu, 09 Apr 2026 17:07:23 Z",
+    "contentSnippet": "Spot Gold shows some signs of life on Thursday, after temporarily reviving buyers’ enthusiasm on war headlines. The XAU/USD pair topped $4,857 after United States (US) President Donald Trump announced a two-week ceasefire in the Middle East war, claiming diplomatic talks were underway."
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Could US CPI be a game-changer for the Fed?",
+    "link": "https://www.fxstreet.com/analysis/could-us-cpi-be-a-game-changer-for-the-fed-202604091505",
+    "pubDate": "Thu, 09 Apr 2026 15:05:56 Z",
+    "contentSnippet": "Market players gear up for the release of the United States March inflation data, which will very likely bring bad news for the Fed. Higher inflation due to the Oil shock, coupled with a rapidly slowing economy, could put the central bank in a tough spot. Fasten your seatbelts."
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "GBP/USD: 5th Wave On Deck",
     "link": "https://www.investing.com/analysis/gbpusd-5th-wave-on-deck-200678154",
-    "pubDate": "Apr 09, 2026 12:43 GMT"
+    "pubDate": "Apr 09, 2026 12:43 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Solana Sees Record Holders but Bearish Signals Weigh on Price",
     "link": "https://www.investing.com/analysis/solana-sees-record-holders-but-bearish-signals-weigh-on-price-200678148",
-    "pubDate": "Apr 09, 2026 11:51 GMT"
+    "pubDate": "Apr 09, 2026 11:51 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "FX Outlook: Rough Start to Ceasefire Curbs Enthusiasm",
     "link": "https://www.investing.com/analysis/fx-outlook-rough-start-to-ceasefire-curbs-enthusiasm-200678147",
-    "pubDate": "Apr 09, 2026 11:19 GMT"
+    "pubDate": "Apr 09, 2026 11:19 GMT",
+    "contentSnippet": ""
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY Price Forecast: Bullish bias remains amid fragile Iran ceasefire, ahead of US PCE",
+    "link": "https://www.fxstreet.com/analysis/usd-jpy-price-forecast-bullish-bias-remains-amid-fragile-iran-ceasefire-ahead-of-us-pce-202604090857",
+    "pubDate": "Thu, 09 Apr 2026 08:57:46 Z",
+    "contentSnippet": "The USD/JPY pair builds on the previous day's modest rebound from sub-158.00 levels, or a nearly three-week low, and gains some positive traction on Thursday."
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "US Dollar Stabilizes as Ceasefire Fragility Returns to Focus",
     "link": "https://www.investing.com/analysis/us-dollar-stabilizes-as-ceasefire-fragility-returns-to-focus-200678125",
-    "pubDate": "Apr 09, 2026 08:15 GMT"
+    "pubDate": "Apr 09, 2026 08:15 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Pentagon Labels Anthropic a National Security Risk as Court Fight Deepens",
     "link": "https://www.investing.com/analysis/pentagon-labels-anthropic-a-national-security-risk-as-court-fight-deepens-200678123",
-    "pubDate": "Apr 09, 2026 08:11 GMT"
+    "pubDate": "Apr 09, 2026 08:11 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "fx",
+    "market": "global",
+    "lang": "en",
     "title": "EUR/USD on the Plus Side: Middle East Truce Proves Fragile",
     "link": "https://www.investing.com/analysis/eurusd-on-the-plus-side-middle-east-truce-proves-fragile-200678122",
-    "pubDate": "Apr 09, 2026 08:03 GMT"
+    "pubDate": "Apr 09, 2026 08:03 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Ethereum Stalls Below $2,270 Resistance as Mean Reversion Risk Builds",
     "link": "https://www.investing.com/analysis/ethereum-stalls-below-2270-resistance-as-mean-reversion-risk-builds-200678121",
-    "pubDate": "Apr 09, 2026 07:48 GMT"
+    "pubDate": "Apr 09, 2026 07:48 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Crypto Pullback Deepens as Bitcoin Struggles for Breakout",
     "link": "https://www.investing.com/analysis/crypto-pullback-deepens-as-bitcoin-struggles-for-breakout-200678120",
-    "pubDate": "Apr 09, 2026 07:43 GMT"
+    "pubDate": "Apr 09, 2026 07:43 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "crypto",
+    "market": "global",
+    "lang": "en",
     "title": "Crypto Wealth Management Shifts Toward Compliance as Institutional Standards Rise",
     "link": "https://www.investing.com/analysis/crypto-wealth-management-shifts-toward-compliance-as-institutional-standards-rise-200678106",
-    "pubDate": "Apr 09, 2026 06:21 GMT"
+    "pubDate": "Apr 09, 2026 06:21 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "FXStreet",
     "category": "stocks",
+    "market": "global",
+    "lang": "en",
     "title": "NASDAQ 100 gaps up on two-week ceasefire but traders take profit",
     "link": "https://www.fxstreet.com/news/nasdaq-100-gaps-up-on-two-week-ceasefire-but-traders-take-profit-202604081526",
-    "pubDate": "Wed, 08 Apr 2026 15:26:41 Z"
+    "pubDate": "Wed, 08 Apr 2026 15:26:41 Z",
+    "contentSnippet": "The NASDAQ 100 gapped up 3.5% at the open on Wednesday, its largest single-session percentage gain since May 12, 2025. The cause was US President Donald Trump agreeing to a two-week ceasefire with Iran late Tuesday, hours before he promised to destroy the country."
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Geopolitical U-Turn Drives Market Repricing Across Oil, Gold and Stocks",
     "link": "https://www.investing.com/analysis/geopolitical-uturn-drives-market-repricing-across-oil-gold-and-stocks-200678040",
-    "pubDate": "Apr 08, 2026 07:42 GMT"
+    "pubDate": "Apr 08, 2026 07:42 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Central Banks Risk Making a Mistake",
     "link": "https://www.investing.com/analysis/central-banks-risk-making-a-mistake-200677983",
-    "pubDate": "Apr 07, 2026 12:05 GMT"
+    "pubDate": "Apr 07, 2026 12:05 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "US Labor Market Strength Supports US Dollar Despite Slower Job Growth",
     "link": "https://www.investing.com/analysis/us-labor-market-strength-supports-us-dollar-despite-slower-job-growth-200677898",
-    "pubDate": "Apr 06, 2026 10:10 GMT"
+    "pubDate": "Apr 06, 2026 10:10 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Week In Focus: Trump’s Iran deadline, CPI, PCE, ISM Services PMI, FOMC Minutes",
     "link": "https://www.investing.com/analysis/week-in-focus-trumps-iran-deadline-cpi-pce-ism-services-pmi-fomc-minutes-200677778",
-    "pubDate": "Apr 02, 2026 12:54 GMT"
+    "pubDate": "Apr 02, 2026 12:54 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Dollar Trapped in Consolidation Ahead of NFP and Easter Holidays",
     "link": "https://www.investing.com/analysis/dollar-trapped-in-consolidation-ahead-of-nfp-and-easter-holidays-200677764",
-    "pubDate": "Apr 02, 2026 09:21 GMT"
+    "pubDate": "Apr 02, 2026 09:21 GMT",
+    "contentSnippet": ""
   },
   {
     "source": "Investing",
     "category": "macro",
+    "market": "global",
+    "lang": "en",
     "title": "Oil Rises and Gold Falls as Markets React to Iran Tensions",
     "link": "https://www.investing.com/analysis/oil-rises-and-gold-falls-as-markets-react-to-iran-tensions-200677581",
-    "pubDate": "Mar 31, 2026 09:39 GMT"
+    "pubDate": "Mar 31, 2026 09:39 GMT",
+    "contentSnippet": ""
   }
 ]
