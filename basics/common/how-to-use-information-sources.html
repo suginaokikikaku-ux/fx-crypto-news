@@ -92,6 +92,162 @@
       font-size: 14px;
     }
 
+    .diagram-box {
+      margin: 28px 0 8px;
+      padding: 20px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      overflow-x: auto;
+    }
+    .diagram-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: #94a3b8;
+      margin-bottom: 14px;
+      letter-spacing: 0.02em;
+    }
+    .diagram-note {
+      margin: 14px 0 0;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+    .diagram-flow-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .diagram-flow-group {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .diagram-flow-card {
+      min-width: 140px;
+      padding: 14px 18px;
+      border-radius: 12px;
+      background: rgba(56,189,248,0.10);
+      border: 1px solid rgba(56,189,248,0.25);
+      text-align: center;
+    }
+    .diagram-flow-card.purple {
+      background: rgba(167,139,250,0.12);
+      border-color: rgba(167,139,250,0.30);
+    }
+    .diagram-flow-card.green {
+      background: rgba(16,185,129,0.12);
+      border-color: rgba(16,185,129,0.28);
+    }
+    .diagram-flow-card.orange {
+      background: rgba(245,158,11,0.12);
+      border-color: rgba(245,158,11,0.28);
+    }
+    .diagram-flow-label {
+      font-size: 17px;
+      font-weight: 700;
+      color: #f8fafc;
+      line-height: 1.3;
+    }
+    .diagram-flow-sublabel {
+      margin-top: 6px;
+      font-size: 13px;
+      color: #94a3b8;
+      line-height: 1.5;
+    }
+    .diagram-flow-arrow {
+      font-size: 26px;
+      font-weight: 800;
+      color: #7dd3fc;
+      line-height: 1;
+    }
+
+    .diagram-compare-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .diagram-compare-card {
+      padding: 16px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .diagram-compare-card.blue {
+      background: rgba(56,189,248,0.08);
+      border-color: rgba(56,189,248,0.24);
+    }
+    .diagram-compare-card.purple {
+      background: rgba(167,139,250,0.08);
+      border-color: rgba(167,139,250,0.24);
+    }
+    .diagram-compare-card.green {
+      background: rgba(16,185,129,0.08);
+      border-color: rgba(16,185,129,0.22);
+    }
+    .diagram-compare-title {
+      font-size: 16px;
+      font-weight: 800;
+      color: #f8fafc;
+      margin-bottom: 10px;
+    }
+    .diagram-compare-list {
+      margin: 0;
+      padding-left: 18px;
+    }
+    .diagram-compare-list li {
+      font-size: 14px;
+      color: #cbd5e1;
+      margin-bottom: 6px;
+    }
+
+    .diagram-steps {
+      display: grid;
+      gap: 14px;
+    }
+    .diagram-step {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      gap: 12px;
+      align-items: start;
+    }
+    .diagram-step-number {
+      width: 44px;
+      height: 44px;
+      border-radius: 999px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(56,189,248,0.14);
+      border: 1px solid rgba(56,189,248,0.28);
+      color: #f8fafc;
+      font-weight: 800;
+    }
+    .diagram-step-body {
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .diagram-step-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #f8fafc;
+    }
+    .diagram-step-desc {
+      margin-top: 4px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+
+    .diagram-svg {
+      min-width: 640px;
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
     .next-links {
       margin-top: 40px;
       padding-top: 24px;
@@ -112,6 +268,24 @@
     }
     .breadcrumb a { color: #7dd3fc; }
     .breadcrumb span::before { content: "/"; margin-right: 6px; }
+
+    @media (max-width: 640px) {
+      .card-wrapper {
+        padding: 22px;
+      }
+      h1 {
+        font-size: 30px;
+      }
+      .diagram-flow-row {
+        justify-content: flex-start;
+      }
+      .diagram-flow-group {
+        flex-wrap: wrap;
+      }
+      .diagram-flow-arrow {
+        transform: rotate(90deg);
+      }
+    }
   </style>
 </head>
 <body>
@@ -126,6 +300,7 @@
       <div class="badge common">共通知識</div>
       <h1>情報源の使い分け</h1>
       <p class="lead">情報源の使い分けの全体像を初心者向けに整理するページです。まず結論を押さえたうえで、仕組み・見方・具体例・注意点を順番に確認できる構成にしています。</p>
+      
       
       
       <h2>情報源の使い分けの全体像</h2>
