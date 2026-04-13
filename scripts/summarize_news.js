@@ -9,7 +9,19 @@ const openai = new OpenAI({
 
 const rawPath = "data/raw/news.json";
 const dailyDir = "data/daily";
-const today = new Date().toISOString().slice(0, 10);
+
+function getJstDateString() {
+  const now = new Date();
+  const formatter = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  });
+  return formatter.format(now);
+}
+
+const today = getJstDateString();
 const outputPath = path.join(dailyDir, `${today}.json`);
 
 function extractJson(text) {
@@ -29,6 +41,11 @@ function extractJson(text) {
   }
 
   throw new Error("JSON部分を抽出できませんでした。");
+}
+
+if (!process.env.OPENAI_API_KEY) {
+  console.error("OPENAI_API_KEY が未設定です。");
+  process.exit(1);
 }
 
 if (!fs.existsSync(rawPath)) {
@@ -72,7 +89,7 @@ const newsListForPrompt = selectedNews
   .join("\n\n");
 
 async function generate() {
-  console.log("Starting OpenAI summarize...");
+  console.log(`Starting OpenAI summarize... date=${today}`);
 
   const prompt = `
 あなたはFX・BTC・マクロ市場を毎日整理するプロのニュースレター編集者です。
@@ -156,7 +173,7 @@ ${newsListForPrompt}
         seoTitle: seoTitle || `Macro Daily ${today}｜FX・BTC・マクロ市場まとめ`,
         seoDescription:
           seoDescription ||
-          `FX・BTC・マクロ市場の注目ニュースを整理。USD/JPYとビットコインへの影響、監視ポイント、今日の結論までまとめています。`,
+          "FX・BTC・マクロ市場の注目ニュースを整理。USD/JPYとビットコインへの影響、監視ポイント、今日の結論までまとめています。",
         article,
         meta: {
           sources: uniqueSources,
