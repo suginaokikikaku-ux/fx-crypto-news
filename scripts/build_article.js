@@ -14,11 +14,15 @@ function getJstDateString() {
 }
 
 const today = getJstDateString();
-const postsDir = path.join("site", "posts");
 
-const heroImageRelativePath = "../assets/img/hero.jpg";
+// STEP1: 記事の出力先を site/posts ではなく root/posts に統一
+const postsDir = path.join("posts");
+
+// ヒーロー画像は既存配置を維持
+const heroImageRelativePath = "../site/assets/img/hero.jpg";
 const heroImageFsPath = path.join("site", "assets", "img", "hero.jpg");
 
+// SITE_URL は末尾スラッシュを削る
 const siteUrl = (process.env.SITE_URL || "https://YOUR_USERNAME.github.io/macro-daily").replace(/\/$/, "");
 
 const articleTypes = [
@@ -71,7 +75,9 @@ function buildOneArticle(config) {
   const dailyPath = path.join("data", "daily", `${type}-${today}.json`);
   const postMdPath = path.join(postsDir, `${type}-${today}.md`);
   const postHtmlPath = path.join(postsDir, `${type}-${today}.html`);
-  const pageUrl = `${siteUrl}/site/posts/${type}-${today}.html`;
+
+  // STEP1: canonical も /site/posts ではなく /posts に統一
+  const pageUrl = `${siteUrl}/posts/${type}-${today}.html`;
 
   if (!fs.existsSync(dailyPath)) {
     console.error(`${dailyPath} がありません。先に summarize を実行してください。`);
@@ -490,7 +496,7 @@ ${references || "- 参照ニュースなし"}
 </head>
 <body>
   <div class="container">
-    <a class="back-link" href="../../index.html">← 記事一覧へ戻る</a>
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
 
     <section class="hero">
       <div class="hero-inner">
