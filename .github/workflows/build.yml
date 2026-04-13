@@ -15,21 +15,22 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     env:
       TZ: Asia/Tokyo
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       SITE_URL: ${{ vars.SITE_URL }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20
           cache: npm
 
       - name: Install dependencies
@@ -61,8 +62,8 @@ jobs:
           ls -la *.html || true
           echo "=== basics ==="
           find basics -maxdepth 3 -type f | sort || true
-          echo "=== site/posts ==="
-          find site/posts -maxdepth 1 -type f | sort || true
+          echo "=== posts ==="
+          find posts -maxdepth 1 -type f | sort || true
 
       - name: Commit and push
         run: |
@@ -71,4 +72,6 @@ jobs:
           git add .
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "daily update"
-          git push
+          git fetch origin main
+          git pull --rebase origin main
+          git push origin main
