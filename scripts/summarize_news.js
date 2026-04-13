@@ -343,9 +343,13 @@ function collectValidationErrors(type, article) {
     while ((match = pattern.exec(text)) !== null) {
       const raw = String(match[1]).replace(/,/g, "");
       const value = Number(raw);
-      if (!Number.isNaN(value) && value > 0 && value < 1000) {
-        errors.push(`BTC と見られる数値が小さすぎます: ${match[0]}`);
-      }
+     if (!Number.isNaN(value)) {
+  if (value < 10000) {
+    errors.push(`BTC と見られる数値が異常に小さいです: ${match[0]}`);
+  } else if (value < 50000) {
+    warnings.push(`BTC と見られる数値がやや小さめです: ${match[0]}`);
+  }
+}
     }
   }
 
