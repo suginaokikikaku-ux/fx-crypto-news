@@ -124,9 +124,27 @@ export const knowledgePages = [
     type: "parent",
     description: "ニュースの解釈方法を学ぶ",
   },
+  {
+    id: "common-3",
+    title: "FXと暗号通貨の違い",
+    path: "basics/common/fx-vs-crypto-overview.html",
+    section: "common",
+    category: "共通知識",
+    type: "parent",
+    description: "FXと暗号通貨の違いを、値動き・仕組み・学び方の違いから整理する",
+  },
+  {
+    id: "common-5",
+    title: "リスク管理の基本",
+    path: "basics/common/risk-management.html",
+    section: "common",
+    category: "共通知識",
+    type: "parent",
+    description: "資金・情報・判断の3つの観点からリスク管理を整理する",
+  },
 
   // =========================
-  // GUIDE（アフィリエイト導線用）
+  // GUIDE（アフィリエイト導線）
   // =========================
   {
     id: "guide-1",
@@ -136,5 +154,14 @@ export const knowledgePages = [
     category: "導入",
     type: "parent",
     description: "口座比較と選び方",
+  },
+  {
+    id: "guide-2",
+    title: "暗号通貨取引所の選び方",
+    path: "basics/guides/best-crypto-exchanges.html",
+    section: "guide",
+    category: "導入",
+    type: "parent",
+    description: "暗号資産の取引所を比較するポイント",
   },
 ];
