@@ -3,12 +3,20 @@ name: Daily Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 22 * * *"  # JST 07:05
+    - cron: "5 22 * * *" # JST 07:05
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
+
+    env:
+      TZ: Asia/Tokyo
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      SITE_URL: ${{ vars.SITE_URL }}
 
     steps:
       - name: Checkout repository
@@ -17,10 +25,11 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
+          cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Fetch news
         run: npm run fetch
@@ -30,20 +39,26 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
+      - name: Debug generated files
+        run: |
+          echo "=== pwd ==="
+          pwd
+          echo "=== data ==="
+          find data -maxdepth 3 -type f | sort || true
+          echo "=== data/daily ==="
+          ls -la data/daily || true
+
       - name: Build article
         run: npm run build
-        env:
-          SITE_URL: ${{ vars.SITE_URL }}
 
       - name: Build index and SEO files
         run: npm run build:index
-        env:
-          SITE_URL: ${{ vars.SITE_URL }}
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "daily update" || echo "no changes"
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "daily update"
           git push
