@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-04-30",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、テザーによる合併提案やMetaのUSDC支払い開始などの新たな動きが見られ、特にテザーの動きが市場に影響を与えています。全体的な地合いとしてはポジティブな要素が強いものの、特定のコインについては警戒する必要があります。\n\n## 今日の暗号資産市場の地合い\n暗号資産市場は、テザーがトゥエンティワン・キャピタルとの合併提案を行ったことで活気を帯びています。この動きは、特にテザーが関連するビットコイン上場企業にとってポジティブな影響を与えると見られています。また、米メタによるクリエイターへのUSDC支払い開始も、市場の期待感を高めています。\n\n## 今日の主要トピック3つ\n1. **テザー、トゥエンティワン・キャピタルに合併提案**: ビットコイン市場への影響や、合併後の企業戦略が注目される。\n2. **米メタ、クリエイターへUSDC支払い開始**: ソラナとポリゴン基盤を利用した新しい決済手段が、クリエイターエコノミーに与える影響は大きい。\n3. **著名投資家チューダー・ジョーンズがビットコインを評価**: ビットコインがインフレヘッジとしての有用性を持つと発言し、投資家層の関心が高まる可能性。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: テザーの合併提案により、市場の関心が集まっている。高いボラティリティが予想され、注意が必要。\n- **イーサリアム（ETH）**: 価格は下降傾向にあり、米連邦準備制度のハト派的な発言が影響。これにより投資家の心理が冷え込む可能性がある。\n\n## 個別プロジェクトの進捗\n- **トゥエンティワン・キャピタル**: テザーとの合併提案が発表され、具体的な進展が期待される。\n- **米メタ**: ソラナとポリゴンを基盤にしたUSDC支払いが開始され、クリエイターエコノミーにおける新しい収益モデルが確立される可能性がある。\n\n## 今日の要約から見える示唆\nテザーの合併提案は、ビットコイン市場における流動性を高める可能性がある。一方で、イーサリアムの価格動向は注意深く見守る必要があり、特に米連邦準備制度の政策が市場に影響を与える可能性が高い。\n\n## 次に確認すべきこと\n- テザーとトゥエンティワン・キャピタルの合併に関する詳細とその影響。\n- 米メタのUSDC支払いがクリエイターエコノミーに与える影響の実態。\n- イーサリアムの価格動向と米連邦準備制度の政策発表後の市場反応。\n\n## 今日の結論\n今日の暗号資産市場はポジティブな要素が多く見られるが、特定のコインについてはリスク管理が求められる。テザーとメタの動きに注目しつつ、全体の地合いを見極める必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "テザー、トゥエンティワン・キャピタルに合併提案　BTC上場企業へ",
+      "link": "https://coinpost.jp/?p=705881",
+      "pubDate": "Thu, 30 Apr 2026 07:40:36 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+      "link": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger",
+      "pubDate": "Wed, 29 Apr 2026 22:12:53 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米メタ、クリエイターへUSDC支払い開始　ソラナとポリゴン基盤を採用",
+      "link": "https://coinpost.jp/?p=705882",
+      "pubDate": "Thu, 30 Apr 2026 06:50:38 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ブリッシュ、リップルプライム顧客にBTCオプション直接アクセス提供へ",
+      "link": "https://coinpost.jp/?p=705883",
+      "pubDate": "Thu, 30 Apr 2026 06:27:32 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
+      "link": "https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings",
+      "pubDate": "Wed, 29 Apr 2026 21:07:33 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Securitize partners with Computershare to bring tokenized equities to US public markets",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/securitize-partners-with-computershare-to-bring-tokenized-equities-to-us-public-markets-202604292056",
+      "pubDate": "Wed, 29 Apr 2026 20:56:13 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "著名投資家チューダー・ジョーンズ、ビットコインを「最高のインフレヘッジ」と評価",
+      "link": "https://coinpost.jp/?p=705884",
+      "pubDate": "Thu, 30 Apr 2026 05:50:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米国初の予測市場ETFが来週にも上場へ、中間選挙と大統領選に連動する6本を設定",
+      "link": "https://coinpost.jp/?p=705885",
+      "pubDate": "Thu, 30 Apr 2026 05:35:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "チェコ中銀総裁、ビットコイン1%保有の有用性を分析　準備金多様化を主張",
+      "link": "https://coinpost.jp/?p=705866",
+      "pubDate": "Thu, 30 Apr 2026 05:00:21 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH eyes decline to $2,200 as Fed hawkish tone weighs",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-eyes-decline-to-2-200-as-fed-hawkish-tone-weighs-202604291954",
+      "pubDate": "Wed, 29 Apr 2026 19:54:13 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Eric Trump says bitcoin in its 'greatest period ever' as Wall Street falls in line",
+      "link": "https://www.coindesk.com/markets/2026/04/29/eric-trump-says-bitcoin-in-its-greatest-period-ever-as-wall-street-falls-in-line",
+      "pubDate": "Wed, 29 Apr 2026 19:49:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed chair Jerome Powell says he will stay on as Govenor after term amid legal pressure",
+      "link": "https://www.coindesk.com/markets/2026/04/29/fed-chair-jerome-powell-says-he-will-stay-on-as-govenor-after-term-amid-legal-pressure",
+      "pubDate": "Wed, 29 Apr 2026 19:17:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tech giant Meta starts paying some creators in stablecoin with Stripe's support",
+      "link": "https://www.coindesk.com/business/2026/04/29/tech-giant-meta-starts-paying-some-creators-in-stablecoin-with-stripe-s-support",
+      "pubDate": "Wed, 29 Apr 2026 19:09:23 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Holds Near Highs While ETF Flows and Funding Diverge",
+      "link": "https://www.investing.com/analysis/bitcoin-holds-near-highs-while-etf-flows-and-funding-diverge-200679395",
+      "pubDate": "Apr 29, 2026 18:37 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan hires former Goldman Sachs exec for Kinexys. Here is why he believes tokenization is only half the battle",
+      "link": "https://www.coindesk.com/business/2026/04/29/jpmorgan-s-new-blockchain-chief-warns-that-tokenization-does-not-equal-liquidity",
+      "pubDate": "Wed, 29 Apr 2026 18:29:12 +0000"
+    }
+  ]
+}
