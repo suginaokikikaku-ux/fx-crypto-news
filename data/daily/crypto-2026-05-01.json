@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-05-01",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "最新の暗号資産ニュースを基に、市場の地合いや主要コインの動向、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ワサビ・プロトコルからの不正流出の影響を受けており、主要コインに対する不安感が広がっています。また、米国の規制動向やテザーに関する疑惑が注目されています。\n\n## 今日の暗号資産市場の地合い\nワサビ・プロトコルから約7.8億円が不正流出したとされ、イーサリアムを含む複数のチェーンに影響が及んでいます。この影響で市場全体に不安が広がり、特にリスク回避の動きが強まっています。さらに、米国での規制強化に対する懸念も引き続き市場を圧迫しています。\n\n## 今日の主要トピック3つ\n1. **不正流出の影響**：ワサビ・プロトコルからの不正流出が市場に与える影響。\n2. **テザー融資問題**：米民主党議員がテザー社からの融資を問題視。\n3. **ビットコインETFの検討**：日本取引所グループのCEOがビットコインを含むETF上場の可能性を示唆。\n\n## メインコインの整理\n- **ビットコイン (BTC)**：現在の価格帯は不明だが、$77K近辺でのレジスタンスが指摘されており、下落リスクが懸念されています。\n- **イーサリアム (ETH)**：インフレの影響で価格が下落するリスクが高まっています。\n- **XRP**：需要の減少とソフトデリバティブの影響で、強気の社会的センチメントが薄れています。\n\n## 個別プロジェクトの進捗\n- **ワサビ・プロトコル**：不正流出の詳細は不明だが、この事件は他のDeFiプロジェクトにも波及する可能性がある。\n- **テザー社**：米民主党からの疑問が浮上し、今後の動向が注目される。\n- **ソラナ財団**：韓国のクレジットカード大手と提携し、ステーブルコイン決済の実証実験を開始。\n\n## 今日の要約から見える示唆\n市場は不安定な状態にあり、不正流出や規制問題がリスク要因として浮上しています。特に、テザー社の問題や不正流出の影響は、今後の市場動向に大きく影響する可能性がある。\n\n## 次に確認すべきこと\n- ワサビ・プロトコルの不正流出の詳細な情報を追跡し、他のプロジェクトへの影響を確認。\n- テザー社に対する政治的な動きと、それが市場に与える影響を監視。\n- ビットコインETFの上場に関する進展を注視し、投資家の反応を観察。\n\n## 今日の結論\n市場の不安定さが続く中、特に不正流出や規制の動向に注目が必要です。これらの要因が主要コインやプロジェクトにどのように影響するか、引き続き注意深く見守る必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ワサビ・プロトコルから約7.8億円が不正流出か、イーサリアムなど複数チェーンに影響",
+      "link": "https://coinpost.jp/?p=706242",
+      "pubDate": "Fri, 01 May 2026 07:50:54 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米民主党議員、テザー社から米商務長官親族への融資を問題視　",
+      "link": "https://coinpost.jp/?p=706229",
+      "pubDate": "Fri, 01 May 2026 07:45:52 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
+      "link": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves",
+      "pubDate": "Thu, 30 Apr 2026 22:13:13 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "日本取引所グループの山道CEO、ビットコインを含む仮想通貨ETFの上場検討を表明",
+      "link": "https://coinpost.jp/?p=706228",
+      "pubDate": "Fri, 01 May 2026 06:50:41 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Price Struggles: Resistance Near $77K Could Trigger Bearish Shift",
+      "link": "https://www.investing.com/analysis/bitcoin-price-struggles-resistance-near-77k-could-trigger-bearish-shift-200679482",
+      "pubDate": "Apr 30, 2026 21:43 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH risks decline as inflation rises",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-risks-decline-as-inflation-rises-202604302124",
+      "pubDate": "Thu, 30 Apr 2026 21:24:11 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上院が議員による予測市場での取引を禁止、即日発効",
+      "link": "https://coinpost.jp/?p=706230",
+      "pubDate": "Fri, 01 May 2026 06:15:00 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米財務省、780億円規模のイラン関連仮想通貨を押収　先週は550億円のUSDT凍結も",
+      "link": "https://coinpost.jp/?p=706231",
+      "pubDate": "Fri, 01 May 2026 05:55:17 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベース、ステーブルコイン信用ファンドをトークン化　スーパーステートと提携",
+      "link": "https://coinpost.jp/?p=706226",
+      "pubDate": "Fri, 01 May 2026 05:40:07 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Polymarket partners with Chainalysis to strengthen on-chain surveillance for prediction markets",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/polymarket-partners-with-chainalysis-to-strengthen-on-chain-surveillance-for-prediction-markets-202604302032",
+      "pubDate": "Thu, 30 Apr 2026 20:32:39 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "韓国クレジットカード大手がソラナ財団と提携、ステーブルコイン決済の実証実験を開始",
+      "link": "https://coinpost.jp/?p=706213",
+      "pubDate": "Fri, 01 May 2026 05:00:25 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Whale’s Insight: Bitcoin Crashes Have Followed Every New Fed Chair",
+      "link": "https://www.investing.com/analysis/whales-insight-bitcoin-crashes-have-followed-every-new-fed-chair-200679474",
+      "pubDate": "Apr 30, 2026 19:57 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
+      "link": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
+      "pubDate": "Thu, 30 Apr 2026 19:30:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family ",
+      "link": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+      "pubDate": "Thu, 30 Apr 2026 17:06:21 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP slides as waning demand, soft derivatives undercut bullish social sentiment",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-recovery-outlook-deteriorates-despite-bullish-sentiment-surging-202604301315",
+      "pubDate": "Thu, 30 Apr 2026 16:30:00 Z"
+    }
+  ]
+}
