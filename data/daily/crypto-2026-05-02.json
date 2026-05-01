@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-05-02",
+  "seoTitle": "2026年5月1日の暗号資産市場動向",
+  "seoDescription": "5月1日の暗号資産市場の動向を分析。主要コインの状況や注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、主要コインの価格が安定している一方で、特定のプロジェクトにおいては進展が見られる。特に、規制に関する新しい法律や機関投資家の動向が市場に影響を与えている。\n\n## 今日の暗号資産市場の地合い\n全体的には、暗号資産市場は安定した状況にあるが、特にビットコインとイーサリアム周辺での動きが注視されている。市場全体の時価総額は引き続き高い水準にあり、機関投資家の参入が市場にポジティブな影響を与えている。しかし、ETFの流出が見られ、供給圧力がかかっている。\n\n## 今日の主要トピック3つ\n1. **Clarity Actが暗号企業に安定収入を提供**: 新しい規制が暗号企業にとって安定的な収益源を提供する見込み。\n2. **XRPの評価がRLUSDの利用状況に依存**: XRPの市場評価は、RLUSDの使用状況と機関投資家による採用に直接関連している。\n3. **イーサリアム財団が10,000イーサを売却**: 財団が資金管理の一環としてビットマインにイーサを売却したことが、資金の流れに影響を与えている。\n\n## メインコインの整理\n- **ビットコイン**: 価格は80,000ドルを目指す動きが続いている。機関投資家の需要が高まっている。\n- **イーサリアム**: 現在の価格は2,325ドル以下で推移。ETFの流出が需要に圧力をかけている。\n- **XRP**: RLUSDの利用が評価に影響。機関投資家の動向が重要。\n\n## 個別プロジェクトの進捗\n- **Riot Blockchain**: AMDとのデータセンター契約拡大により、株価が8%上昇。AI関連へのシフトが見られる。\n- **Tether**: 第一四半期に10億ドルの利益を計上し、8.23億ドルの準備金を確保。\n- **Dogecoin**: クジラの活動が活発化し、価格が急上昇。取引活動が6ヶ月ぶりの高水準に達した。\n\n## 今日の要約から見える示唆\n規制の変更や機関投資家の動向が市場に影響を与えていることが明らかになった。特に、安定収入を得るための新しい法案や、機関投資家の需要が市場の将来に重要な役割を持つと予測される。特定のプロジェクトやコインに注目することで、投資の機会が見えてくる可能性がある。\n\n## 次に確認すべきこと\n- Clarity Actの詳細な内容とその影響を確認する。\n- XRPのRLUSDの利用状況と機関投資家の動向を追う。\n- イーサリアム財団の今後の資金戦略についての追加情報を探る。\n\n## 今日の結論\n市場全体は安定しているが、新しい法案や機関投資家の動向が特定の暗号資産に影響を与えている。今後の進展を注意深く見守ることが重要である。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "Investing",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "link": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "pubDate": "Fri, 01 May 2026 21:33:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+      "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+      "pubDate": "Fri, 01 May 2026 20:59:09 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP Valuation Depends on RLUSD Usage and Institutional Adoption",
+      "link": "https://www.investing.com/analysis/xrp-valuation-depends-on-rlusd-usage-and-institutional-adoption-200679548",
+      "pubDate": "May 01, 2026 20:23 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+      "link": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+      "pubDate": "Fri, 01 May 2026 18:16:40 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Stalls Below $2,325 as ETF Outflows Pressure Demand",
+      "link": "https://www.investing.com/analysis/ethereum-price-stalls-below-2325-as-etf-outflows-pressure-demand-200679540",
+      "pubDate": "May 01, 2026 17:58 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
+      "link": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
+      "pubDate": "Fri, 01 May 2026 17:40:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A new narrative for bitcoin that will last",
+      "link": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
+      "pubDate": "Fri, 01 May 2026 17:33:00 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Dogecoin Whales Drive Surge: Activity Hits 6-Month High Amid Price Rally",
+      "link": "https://www.investing.com/analysis/dogecoin-whales-drive-surge-activity-hits-6month-high-amid-price-rally-200679535",
+      "pubDate": "May 01, 2026 16:28 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
+      "link": "https://www.coindesk.com/business/2026/05/01/tether-posts-usd1-04-billion-q1-profit-reaches-usd8-23-billion-reserve-buffer",
+      "pubDate": "Fri, 01 May 2026 16:23:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI agent forms its own company, gets ready to trade crypto",
+      "link": "https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto",
+      "pubDate": "Fri, 01 May 2026 15:37:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+      "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+      "pubDate": "Fri, 01 May 2026 15:01:41 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/570544",
+      "pubDate": "Fri, 01 May 2026 13:45:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+      "link": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
+      "pubDate": "Fri, 01 May 2026 13:31:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/05/01/coindesk-20-performance-update-bittensor-tao-gains-5-5-leading-index-higher",
+      "pubDate": "Fri, 01 May 2026 13:21:26 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CUSHY Vs. BUIDL: How Coinbase’s Stablecoin Fund Stands Out in Crypto Finance",
+      "link": "https://www.investing.com/analysis/cushy-vs-buidl-how-coinbases-stablecoin-fund-stands-out-in-crypto-finance-200679518",
+      "pubDate": "May 01, 2026 13:09 GMT"
+    }
+  ]
+}
