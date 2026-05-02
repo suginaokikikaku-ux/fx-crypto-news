@@ -1,5 +1,185 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+    "link": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+    "pubDate": "Sat, 02 May 2026 16:56:08 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
+    "link": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
+    "pubDate": "Sat, 02 May 2026 16:01:01 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+    "link": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+    "pubDate": "Sat, 02 May 2026 16:00:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "This Is Not Normal: Stocks Hold While Fed Fractures and Oil Soars",
+    "link": "https://www.investing.com/analysis/this-is-not-normal-stocks-hold-while-fed-fractures-and-oil-soars-200679555",
+    "pubDate": "May 02, 2026 14:02 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+    "link": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
+    "pubDate": "Sat, 02 May 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+    "link": "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+    "pubDate": "Sat, 02 May 2026 13:00:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The Quiet Work Shift: What’s Driving the Drop in Labor Participation",
+    "link": "https://www.investing.com/analysis/the-quiet-work-shift-whats-driving-the-drop-in-labor-participation-200679552",
+    "pubDate": "May 02, 2026 09:48 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The Only Trading Windows That Matter: Kill Zones and Power Hour Explained",
+    "link": "https://www.investing.com/analysis/the-only-trading-windows-that-matter-kill-zones-and-power-hour-explained-200679375",
+    "pubDate": "May 02, 2026 09:40 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Private Credit Turmoil Pushes BDCs Lower - Opportunity or Trap?",
+    "link": "https://www.investing.com/analysis/bdcs-not-all-yield-is-created-equal-200679354",
+    "pubDate": "May 02, 2026 09:37 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Week Ahead: What Matters for Markets",
+    "link": "https://www.investing.com/analysis/week-ahead-what-matters-for-markets-200679430",
+    "pubDate": "May 02, 2026 09:34 GMT"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "「100万円相当のステップン（GMT）山分け！」OKJがSTEPNクイズキャンペーンを5/10まで開催",
+    "link": "https://www.neweconomy.jp/posts/570694",
+    "pubDate": "Sat, 02 May 2026 08:37:29 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+    "link": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+    "pubDate": "Sat, 02 May 2026 06:49:39 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+    "link": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+    "pubDate": "Sat, 02 May 2026 06:24:06 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "台湾でビットコイン「国家戦略資産化」の動き、外貨準備への組み入れを提言",
+    "link": "https://coinpost.jp/?p=706613",
+    "pubDate": "Sat, 02 May 2026 14:30:06 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米クラリティー法案が重要局面に、マークアップに向け前進",
+    "link": "https://coinpost.jp/?p=706600",
+    "pubDate": "Sat, 02 May 2026 13:25:36 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "カナダ年金基金AIMCo、約267億円でマイクストラテジー株を購入",
+    "link": "https://coinpost.jp/?p=706598",
+    "pubDate": "Sat, 02 May 2026 11:44:48 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "コインベースら、6月末までの仮想通貨市場の回復を予測　BTC・ETH分析も",
+    "link": "https://coinpost.jp/?p=706587",
+    "pubDate": "Sat, 02 May 2026 11:02:19 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン採掘企業ライオットQ1決算、AIデータセンター事業が収益の20%へ急成長",
+    "link": "https://coinpost.jp/?p=706557",
+    "pubDate": "Sat, 02 May 2026 09:55:07 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Bakkt、AI決済・ステーブルコインインフラ企業DTRを買収完了　機関向け44兆ドル越境決済レイヤーに参入",
+    "link": "https://coinpost.jp/?p=706558",
+    "pubDate": "Sat, 02 May 2026 08:45:20 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ブラジル中央銀行、規制下の国際決済での仮想通貨利用を禁止へ",
+    "link": "https://coinpost.jp/?p=706572",
+    "pubDate": "Sat, 02 May 2026 07:40:57 +0900"
+  },
+  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -7,6 +187,15 @@
     "title": "AbbVie Fires Healthy Trend-Following Signal: Is a Rebound Ahead?",
     "link": "https://www.investing.com/analysis/abbvie-fires-healthy-trendfollowing-signal-is-a-rebound-ahead-200679551",
     "pubDate": "May 01, 2026 21:52 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "英政府、GPT-5.5の高度なサイバー攻撃能力に警鐘　「ミトス」に続く2例目の脅威",
+    "link": "https://coinpost.jp/?p=706559",
+    "pubDate": "Sat, 02 May 2026 06:50:28 +0900"
   },
   {
     "source": "Investing",
@@ -27,6 +216,15 @@
     "pubDate": "Fri, 01 May 2026 21:33:27 +0000"
   },
   {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米国防総省がオープンAI・グーグル・エヌビディアら8社と機密ネットワークへのAI導入で合意、アンソロピックは今回も対象外",
+    "link": "https://coinpost.jp/?p=706561",
+    "pubDate": "Sat, 02 May 2026 06:15:46 +0900"
+  },
+  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -34,6 +232,15 @@
     "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
     "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
     "pubDate": "Fri, 01 May 2026 20:59:09 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
+    "link": "https://coinpost.jp/?p=706560",
+    "pubDate": "Sat, 02 May 2026 05:55:38 +0900"
   },
   {
     "source": "Investing",
@@ -189,24 +396,6 @@
     "pubDate": "Fri, 01 May 2026 17:43:19 Z"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain",
-    "link": "https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain",
-    "pubDate": "Fri, 01 May 2026 17:40:40 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "A new narrative for bitcoin that will last",
-    "link": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
-    "pubDate": "Fri, 01 May 2026 17:33:00 +0000"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -297,15 +486,6 @@
     "pubDate": "Fri, 01 May 2026 16:24:05 Z"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
-    "link": "https://www.coindesk.com/business/2026/05/01/tether-posts-usd1-04-billion-q1-profit-reaches-usd8-23-billion-reserve-buffer",
-    "pubDate": "Fri, 01 May 2026 16:23:59 +0000"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -313,33 +493,6 @@
     "title": "Viking Therapeutics Faces Timeline Risk—But Upside Could Be Huge",
     "link": "https://www.investing.com/analysis/viking-therapeutics-faces-timeline-riskbut-upside-could-be-huge-200679534",
     "pubDate": "May 01, 2026 16:10 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "5 Reasons Rambus Stock Price Collapse Is Hot Entry Point",
-    "link": "https://www.investing.com/analysis/5-reasons-rambus-stock-price-collapse-is-hot-entry-point-200679533",
-    "pubDate": "May 01, 2026 15:51 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "AI agent forms its own company, gets ready to trade crypto",
-    "link": "https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto",
-    "pubDate": "Fri, 01 May 2026 15:37:15 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
-    "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
-    "pubDate": "Fri, 01 May 2026 15:01:41 +0000"
   },
   {
     "source": "FXStreet",
@@ -364,36 +517,9 @@
     "category": "macro",
     "market": "global",
     "lang": "en",
-    "title": "Bitcoin Rally: $82,000 Key Breakout Level as Crypto Momentum Builds",
-    "link": "https://www.investing.com/analysis/bitcoin-rally-82000-key-breakout-level-as-crypto-momentum-builds-200679527",
-    "pubDate": "May 01, 2026 13:39 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
     "title": "Week in Focus: US NFP, ISM Services PMI, RBA, Canadian Jobs and OPEC+",
     "link": "https://www.investing.com/analysis/week-in-focus-us-nfp-ism-services-pmi-rba-canadian-jobs-and-opec-200679526",
     "pubDate": "May 01, 2026 13:33 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
-    "link": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
-    "pubDate": "Fri, 01 May 2026 13:31:53 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/05/01/coindesk-20-performance-update-bittensor-tao-gains-5-5-leading-index-higher",
-    "pubDate": "Fri, 01 May 2026 13:21:26 +0000"
   },
   {
     "source": "Investing",
@@ -403,15 +529,6 @@
     "title": "CUSHY Vs. BUIDL: How Coinbase’s Stablecoin Fund Stands Out in Crypto Finance",
     "link": "https://www.investing.com/analysis/cushy-vs-buidl-how-coinbases-stablecoin-fund-stands-out-in-crypto-finance-200679518",
     "pubDate": "May 01, 2026 13:09 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "New Buy Signals Appear: Don’t Chase Friday’s Breakouts",
-    "link": "https://www.investing.com/analysis/new-buy-signals-appear-dont-chase-fridays-breakouts-200679522",
-    "pubDate": "May 01, 2026 12:59 GMT"
   },
   {
     "source": "Investing",
@@ -550,15 +667,6 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "PCE Inflation Is Ripping Higher - Don’t Expect Fed Interest Rate Cuts",
-    "link": "https://www.investing.com/analysis/pce-inflation-is-ripping-higher--dont-expect-fed-interest-rate-cuts-200679485",
-    "pubDate": "May 01, 2026 07:17 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
@@ -619,15 +727,6 @@
     "title": "XRP Price Analysis: ETF outflows and fading momentum suggest scope for deeper correction",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/xrp-price-analysis-etf-outflows-and-fading-momentum-suggest-scope-for-deeper-correction-202605010509",
     "pubDate": "Fri, 01 May 2026 05:09:49 Z"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ワサビプロトコル、管理者キー侵害により約5.5Mドル流出か",
-    "link": "https://www.neweconomy.jp/posts/570384",
-    "pubDate": "Fri, 01 May 2026 03:38:27 +0000"
   },
   {
     "source": "FXStreet",
