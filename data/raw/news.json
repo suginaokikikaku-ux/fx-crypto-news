@@ -1,5 +1,185 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+    "link": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
+    "pubDate": "Sat, 09 May 2026 17:28:08 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+    "link": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
+    "pubDate": "Sat, 09 May 2026 17:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+    "link": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+    "pubDate": "Sat, 09 May 2026 16:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
+    "link": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
+    "pubDate": "Sat, 09 May 2026 15:56:49 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
+    "link": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
+    "pubDate": "Sat, 09 May 2026 15:41:38 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+    "link": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+    "pubDate": "Sat, 09 May 2026 15:28:09 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "CME is set to let traders bet on bitcoin volatility, not just price",
+    "link": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
+    "pubDate": "Sat, 09 May 2026 15:14:52 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "How DeFi is changing the financial landscape for Latin Americans",
+    "link": "https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans",
+    "pubDate": "Sat, 09 May 2026 14:30:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Why Keynes, Marx, and Piketty Continue to Influence Modern Economics",
+    "link": "https://www.investing.com/analysis/why-keynes-marx-and-piketty-continue-to-influence-modern-economics-200680000",
+    "pubDate": "May 09, 2026 14:01 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami",
+    "link": "https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami",
+    "pubDate": "Sat, 09 May 2026 14:00:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold Bugs’ Faulty Thesis on M2 and Inflation",
+    "link": "https://www.investing.com/analysis/gold-bugs-faulty-thesis-m2-and-inflation-200679778",
+    "pubDate": "May 09, 2026 13:58 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "BlackRock deepens tokenization push with new onchain fund offerings",
+    "link": "https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings",
+    "pubDate": "Sat, 09 May 2026 13:57:07 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Liquidity Sweeps Vs. Liquidity Runs: What Traders Need to Know",
+    "link": "https://www.investing.com/analysis/liquidity-sweeps-vs-liquidity-runs-what-traders-need-to-know-200679707",
+    "pubDate": "May 09, 2026 13:57 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The AI Growth Story Meets Its First Reality Check",
+    "link": "https://www.investing.com/analysis/the-ai-growth-story-meets-its-first-reality-check-200679703",
+    "pubDate": "May 09, 2026 13:56 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "What Would Be Truly Bullish? Actually Fixing What’s Broken",
+    "link": "https://www.investing.com/analysis/what-would-be-truly-bullish-actually-fixing-whats-broken-200679845",
+    "pubDate": "May 09, 2026 10:00 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "SEC Chair Paul Atkins pushes for tailored crypto rules for on-chain markets",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/sec-chair-paul-atkins-pushes-for-tailored-crypto-rules-for-on-chain-markets-202605090854",
+    "pubDate": "Sat, 09 May 2026 08:54:02 Z"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "トランプ・メディア1〜3月期決算、仮想通貨下落などで大幅損失　キャッシュフローは黒字維持",
+    "link": "https://coinpost.jp/?p=707576",
+    "pubDate": "Sat, 09 May 2026 13:15:18 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ジーキャッシュ、量子コンピュータ耐性ロードマップを公表　クロスチェーン流入も好調",
+    "link": "https://coinpost.jp/?p=707564",
+    "pubDate": "Sat, 09 May 2026 11:00:31 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米上院銀行委員会、クラリティー法案を5月14日にマークアップ予定",
+    "link": "https://coinpost.jp/?p=707533",
+    "pubDate": "Sat, 09 May 2026 10:20:37 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "コインベース、サービス障害発生後に取引再開　AWSデータセンターの過熱が原因と説明",
+    "link": "https://coinpost.jp/?p=707552",
+    "pubDate": "Sat, 09 May 2026 08:10:38 +0900"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -70,15 +250,6 @@
     "title": "Arbitrum DAO、凍結済みの111億円相当イーサリアム放出を承認　",
     "link": "https://coinpost.jp/?p=707539",
     "pubDate": "Sat, 09 May 2026 06:05:23 +0900"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
-    "link": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-    "pubDate": "Fri, 08 May 2026 20:59:25 +0000"
   },
   {
     "source": "FXStreet",
@@ -198,15 +369,6 @@
     "pubDate": "Fri, 08 May 2026 19:17:09 Z"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
-    "link": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
-    "pubDate": "Fri, 08 May 2026 19:12:29 +0000"
-  },
-  {
     "source": "Investing",
     "category": "fx",
     "market": "global",
@@ -241,15 +403,6 @@
     "title": "3 Defensive Dividend Stocks to Weather Market Uncertainty",
     "link": "https://www.investing.com/analysis/3-defensive-dividend-stocks-to-weather-market-uncertainty-200679956",
     "pubDate": "May 08, 2026 18:33 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
-    "link": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-    "pubDate": "Fri, 08 May 2026 18:32:23 +0000"
   },
   {
     "source": "Investing",
@@ -297,15 +450,6 @@
     "pubDate": "May 08, 2026 17:06 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Kraken parent goes for the OCC charter in bid to become a federal crypto bank",
-    "link": "https://www.coindesk.com/policy/2026/05/08/kraken-parent-goes-for-the-occ-charter-in-big-to-become-a-federal-crypto-bank",
-    "pubDate": "Fri, 08 May 2026 17:00:00 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
@@ -331,24 +475,6 @@
     "title": "Hims & Hers Earnings Preview: The Novo Nordisk Shift Puts GLP-1 Strategy in Focus",
     "link": "https://www.investing.com/analysis/hims--hers-earnings-preview-the-novo-nordisk-shift-puts-glp1-strategy-in-focus-200679992",
     "pubDate": "May 08, 2026 16:20 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "ECB's Lagarde’s digital euro warning: Why Europe shouldn’t just copy the U.S. stablecoin model",
-    "link": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
-    "pubDate": "Fri, 08 May 2026 16:11:58 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Back-to-Back US Jobs Gains, but Hiring Caution Lingers",
-    "link": "https://www.investing.com/analysis/backtoback-us-jobs-gains-but-hiring-caution-lingers-200679990",
-    "pubDate": "May 08, 2026 16:04 GMT"
   },
   {
     "source": "FXStreet",
@@ -432,15 +558,6 @@
     "pubDate": "Fri, 08 May 2026 14:54:22 Z"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "XRP pushes toward $1.40 as tightening range lowers breakout chances",
-    "link": "https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances",
-    "pubDate": "Fri, 08 May 2026 14:53:20 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -450,51 +567,6 @@
     "pubDate": "May 08, 2026 14:11 GMT"
   },
   {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Week Ahead – US Inflation Data Eyed Amid Iran Peace Hopes",
-    "link": "https://www.investing.com/analysis/week-ahead--us-inflation-data-eyed-amid-iran-peace-hopes-200679980",
-    "pubDate": "May 08, 2026 14:02 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Temporary Jobs: A Good Leading Indicator Gone Bad?",
-    "link": "https://www.investing.com/analysis/temporary-jobs-a-good-leading-indicator-gone-bad-200679961",
-    "pubDate": "May 08, 2026 13:47 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "CoinDesk 20 performance update: NEAR Protocol (NEAR) gains 6.3%, leading index higher",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/05/08/coindesk-20-performance-update-near-protocol-near-gains-6-3-leading-index-higher",
-    "pubDate": "Fri, 08 May 2026 13:23:21 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Stablecoins have their 'permission slip.' Now comes the hard part.",
-    "link": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
-    "pubDate": "Fri, 08 May 2026 13:22:15 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Coinbase bulls point to crypto legislation and stablecoins after earnings miss",
-    "link": "https://www.coindesk.com/markets/2026/05/08/coinbase-bulls-point-to-crypto-legislation-and-stablecoins-after-earnings-miss",
-    "pubDate": "Fri, 08 May 2026 13:21:13 +0000"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -502,15 +574,6 @@
     "title": "【5/8話題】プログマらのトークン化国債WG設置、リミポのビットコイン運用状況、韓国の暗号資産課税は1月からなど（音声ニュース）",
     "link": "https://www.neweconomy.jp/posts/572397",
     "pubDate": "Fri, 08 May 2026 13:14:48 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "U.S. added 115K jobs in April, nearly doubling expectations",
-    "link": "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
-    "pubDate": "Fri, 08 May 2026 12:33:42 +0000"
   },
   {
     "source": "Investing",
@@ -547,15 +610,6 @@
     "title": "NFP Preview: No Sign of Turmoil in the Jobs Market?",
     "link": "https://www.investing.com/analysis/nfp-preview-no-sign-of-turmoil-in-the-jobs-market-200679935",
     "pubDate": "May 08, 2026 11:28 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Commodity Supercycle: The Enemy of the Bull Thesis",
-    "link": "https://www.investing.com/analysis/commodity-supercycle-the-enemy-of-the-bull-thesis-200679957",
-    "pubDate": "May 08, 2026 11:26 GMT"
   },
   {
     "source": "Investing",
@@ -619,15 +673,6 @@
     "title": "USD/JPY Price Forecast: Struggles to lure buyers amid JPY intervention fears; US NFP eyed",
     "link": "https://www.fxstreet.com/analysis/usd-jpy-price-forecast-struggles-to-lure-buyers-amid-jpy-intervention-fears-us-nfp-eyed-202605080907",
     "pubDate": "Fri, 08 May 2026 09:07:28 Z"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "韓国、2027年1月から仮想通貨課税を開始へ　税務当局が方針を正式確認",
-    "link": "https://coinpost.jp/?p=707494",
-    "pubDate": "Fri, 08 May 2026 17:47:49 +0900"
   },
   {
     "source": "Investing",
@@ -765,15 +810,6 @@
     "pubDate": "Fri, 08 May 2026 06:00:00 Z"
   },
   {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Pi Network Price Forecast: PI flashes bearish signals despite the Consensus 2026 spotlight",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/pi-network-price-forecast-pi-flashes-bearish-signals-despite-the-consensus-2026-spotlight-202605080559",
-    "pubDate": "Fri, 08 May 2026 05:59:55 Z"
-  },
-  {
     "source": "Investing",
     "category": "fx",
     "market": "global",
@@ -783,15 +819,6 @@
     "pubDate": "May 08, 2026 05:44 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "国際通貨基金、AIによるサイバー攻撃の高度化に警鐘　「マクロ金融ショック」リスク指摘",
-    "link": "https://coinpost.jp/?p=707397",
-    "pubDate": "Fri, 08 May 2026 14:30:32 +0900"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -799,24 +826,6 @@
     "title": "サークル、AIエージェント向けUSDC少額決済「ナノペイメンツ」をメインネットで提供開始",
     "link": "https://www.neweconomy.jp/posts/572030",
     "pubDate": "Fri, 08 May 2026 05:28:22 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米クラリティー法案、来週にも上院銀行委でマークアップか　コインベース政策担当者が予想",
-    "link": "https://coinpost.jp/?p=707416",
-    "pubDate": "Fri, 08 May 2026 13:45:31 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ポリゴンが性能向上、毎秒3200件の取引処理を実現　プライベート決済も導入",
-    "link": "https://coinpost.jp/?p=707349",
-    "pubDate": "Fri, 08 May 2026 13:30:18 +0900"
   },
   {
     "source": "FXStreet",
