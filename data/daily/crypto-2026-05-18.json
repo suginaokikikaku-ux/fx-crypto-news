@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-05-18",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コイン、プロジェクトの進捗を詳しく解説。次に何を調べるべきかも提案します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、バイナンス・リサーチによる不正資金回収率の分析や、クラリティ法案の進展により、ビットコインに強気の見方が広がっている。しかし、反転リスクにも注意が必要である。全体的には、主要コインが堅調な動きを見せている中で、特定のプロジェクトが進展を見せていることが注目される。\n\n## 今日の暗号資産市場の地合い\n現在の市場は、全体的に強気な地合いが見られ、特にビットコインに対してポジティブなニュースが多く流れている。バイナンス・リサーチが発表した不正資金回収率は法定通貨の55倍に達するなど、暗号資産の信頼性向上に寄与する情報が多い。一方で、クラリティ法案の進展もあり、規制に対する期待が高まっている。しかし、反転リスクも存在するため、注意が必要である。\n\n## 今日の主要トピック3つ\n1. **バイナンス・リサーチの分析**: 仮想通貨の不正資金回収率が法定通貨の55倍とされ、業界の透明性向上につながる可能性がある。\n2. **クラリティ法案の可決**: ビットコインにとって強気の材料となるが、反転リスクも考慮すべきである。\n3. **日本の証券会社の暗号資産信託計画**: SBI証券と楽天証券が暗号資産投資信託を提供する計画を発表し、国内市場の成長が期待される。\n\n## メインコインの整理\n- **ビットコイン**: 強気の見方が広まっているが、200日移動平均線で上値が重い状況が続く。米中首脳会談の結果が影響を与える可能性がある。\n- **イーサリアム**: 市場全体の流れに沿った動きを見せているが、具体的な進展は報告されていない。\n- **XRP**: クラリティ法案の進展により注目を集めており、今後の動きに期待が寄せられている。\n\n## 個別プロジェクトの進捗\n- **SBI証券と楽天証券**: 暗号資産投資信託の提供を計画しており、これにより日本国内の暗号資産市場がさらに活性化する見込みである。\n- **セイラー氏のSTRC株主への投票呼びかけ**: 配当支払いを月1回から2回に変更する提案を行っており、株主の関心が高まる。\n\n## 今日の要約から見える示唆\n市場全体は強気の地合いが続いているが、特に規制関連のニュースが多く、ビットコインの動向に影響を与える要因が多い。日本国内でも暗号資産関連の金融商品が増加することで、資金流入が期待される。\n\n## 次に確認すべきこと\n- クラリティ法案の進展に関するさらなる情報を追跡する。\n- SBI証券と楽天証券の暗号資産投資信託の詳細を確認し、どのような商品が提供されるのかを把握する。\n- ビットコインの200日移動平均線を意識したトレンドの動きを注意深く観察する。\n\n## 今日の結論\n現在の暗号資産市場は、強気の傾向が続いているが、反転リスクや規制の影響を常に考慮する必要がある。特に日本市場の動向が重要であり、今後の進展を注視することが求められる。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス・リサーチ、仮想通貨の不正資金回収率、法定通貨の55倍と分析",
+      "link": "https://coinpost.jp/?p=709151",
+      "pubDate": "Mon, 18 May 2026 08:02:35 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "クラリティ法案を可決、ビットコインは強気優勢も反転リスクに要注意＝Santiment",
+      "link": "https://coinpost.jp/?p=709147",
+      "pubDate": "Mon, 18 May 2026 07:36:18 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "セイラー氏、STRC株主に投票呼びかけ　配当支払い月1回から2回に変更へ",
+      "link": "https://coinpost.jp/?p=709139",
+      "pubDate": "Mon, 18 May 2026 07:03:05 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The Clarity Act took a step forward: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
+      "pubDate": "Sun, 17 May 2026 18:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
+      "link": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
+      "pubDate": "Sun, 17 May 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
+      "link": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
+      "pubDate": "Sun, 17 May 2026 11:41:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
+      "link": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
+      "pubDate": "Sun, 17 May 2026 08:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン底堅い推移も200日線で上値重く、米中首脳会談が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=708969",
+      "pubDate": "Sun, 17 May 2026 11:30:02 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "今週の主要仮想通貨材料まとめ、キヨサキのBTC・ETH関連投稿やXRP現物ETFの需要増など",
+      "link": "https://coinpost.jp/?p=708831",
+      "pubDate": "Sun, 17 May 2026 09:30:20 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース｜米クラリティー法案の進展や人工知能Claudeのビットコイン復元成功に高い関心",
+      "link": "https://coinpost.jp/?p=708861",
+      "pubDate": "Sun, 17 May 2026 09:25:05 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout ",
+      "link": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+      "pubDate": "Sat, 16 May 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "link": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks",
+      "pubDate": "Sat, 16 May 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
+      "link": "https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up",
+      "pubDate": "Sat, 16 May 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP beat bitcoin gains as Clarity Act advanced, but a real bullrun still needs Congress",
+      "link": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+      "pubDate": "Sat, 16 May 2026 11:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "link": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+      "pubDate": "Sat, 16 May 2026 07:36:02 +0000"
+    }
+  ]
+}
