@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-05-19",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "本記事では、暗号資産市場の地合いや主要トピック、メインコインの状態を整理し、次に確認すべきポイントを提供します。",
+  "article": "## 1分で読める結論\n現在、暗号資産市場は約1700億円の純流出が確認され、特にXRPやソラナなどは純流入を記録しています。一方、米政府のビットコイン準備金法整備が進んでおり、トークン化された株式フレームワークの提案も行われています。\n\n## 今日の暗号資産市場の地合い\n全体として市場はやや不安定な状況にあり、大口投資家の動きに注目が集まっています。特に、ビットコインETFに関連した売買が活発化しており、資金流出が続く一方で、一部のアルトコインには資金流入が見られています。\n\n## 今日の主要トピック3つ\n1. **約1700億円の純流出**: 仮想通貨ETFなどから資金が流出している。\n2. **米政府のビットコイン準備金法整備**: 新規購入の可能性が低いとの見方が広がっている。\n3. **SECのトークン化された株式フレームワーク提案**: ウォール街の取り組みが深まっている。\n\n## メインコインの整理\n- **ビットコイン**: 先週、3100億円で2.4万BTCが追加取得されており、機関投資家の関心が高まっている。\n- **イーサリアム**: BitMineがETH保有を増加させており、買いの機会があるとされている。\n- **XRPとソラナ**: 両者はETF保有の全額を売却されたが、資金流入があったため、今後の動きに注意が必要。\n\n## 個別プロジェクトの進捗\n- **Revolut**: 新しい物理的な支払いカードでDogecoinを主流化しようとする取り組みを発表。\n- **Hyperliquid**: USDCとの取引に関する新たな契約がHYPEの成長を促進する可能性がある。\n- **米クラリティー法**: サークル社に有利な利回り妥協条項が分析されている。\n\n## 今日の要約から見える示唆\n市場全体では大口投資家の動きが活発化している一方で、資金流出が続いていることから、短期的なボラティリティが予想されます。特にXRPやソラナについては、今後も注視が必要です。\n\n## 次に確認すべきこと\n- ビットコインのETF関連の動向と資金流出の影響。\n- 米政府のビットコイン準備金法整備の今後の進捗。\n- トークン化された株式に関するSECの提案がもたらす影響。\n\n## 今日の結論\n暗号資産市場は依然として不安定な状況にあり、特にETF関連のニュースが市場に大きな影響を与えています。投資家は主要コインや個別プロジェクトの動向を注意深く観察する必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入",
+      "link": "https://coinpost.jp/?p=709397",
+      "pubDate": "Tue, 19 May 2026 07:50:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米政府のビットコイン準備金法整備に進展、新規購入の可能性は低いか",
+      "link": "https://coinpost.jp/?p=709385",
+      "pubDate": "Tue, 19 May 2026 07:25:31 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "pubDate": "Mon, 18 May 2026 22:20:27 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジーの先週のビットコイン購入状況、STRCから調達した3100億円で2.4万BTCを追加取得",
+      "link": "https://coinpost.jp/?p=709386",
+      "pubDate": "Tue, 19 May 2026 07:00:40 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "RWAトークン化市場、2028年に4兆ドル規模へ到達の可能性＝英SCB銀予測",
+      "link": "https://coinpost.jp/?p=709387",
+      "pubDate": "Tue, 19 May 2026 06:41:26 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Minnesotan banks and credit unions set to provide crypto custody August 1",
+      "link": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1",
+      "pubDate": "Mon, 18 May 2026 21:07:08 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラリティー法の利回り妥協条項、「サークル社に有利」とバーンスタインが分析",
+      "link": "https://coinpost.jp/?p=709388",
+      "pubDate": "Tue, 19 May 2026 05:55:55 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ビットワイズ、ハイパーリキッドETFの管理報酬10%でHYPEを購入し自社保有へ",
+      "link": "https://coinpost.jp/?p=709389",
+      "pubDate": "Tue, 19 May 2026 05:40:01 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+      "link": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+      "pubDate": "Mon, 18 May 2026 20:18:37 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持",
+      "link": "https://coinpost.jp/?p=709345",
+      "pubDate": "Tue, 19 May 2026 05:00:43 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: BitMine boosts ETH holdings as Lee sees buying opportunity",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-boosts-eth-holdings-as-lee-sees-buying-opportunity-202605181957",
+      "pubDate": "Mon, 18 May 2026 19:57:31 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Becomes a Tool for Iran’s Control Over Hormuz Shipping",
+      "link": "https://www.investing.com/analysis/bitcoin-becomes-a-tool-for-irans-control-over-hormuz-shipping-200680515",
+      "pubDate": "May 18, 2026 19:41 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP’s Pullback Tests Whether On-Chain Strength Can Offset Macro Pressure",
+      "link": "https://www.investing.com/analysis/xrps-pullback-tests-whether-onchain-strength-can-offset-macro-pressure-200680514",
+      "pubDate": "May 18, 2026 19:30 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Revolut wants to take Dogecoin mainstream with its new physical payment card",
+      "link": "https://www.coindesk.com/markets/2026/05/18/revolut-wants-to-take-dogecoin-mainstream-with-its-new-physical-payment-card",
+      "pubDate": "Mon, 18 May 2026 18:30:15 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy scoops $2B in Bitcoin as Iran launches BTC-backed shipping insurance",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/strategy-scoops-2b-in-bitcoin-as-iran-launches-btc-backed-shipping-insurance-202605181812",
+      "pubDate": "Mon, 18 May 2026 18:12:34 Z"
+    }
+  ]
+}
