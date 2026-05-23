@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-05-24",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "最新の暗号資産市場の動向を分析し、注目すべきプロジェクトや今後の確認ポイントを整理しました。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ビットコインがトランプ大統領のイラン平和協定発表を受けて上昇したものの、ETF関連の売り圧力が影響し、全体的には不安定な状況です。特にAI関連のトークンやNEARトークンなどの個別プロジェクトが注目されています。\n\n## 今日の暗号資産市場の地合い\n全体的に市場は混沌とした状態で、ビットコインは一時的に上昇したものの、その後のETFに関連する売り圧力で値を下げています。市場のボラティリティが高く、特にアルトコインへの流入が見込まれる中で、投資家の心理は慎重です。 \n\n## 今日の主要トピック3つ  \n1. トランプ大統領によるイラン平和協定発表がビットコイン価格を押し上げる。  \n2. ビットコインETFの資金流出が続き、2週間で22億6000万ドルが流出。  \n3. NEARトークンが動的リシャーディングの導入を発表し、価格が急騰。  \n\n## メインコインの整理\n- **ビットコイン (BTC)**: トランプ大統領の発表後、一時的に上昇したが、ETFの影響で価格は74,300ドルにまで下落した。  \n- **イーサリアム (ETH)**: 最近の価格動向は安定しているが、ビットコインに対する相関が強い。\n- **XRP**: バンカメの報告によれば、XRPは保有量が維持されているが、全体の市場に対する影響は限定的。\n\n## 個別プロジェクトの進捗\n- **NEAR**: 6月末までに動的リシャーディングを導入する計画を発表し、AIエージェント対応も視野に入れているため、投資家の関心が高まっている。\n- **Hyperliquid**: 次のアルトコインラリーを牽引する存在として注目されており、AIトークンと共に市場の流れを変える可能性がある。\n- **HYPE現物ETF**: ビットワイズや21シェアーズによる流入が続いており、業界全体にポジティブな影響を与えている。\n\n## 今日の要約から見える示唆\n市場はトランプ大統領の発表による短期的な上昇とETF関連の売り圧力という二つの要因により不安定な状況にある。特にアルトコイン、特にAI関連のプロジェクトには新たなチャンスが存在する。\n\n## 次に確認すべきこと\n- ビットコインETFの資金流出が続く中、今後の価格動向を注意深く観察する必要がある。  \n- NEARトークンの動的リシャーディング導入の進捗状況を追跡し、投資戦略を検討する。  \n- HyperliquidやAIトークンの市場での動向を注視し、次のラリーに備える。  \n\n## 今日の結論\n今日の市場は非常にボラティリティが高く、特定のプロジェクトが注目されている。ビットコインの動向は依然として重要ですが、アルトコインや新興プロジェクトにも目を向けることで、新たな機会を見出すことができる。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+      "pubDate": "Sat, 23 May 2026 20:52:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "pubDate": "Sat, 23 May 2026 19:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "link": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+      "pubDate": "Sat, 23 May 2026 14:19:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "link": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+      "pubDate": "Sat, 23 May 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "link": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+      "pubDate": "Sat, 23 May 2026 10:19:40 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持",
+      "link": "https://coinpost.jp/?p=710654",
+      "pubDate": "Sat, 23 May 2026 14:00:49 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "カルシとポリマーケット、米控訴裁判所で敗訴　違法賭博訴訟は州に差し戻し",
+      "link": "https://coinpost.jp/?p=710722",
+      "pubDate": "Sat, 23 May 2026 13:25:45 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米グレースケールのHYPE現物ETF申請、修正案を再度提出　3本目のETF実現間近か",
+      "link": "https://coinpost.jp/?p=710653",
+      "pubDate": "Sat, 23 May 2026 12:00:32 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、ナスダックのビットコイン指数オプション上場を承認",
+      "link": "https://coinpost.jp/?p=710655",
+      "pubDate": "Sat, 23 May 2026 11:30:56 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=710701",
+      "pubDate": "Sat, 23 May 2026 10:25:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "NEARトークン価格高騰、6月末までに動的リシャーディング導入　AIエージェント対応も視野",
+      "link": "https://coinpost.jp/?p=710697",
+      "pubDate": "Sat, 23 May 2026 10:00:48 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC delays tokenized stock exemption amid industry concerns",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/sec-delays-tokenized-stock-exemption-amid-industry-concerns-202605230046",
+      "pubDate": "Sat, 23 May 2026 00:46:37 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ビットワイズ・21シェアーズのHYPE現物ETF、25億円相当HYPEを追加購入　累計流入は100億円超",
+      "link": "https://coinpost.jp/?p=710656",
+      "pubDate": "Sat, 23 May 2026 08:40:05 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場大手ポリマーケット、9000万円超が不正流出　顧客資産は影響なしと説明",
+      "link": "https://coinpost.jp/?p=710680",
+      "pubDate": "Sat, 23 May 2026 07:55:20 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプメディア、320億円相当ビットコインを取引所へ送金",
+      "link": "https://coinpost.jp/?p=710657",
+      "pubDate": "Sat, 23 May 2026 07:20:12 +0900"
+    }
+  ]
+}
