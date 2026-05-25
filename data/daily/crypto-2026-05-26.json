@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-05-26",
+  "seoTitle": "暗号資産市場動向と主要プロジェクトの進捗",
+  "seoDescription": "暗号資産市場の最新動向、主要コインの状態、個別プロジェクトの進捗を分析し、次に確認すべきことを整理します。",
+  "article": "## 1分で読める結論\n本日は、ビットコインの現物ETFからの流出が続き、アルトコインへの資金ローテーションが進行中であることが注目されています。イーサリアム関連のプロジェクトも動きがあり、特にビットマインがRussell 1000に掲載されたことが資金流入の可能性を示唆しています。NEARはクロスチェーン製品の活発な活動により価格が上昇しています。\n\n## 今日の暗号資産市場の地合い\n今日の市場は、ビットコインの現物ETFからの流出が続いており、全体的なリスクオフの雰囲気が漂っています。一方で、アルトコインへの資金移動が加速しており、特にNEARなどの新興プロジェクトに資金が流入しています。市場全体が不安定な中で、各コインの動きに分かれている状況です。\n\n## 今日の主要トピック3つ\n1. **ビットコイン現物ETFの流出**: 米国のビットコイン現物ETFが6日連続で流出し、アルトコインへのローテーションが明確に進んでいます。\n2. **ビットマインのRussell 1000掲載**: ETH保有企業のビットマインが米国のRussell 1000の予備リストに掲載され、パッシブ資金流入の期待が高まっています。\n3. **NEARの価格上昇**: NEARはクロスチェーン製品の活発な活動によって価格が15%上昇しています。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 現物ETFからの流出が続き、資金の流れがアルトコインに向かっています。\n- **イーサリアム (ETH)**: リスクオフのセンチメントが続いており、オンチェーンコストが重荷になっています。\n- **NEAR**: クロスチェーン製品の活動により、価格が急上昇しています。\n- **XRP**: ETFの資金流入が支持要因となり、回復の兆しを見せています。\n\n## 個別プロジェクトの進捗\n- **ビットマイン**: Russell 1000の予備リストに載ったことで、今後のパッシブ資金流入の期待が高まっています。\n- **NEAR**: クロスチェーン製品の活発な活動によって、取引量が増加し、価格も上昇中です。\n- **ポリマーケット**: インドネシアが予測市場をオンライン賭博とみなして遮断したことが影響を与えています。\n\n## 今日の要約から見える示唆\nビットコインの現物ETFからの流出により、アルトコインへの資金移動が進んでいます。特にNEARのような新興プロジェクトに注目が集まる中、イーサリアムはリスクの影響を受けやすい状況です。ビットマインの進展は、今後の市場動向に重要な影響を与える可能性があります。\n\n## 次に確認すべきこと\n- ビットコイン現物ETFからの流出が続く中、アルトコイン市場の動向を追う。\n- ビットマインのRussell 1000掲載後のパッシブ資金流入の影響を確認する。\n- NEARの価格動向とクロスチェーン製品の活動を引き続きウォッチする。\n\n## 今日の結論\n市場全体がアルトコインにシフトする中、ビットマインの進展やNEARの急上昇が注目されます。リスクオフの雰囲気が続く中で、各プロジェクトの動向を注視し、次の市場の流れを見極める必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "FXStreet",
+      "CoinDesk",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ビットコイン現物ETFが6日連続流出、アルトコインへのローテーションが鮮明に",
+      "link": "https://coinpost.jp/?p=710991",
+      "pubDate": "Tue, 26 May 2026 07:10:23 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: US risk-off sentiment continues as onchain cost basis overhead weighs on ETH",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-us-risk-off-sentiment-continues-as-onchain-cost-basis-overhead-weighs-on-eth-202605252203",
+      "pubDate": "Mon, 25 May 2026 22:03:28 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ETH保有企業ビットマイン、米大型指数『Russell 1000』予備リストに掲載　パッシブ資金流入の可能性",
+      "link": "https://coinpost.jp/?p=710992",
+      "pubDate": "Tue, 26 May 2026 06:25:07 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
+      "link": "https://coinpost.jp/?p=710993",
+      "pubDate": "Tue, 26 May 2026 05:45:38 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
+      "link": "https://coinpost.jp/?p=710965",
+      "pubDate": "Tue, 26 May 2026 05:00:30 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+      "link": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump",
+      "pubDate": "Mon, 25 May 2026 17:38:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "link": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+      "pubDate": "Mon, 25 May 2026 17:04:49 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "link": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "pubDate": "Mon, 25 May 2026 16:46:45 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NEAR Price Forecast: Three reasons NEAR could extend its rally",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/near-price-forecast-three-reasons-near-could-extend-its-rally-202605251632",
+      "pubDate": "Mon, 25 May 2026 16:32:19 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP builds momentum as ETF inflows support fragile rebound",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-eyes-140-rebound-as-etf-inflows-steady-202605251240",
+      "pubDate": "Mon, 25 May 2026 16:00:00 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+      "link": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+      "pubDate": "Mon, 25 May 2026 15:51:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
+      "pubDate": "Mon, 25 May 2026 12:53:49 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【5/25話題】バイナンス共同CEOがイラン制裁回避報道を否定、ECBがユーロ建てステーブルコイン拡大に警鐘など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/576185",
+      "pubDate": "Mon, 25 May 2026 12:33:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
+      "link": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
+      "pubDate": "Mon, 25 May 2026 12:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Today: Bitcoin, Ethereum, XRP steady above supports on Iran deal hopes",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-steady-above-supports-on-iran-deal-hopes-202605251200",
+      "pubDate": "Mon, 25 May 2026 12:00:00 Z"
+    }
+  ]
+}
