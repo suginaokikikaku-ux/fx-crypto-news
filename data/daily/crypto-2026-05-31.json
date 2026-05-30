@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-05-31",
+  "seoTitle": "暗号資産市場の動向と注目プロジェクト",
+  "seoDescription": "最新の暗号資産市場の地合いや主要コインの動き、注目プロジェクトの進捗を整理し、今後の確認ポイントを解説します。",
+  "article": "## 1分で読める結論\n現在の暗号資産市場は、規制の強化やハッキング事件の影響を受けて不安定な状況にあります。特に、米国からの大型の仮想通貨押収や詐欺事件が話題となっています。また、主要コインはETF需要の減少により停滞しています。これらの動向を踏まえ、今後の市場の方向性を見極めることが重要です。\n\n## 今日の暗号資産市場の地合い\n市場全体は規制強化の影響やハッキング事件の報道により弱気です。特に、米国のSECによる詐欺事件の訴訟や、1兆円相当の仮想通貨押収が市場心理に影響を及ぼしています。これにより、取引のボリュームが減少し、主要コインの価格が停滞しています。\n\n## 今日の主要トピック3つ\n1. **SECによる訴訟**: テキサス州の男性が1,230万ドルの詐欺事件で訴えられました。これが市場に与える影響は大きいです。\n2. **米国による仮想通貨押収**: イランの仮想通貨約1,000億円相当が押収され、規制強化の流れが加速しています。\n3. **主要コインのETF需要の減少**: ビットコインやイーサリアムのETF需要が低下し、価格に影響を与えています。\n\n## メインコインの整理\n- **ビットコイン**: 現在、価格は停滞しており、ETF需要の減少が影響しています。\n- **イーサリアム**: オンチェーンデータが弱気のシグナルを示しており、今後の動きが懸念されています。\n- **XRP**: ETFによる資金流入が35百万ドルあり、他の主要コインに比べて相対的に好調です。\n\n## 個別プロジェクトの進捗\n- **Hyperliquid**: DeFi市場の拡張に伴い、金融サービスとしての成長が期待されています。Grayscaleがその可能性を指摘しています。\n- **Binance**: 2030年に向けたマスタープランを発表し、悪化した市場環境でも成長を目指しています。\n\n## 今日の要約から見える示唆\nハッキングや詐欺事件が続出している中で、セキュリティ対策が求められています。また、規制の流れが市場に大きな影響を与えているため、今後の政策動向に注意が必要です。\n\n## 次に確認すべきこと\n- SECの訴訟や押収事件の続報を追い、規制環境の変化を把握する。\n- 主要コインの価格動向を監視し、特にETF需要の変化をチェックする。\n- 新興プロジェクトのセキュリティ対策や市場動向を確認し、投資リスクを評価する。\n\n## 今日の結論\n市場は規制強化やハッキング事件の影響で不安定な状態にあります。主要コインはETF需要の減少により影響を受けており、注目プロジェクトの進捗も重要な指標です。今後の規制動向に注意を払い、次の市場の動きを見極めることが必要です。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "FXStreet",
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "link": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+      "pubDate": "Sat, 30 May 2026 17:27:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "link": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
+      "pubDate": "Sat, 30 May 2026 15:50:37 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Weekly Price Forecast: Onchain data paints bearish picture",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536",
+      "pubDate": "Sat, 30 May 2026 15:36:32 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "link": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
+      "pubDate": "Sat, 30 May 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "When the market is bad, we build: Inside Binance’s bold 2030 master plan",
+      "link": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
+      "pubDate": "Sat, 30 May 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale",
+      "link": "https://www.coindesk.com/business/2026/05/30/hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-grayscale",
+      "pubDate": "Sat, 30 May 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP ETFs add $35 million as bitcoin and ether funds lost $2 billion in late May",
+      "link": "https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report",
+      "pubDate": "Sat, 30 May 2026 11:35:56 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "DeFiで多数ハッキング、予測市場の新た動き、企業のチェーン選び（月刊 Web3 Buisness Hub 2026年5月号）",
+      "link": "https://www.neweconomy.jp/features/wbh/577991",
+      "pubDate": "Sat, 30 May 2026 09:39:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "link": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "pubDate": "Sat, 30 May 2026 05:41:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "link": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "pubDate": "Sat, 30 May 2026 05:27:39 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ルミス米議員「今国会を逃せば次は2030年」、クラリティー法案成立促す",
+      "link": "https://coinpost.jp/?p=712750",
+      "pubDate": "Sat, 30 May 2026 13:45:20 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スイ、ユーザー取引を一時停止　三日連続で断続的なネットワーク障害",
+      "link": "https://coinpost.jp/?p=712740",
+      "pubDate": "Sat, 30 May 2026 13:25:58 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジー、48億円相当のビットコインをコインベースへ送金　目的は不明",
+      "link": "https://coinpost.jp/?p=712723",
+      "pubDate": "Sat, 30 May 2026 10:25:57 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額",
+      "link": "https://coinpost.jp/?p=712701",
+      "pubDate": "Sat, 30 May 2026 10:10:10 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan CEO Jamie Dimon slams CLARITY Act, signals bank pushback on crypto regulation",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/jpmorgan-ceo-jamie-dimon-slams-clarity-act-signals-bank-pushback-on-crypto-regulation-202605292337",
+      "pubDate": "Fri, 29 May 2026 23:37:28 Z"
+    }
+  ]
+}
