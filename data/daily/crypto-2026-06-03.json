@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-06-03",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳しく解説。次に確認すべきポイントも整理しました。",
+  "article": "## 1分で読める結論\n暗号資産市場は全体的に弱気の地合いが続いている中、ビットコインの計算能力がトップ100のスーパーコンピュータを大幅に上回ったことが注目されている。また、ステーブルコインの利用頻度が過去最高を記録し、関連する規制やプロジェクトの進展が見られる。特に、コインベースのETF出資やマネーグラムの新しいステーブルコインの米国市場投入が話題になっている。\n\n## 今日の暗号資産市場の地合い\n市場全体は弱気相場にあり、特にマクロ経済の影響を受けやすい状況が続いている。ビットコインは流動性ショックに直面しており、ETFへの期待感が後退している。こうした中で、ステーブルコイン市場は活発化しており、特に利用頻度が過去最高水準に達している。\n\n## 今日の主要トピック3つ\n1. **ビットコインの計算能力**: Bittensorの共同創設者によると、ビットコインの計算能力はトップ100のスーパーコンピュータを600,000倍も上回る。\n2. **ステーブルコインの規制**: 英国上院の委員会がイングランド銀行に対し、提案されたステーブルコインの規制を再考するよう求めた。\n3. **コインベースのETF出資**: コインベースがプロシェアーズのステーブルコイン準備資産向けETF「IQMM」に出資した。\n\n## メインコインの整理\n- **ビットコイン**: 現在、流動性ショックにより価格の安定性が損なわれている。計算能力の高さが技術的な強みとして評価されている。\n- **イーサリアム**: ステークされたETHが記録的な高水準に達しているが、機関投資家の関心は弱まっている。\n- **XRP**: ETFへの資金流入が続いており、機関需要が弱い価格動向にも関わらず注目されている。\n\n## 個別プロジェクトの進捗\n- **マネーグラム**: ステラ上で独自のステーブルコイン「MGUSD」を米国でローンチした。\n- **コインベース**: Ethenaとの提携により、100万人のユーザー向けに新しい貯蓄商品を発表予定。\n- **DWFラボ**: ステーブルコインの利用頻度が過去最高になっていると報告。\n\n## 今日の要約から見える示唆\n市場全体が弱気である中、技術的な側面や規制に関連する動きが注目される。また、ステーブルコイン市場の活性化は、今後の成長の鍵となる可能性が高い。\n\n## 次に確認すべきこと\n- ステーブルコイン規制についての動向を注視する。\n- コインベースの新しい商品展開やマネーグラムのMGUSDの市場反応を確認する。\n- ビットコインの流動性や市場のマクロ経済的要因を引き続き分析する。\n\n## 今日の結論\n暗号資産市場は全体的に厳しい状況が続いているが、特定のプロジェクトや技術的進展には注目すべき点が多い。特に、ステーブルコインの動向と規制の進展は、今後の市場に大きな影響を与える可能性がある。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
+      "link": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
+      "pubDate": "Tue, 02 Jun 2026 23:25:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions",
+      "link": "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions",
+      "pubDate": "Tue, 02 Jun 2026 23:01:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「ステーブルコインの利用頻度が過去最高水準に」DWFラボが分析",
+      "link": "https://coinpost.jp/?p=713653",
+      "pubDate": "Wed, 03 Jun 2026 07:45:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベース、プロシェアーズのステーブルコイン準備資産向けETF「IQMM」に出資",
+      "link": "https://coinpost.jp/?p=713642",
+      "pubDate": "Wed, 03 Jun 2026 07:40:50 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラリティー法が上院立法カレンダーに掲載、本会議採決の見通し立たず",
+      "link": "https://coinpost.jp/?p=713643",
+      "pubDate": "Wed, 03 Jun 2026 07:13:40 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto is in a full bear market, tokenized bonds could be the next bullish trend — BitMEX",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-is-in-a-full-bear-market-tokenized-bonds-could-be-the-next-bullish-trend-bitmex-202606022203",
+      "pubDate": "Tue, 02 Jun 2026 22:03:46 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. sanctions Iranian crypto exchanges in ongoing war against the country",
+      "link": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
+      "pubDate": "Tue, 02 Jun 2026 21:49:30 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米民主党議員、退職金口座の仮想通貨投資解禁に反対　労働省に規則撤回を要求",
+      "link": "https://coinpost.jp/?p=713644",
+      "pubDate": "Wed, 03 Jun 2026 06:35:54 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: Staked ETH soars to record high despite weakening institutional interest",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-staked-eth-soars-to-record-high-despite-weakening-institutional-interest-202606022123",
+      "pubDate": "Tue, 02 Jun 2026 21:23:19 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Faces a Flow Shock as Macro Pressure Reverses the ETF Bid",
+      "link": "https://www.investing.com/analysis/bitcoin-faces-a-flow-shock-as-macro-pressure-reverses-the-etf-bid-200681393",
+      "pubDate": "Jun 02, 2026 21:00 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアムがビットコインをアウトパフォームする転換点、ストラテジーの32BTC売却を契機に＝スタンダードチャータード分析",
+      "link": "https://coinpost.jp/?p=713645",
+      "pubDate": "Wed, 03 Jun 2026 05:50:56 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users",
+      "link": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
+      "pubDate": "Tue, 02 Jun 2026 20:09:53 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "マネーグラム、ステラ上で独自ステーブルコイン「MGUSD」を米国ローンチ",
+      "link": "https://coinpost.jp/?p=713635",
+      "pubDate": "Wed, 03 Jun 2026 05:00:46 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP ETF Inflows Test Whether Institutional Demand Can Defy Weak Price Action",
+      "link": "https://www.investing.com/analysis/xrp-etf-inflows-test-whether-institutional-demand-can-defy-weak-price-action-200681388",
+      "pubDate": "Jun 02, 2026 19:22 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
+      "link": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
+      "pubDate": "Tue, 02 Jun 2026 19:17:12 +0000"
+    }
+  ]
+}
