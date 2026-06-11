@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-06-12",
+  "seoTitle": "今日の暗号資産市場動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の最新情報、主要コインの動き、注目プロジェクトの進捗を詳細に分析し、次に確認すべき事項を提示します。",
+  "article": "## 1分で読める結論\n本日は、暗号資産市場全体での地合いは安定しており、特にXRPがETFへの資金流入に支えられて上昇しています。イーサリアムは一時的な反発が見られますが、持続可能なトレンド転換にはさらなる上昇が必要です。CoinbaseはAIエージェントアカウントを導入し、取引の自動化を進めています。\n\n## 今日の暗号資産市場の地合い\n市場全体では安定した動きが続いており、特に主要コインにおいては買い戻しの兆しが見られます。投資家は新たな技術革新や規制の進展に注目しており、流動性の高い市場環境が形成されています。\n\n## 今日の主要トピック3つ\n1. **XRPがETFへの資金流入で上昇**: XRPはETF関連の資金流入により、強い上昇基調を示しています。\n2. **イーサリアムの反発**: イーサリアムは一時的な価格反発を見せていますが、持続的な回復にはさらなる上昇が求められています。\n3. **CoinbaseのAIエージェントアカウント**: CoinbaseがAIエージェントアカウントを導入し、自動取引を可能にしました。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: 現在の価格動向は安定しており、投資家の関心は高いままです。\n- **イーサリアム（ETH）**: 価格は上昇中ですが、$1,680を突破する必要があります。\n- **XRP**: ETFへの資金流入が影響し、上昇傾向を維持しています。\n\n## 個別プロジェクトの進捗\n- **Coinbase**: 新たにAIエージェントアカウントを導入し、取引を自動化する機能を発表。この技術革新により、ユーザーの取引体験が向上する見込みです。\n- **Canton Network**: 355百万ドルの資金調達に成功し、ウォールストリートをブロックチェーン上に移行する計画を進めています。\n- **Tether**: ドイツのロボティクス企業Neuraへの14億ドルの資金調達を主導。これにより、Tetherの多様なビジネス戦略が強化される可能性があります。\n\n## 今日の要約から見える示唆\n市場全体は安定しており、特にXRPの動向は注目に値します。また、Coinbaseの新しい取引機能は、暗号資産取引の自動化に向けた重要な一歩です。これらの動きから、技術革新が市場の変化をもたらす可能性が高いと考えられます。\n\n## 次に確認すべきこと\n- XRPのETF関連の動向と資金流入の持続性を監視する必要があります。\n- イーサリアムの価格が$1,680を突破するかどうか、技術的な指標を確認します。\n- CoinbaseのAIエージェントアカウントの実績とユーザーの反応を分析することが重要です。\n\n## 今日の結論\n本日の暗号資産市場は安定した地合いを保ちつつ、特にXRPの動向とCoinbaseの新機能が注目されています。市場の技術革新が今後のトレンドに与える影響を見逃さないようにしましょう。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "Investing",
+      "FXStreet",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+      "link": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
+      "pubDate": "Thu, 11 Jun 2026 20:12:46 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Bounce Looks More Like Relief Than a Real Trend Reversal",
+      "link": "https://www.investing.com/analysis/ethereum-bounce-looks-more-like-relief-than-a-real-trend-reversal-200682004",
+      "pubDate": "Jun 11, 2026 18:04 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+      "link": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+      "pubDate": "Thu, 11 Jun 2026 17:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
+      "link": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure",
+      "pubDate": "Thu, 11 Jun 2026 16:37:53 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI Crypto Forecast: Bittensor, Near Protocol, Internet Computer rebound gains traction ",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ai-crypto-forecast-bittensor-near-protocol-internet-computer-rebound-gains-traction-202606111630",
+      "pubDate": "Thu, 11 Jun 2026 16:30:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP gains momentum supported by mild inflows into ETFs",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-ticks-up-as-buyers-re-engage-202606111230",
+      "pubDate": "Thu, 11 Jun 2026 16:00:00 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Bulls Need $1,680 Breakout to Turn Stability Into Recovery",
+      "link": "https://www.investing.com/analysis/ethereum-bulls-need-1680-breakout-to-turn-stability-into-recovery-200681994",
+      "pubDate": "Jun 11, 2026 15:23 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto for Advisors: Crypto ETFs\t",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+      "pubDate": "Thu, 11 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【6/11話題】大阪取引所がビットコイン先物取扱いか、WIZEのSOL追加取得、マスターカードがAIエージェント向け決済基盤ローンチなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/582011",
+      "pubDate": "Thu, 11 Jun 2026 14:59:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
+      "link": "https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
+      "pubDate": "Thu, 11 Jun 2026 14:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
+      "link": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
+      "pubDate": "Thu, 11 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Canton Network developer raises $355 million to bring Wall Street onchain",
+      "link": "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
+      "pubDate": "Thu, 11 Jun 2026 13:50:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tether leads $1.4 billion funding round in German robotics company Neura",
+      "link": "https://www.coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
+      "pubDate": "Thu, 11 Jun 2026 13:49:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise",
+      "pubDate": "Thu, 11 Jun 2026 13:45:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Citi opens new route into private markets with tokenized share offering",
+      "link": "https://www.coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering",
+      "pubDate": "Thu, 11 Jun 2026 13:27:12 +0000"
+    }
+  ]
+}
