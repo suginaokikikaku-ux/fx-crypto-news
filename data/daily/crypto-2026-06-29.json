@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-06-29",
+  "seoTitle": "暗号資産市場の最新情報とトレンド",
+  "seoDescription": "暗号資産市場の地合いや主要トピック、個別プロジェクトの進捗を整理し、次に確認すべきポイントを解説します。",
+  "article": "## 1分で読める結論\n現在の暗号資産市場はリスクオフの地合いが強まっており、ビットコインは60,000ドルを下回り、連続して四半期損失の可能性が高まっている。日本のSBIによるビットバンクへの289百万ドルの投資は、同国の暗号業界の統合を示唆している。投資家は今後の市場動向に注目し、特にAIやロボティクス関連のプロジェクトに対する資金の流れに注意が必要である。\n\n## 今日の暗号資産市場の地合い\n市場はリスクオフの状態が続いており、特に金や銀の売却がビットコインを押し下げている。ビットコインは60,000ドルを下回り、これが連続して四半期損失をもたらす可能性が高まっている。投資家は慎重な姿勢を保っており、全体的な市場のボラティリティが高まっている。\n\n## 今日の主要トピック3つ\n1. **CZが米国を暗号の首都にしたいと発言**: BinanceのCEO、CZが暗号資産の未来に関して米国の役割を強調。\n   [詳細はこちら](https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto)\n2. **Samson Mowがビットコインの底を指摘**: 市場の懐疑的な見方にもかかわらず、Samson Mowがビットコインの底を確認したと発言。\n   [詳細はこちら](https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided)\n3. **SBIのビットバンクへの289百万ドルの投資**: 日本の暗号資産市場の統合を示す重要な動き。\n   [詳細はこちら](https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners)\n\n## メインコインの整理\n- **ビットコイン**: 現在の価格は60,000ドルを下回っており、連続した四半期損失が懸念されている。\n- **イーサリアム**: リスクオフの感情が強まり、価格は低迷しているが、ポジション調整が進んでいる。\n- **XRP**: 1.05ドルを下回り、長期的な構造にリスクが及んでいる状況。\n\n## 個別プロジェクトの進捗\n- **Tether**: 230億ドルの金のストックを活用し、金利付きの貸付を開始。これにより流動性が向上する可能性がある。\n   [詳細はこちら](https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans)\n- **Polymarket**: ハッキング事件が発生し、損失が310万ドルに更新された。ユーザーへの全額返金を約束しているが、信頼性に影響を与える可能性がある。\n   [詳細はこちら](https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds)\n\n## 今日の要約から見える示唆\n市場は全体的にリスクオフの雰囲気が強く、特に金や銀の動きがビットコインに影響を与えている。また、日本のSBIによるビットバンクの買収は、地域における暗号市場の統合を示しており、今後の動向に注目が必要である。新たな資金の流入先としてAIやロボティクス関連のプロジェクトが浮上しているため、これらの分野も注視すべきである。\n\n## 次に確認すべきこと\n- ビットコインの価格動向と市場のボラティリティ。\n- SBIのビットバンク買収後の影響。\n- AIやロボティクス関連のプロジェクトに対する資金流入の動き。\n\n## 今日の結論\n暗号資産市場はリスクオフの地合いの中で、不確実性が高まっている。投資家は今後の価格動向や主要なプロジェクトの進捗を注意深く観察する必要がある。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "あたらしい経済",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+      "pubDate": "Sun, 28 Jun 2026 19:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+      "link": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+      "pubDate": "Sun, 28 Jun 2026 15:07:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
+      "link": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
+      "pubDate": "Sun, 28 Jun 2026 15:02:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+      "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
+      "pubDate": "Sun, 28 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
+      "pubDate": "Sun, 28 Jun 2026 13:00:00 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "金融スーパーアプリの勝者は誰に？ ロボティクスとAIの可能性（月刊 Web3 Buisness Hub 2026年6月号）",
+      "link": "https://www.neweconomy.jp/features/wbh/587386",
+      "pubDate": "Sun, 28 Jun 2026 12:52:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+      "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+      "pubDate": "Sun, 28 Jun 2026 07:10:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why a selloff in gold and silver is dragging bitcoin down",
+      "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "pubDate": "Sat, 27 Jun 2026 18:11:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+      "link": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "pubDate": "Sat, 27 Jun 2026 16:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "pubDate": "Sat, 27 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "link": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
+      "pubDate": "Sat, 27 Jun 2026 14:13:22 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Weekly Price Forecast: Bearish positioning contracts, but risk-off sentiment remains",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-bearish-positioning-contracts-but-risk-off-sentiment-remains-202606262106",
+      "pubDate": "Fri, 26 Jun 2026 21:06:25 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Russell includes crypto treasuries Bitmine and Upexi in major indexes",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/russell-includes-crypto-treasuries-bitmine-and-upexi-in-major-indexes-202606262044",
+      "pubDate": "Fri, 26 Jun 2026 20:44:48 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP’s Breakdown Below $1.05 Puts Its Long-Term Structure at Risk",
+      "link": "https://www.investing.com/analysis/xrps-breakdown-below-105-puts-its-longterm-structure-at-risk-200682897",
+      "pubDate": "Jun 26, 2026 20:40 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy’s Bitcoin Strategy Faces Its Biggest Stress Test Yet",
+      "link": "https://www.investing.com/analysis/strategys-bitcoin-strategy-faces-its-biggest-stress-test-yet-200682883",
+      "pubDate": "Jun 26, 2026 16:53 GMT"
+    }
+  ]
+}

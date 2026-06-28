@@ -1,5 +1,77 @@
 [
   {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Middle East War updates: US, Iran appear to be returning to talks to end the war",
+    "link": "https://www.fxstreet.com/news/middle-east-war-updates-us-iran-appear-to-be-returning-to-talks-to-end-the-war-202606282237",
+    "pubDate": "Sun, 28 Jun 2026 22:37:14 Z"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+    "pubDate": "Sun, 28 Jun 2026 19:30:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+    "link": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+    "pubDate": "Sun, 28 Jun 2026 15:07:12 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
+    "link": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
+    "pubDate": "Sun, 28 Jun 2026 15:02:43 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+    "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
+    "pubDate": "Sun, 28 Jun 2026 15:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+    "link": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
+    "pubDate": "Sun, 28 Jun 2026 13:00:00 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "金融スーパーアプリの勝者は誰に？ ロボティクスとAIの可能性（月刊 Web3 Buisness Hub 2026年6月号）",
+    "link": "https://www.neweconomy.jp/features/wbh/587386",
+    "pubDate": "Sun, 28 Jun 2026 12:52:44 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+    "link": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+    "pubDate": "Sun, 28 Jun 2026 07:10:52 +0000"
+  },
+  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -34,42 +106,6 @@
     "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
     "link": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
     "pubDate": "Sat, 27 Jun 2026 14:13:22 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-    "link": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-    "pubDate": "Sat, 27 Jun 2026 14:11:45 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-    "link": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-    "pubDate": "Sat, 27 Jun 2026 13:00:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-    "link": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-    "pubDate": "Sat, 27 Jun 2026 12:08:14 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-    "link": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-    "pubDate": "Sat, 27 Jun 2026 07:58:35 +0000"
   },
   {
     "source": "Investing",
@@ -108,78 +144,6 @@
     "pubDate": "Jun 27, 2026 07:50 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-    "link": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
-    "pubDate": "Sat, 27 Jun 2026 07:43:58 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "エテナ関連トレジャリー企業「ステーブルコインX」がナスダック上場、450億円相当ENAを保有",
-    "link": "https://coinpost.jp/?p=720496",
-    "pubDate": "Sat, 27 Jun 2026 13:15:26 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米民主党重鎮議員、退職金401kの仮想通貨解禁規則の撤回を要求",
-    "link": "https://coinpost.jp/?p=720446",
-    "pubDate": "Sat, 27 Jun 2026 11:40:08 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "スペイン当局「MiCA猶予延長なし」明言、バイナンスもEUでの営業停止へ",
-    "link": "https://coinpost.jp/?p=720473",
-    "pubDate": "Sat, 27 Jun 2026 11:00:31 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案",
-    "link": "https://coinpost.jp/?p=720485",
-    "pubDate": "Sat, 27 Jun 2026 10:30:36 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "Baseチェーン、2日連続でブロック生成障害発生　B20有効化も延期",
-    "link": "https://coinpost.jp/?p=720445",
-    "pubDate": "Sat, 27 Jun 2026 09:35:06 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米VCのフレームワークが640億円超調達、仮想通貨・AI・ロボット・エネルギー領域に投資へ",
-    "link": "https://coinpost.jp/?p=720462",
-    "pubDate": "Sat, 27 Jun 2026 08:15:29 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "金融資産トークン化企業セキュリタイズ、NYSE上場予定",
-    "link": "https://coinpost.jp/?p=720447",
-    "pubDate": "Sat, 27 Jun 2026 08:05:10 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -196,15 +160,6 @@
     "title": "Singapore Dollar: Gains momentum against US Dollar – OCBC",
     "link": "https://www.fxstreet.com/news/singapore-dollar-gains-momentum-against-us-dollar-ocbc-202606262158",
     "pubDate": "Fri, 26 Jun 2026 21:58:00 Z"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "リップルCEO、ストラテジーのビットコイン購入手法を疑問視",
-    "link": "https://coinpost.jp/?p=720448",
-    "pubDate": "Sat, 27 Jun 2026 06:45:12 +0900"
   },
   {
     "source": "Investing",
@@ -234,15 +189,6 @@
     "pubDate": "Jun 26, 2026 21:16 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米上院議員、CFTCにポリマーケット調査を要求　架空動画問題受け",
-    "link": "https://coinpost.jp/?p=720449",
-    "pubDate": "Sat, 27 Jun 2026 06:14:14 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -250,15 +196,6 @@
     "title": "Ethereum Weekly Price Forecast: Bearish positioning contracts, but risk-off sentiment remains",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-bearish-positioning-contracts-but-risk-off-sentiment-remains-202606262106",
     "pubDate": "Fri, 26 Jun 2026 21:06:25 Z"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "イーサリアムクジラ、8年ぶり売却　2025年高値から利益8割超減",
-    "link": "https://coinpost.jp/?p=720450",
-    "pubDate": "Sat, 27 Jun 2026 05:50:17 +0900"
   },
   {
     "source": "FXStreet",
@@ -295,15 +232,6 @@
     "title": "GBP/USD Faces a Double Squeeze From Warsh’s Fed and UK Politics",
     "link": "https://www.investing.com/analysis/gbpusd-faces-a-twofront-squeeze-from-warshs-fed-and-uk-politics-200682896",
     "pubDate": "Jun 26, 2026 20:26 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-    "link": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-    "pubDate": "Fri, 26 Jun 2026 20:15:03 +0000"
   },
   {
     "source": "FXStreet",
@@ -367,15 +295,6 @@
     "title": "Singapore Dollar: Range holds as consolidates against US Dollar – UOB",
     "link": "https://www.fxstreet.com/news/singapore-dollar-range-holds-as-consolidates-against-us-dollar-uob-202606261917",
     "pubDate": "Fri, 26 Jun 2026 19:17:35 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "The Japanese Yen got its hike; Tokyo still has to do the rest",
-    "link": "https://www.fxstreet.com/news/the-japanese-yen-got-its-hike-tokyo-still-has-to-do-the-rest-202606261910",
-    "pubDate": "Fri, 26 Jun 2026 19:10:38 Z"
   },
   {
     "source": "Investing",
@@ -792,15 +711,6 @@
     "pubDate": "Fri, 26 Jun 2026 03:03:58 Z"
   },
   {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "Cboeが予測市場に参入、ミニS＆P500指数のYes/No型オプション提供開始",
-    "link": "https://www.neweconomy.jp/posts/587085",
-    "pubDate": "Fri, 26 Jun 2026 02:56:52 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -918,6 +828,15 @@
     "pubDate": "Jun 24, 2026 13:23 GMT"
   },
   {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "JPYSC（SBI信託型円建てステーブルコイン）とは？仕組み・特徴・使い方を解説",
+    "link": "/crypto/stablecoin/jpysc/",
+    "pubDate": "Wed, 24 Jun 2026 17:47:50 +0900"
+  },
+  {
     "source": "FXStreet",
     "category": "stocks",
     "market": "global",
@@ -934,6 +853,33 @@
     "title": "Memory chip rout sends NASDAQ 100 futures off a cliff",
     "link": "https://www.fxstreet.com/news/memory-chip-rout-sends-nasdaq-100-futures-off-a-cliff-202606231250",
     "pubDate": "Tue, 23 Jun 2026 12:50:01 Z"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "SBI新生信託銀行、円連動ステーブルコイン「JPYSC」を6月中に発行　信託型で国内初＝日本経済新聞",
+    "link": "https://coinpost.jp/?p=719292",
+    "pubDate": "Tue, 23 Jun 2026 21:14:14 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "日本デジタル経済連盟（JDEF）・暗号資産運用ワークショップのレポート一覧",
+    "link": "/investment/jdef/",
+    "pubDate": "Tue, 23 Jun 2026 16:58:21 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "英中銀、ポンド建てステーブルコインの行動規範案を公開　発行上限や利回り禁止など提案",
+    "link": "https://coinpost.jp/?p=719027",
+    "pubDate": "Tue, 23 Jun 2026 13:05:10 +0900"
   },
   {
     "source": "FXStreet",
@@ -981,6 +927,15 @@
     "pubDate": "Jun 19, 2026 10:19 GMT"
   },
   {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Kaia、JPYC流通額3.3億円突破　発行チェーン国内首位に",
+    "link": "https://coinpost.jp/?p=718105",
+    "pubDate": "Thu, 18 Jun 2026 13:53:20 +0900"
+  },
+  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -999,6 +954,15 @@
     "pubDate": "Jun 16, 2026 12:17 GMT"
   },
   {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "アステリア、企業向けJPYC管理サービスが対応ウォレット6種を発表　メタマスクやFireblocksなど",
+    "link": "https://coinpost.jp/?p=717493",
+    "pubDate": "Tue, 16 Jun 2026 13:57:32 +0900"
+  },
+  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -1006,6 +970,24 @@
     "title": "Week Ahead: Central Bank Decisions, US Retail Sales, and Japan Inflation in Focus",
     "link": "https://www.investing.com/analysis/week-ahead-central-bank-decisions-us-retail-sales-and-japan-inflation-in-focus-200682072",
     "pubDate": "Jun 12, 2026 14:57 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ",
+    "link": "https://coinpost.jp/?p=716849",
+    "pubDate": "Fri, 12 Jun 2026 17:58:29 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Visa、ステーブルコイン決済70億ドル規模に　OpenAIとAI向け基盤で提携",
+    "link": "https://coinpost.jp/?p=716412",
+    "pubDate": "Thu, 11 Jun 2026 18:46:07 +0900"
   },
   {
     "source": "Investing",
@@ -1024,5 +1006,23 @@
     "title": "Global Markets Brace for ECB Decision as US Dollar and Oil Rally",
     "link": "https://www.investing.com/analysis/global-markets-brace-for-ecb-decision-as-us-dollar-and-oil-rally-200681915",
     "pubDate": "Jun 10, 2026 19:15 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "MoneyXとは？次世代金融カンファレンス｜ステーブルコインと通貨の進化",
+    "link": "/crypto/event/moneyx/",
+    "pubDate": "Thu, 04 Jun 2026 18:01:12 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "CoinPost運営カンファレンス｜WebX・MoneyX公式情報ハブ",
+    "link": "/crypto/event/",
+    "pubDate": "Thu, 04 Jun 2026 17:56:39 +0900"
   }
 ]
