@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-07-02",
+  "seoTitle": "最新の暗号資産市場動向と注目プロジェクト",
+  "seoDescription": "本日の暗号資産市場の地合い、主要コインの動向、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n本日は、イーサリアムの新独立組織設立や、モルフォに対する強気見通し、ロビンフッドチェーンの公開など注目のニュースが多く、全体的に新たな動きが見られる。特に、機関向けの取り組みが加速しており、今後の市場への影響が期待される。\n\n## 今日の暗号資産市場の地合い\n市場全体としては、機関投資家の動きが活発化しており、特にイーサリアム関連のニュースが市場にポジティブな影響を与えている。暗号資産に対する関心が高まっているため、資金流入の可能性が高まりつつある。\n\n## 今日の主要トピック3つ\n1. **イーサリアムに新たな独立組織が誕生**: 機関向けの採用を促進するための取り組みが進行中。\n2. **スタンダードチャータード、モルフォに強気見通し**: モルフォの価格に対する長期的な見通しが示され、注目を集めている。\n3. **ロビンフッドチェーン正式公開**: トークン化株式を120カ国以上に提供し、暗号資産の普及を加速する。\n\n## メインコインの整理\nビットコインやイーサリアムは、現在の地合いにおいても取引が活発で、特にイーサリアムの機関投資家からの支持が高まっている。ビットコインは依然として価格の底を探る動きがあるものの、全体的には安定した取引が続いている。\n\n## 個別プロジェクトの進捗\n- **モルフォ**: スタンダードチャータードが2030年までに60ドルを予測し、市場の期待が高まっている。\n- **ロビンフッド**: 公開ブロックチェーンを導入し、暗号資産市場への更なる進出を図っている。\n- **ソラナ版予測市場『ワールド』**: ファントムウォレットとの統合により、利用者の利便性が向上。\n\n## 今日の要約から見える示唆\n機関投資家の参入が増えていることは、暗号資産市場の成熟を示している。特にイーサリアムに関連する新たな組織やプロジェクトが増加していることは、今後の市場環境にプラスの影響を及ぼす可能性が高い。\n\n## 次に確認すべきこと\n- **イーサリアムの新組織の具体的な活動内容**: どのように機関向け採用が進むのか、詳細を追跡する必要がある。\n- **モルフォの市場動向**: スタンダードチャータードの見通しが市場にどう反映されるのか注目。\n- **ロビンフッドの展開状況**: 提供されるサービスや市場の反応を確認することが重要。\n\n## 今日の結論\n暗号資産市場は新たな動きを見せており、特にイーサリアムに関連するプロジェクトの進展が目立つ。機関投資家の関心が高まる中、今後の市場動向に注目が集まる。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "FXStreet",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアムに新たな独立組織が誕生、機関向けの採用を促進へ",
+      "link": "https://coinpost.jp/?p=721512",
+      "pubDate": "Thu, 02 Jul 2026 08:25:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スタンダードチャータード、DeFi拡大でモルフォに強気見通し",
+      "link": "https://coinpost.jp/?p=721492",
+      "pubDate": "Thu, 02 Jul 2026 07:35:37 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Morpho surges as Standard Chartered projects $60 price by 2030",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/morpho-surges-as-standard-chartered-projects-60-price-by-2030-202607012204",
+      "pubDate": "Wed, 01 Jul 2026 22:04:15 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ロビンフッドチェーン正式公開、トークン化株式を120カ国超に提供",
+      "link": "https://coinpost.jp/?p=721493",
+      "pubDate": "Thu, 02 Jul 2026 06:55:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナ版予測市場『ワールド』がリリース、ファントムウォレットと統合",
+      "link": "https://coinpost.jp/?p=721491",
+      "pubDate": "Thu, 02 Jul 2026 06:20:35 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+      "pubDate": "Wed, 01 Jul 2026 21:13:24 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Nears Major Low as Elliott Wave and Momentum Divergences Signal Reversal",
+      "link": "https://www.investing.com/analysis/bitcoin-nears-major-low-as-elliott-wave-and-momentum-divergences-signal-reversal-200683165",
+      "pubDate": "Jul 01, 2026 21:01 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラリティー法案の倫理条項、トランプ大統領の仮想通貨収益報告を受け民主党が明記要求",
+      "link": "https://coinpost.jp/?p=721490",
+      "pubDate": "Thu, 02 Jul 2026 05:55:04 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s $58K Floor Becomes the Decisive Test After June’s ETF Rout",
+      "link": "https://www.investing.com/analysis/bitcoins-58k-floor-becomes-the-decisive-test-after-junes-etf-rout-200683162",
+      "pubDate": "Jul 01, 2026 20:37 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、英国で集団訴訟　約1700人が320億円超請求",
+      "link": "https://coinpost.jp/?p=721483",
+      "pubDate": "Thu, 02 Jul 2026 05:00:44 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP bulls eye short-term rebound as $1.00 support holds",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-falters-near-100-as-demand-dries-up-202607011450",
+      "pubDate": "Wed, 01 Jul 2026 18:30:00 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "pubDate": "Wed, 01 Jul 2026 18:25:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+      "link": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
+      "pubDate": "Wed, 01 Jul 2026 17:52:33 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Dogecoin vs Shiba Inu: DOGE and SHIB start July with similar setups",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/dogecoin-vs-shiba-inu-doge-and-shib-start-july-with-similar-setups-202607011709",
+      "pubDate": "Wed, 01 Jul 2026 17:09:40 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "pubDate": "Wed, 01 Jul 2026 16:11:50 +0000"
+    }
+  ]
+}
