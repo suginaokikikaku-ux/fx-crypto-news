@@ -1,0 +1,169 @@
+{
+  "type": "fx",
+  "date": "2026-07-03",
+  "seoTitle": "USD/JPYの動向とマクロ経済分析",
+  "seoDescription": "USD/JPYの市場動向を中心に、金利や雇用データが相場に与える影響を分析。地政学的要因も考慮した今日の相場解釈。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の雇用データの弱さを受けてドル安が進行し、特にUSD/JPYが反発した。金利の動向が影響を与え、リスクオフの傾向も見られる。BTCにも波及する可能性がある。\n\n## 2. 今日の主要ドライバー3つ\n- **米国の雇用データ → ドル安**: 最近の雇用統計が予想を下回り、これにより米国の金利引き上げの可能性が低下。ドルに対する売り圧力が強まり、USD/JPYが反発した。\n- **地政学的リスクの高まり → 安全資産へのシフト**: 中東地域の緊張が高まり、安全資産への資金流入が見られる。これが円高を助長し、USD/JPYに影響を与えている。\n- **金利の変動 → 市場の期待感**: FOMCの方針に対する市場の期待が変わり、ドルの動きに影響。市場参加者は今後の金利動向を注視している。\n\n## 3. 市場構造の解釈\n今回の動きは主に米国の雇用データに起因しており、金利の見通しが急速に変化している。短期的には市場の反応が敏感であり、特に機関投資家によるポジション調整が見られる。全体的に、米国の経済指標が市場心理に大きく影響しているとの仮説が立てられる。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的にはドル安基調が続くと考えられるが、地政学的リスクによる円高圧力も存在する。中期的には、雇用データを受けた金利の動向が重要であり、これにより相場の構造が変わる可能性がある。今回の動きは「継続型」であると考えられ、特に金利の見通しが影響を与える。\n\n## 5. BTCへの波及\n米国の金利期待の低下により、リスクオフの動きが強まり、BTCに対する資金流入が期待される。BTCはリスク資産としての側面を持つため、USD/JPYの動向がBTC市場にも影響を与える可能性がある。\n\n## 6. 強気・弱気の分岐条件\n- **強気条件**: 米国の経済指標が改善し、金利引き上げの可能性が高まる場合。これによりドルが強くなり、USD/JPYが上昇する可能性がある。\n- **弱気条件**: 雇用データが更に悪化し、金利引き上げが見込まれない場合。これによりドル売りが加速し、円高が進行する可能性が高い。\n\n## 7. 今日の示唆\n今の相場では、米国の雇用データとその後の金利動向を注視すべき。特に、次回のFOMCや重要な経済指標の発表が影響を与える可能性があるため、情報収集を怠らないことが重要。市場の反応に敏感になることが求められる。\n\n## 8. 今日の結論\n今日の相場は、米国の雇用データに基づくドル安が主な要因で、USD/JPYは反発した。今後の金利動向が市場に与える影響に注目が必要である。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "South Korean Won: Export strength fails to stop gains – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-fails-to-stop-gains-societe-generale-202607022246",
+      "pubDate": "Thu, 02 Jul 2026 22:46:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: Renminbi gains weaken undervaluation claims – BNY",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-renminbi-gains-weaken-undervaluation-claims-bny-202607022215",
+      "pubDate": "Thu, 02 Jul 2026 22:15:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Mexican Peso rises on soft US jobs data, intervention speculation",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rises-on-soft-us-jobs-data-intervention-speculation-202607022202",
+      "pubDate": "Thu, 02 Jul 2026 22:02:57 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Thai Baht: External cushion less generous – UOB",
+      "link": "https://www.fxstreet.com/news/thai-baht-external-cushion-less-generous-uob-202607022137",
+      "pubDate": "Thu, 02 Jul 2026 21:37:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "New Zealand Dollar rises as softer US jobs data weighs on the US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-softer-us-jobs-data-weighs-on-the-us-dollar-202607022119",
+      "pubDate": "Thu, 02 Jul 2026 21:19:43 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Pound Sterling holds the line, on loan from a cracking Dollar",
+      "link": "https://www.fxstreet.com/news/pound-sterling-holds-the-line-on-loan-from-a-cracking-dollar-202607022057",
+      "pubDate": "Thu, 02 Jul 2026 20:57:58 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Japanese Yen bounces as Tokyo stops telegraphing its punches",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bounces-as-tokyo-stops-telegraphing-its-punches-202607022057",
+      "pubDate": "Thu, 02 Jul 2026 20:57:55 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "South Korean Won: Semiconductor risk and inflation dynamics – BNY",
+      "link": "https://www.fxstreet.com/news/south-korean-won-semiconductor-risk-and-inflation-dynamics-bny-202607022053",
+      "pubDate": "Thu, 02 Jul 2026 20:53:00 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Smart Investment Trick: Let’s Go All the Way",
+      "link": "https://www.investing.com/analysis/smart-investment-trick-lets-go-all-the-way-200683250",
+      "pubDate": "Jul 02, 2026 20:31 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: PMI resilience but trade risks grow – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pmi-resilience-but-trade-risks-grow-commerzbank-202607022011",
+      "pubDate": "Thu, 02 Jul 2026 20:11:00 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Bond Vigilantes Remain in Charge as Warsh Lets Markets Guide Fed Policy",
+      "link": "https://www.investing.com/analysis/bond-vigilantes-remain-in-charge-as-warsh-lets-markets-guide-fed-policy-200683248",
+      "pubDate": "Jul 02, 2026 19:46 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Jobs Report Masks Weak Labor Market Beneath Falling Unemployment",
+      "link": "https://www.investing.com/analysis/us-jobs-report-masks-weak-labor-market-beneath-falling-unemployment-200683247",
+      "pubDate": "Jul 02, 2026 19:35 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: Range bias holds near recent lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-holds-near-recent-lows-against-us-dollar-uob-202607021934",
+      "pubDate": "Thu, 02 Jul 2026 19:34:00 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed’s Nightmare Scenario Has Arrived: Weak Jobs, High Inflation",
+      "link": "https://www.investing.com/analysis/feds-nightmare-scenario-has-arrived-weak-jobs-high-inflation-200683221",
+      "pubDate": "Jul 02, 2026 19:30 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Soft Jobs Report Lowers Fed Rate Hike Odds as Positive Market Trend Holds",
+      "link": "https://www.investing.com/analysis/soft-jobs-report-lowers-fed-rate-hike-odds-as-positive-market-trend-holds-200683240",
+      "pubDate": "Jul 02, 2026 18:09 GMT"
+    }
+  ]
+}

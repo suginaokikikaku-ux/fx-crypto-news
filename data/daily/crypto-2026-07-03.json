@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-07-03",
+  "seoTitle": "最新の暗号資産市場動向と分析【2026年7月2日】",
+  "seoDescription": "2026年7月2日の暗号資産市場に関する最新の動向や分析をお届けします。主要コインの動きやプロジェクトの進捗を詳しく解説。",
+  "article": "## 1分で読める結論\n本日、暗号資産市場はやや落ち着きを見せているが、特にイーサリアムが重要な低水準に近づいている。XRPは短期的な回復を見せているが、小売需要は冷え込んでいる。機関投資家向けの新団体「Ethereum Institutional」が始動し、DeFiへの関心が高まっている。\n\n## 今日の暗号資産市場の地合い\n市場全体は安定した動きを見せているが、イーサリアムなど一部のコインはテクニカルな調整局面に入っている。特に、イーサリアムはエリオット波動理論によると反転の可能性が指摘されている。また、機関投資家の動きが活発化しており、DeFiやトークナイゼーションの流れが続いている。\n\n## 今日の主要トピック3つ\n1. **イーサリアムが重要な低水準に近づく** - エリオット波動に基づく分析で、反転の可能性が示唆されている。\n2. **SecuritizeがSolanaとAvalancheで2.95億ドルの株式をトークン化** - NYSEデビューに際し、トークン化の進展が注目されている。\n3. **XRPが短期的な回復を示すも、小売需要は冷却中** - XRPの動向は注視されるが、外部要因が影響を与えている。\n\n## メインコインの整理\n- **ビットコイン**: 市場の安定感を維持。\n- **イーサリアム**: 重要な低水準に接近中で、エリオット波動の影響が懸念される。\n- **XRP**: 短期的に回復を見せているが、冷え込む小売需要が影響。\n\n## 個別プロジェクトの進捗\n- **Securitize**: 2.95億ドルの株式をトークン化し、SolanaおよびAvalancheプラットフォーム上での展開を開始。\n- **Ethereum Institutional**: 新たに設立された機関投資家向け団体が、Ethereumエコシステムにおける活動を促進。\n- **eToro**: DeFi分野に参入し、オンチェーンデリバティブプラットフォーム「Extended」への投資を決定。\n\n## 今日の要約から見える示唆\n市場は現在の安定を維持しているものの、特定のコインやプロジェクトは重要な調整局面にある。特にイーサリアムの動きは投資家にとって重要な指標となる。機関投資家の流入がシステムの強化に繋がる可能性があるため、今後の進展が期待される。\n\n## 次に確認すべきこと\n- イーサリアムの価格動向とエリオット波動の分析を引き続き監視する。\n- SecuritizeやeToroなどの新たなプロジェクトの進展に注目する。\n- XRPの短期的な回復が持続するかどうか、外部要因を考慮しながら確認する。\n\n## 今日の結論\n市場は安定した状態を維持しているが、イーサリアムのテクニカルな調整や新たなプロジェクトの進展が重要な焦点となる。機関投資家の動きも注視し、次の展開に備える必要がある。",
+  "meta": {
+    "sources": [
+      "Investing",
+      "CoinDesk",
+      "FXStreet",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Nears Major Low as Elliott Wave Count Points to Reversal Potential",
+      "link": "https://www.investing.com/analysis/ethereum-nears-major-low-as-elliott-wave-count-points-to-reversal-potential-200683249",
+      "pubDate": "Jul 02, 2026 20:06 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+      "pubDate": "Thu, 02 Jul 2026 19:00:03 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy's STRC volatility points to late Bitcoin cycle reset — Bitwise",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/strategys-strc-volatility-points-to-late-bitcoin-cycle-reset-bitwise-202607021856",
+      "pubDate": "Thu, 02 Jul 2026 18:56:02 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+      "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+      "pubDate": "Thu, 02 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+      "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
+      "pubDate": "Thu, 02 Jul 2026 16:51:36 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP extends short-term recovery despite cooling retail demand",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-bulls-aim-for-120-breakout-despite-etf-outflows-fading-retail-interest-202607021300",
+      "pubDate": "Thu, 02 Jul 2026 16:00:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Pump.fun Price Forecast: PUMP rebounds amid growing Open Interest",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/pumpfun-price-forecast-pump-rebounds-amid-growing-open-interest-202607021458",
+      "pubDate": "Thu, 02 Jul 2026 14:58:03 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
+      "pubDate": "Thu, 02 Jul 2026 14:49:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
+      "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
+      "pubDate": "Thu, 02 Jul 2026 14:44:55 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【7/2話題】機関投資家向け新団体「Ethereum Institutional」始動、メタマスクが利回り付き口座「Money Account」提供開始など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/588864",
+      "pubDate": "Thu, 02 Jul 2026 14:36:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
+      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+      "pubDate": "Thu, 02 Jul 2026 14:16:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
+      "link": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
+      "pubDate": "Thu, 02 Jul 2026 13:11:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
+      "link": "https://www.coindesk.com/markets/2026/07/02/u-s-payroll-growth-slowed-sharply-in-june-adding-only-57-000-jobs",
+      "pubDate": "Thu, 02 Jul 2026 12:37:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
+      "link": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
+      "pubDate": "Thu, 02 Jul 2026 12:10:15 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Today: Bitcoin, Ethereum, XRP steady rebound as US and Iran conclude positive talks in Doha",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-steady-rebound-as-us-and-iran-conclude-positive-talks-in-doha-202607021200",
+      "pubDate": "Thu, 02 Jul 2026 12:00:00 Z"
+    }
+  ]
+}
