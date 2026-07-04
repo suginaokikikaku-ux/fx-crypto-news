@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USD/JPYの市場構造分析と強気・弱気の分岐条件</title>
+  <meta name="description" content="USD/JPYとBTCの動向を踏まえた市場構造の解釈。金利や流動性が相場に与える影響を詳述。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-05.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="USD/JPYの市場構造分析と強気・弱気の分岐条件" />
+  <meta property="og:description" content="USD/JPYとBTCの動向を踏まえた市場構造の解釈。金利や流動性が相場に与える影響を詳述。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-05.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"USD/JPYの市場構造分析と強気・弱気の分岐条件","description":"USD/JPYとBTCの動向を踏まえた市場構造の解釈。金利や流動性が相場に与える影響を詳述。","datePublished":"2026-07-05","dateModified":"2026-07-05","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-05.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">FX DAILY ARTICLE</div>
+        <h1>USD/JPYの市場構造分析と強気・弱気の分岐条件</h1>
+        <p>USD/JPYとBTCの動向を踏まえた市場構造の解釈。金利や流動性が相場に与える影響を詳述。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-07-05 / macro・fx・fx_analysis</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はmacro・fx・fx_analysisを中心に、Investing / FXStreetのニュースをもとに整理しています。</div>
+      <h2>1. 1分で読める結論</h2>
+本日の相場は、米国の雇用統計の結果が予想以上に弱かったことを受けて、USD/JPYが下落する流れとなった。米国の金利見通しが影響を及ぼす中、今後の動きに注目が集まる。BTCもUSDとの相関が見られるため、影響を受ける可能性がある。</p><h2>2. 今日の主要ドライバー3つ</h2>
+1. <strong>米国の雇用統計 → USDの下落</strong>: 雇用統計が弱い結果となり、連邦準備制度の利上げ期待が後退したことで、ドルが売られる流れとなった。これにより、USD/JPYは下落した。
+2. <strong>市場の流動性 → 取引活発化</strong>: 米国独立記念日を控え、米国市場の流動性が一時的に低下する中、特に短期トレーダーがポジション調整を行い、ボラティリティが増加した。
+3. <strong>地政学的リスク → リスク回避の動き</strong>: 世界的な地政学的緊張が高まり、リスク回避の動きが強まったため、安全資産へのシフトが見られた。これがJPYへの需要を高め、USD/JPYに影響を与えた。</p><h2>3. 市場構造の解釈</h2>
+今回の動きは主に米国の金利政策に敏感な流動性によって主導されている。特に、雇用統計が市場の期待を下回ったことで、投資家のセンチメントが変化し、リスク回避が強まった。この動きは一時的なものではなく、今後数日間にわたり継続する可能性が高い。機関投資家が主導していると考えられ、彼らはポジション調整を行っている模様。また、米国の経済指標が予想を下回ったことで、投資家がリスクを再評価している。</p><h2>4. USD/JPY分析</h2>
+現在の相場観は下落トレンドであり、短期的にはさらなる下落が見込まれる。中期的には、米国の経済指標の結果によって変動が続く可能性がある。今回の動きは「継続型」と考えられ、特に金利見通しに影響を受けやすい。市場の状況によっては、さらなる変動が予想される。</p><h2>5. BTCへの波及</h2>
+USD/JPYの下落は、リスク回避の動きが強まる中でBTCに影響を与えると考えられる。特に、米国の金利政策の変化がBTCに対する投資家の見方を変える可能性がある。BTCはリスク資産としての側面が強いため、USDの動向に敏感に反応する。</p><h2>6. 強気・弱気の分岐条件</h2>
+<ul><li><strong>強気条件</strong>: 米国の経済指標が改善し、金利上昇期待が強まる場合、USDが回復する可能性がある。</li>
+<li><strong>弱気条件</strong>: 雇用統計や他の経済指標が継続的に弱い結果を示した場合、USD/JPYはさらなる下落が見込まれる。特に、リスク回避の動きが続くとJPYが買われやすくなる。</li></ul><h2>7. 今日の示唆</h2>
+今の相場では、米国の経済指標に注目すべきである。特に、今後の雇用統計や金利に関する発表が、相場に大きな影響を与える可能性がある。市場の流動性も低下しているため、ボラティリティの動きに注意が必要である。</p><h2>8. 今日の結論</h2>
+本日は、米国の雇用統計の結果を受けてUSD/JPYが下落する流れとなった。金利見通しや地政学的リスクが相場に影響を与え、今後の動きに注視が必要である。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/fx/what-is-fx.html">FXとは？</a></li><li><a href="../basics/fx/what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="../basics/fx/what-is-usdjpy.html">ドル円とは？USD/JPYの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>Investing / FXStreet</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>macro・fx・fx_analysis</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] The US Economy In a Nutshell: Privatize the Gains, Socialize the Costs（Investing / macro） - <a href="https://www.investing.com/analysis/the-us-economy-in-a-nutshell-privatize-the-gains-socialize-the-costs-200682945" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] Forecasting the upcoming week: US Dollar's resilience faces Fed minutes and jobless claims （FXStreet / fx） - <a href="https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-dollars-resilience-faces-fed-minutes-and-jobless-claims-202607032036" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Chinese Yuan: Range trade bias stays neutral against US Dollar – UOB（FXStreet / fx） - <a href="https://www.fxstreet.com/news/chinese-yuan-range-trade-bias-stays-neutral-against-us-dollar-uob-202607032028" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] NZD/USD Price Forecast: Rebounds above 0.5700, bears guard 0.5750（FXStreet / fx） - <a href="https://www.fxstreet.com/news/nzd-usd-price-forecast-rebounds-above-05700-bears-guard-05750-202607031948" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Singapore Dollar: Seen consolidating in range against US Dollar – Commerzbank（FXStreet / fx） - <a href="https://www.fxstreet.com/news/singapore-dollar-seen-consolidating-in-range-against-us-dollar-commerzbank-202607031939" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] Chinese Yuan: Bulls extend gains on PMI resilience – Societe Generale（FXStreet / fx） - <a href="https://www.fxstreet.com/news/chinese-yuan-bulls-extend-gains-on-pmi-resilience-societe-generale-202607031851" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Japanese Yen holds steady amid US Independence Day holiday（FXStreet / fx） - <a href="https://www.fxstreet.com/news/japanese-yen-holds-steady-amid-us-independence-day-holiday-202607031838" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] Silver Price Forecast: XAG reclaims $60 as RSI recovery targets $65 breakout（FXStreet / fx） - <a href="https://www.fxstreet.com/news/silver-price-forecast-reclaims-60-as-rsi-recovery-targets-65-breakout-202607031833" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Gold price climbs as weak NFP cool Fed hike bets（FXStreet / fx） - <a href="https://www.fxstreet.com/news/gold-price-climbs-as-weak-nfp-cool-fed-hike-bets-202607031824" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] Euro: Slightly reduced upside as policy paths diverge – ABN AMRO（FXStreet / fx） - <a href="https://www.fxstreet.com/news/euro-slightly-reduced-upside-as-policy-paths-diverge-abn-amro-202607031814" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Swiss Franc eyes first weekly gain in five weeks as weak NFP delays Fed hikes（FXStreet / fx） - <a href="https://www.fxstreet.com/news/swiss-franc-eyes-first-weekly-gain-in-five-weeks-as-weak-nfp-delays-fed-hikes-202607031801" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] US Dollar Weekly Forecast: The Dollar stumbles, but the bigger picture remains unchanged（FXStreet / fx_analysis） - <a href="https://www.fxstreet.com/analysis/us-dollar-weekly-forecast-the-dollar-stumbles-but-the-bigger-picture-remains-unchanged-202607031738" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Wage Growth as a Leading Inflation Indicator（Investing / macro） - <a href="https://www.investing.com/analysis/wage-growth-as-a-leading-inflation-indicator-200683282" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] America at 250: 9 Reasons the US Economy Still Stands Apart（Investing / macro） - <a href="https://www.investing.com/analysis/america-at-250-9-reasons-the-us-economy-still-stands-apart-200683267" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] Gold Weekly Forecast: Buyers show interest as markets dial back near-term Fed rate hike expectations（FXStreet / fx_analysis） - <a href="https://www.fxstreet.com/analysis/gold-weekly-forecast-buyers-show-interest-as-markets-dial-back-near-term-fed-rate-hike-expectations-202607031452" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜FX デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
