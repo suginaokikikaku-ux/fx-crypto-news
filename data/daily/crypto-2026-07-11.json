@@ -1,0 +1,171 @@
+{
+  "type": "crypto",
+  "date": "2026-07-11",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "本日の暗号資産市場の地合い、主要コインの状況、プロジェクトの進捗を詳しく解説。次に確認すべきポイントも整理。",
+  "article": "## 1分で読める結論\n本日は、ビットコインやイーサリアムが回復レベルを維持する中、ETFからの資金流出が見られました。また、暗号資産関連の新しい技術やプロジェクトの進展が注目を集めています。\n\n## 今日の暗号資産市場の地合い\n暗号資産市場は全体的に安定しており、ビットコイン（BTC）やイーサリアム（ETH）は回復傾向を示しています。しかし、ETFからの小規模な資金流出が観測されており、市場の流動性には影響が出る可能性があります。特に、価格の安定性が注目されています。\n\n## 今日の主要トピック3つ\n1. **ETFからの資金流出**: ビットコイン、イーサリアム、XRPが回復レベルを維持する中で、小規模なETFの資金流出が報告されています。\n2. **AIエージェントの実証実験**: ビットバンクがAIエージェントを活用した新たな取引体験を実現するための実証実験を開始しました。\n3. **Circleの信託銀行設立**: USDC発行企業であるCircleが信託銀行設立の最終承認を取得しました。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: 現在、回復レベルを維持しており、一時的な価格の安定が見込まれています。ETFからの資金流出にもかかわらず、買い手は流出を吸収しています。\n- **イーサリアム（ETH）**: ネットワークのエネルギー消費が大幅に減少し、持続可能性が向上しています。これにより、投資家の関心が高まっています。\n- **XRP**: 現在の回復は脆弱であり、テクニカル面での弱さが見られます。\n\n## 個別プロジェクトの進捗\n- **ビットバンク**: AIエージェントを用いた新たな取引体験の実証実験を開始しています。これは、取引の効率を向上させる期待があります。\n- **Circle**: 信託銀行設立に向けた承認を取得し、今後の金融サービス展開が注目されます。\n- **NEC**: 顔認証技術とアバランチを活用したオンチェーン取引基盤の検討を進めており、今後の技術革新が期待されます。\n\n## 今日の要約から見える示唆\n市場は安定的な動きが見られる一方で、ETFからの資金流出が影響を及ぼさないか注意が必要です。また、技術革新が進む中で、関連プロジェクトの進捗が市場への影響を与える可能性があります。\n\n## 次に確認すべきこと\n- ETFからの資金流出の動向とそれが市場に与える影響\n- ビットバンクのAIエージェントの実証実験の結果\n- Circleの信託銀行設立後のサービス展開\n\n## 今日の結論\n暗号資産市場は回復傾向にあるものの、ETFからの資金流出が見られます。新たな技術やプロジェクトの進展も注目される中で、今後の市場動向には注意が必要です。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "CoinPost",
+      "CoinDesk",
+      "Investing",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300",
+      "pubDate": "Fri, 10 Jul 2026 23:00:37 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始",
+      "link": "https://coinpost.jp/?p=723918",
+      "pubDate": "Sat, 11 Jul 2026 07:15:29 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却",
+      "link": "https://coinpost.jp/?p=723910",
+      "pubDate": "Sat, 11 Jul 2026 06:55:30 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+      "pubDate": "Fri, 10 Jul 2026 21:26:55 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "暗号屋、銀行振込対応のステーブルコイン決済「すてぶるペイ」を発表",
+      "link": "https://coinpost.jp/?p=723911",
+      "pubDate": "Sat, 11 Jul 2026 06:25:32 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: Network energy consumption drops below half of British Museum levels",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-network-energy-consumption-drops-below-half-of-british-museum-levels-202607102123",
+      "pubDate": "Fri, 10 Jul 2026 21:23:20 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "英大手銀、2026年末ビットコイン10万ドル予測を維持",
+      "link": "https://coinpost.jp/?p=723906",
+      "pubDate": "Sat, 11 Jul 2026 05:55:47 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "USDC発行企業サークル、信託銀行設立の最終承認を取得",
+      "link": "https://coinpost.jp/?p=723896",
+      "pubDate": "Sat, 11 Jul 2026 05:00:26 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s Deep Drawdown Shows Why $64K Is Still a Fragile Recovery",
+      "link": "https://www.investing.com/analysis/bitcoins-deep-drawdown-shows-why-64k-is-still-a-fragile-recovery-200683744",
+      "pubDate": "Jul 10, 2026 19:21 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Circle stock jumps following OCC approval to launch national trust",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/circle-stock-jumps-following-occ-approval-to-launch-national-trust-202607101753",
+      "pubDate": "Fri, 10 Jul 2026 17:53:52 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+      "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+      "pubDate": "Fri, 10 Jul 2026 16:02:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "pubDate": "Fri, 10 Jul 2026 15:26:43 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP rebound remains fragile amid weak technicals",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-edges-higher-but-risks-stalling-amid-cooling-demand-202607101045",
+      "pubDate": "Fri, 10 Jul 2026 14:00:00 Z"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【7/10話題】NECが顔認証とアバランチ活用のオンチェーン取引基盤検討、ビットバンクのAIエージェント向けMCPサーバ、Swiftの共有台帳が初期利用へなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/591358",
+      "pubDate": "Fri, 10 Jul 2026 13:01:00 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s $64K Rebound Shows Buyers Are Absorbing ETF Outflows",
+      "link": "https://www.investing.com/analysis/bitcoins-64k-rebound-shows-buyers-are-absorbing-etf-outflows-200683715",
+      "pubDate": "Jul 10, 2026 12:37 GMT"
+    }
+  ]
+}
