@@ -1,5 +1,149 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "pubDate": "Sat, 11 Jul 2026 18:06:58 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "pubDate": "Sat, 11 Jul 2026 17:07:24 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "The UK has finally shown it’s serious about crypto ",
+    "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "pubDate": "Sat, 11 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+    "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+    "pubDate": "Sat, 11 Jul 2026 12:25:05 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+    "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+    "pubDate": "Sat, 11 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The 3 Bottlenecks Shaping AI’s Next Trillion-Dollar Opportunity",
+    "link": "https://www.investing.com/analysis/the-3-bottlenecks-where-the-55t-is-actually-going-200683747",
+    "pubDate": "Jul 11, 2026 10:15 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Margin Debt Risk: The Ratios That Mislead Investors",
+    "link": "https://www.investing.com/analysis/margin-debt-risk-the-ratios-that-mislead-investors-200683369",
+    "pubDate": "Jul 11, 2026 10:14 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Frozen Labor Market With Fed Put on Ice",
+    "link": "https://www.investing.com/analysis/frozen-labor-market-with-fed-put-on-ice-200683730",
+    "pubDate": "Jul 11, 2026 10:02 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Buyer Beware: These 2 Stocks Charts Just Displayed a Death Cross",
+    "link": "https://www.investing.com/analysis/buyer-beware-these-2-stocks-charts-just-displayed-a-death-cross-200683735",
+    "pubDate": "Jul 11, 2026 10:02 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "イーサリアム、温室効果ガス排出量を99%以上削減",
+    "link": "https://coinpost.jp/?p=723954",
+    "pubDate": "Sat, 11 Jul 2026 13:30:41 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ソラナ初期クジラ、23億円相当SOL盗まれたか",
+    "link": "https://coinpost.jp/?p=723953",
+    "pubDate": "Sat, 11 Jul 2026 11:35:28 +0900"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+    "pubDate": "Sat, 11 Jul 2026 02:30:00 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=723907",
+    "pubDate": "Sat, 11 Jul 2026 10:20:24 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ジーキャッシュ、ZEC偽造脆弱性対応の「Ironwood」アップグレードで実施日程公開",
+    "link": "https://coinpost.jp/?p=723939",
+    "pubDate": "Sat, 11 Jul 2026 10:05:55 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米住宅法、CBDC禁止条項含み自動発効へ　トランプ大統領署名拒否",
+    "link": "https://coinpost.jp/?p=723908",
+    "pubDate": "Sat, 11 Jul 2026 09:40:26 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "半導体大手SKハイニックスのトークン化株式がソラナで取引開始、米ナスダック上場と同時に",
+    "link": "https://coinpost.jp/?p=723909",
+    "pubDate": "Sat, 11 Jul 2026 08:35:28 +0900"
+  },
+  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -25,15 +169,6 @@
     "title": "米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却",
     "link": "https://coinpost.jp/?p=723910",
     "pubDate": "Sat, 11 Jul 2026 06:55:30 +0900"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "The 3 Bottlenecks: Where the $5.5T Is Actually Going",
-    "link": "https://www.investing.com/analysis/the-3-bottlenecks-where-the-55t-is-actually-going-200683747",
-    "pubDate": "Jul 10, 2026 21:45 GMT"
   },
   {
     "source": "FXStreet",
@@ -142,15 +277,6 @@
     "title": "Indonesian Rupiah: Weakness risks persist – MUFG",
     "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakness-risks-persist-mufg-202607102002",
     "pubDate": "Fri, 10 Jul 2026 20:02:43 Z"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "USDC発行企業サークル、信託銀行設立の最終承認を取得",
-    "link": "https://coinpost.jp/?p=723896",
-    "pubDate": "Sat, 11 Jul 2026 05:00:26 +0900"
   },
   {
     "source": "Investing",
@@ -271,15 +397,6 @@
   },
   {
     "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Buyer Beware: These 2 Stocks Charts Just Displayed a Death Cross",
-    "link": "https://www.investing.com/analysis/buyer-beware-these-2-stocks-charts-just-displayed-a-death-cross-200683735",
-    "pubDate": "Jul 10, 2026 17:23 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "macro",
     "market": "global",
     "lang": "en",
@@ -349,15 +466,6 @@
     "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
     "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
     "pubDate": "Fri, 10 Jul 2026 16:02:21 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Frozen Labor Market with Fed Put on Ice",
-    "link": "https://www.investing.com/analysis/frozen-labor-market-with-fed-put-on-ice-200683730",
-    "pubDate": "Jul 10, 2026 15:45 GMT"
   },
   {
     "source": "CoinDesk",
@@ -450,24 +558,6 @@
     "pubDate": "Jul 10, 2026 12:02 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-    "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-    "pubDate": "Fri, 10 Jul 2026 11:41:47 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-    "pubDate": "Fri, 10 Jul 2026 11:37:31 +0000"
-  },
-  {
     "source": "Investing",
     "category": "fx",
     "market": "global",
@@ -504,15 +594,6 @@
     "pubDate": "Fri, 10 Jul 2026 10:38:00 Z"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-    "link": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
-    "pubDate": "Fri, 10 Jul 2026 10:37:44 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -520,15 +601,6 @@
     "title": "Dollar Retreat Deepens as Fed Hike Bets Ease, Yen and Stocks Rally",
     "link": "https://www.investing.com/analysis/dollar-retreat-deepens-as-fed-hike-bets-ease-yen-and-stocks-rally-200683704",
     "pubDate": "Jul 10, 2026 10:06 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "片山金融相、仮想通貨ETFの国内解禁に改めて意欲",
-    "link": "https://coinpost.jp/?p=723855",
-    "pubDate": "Fri, 10 Jul 2026 19:01:21 +0900"
   },
   {
     "source": "Investing",
@@ -541,30 +613,12 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Statistically Savvy – Why ’Most’ Doesn’t Mean ’Most Likely’",
-    "link": "https://www.investing.com/analysis/statistically-savvy--why-most-doesnt-mean-most-likely-200683701",
-    "pubDate": "Jul 10, 2026 09:56 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "crypto",
     "market": "global",
     "lang": "en",
     "title": "Tokenized RWAs Boom as Bitcoin Hits Fresh 2026 Low",
     "link": "https://www.investing.com/analysis/tokenized-rwas-boom-as-bitcoin-hits-fresh-2026-low-200683699",
     "pubDate": "Jul 10, 2026 09:36 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-    "link": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-    "pubDate": "Fri, 10 Jul 2026 09:35:21 +0000"
   },
   {
     "source": "Investing",
@@ -576,33 +630,6 @@
     "pubDate": "Jul 10, 2026 09:28 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin's $60,000-$70,000 range becomes third most traded range in history",
-    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
-    "pubDate": "Fri, 10 Jul 2026 09:16:52 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
-    "link": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
-    "pubDate": "Fri, 10 Jul 2026 09:08:20 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "OKJ、カントンコイン（CC）取扱い開始予定 板取引でのCC取扱いは国内初",
-    "link": "https://coinpost.jp/?p=723834",
-    "pubDate": "Fri, 10 Jul 2026 18:00:01 +0900"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -610,15 +637,6 @@
     "title": "「WebX2026」開催まであと3日、高市首相がビデオ登壇へ。片山財務大臣・松本デジタル大臣・萩生田議員らも登壇",
     "link": "https://www.neweconomy.jp/posts/591208",
     "pubDate": "Fri, 10 Jul 2026 08:07:38 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "メタプラネット・JPYCら4社、デジタルクレジット共同検討",
-    "link": "https://coinpost.jp/?p=723820",
-    "pubDate": "Fri, 10 Jul 2026 17:03:02 +0900"
   },
   {
     "source": "あたらしい経済",
@@ -693,15 +711,6 @@
     "pubDate": "Fri, 10 Jul 2026 06:58:10 +0000"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ロシア、約12.7万円超の仮想通貨取引に届け出義務",
-    "link": "https://coinpost.jp/?p=723788",
-    "pubDate": "Fri, 10 Jul 2026 15:57:16 +0900"
-  },
-  {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
@@ -727,15 +736,6 @@
     "title": "TOPPANとSBI XDC、「vLEI」と「XDC Network」でファクタリング取引のオンライン化実証",
     "link": "https://www.neweconomy.jp/posts/591143",
     "pubDate": "Fri, 10 Jul 2026 06:48:48 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "INSPAY、Sui上のステーブルコイン決済を日本の実店舗へ　",
-    "link": "https://coinpost.jp/?p=723771",
-    "pubDate": "Fri, 10 Jul 2026 15:43:09 +0900"
   },
   {
     "source": "Investing",

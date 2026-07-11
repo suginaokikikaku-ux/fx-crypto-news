@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-07-12",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "本日の暗号資産市場を分析し、主要コインの状態やプロジェクトの進捗を整理。初心者から中級者まで役立つ情報を提供します。",
+  "article": "## 1分で読める結論\n本日は、暗号資産市場が全体的に安定を見せる中、特にイーサリアムの環境への配慮が評価され、注目が集まっています。一方、Bonzoの大規模なハッキング事件が影響を及ぼし、資金ロックの大幅な減少が報告されています。\n\n## 今日の暗号資産市場の地合い\n暗号資産市場は全体として安定した動きを示しており、ビットコインやイーサリアムは回復基調にあります。しかし、ハッキング事件の影響やマクロ経済の不透明感が依然として市場のセンチメントに影響を与えています。特に資金がAI関連のプロジェクトに流入している傾向が見受けられます。\n\n## 今日の主要トピック3つ\n1. **Bonzoのハッキング事件**: LendingプロトコルBonzoが77%のロック資産を失い、900万ドルのオラクル攻撃が発生。\n2. **イーサリアムの環境配慮**: イーサリアムが温室効果ガス排出量を99%以上削減したことが報告され、持続可能性に対する関心が高まる。\n3. **エンペリー・デジタルのBTC売却**: ビットコインのトレジャリー企業であるエンペリー・デジタルが、AIデータセンター資金調達のために1400BTCを売却。\n\n## メインコインの整理\n- **ビットコイン**: 現時点で6.4万ドル台へ上昇。現物主導の買いが影響。\n- **イーサリアム**: 環境への配慮が評価され、信頼性が向上。バグの発見も注目。\n- **XRP**: 市場の回復レベルを維持中。\n\n## 個別プロジェクトの進捗\n- **Bonzo**: ハッキング事件によりロック資産が大幅に減少し、プロトコルの信頼性が低下。\n- **SKハイニックス**: トークン化された株式がソラナで取引開始し、注目を集める。\n- **ジーキャッシュ**: ZEC偽造脆弱性対応の「Ironwood」アップグレードの日程が公開され、ユーザーの関心が高まる。\n\n## 今日の要約から見える示唆\n市場全体は安定しつつも、特定のプロジェクトで発生した問題が影響を与えている。特にハッキング事件は長期的に信頼に影響を与える可能性があるため注意が必要。また、持続可能性に対する取り組みは今後の市場動向において重要なファクターとなる。\n\n## 次に確認すべきこと\n- Bonzoのハッキング事件による影響が他のプロジェクトに波及するかどうか。\n- イーサリアムの環境配慮に関するさらなる進展や、他のプロジェクトでの取り組みの動向。\n- AI関連プロジェクトへの資金流入が今後どのように進むか。\n\n## 今日の結論\n暗号資産市場は安定した動きを見せる中で、特定のプロジェクトの問題が浮き彫りになっている。今後の動向を注視しつつ、持続可能性と技術革新に対する関心を高めていく必要があります。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "pubDate": "Sat, 11 Jul 2026 18:06:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "pubDate": "Sat, 11 Jul 2026 17:07:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The UK has finally shown it’s serious about crypto ",
+      "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "pubDate": "Sat, 11 Jul 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "pubDate": "Sat, 11 Jul 2026 12:25:05 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム、温室効果ガス排出量を99%以上削減",
+      "link": "https://coinpost.jp/?p=723954",
+      "pubDate": "Sat, 11 Jul 2026 13:30:41 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナ初期クジラ、23億円相当SOL盗まれたか",
+      "link": "https://coinpost.jp/?p=723953",
+      "pubDate": "Sat, 11 Jul 2026 11:35:28 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+      "pubDate": "Sat, 11 Jul 2026 02:30:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=723907",
+      "pubDate": "Sat, 11 Jul 2026 10:20:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ジーキャッシュ、ZEC偽造脆弱性対応の「Ironwood」アップグレードで実施日程公開",
+      "link": "https://coinpost.jp/?p=723939",
+      "pubDate": "Sat, 11 Jul 2026 10:05:55 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米住宅法、CBDC禁止条項含み自動発効へ　トランプ大統領署名拒否",
+      "link": "https://coinpost.jp/?p=723908",
+      "pubDate": "Sat, 11 Jul 2026 09:40:26 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "半導体大手SKハイニックスのトークン化株式がソラナで取引開始、米ナスダック上場と同時に",
+      "link": "https://coinpost.jp/?p=723909",
+      "pubDate": "Sat, 11 Jul 2026 08:35:28 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Today: Bitcoin, Ethereum, XRP hold recovery levels amid minor ETF outflows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-recovery-levels-amid-minor-etf-outflows-202607102300",
+      "pubDate": "Fri, 10 Jul 2026 23:00:37 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始",
+      "link": "https://coinpost.jp/?p=723918",
+      "pubDate": "Sat, 11 Jul 2026 07:15:29 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却",
+      "link": "https://coinpost.jp/?p=723910",
+      "pubDate": "Sat, 11 Jul 2026 06:55:30 +0900"
+    }
+  ]
+}
