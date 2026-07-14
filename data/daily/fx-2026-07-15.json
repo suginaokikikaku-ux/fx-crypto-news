@@ -1,0 +1,170 @@
+{
+  "type": "fx",
+  "date": "2026-07-15",
+  "seoTitle": "USD/JPYとマクロ経済の影響分析",
+  "seoDescription": "本日は米国の低インフレがUSD/JPYに与える影響や市場構造を解説。金利やリスク要因についても触れます。",
+  "article": "## 1. 1分で読める結論\n本日、米国のインフレ指標が市場の期待を下回り、USD/JPYは下落圧力にさらされている。この動きは、金利の低下期待からリスクオンの動きを促進し、他の通貨ペアにも影響を及ぼしている。\n\n## 2. 今日の主要ドライバー3つ\n1. **米国のインフレ指標の低下 → ドル安**  \n   米国の消費者物価指数（CPI）が過去6年で最も低い結果となり、これによりドルが売られ、USD/JPYが影響を受けた。\n2. **リスク選好の高まり → 金利低下の期待**  \n   投資家がリスク資産に目を向ける中で、金利が低下するとの見方が広まり、これがドルの弱さを助長している。\n3. **地政学的な不安定要因の影響 → 投資資金のシフト**  \n   地政学的リスクが高まる中で、安全資産としての円が買われ、USD/JPYにさらなる売り圧力を加えている。\n\n## 3. 市場構造の解釈\n今回の動きは、米国の金利低下期待によって主導されている。市場参加者は、金利が低下することでドルが弱くなるとの見方を強めており、特に機関投資家がこのトレンドを強化している。米国のインフレ指標の影響で、ドルに対する信頼が揺らいでいるため、継続的な動きが見込まれる。\n\n## 4. USD/JPY分析\n現在、USD/JPYは短期的に下落トレンドにある。明日までの方向性は下向きだが、中期的には市場のセンチメント次第で変動する可能性がある。今回の動きは「継続型」と考えられ、インフレ指標が今後も影響を与える可能性が高い。\n\n## 5. BTCへの波及\n米国のインフレ指標の低下がドル安を引き起こしているため、リスクオンの流れがBTCにも波及する可能性がある。投資家がリスク資産に資金をシフトする中で、BTCが資金の逃避先として選ばれることが予想される。\n\n## 6. 強気・弱気の分岐条件\n- **強気条件**: 米国のインフレが再び上昇し、金利が安定する場合、ドルの強さが回復する可能性がある。  \n- **弱気条件**: 地政学的リスクが高まり、リスクオフの動きが強まると、円が買われ続け、USD/JPYは下落する。\n\n## 7. 今日の示唆\n現在の相場では、米国のインフレ指標に加え、地政学的リスクの動向を注視する必要がある。特に、インフレ指標の発表が今後の市場反応に大きな影響を与えるため、関連する指標やイベントに注目したい。\n\n## 8. 今日の結論\n本日は、米国の低インフレがUSD/JPYに影響を与え、市場全体にリスクオンの動きを促進している。投資家は今後のインフレ動向に注意を払うべきである。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro",
+      "fx_analysis"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "The softest US inflation print in six years buys British Pound Sterling about four hours",
+      "link": "https://www.fxstreet.com/news/the-softest-us-inflation-print-in-six-years-buys-british-pound-sterling-about-four-hours-202607142210",
+      "pubDate": "Tue, 14 Jul 2026 22:10:20 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Indonesian Rupiah: S&P support offset by Rupiah headwinds – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-sp-support-offset-by-rupiah-headwinds-commerzbank-202607142156",
+      "pubDate": "Tue, 14 Jul 2026 21:56:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/JPY Price Forecast: Hold above 217.00, next target is 218.00",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-hold-above-21700-next-target-is-21800-202607142132",
+      "pubDate": "Tue, 14 Jul 2026 21:32:58 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: Range consolidation holds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-consolidation-holds-against-us-dollar-uob-202607142112",
+      "pubDate": "Tue, 14 Jul 2026 21:12:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: Downward bias holds within tight range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downward-bias-holds-within-tight-range-against-us-dollar-uob-202607142029",
+      "pubDate": "Tue, 14 Jul 2026 20:29:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Forex Today: US Dollar falls after soft CPI, Oil and Gold rally",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-falls-after-soft-cpi-oil-and-gold-rally-202607142020",
+      "pubDate": "Tue, 14 Jul 2026 20:20:36 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Rally Faces Growing Intervention Risk Above 160",
+      "link": "https://www.investing.com/analysis/usdjpy-rally-faces-growing-intervention-risk-above-160-200683925",
+      "pubDate": "Jul 14, 2026 20:15 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Euro gains as softer US inflation weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-gains-as-softer-us-inflation-weighs-on-us-dollar-202607142009",
+      "pubDate": "Tue, 14 Jul 2026 20:09:34 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Maradona Theory of Interest Rates",
+      "link": "https://www.investing.com/analysis/the-maradona-theory-of-interest-rates-200683788",
+      "pubDate": "Jul 14, 2026 19:52 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: Trade surplus cushions yuan against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-surplus-cushions-yuan-against-us-dollar-commerzbank-202607141951",
+      "pubDate": "Tue, 14 Jul 2026 19:51:00 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/CHF Price Forecast: Pair pulls below 0.8100 but remains bullish",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pulls-below-08100-but-remains-bullish-202607141950",
+      "pubDate": "Tue, 14 Jul 2026 19:50:25 Z"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "From First-Quarter Fear to Renewed Optimism",
+      "link": "https://www.investing.com/analysis/from-firstquarter-fear-to-renewed-optimism-200683921",
+      "pubDate": "Jul 14, 2026 19:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "CPI Breakdown: Outliers Drive a Stunning Core Inflation Miss",
+      "link": "https://www.investing.com/analysis/cpi-breakdown-outliers-drive-a-stunning-core-inflation-miss-200683918",
+      "pubDate": "Jul 14, 2026 19:25 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "2% and nothing else: Why Warsh gave Congress three hours of Greenspan",
+      "link": "https://www.fxstreet.com/analysis/2-and-nothing-else-why-warsh-gave-congress-three-hours-of-greenspan-202607141921",
+      "pubDate": "Tue, 14 Jul 2026 19:21:57 Z"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Indonesian Rupiah: Supported by ratings yet constrained against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-supported-by-ratings-yet-constrained-against-us-dollar-ocbc-202607141907",
+      "pubDate": "Tue, 14 Jul 2026 19:07:00 Z"
+    }
+  ]
+}
