@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場動向と最新ニュース</title>
+  <meta name="description" content="最新の暗号資産市場動向を解説。主要コインの状況や個別プロジェクトの進捗を整理し、次に注目すべきポイントを提供します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-07-17.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場動向と最新ニュース" />
+  <meta property="og:description" content="最新の暗号資産市場動向を解説。主要コインの状況や個別プロジェクトの進捗を整理し、次に注目すべきポイントを提供します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-07-17.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場動向と最新ニュース","description":"最新の暗号資産市場動向を解説。主要コインの状況や個別プロジェクトの進捗を整理し、次に注目すべきポイントを提供します。","datePublished":"2026-07-17","dateModified":"2026-07-17","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-07-17.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場動向と最新ニュース</h1>
+        <p>最新の暗号資産市場動向を解説。主要コインの状況や個別プロジェクトの進捗を整理し、次に注目すべきポイントを提供します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-07-17 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinPost / FXStreet / Investing / CoinDeskのニュースをもとに整理しています。</div>
+      <p># 1分で読める結論
+暗号資産市場は、機関投資家の関心が高まる中、特にビットコインとイーサリアムが注目されている。モルガン・スタンレーのE*TRADEが仮想通貨の現物取引を開始し、SBIが日本資産のトークン化を進めている。ビザはステーブルコイン決済基盤を提供し、広範な商業展開を図っている。</p><h2>今日の暗号資産市場の地合い</h2>
+今日の市場は、機関投資家からの資金流入が増加している兆候が見られる。特に、ビットコインやイーサリアムに対する需要が高まり、価格安定を伴っている。これにより、投資家の信頼感が高まっており、全体的に買い優勢の地合いが形成されている。</p><h2>今日の主要トピック3つ</h2>
+1. <strong>モルガン・スタンレーのE*TRADEが仮想通貨の現物取引を全面展開</strong>: 投資家にとっての新たな選択肢が増え、市場の流動性向上が期待される。[詳細はこちら](https://coinpost.jp/?p=725526)
+2. <strong>SBIがRWAトークン化大手オンドと提携</strong>: 日本資産のトークン化に向けた具体的な動きが進んでいる。[詳細はこちら](https://coinpost.jp/?p=725532)
+3. <strong>ビザ、ステーブルコイン決済基盤を提供開始</strong>: 2億超の加盟店に対応し、実用化が進むことで市場に新たな刺激を与える。[詳細はこちら](https://coinpost.jp/?p=725527)</p><h2>メインコインの整理</h2>
+<ul><li><strong>ビットコイン (BTC)</strong>: 機関投資家の増加により安定した需要が続いている。</li>
+<li><strong>イーサリアム (ETH)</strong>: 最近の価格上昇が続き、市場において注目が集まっている。</li>
+<li><strong>XRP、SOL</strong>: 引き続き、イーサリアムに対して劣後するが、特定のプロジェクトでの進展が見られる。</li></p><h2>個別プロジェクトの進捗</h2>
+<li><strong>SBIとONDOの提携</strong>: 日本資産のトークン化への道を開く可能性があり、ONDOの価格が高騰している。[詳細はこちら](https://www.fxstreet.com/cryptocurrencies/news/ondo-price-forecast-ondos-rally-nears-040-as-network-partners-with-japans-sbi-group-202607161718)</li>
+<li><strong>Tロウ・プライスのマルチ銘柄仮想通貨現物ETFの上場</strong>: 新たな投資手段の提供が期待されている。[詳細はこちら](https://coinpost.jp/?p=725505)</li></ul><h2>今日の要約から見える示唆</h2>
+市場全体での機関投資家の関心が高まっており、特にビットコインとイーサリアムの需要が顕著である。これにより、暗号資産の実用化が進む可能性が高まっている。</p><h2>次に確認すべきこと</h2>
+1. モルガン・スタンレーのE*TRADEによる現物取引の影響を追跡する。
+2. SBIとONDOの進展を注視し、日本資産トークン化の動向を確認する。
+3. ビザのステーブルコイン決済基盤の実用化状況をチェックする。</p><h2>今日の結論</h2>
+機関投資家の動きが暗号資産市場を活性化させており、特にビットコインとイーサリアムの状況が注目です。個別プロジェクトの進捗も重要な指標となります。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../basics/crypto/what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="../basics/crypto/how-to-read-projects.html">暗号資産プロジェクトの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinPost / FXStreet / Investing / CoinDesk</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] モルガン・スタンレーのE*TRADE、仮想通貨の現物取引を全面展開（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725526" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] SBI、RWAトークン化大手オンドと提携　日本資産のトークン化やJPYSC活用などを検討（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725532" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] ストラテジーの現金増強、ビットコインに追い風とJPモルガンが評価（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725522" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] ビザ、ステーブルコイン決済基盤を提供開始　2億超の加盟店に対応（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725527" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] 米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725505" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Bitcoin Leverage Is Rising Faster Than Spot Demand Can Absorb（Investing / crypto） - <a href="https://www.investing.com/analysis/bitcoin-leverage-is-rising-faster-than-spot-demand-can-absorb-200684088" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] 中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立（CoinPost / crypto） - <a href="https://coinpost.jp/?p=725497" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] $1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] ONDO Price Forecast: ONDO’s rally nears $0.40 as network partners with Japan’s SBI Group（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/ondo-price-forecast-ondos-rally-nears-040-as-network-partners-with-japans-sbi-group-202607161718" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Visa backs Open USD with new stablecoin platform as Circle faces fresh competition（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] Keyrock acquires BlockFills trading assets to expand institutional crypto business（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] The Clarity Act is the most important consumer protection effort in years（CoinDesk / crypto） - <a href="https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>

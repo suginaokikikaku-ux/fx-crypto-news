@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-07-17",
+  "seoTitle": "暗号資産市場動向と最新ニュース",
+  "seoDescription": "最新の暗号資産市場動向を解説。主要コインの状況や個別プロジェクトの進捗を整理し、次に注目すべきポイントを提供します。",
+  "article": "# 1分で読める結論\n暗号資産市場は、機関投資家の関心が高まる中、特にビットコインとイーサリアムが注目されている。モルガン・スタンレーのE*TRADEが仮想通貨の現物取引を開始し、SBIが日本資産のトークン化を進めている。ビザはステーブルコイン決済基盤を提供し、広範な商業展開を図っている。\n\n## 今日の暗号資産市場の地合い\n今日の市場は、機関投資家からの資金流入が増加している兆候が見られる。特に、ビットコインやイーサリアムに対する需要が高まり、価格安定を伴っている。これにより、投資家の信頼感が高まっており、全体的に買い優勢の地合いが形成されている。\n\n## 今日の主要トピック3つ\n1. **モルガン・スタンレーのE*TRADEが仮想通貨の現物取引を全面展開**: 投資家にとっての新たな選択肢が増え、市場の流動性向上が期待される。[詳細はこちら](https://coinpost.jp/?p=725526)\n2. **SBIがRWAトークン化大手オンドと提携**: 日本資産のトークン化に向けた具体的な動きが進んでいる。[詳細はこちら](https://coinpost.jp/?p=725532)\n3. **ビザ、ステーブルコイン決済基盤を提供開始**: 2億超の加盟店に対応し、実用化が進むことで市場に新たな刺激を与える。[詳細はこちら](https://coinpost.jp/?p=725527)\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 機関投資家の増加により安定した需要が続いている。\n- **イーサリアム (ETH)**: 最近の価格上昇が続き、市場において注目が集まっている。\n- **XRP、SOL**: 引き続き、イーサリアムに対して劣後するが、特定のプロジェクトでの進展が見られる。\n\n## 個別プロジェクトの進捗\n- **SBIとONDOの提携**: 日本資産のトークン化への道を開く可能性があり、ONDOの価格が高騰している。[詳細はこちら](https://www.fxstreet.com/cryptocurrencies/news/ondo-price-forecast-ondos-rally-nears-040-as-network-partners-with-japans-sbi-group-202607161718)\n- **Tロウ・プライスのマルチ銘柄仮想通貨現物ETFの上場**: 新たな投資手段の提供が期待されている。[詳細はこちら](https://coinpost.jp/?p=725505)\n\n## 今日の要約から見える示唆\n市場全体での機関投資家の関心が高まっており、特にビットコインとイーサリアムの需要が顕著である。これにより、暗号資産の実用化が進む可能性が高まっている。\n\n## 次に確認すべきこと\n1. モルガン・スタンレーのE*TRADEによる現物取引の影響を追跡する。\n2. SBIとONDOの進展を注視し、日本資産トークン化の動向を確認する。\n3. ビザのステーブルコイン決済基盤の実用化状況をチェックする。\n\n## 今日の結論\n機関投資家の動きが暗号資産市場を活性化させており、特にビットコインとイーサリアムの状況が注目です。個別プロジェクトの進捗も重要な指標となります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "FXStreet",
+      "Investing",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "モルガン・スタンレーのE*TRADE、仮想通貨の現物取引を全面展開",
+      "link": "https://coinpost.jp/?p=725526",
+      "pubDate": "Fri, 17 Jul 2026 07:05:42 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBI、RWAトークン化大手オンドと提携　日本資産のトークン化やJPYSC活用などを検討",
+      "link": "https://coinpost.jp/?p=725532",
+      "pubDate": "Fri, 17 Jul 2026 07:05:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジーの現金増強、ビットコインに追い風とJPモルガンが評価",
+      "link": "https://coinpost.jp/?p=725522",
+      "pubDate": "Fri, 17 Jul 2026 06:50:22 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: Why ETH is outperforming Bitcoin, XRP, SOL, HYPE",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-why-eth-is-outperforming-bitcoin-xrp-sol-hype-202607162143",
+      "pubDate": "Thu, 16 Jul 2026 21:43:31 Z"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビザ、ステーブルコイン決済基盤を提供開始　2億超の加盟店に対応",
+      "link": "https://coinpost.jp/?p=725527",
+      "pubDate": "Fri, 17 Jul 2026 06:15:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場",
+      "link": "https://coinpost.jp/?p=725505",
+      "pubDate": "Fri, 17 Jul 2026 05:50:36 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Leverage Is Rising Faster Than Spot Demand Can Absorb",
+      "link": "https://www.investing.com/analysis/bitcoin-leverage-is-rising-faster-than-spot-demand-can-absorb-200684088",
+      "pubDate": "Jul 16, 2026 20:34 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立",
+      "link": "https://coinpost.jp/?p=725497",
+      "pubDate": "Fri, 17 Jul 2026 05:00:57 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+      "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+      "pubDate": "Thu, 16 Jul 2026 18:38:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
+      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "ONDO Price Forecast: ONDO’s rally nears $0.40 as network partners with Japan’s SBI Group",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ondo-price-forecast-ondos-rally-nears-040-as-network-partners-with-japans-sbi-group-202607161718",
+      "pubDate": "Thu, 16 Jul 2026 17:18:28 Z"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
+      "link": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+      "pubDate": "Thu, 16 Jul 2026 16:37:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
+      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "pubDate": "Thu, 16 Jul 2026 16:14:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
+      "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
+      "pubDate": "Thu, 16 Jul 2026 15:26:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The Clarity Act is the most important consumer protection effort in years",
+      "link": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
+      "pubDate": "Thu, 16 Jul 2026 15:07:30 +0000"
+    }
+  ]
+}
