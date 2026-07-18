@@ -1,5 +1,185 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "France orders country's internet service providers to block Polymarket",
+    "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+    "pubDate": "Sat, 18 Jul 2026 21:52:18 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto executives say digital native generations may never need a bank account",
+    "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+    "pubDate": "Sat, 18 Jul 2026 18:30:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "DOG Mode explains Bitcoin's next governance fight",
+    "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+    "pubDate": "Sat, 18 Jul 2026 17:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+    "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+    "pubDate": "Sat, 18 Jul 2026 16:09:59 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+    "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+    "pubDate": "Sat, 18 Jul 2026 15:50:31 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+    "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+    "pubDate": "Sat, 18 Jul 2026 14:15:15 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Tokenization has become a strategic priority for 84% of financial firms",
+    "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+    "pubDate": "Sat, 18 Jul 2026 14:00:00 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "CFTC Report: Crowded shorts meet price resistance",
+    "link": "https://www.fxstreet.com/analysis/cftc-report-crowded-shorts-meet-price-resistance-202607180939",
+    "pubDate": "Sat, 18 Jul 2026 09:39:37 Z"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Q2 Earnings Season May Deliver a Major Market Tailwind - Here’s Why",
+    "link": "https://www.investing.com/analysis/q2-earnings-season-may-deliver-a-major-market-tailwind--heres-why-200684164",
+    "pubDate": "Jul 18, 2026 09:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Spotting Market Bubbles: Why History Says It’s Nearly Impossible",
+    "link": "https://www.investing.com/analysis/spotting-market-bubbles-why-history-says-its-nearly-impossible-200683796",
+    "pubDate": "Jul 18, 2026 08:56 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The Cost of Cheap AI for US Tech",
+    "link": "https://www.investing.com/analysis/the-cost-of-cheap-ai-for-us-tech-200683938",
+    "pubDate": "Jul 18, 2026 08:54 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発",
+    "link": "https://coinpost.jp/?p=725901",
+    "pubDate": "Sat, 18 Jul 2026 14:00:21 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "セキュリタイズとキャンター、企業IPOにトークン化技術を活用する提携を発表",
+    "link": "https://coinpost.jp/?p=725855",
+    "pubDate": "Sat, 18 Jul 2026 13:10:50 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米グレースケール、ソラナETFのステーキング報酬を四半期現金分配へ",
+    "link": "https://coinpost.jp/?p=725899",
+    "pubDate": "Sat, 18 Jul 2026 11:32:07 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
+    "link": "https://coinpost.jp/?p=725878",
+    "pubDate": "Sat, 18 Jul 2026 10:15:17 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto investment products snap $8B outflow streak as weak US inflation revives Bitcoin sentiment",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-investment-products-snap-8b-outflow-streak-as-weak-us-inflation-revives-bitcoin-sentiment-202607180111",
+    "pubDate": "Sat, 18 Jul 2026 01:11:42 Z"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ethereum Price Forecast: ETH remains fragile underneath the surface despite outperformance",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-remains-fragile-underneath-the-surface-despite-outperformance-202607180056",
+    "pubDate": "Sat, 18 Jul 2026 00:56:21 Z"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン相場はもみ合い継続か、コインシェアーズが分析公開",
+    "link": "https://coinpost.jp/?p=725865",
+    "pubDate": "Sat, 18 Jul 2026 09:45:11 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "クラリティー法、「電気通信法以来最重要の技術立法」　元下院委員長が主張",
+    "link": "https://coinpost.jp/?p=725853",
+    "pubDate": "Sat, 18 Jul 2026 08:45:46 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Lawmakers tout CLARITY Act as key to crypto innovation and regulatory certainty",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/lawmakers-tout-clarity-act-as-key-to-crypto-innovation-and-regulatory-certainty-202607172240",
+    "pubDate": "Fri, 17 Jul 2026 22:40:30 Z"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -270,15 +450,6 @@
     "pubDate": "Jul 17, 2026 16:02 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-    "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-    "pubDate": "Fri, 17 Jul 2026 15:36:39 +0000"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -325,33 +496,6 @@
   },
   {
     "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Palantir’s Wild Ride: Inside the Stock Wall Street Can’t Agree On",
-    "link": "https://www.investing.com/analysis/palantirs-wild-ride-inside-the-stock-wall-street-cant-agree-on-200684142",
-    "pubDate": "Jul 17, 2026 14:44 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Has Broadcom Become Too Expensive for Its AI Story?",
-    "link": "https://www.investing.com/analysis/has-broadcom-become-too-expensive-for-its-ai-story-200684141",
-    "pubDate": "Jul 17, 2026 13:59 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-    "link": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-    "pubDate": "Fri, 17 Jul 2026 13:46:46 +0000"
-  },
-  {
-    "source": "Investing",
     "category": "macro",
     "market": "global",
     "lang": "en",
@@ -385,24 +529,6 @@
     "title": "CLARITY Act approval odds sink fast ahead of Congressional hearing",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/clarity-act-approval-odds-sink-fast-ahead-of-congressional-hearing-202607171252",
     "pubDate": "Fri, 17 Jul 2026 12:52:35 Z"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-    "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-    "pubDate": "Fri, 17 Jul 2026 12:45:11 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
-    "pubDate": "Fri, 17 Jul 2026 11:48:20 +0000"
   },
   {
     "source": "Investing",
@@ -439,24 +565,6 @@
     "title": "Bitcoin’s Failed Reversal Keeps the Broader Downtrend Intact",
     "link": "https://www.investing.com/analysis/bitcoins-failed-reversal-keeps-the-broader-downtrend-intact-200684126",
     "pubDate": "Jul 17, 2026 10:52 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
-    "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
-    "pubDate": "Fri, 17 Jul 2026 10:43:57 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
-    "link": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
-    "pubDate": "Fri, 17 Jul 2026 10:26:06 +0000"
   },
   {
     "source": "Investing",
@@ -558,15 +666,6 @@
     "pubDate": "Jul 17, 2026 09:10 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-    "link": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
-    "pubDate": "Fri, 17 Jul 2026 08:50:22 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -574,15 +673,6 @@
     "title": "Risk-Off Rolls Into Friday",
     "link": "https://www.investing.com/analysis/riskoff-rolls-into-friday-200684114",
     "pubDate": "Jul 17, 2026 08:31 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Is Kevin Warsh Moving the Inflation Goalposts?",
-    "link": "https://www.investing.com/analysis/is-kevin-warsh-moving-the-inflation-goalposts-200684094",
-    "pubDate": "Jul 17, 2026 08:17 GMT"
   },
   {
     "source": "FXStreet",
@@ -594,24 +684,6 @@
     "pubDate": "Fri, 17 Jul 2026 08:09:41 Z"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
-    "link": "https://coinpost.jp/?p=725809",
-    "pubDate": "Fri, 17 Jul 2026 17:04:39 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "XRP、レバレッジ比率0.16に低下　24年11月以来＝アナリスト",
-    "link": "https://coinpost.jp/?p=725799",
-    "pubDate": "Fri, 17 Jul 2026 16:30:10 +0900"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -619,15 +691,6 @@
     "title": "ポリゴンラボ、コインミー買収最終段階で追加の人員削減、決済企業へ転換",
     "link": "https://www.neweconomy.jp/posts/592928",
     "pubDate": "Fri, 17 Jul 2026 07:24:41 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "Bitcoin Japan、約97億円調達　初のBTC購入へ6.6億円充当方針",
-    "link": "https://coinpost.jp/?p=725712",
-    "pubDate": "Fri, 17 Jul 2026 16:21:29 +0900"
   },
   {
     "source": "Investing",
@@ -675,24 +738,6 @@
     "pubDate": "Fri, 17 Jul 2026 06:34:48 Z"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "豪州、仮想通貨譲渡益の50％控除廃止へ　27年7月施行＝報道",
-    "link": "https://coinpost.jp/?p=725758",
-    "pubDate": "Fri, 17 Jul 2026 15:00:40 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "バイナンスジャパン新代表が語る、金融インフラへの成長戦略｜WebX2026",
-    "link": "https://coinpost.jp/?p=724792",
-    "pubDate": "Fri, 17 Jul 2026 15:00:34 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -700,24 +745,6 @@
     "title": "Zcash Price Forecast: ZEC maintains bullish structure above key retracement support",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/zcash-price-forecast-zec-maintains-bullish-structure-above-key-retracement-support-202607170552",
     "pubDate": "Fri, 17 Jul 2026 05:52:22 Z"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビザ、AIエージェント決済の未来像を提示　カード決済との融合を目指す",
-    "link": "https://coinpost.jp/?p=725703",
-    "pubDate": "Fri, 17 Jul 2026 13:55:34 +0900"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH stall below key EMAs, XRP holds crucial support",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-stall-below-key-emas-xrp-holds-crucial-support-202607170437",
-    "pubDate": "Fri, 17 Jul 2026 04:37:53 Z"
   },
   {
     "source": "Investing",
@@ -730,30 +757,12 @@
   },
   {
     "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto Market Overview: Mild correction in Bitcoin – HYPE, TIA extend losses",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-market-overview-mild-correction-in-bitcoin-hype-tia-extend-losses-202607170347",
-    "pubDate": "Fri, 17 Jul 2026 03:47:37 Z"
-  },
-  {
-    "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
     "title": "Gold Price Forecast: XAU/USD pulls back before the next leg down  ",
     "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-pulls-back-before-the-next-leg-down-202607170345",
     "pubDate": "Fri, 17 Jul 2026 03:45:49 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin’s potential recovery in the second half hinges on these 4 catalysts",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoins-potential-recovery-in-the-second-half-hinges-on-these-4-catalysts-202607170200",
-    "pubDate": "Fri, 17 Jul 2026 02:00:00 Z"
   },
   {
     "source": "Investing",
@@ -934,15 +943,6 @@
     "title": "Gold Price Forecast: XAU/USD remains a ‘sell-on-rise’ trade amid US-Iran hostilities",
     "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-remains-a-sell-on-rise-trade-amid-us-iran-hostilities-202607150348",
     "pubDate": "Wed, 15 Jul 2026 03:48:55 Z"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "2% and nothing else: Why Warsh gave Congress three hours of Greenspan",
-    "link": "https://www.fxstreet.com/analysis/2-and-nothing-else-why-warsh-gave-congress-three-hours-of-greenspan-202607141921",
-    "pubDate": "Tue, 14 Jul 2026 19:21:57 Z"
   },
   {
     "source": "Investing",
