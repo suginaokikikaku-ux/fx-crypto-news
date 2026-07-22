@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-07-23",
+  "seoTitle": "暗号資産市場の最新動向と進捗",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳細に解説します。",
+  "article": "## 1分で読める結論\n本日、暗号資産市場はファンダメンタルズ重視の新しい指数の発表や、法的規制に関する動向が際立つ中、主要コインの価格は安定しています。特に、S&Pとパンテラが共同で発表した仮想通貨指数が注目を集めています。\n\n## 今日の暗号資産市場の地合い\n本日は、規制に関するニュースが多く、市場全体の地合いはやや慎重です。特に、米国の法案に対する懸念が強まっており、投資家たちは新たな法的枠組みの影響を注視しています。加えて、DeFiと伝統金融の融合が進む中、将来の市場動向に対する期待も見られます。\n\n## 今日の主要トピック3つ\n1. **ファンダ重視の仮想通貨指数のローンチ**: S&PとパンテラがETHやBNBを含む18銘柄で構成される新しい指数を発表しました。この新指数は、ファンダメンタルズに基づく投資判断を促進することを目的としています。\n2. **コインベースの和解**: 米SECがコインベースに対して15万ドルの賠償で和解しました。この出来事は、暗号資産取引所の法的環境に影響を与える可能性があります。\n3. **米クラリティー法案**: 最新の草案では、仮想通貨発行の禁止が盛り込まれていますが、2029年には失効する予定です。この法案の進展は投資家にとって重要な情報となります。\n\n## メインコインの整理\nビットコインやイーサリアムは、規制の影響を受けつつも価格は安定しています。特にビットコインは、テスラが保有を維持している中で112百万ドルの減損損失を報告しましたが、依然として市場での存在感を保っています。他の主要コインも、ファンダメンタルズに基づいた動きが見られます。\n\n## 個別プロジェクトの進捗\n- **Hyperliquid**: DeFiとTradFiの融合に向けたプロジェクトで、今後の市場の活性化に寄与する可能性があります。\n- **ジャック・ドーシー率いるブロック**: 新しいチャットツール「バズ」を発表し、AIとの連携を強化しています。これにより、暗号資産関連のコミュニケーションが進化する可能性があります。\n\n## 今日の要約から見える示唆\n市場の地合いは慎重であり、法的規制に関するニュースが影響を与えています。新しいファンダ重視の指数の登場は、投資判断に新たな基準を提供するかもしれません。市場の動向を注視する必要があります。\n\n## 次に確認すべきこと\n- 新しい仮想通貨指数のパフォーマンスとその影響。\n- 米国での新しい法案に関する動向。\n- DeFiとTradFiの融合がどのように市場に影響を与えるか。\n\n## 今日の結論\n今日の暗号資産市場は、ファンダメンタルズに基づく指標の導入や法的規制の動向に揺れ動いています。投資家は、これらの要素がどのように市場に影響を与えるかを注意深く見守る必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "S&Pとパンテラ、ファンダ重視の仮想通貨指数をローンチ　ETHやBNBなど18銘柄で構成",
+      "link": "https://coinpost.jp/?p=726609",
+      "pubDate": "Thu, 23 Jul 2026 08:02:52 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+      "pubDate": "Wed, 22 Jul 2026 22:22:25 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベースの情報公開訴訟、米SECが15万ドル賠償で和解",
+      "link": "https://coinpost.jp/?p=726602",
+      "pubDate": "Thu, 23 Jul 2026 07:02:46 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid, Robinhood could lead crypto’s next bull market as DeFi and TradFi converge",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/hyperliquid-robinhood-could-lead-cryptos-next-bull-market-as-defi-and-tradfi-converge-202607222140",
+      "pubDate": "Wed, 22 Jul 2026 21:40:34 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "仮想通貨の利回りツールに米証券法適用可能性、パースSEC委員が声明",
+      "link": "https://coinpost.jp/?p=726596",
+      "pubDate": "Thu, 23 Jul 2026 06:20:20 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+      "pubDate": "Wed, 22 Jul 2026 20:40:24 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラリティー法案の最新草案、大統領の仮想通貨発行を禁止するも2029年には失効",
+      "link": "https://coinpost.jp/?p=726594",
+      "pubDate": "Thu, 23 Jul 2026 05:35:51 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ジャック・ドーシー率いるブロック、人間とAIエージェント共存のチャットツール「バズ」を公開",
+      "link": "https://coinpost.jp/?p=726588",
+      "pubDate": "Thu, 23 Jul 2026 05:00:37 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+      "pubDate": "Wed, 22 Jul 2026 16:15:55 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+      "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+      "pubDate": "Wed, 22 Jul 2026 15:53:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+      "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+      "pubDate": "Wed, 22 Jul 2026 15:37:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+      "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+      "pubDate": "Wed, 22 Jul 2026 15:36:49 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokenized stocks transfer volume jumps 170X as RWA market cap plateaus",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/tokenized-stocks-transfer-volume-jumps-170x-as-rwa-market-cap-plateaus-202607221530",
+      "pubDate": "Wed, 22 Jul 2026 15:30:31 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
+      "pubDate": "Wed, 22 Jul 2026 15:09:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
+      "link": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+      "pubDate": "Wed, 22 Jul 2026 13:45:58 +0000"
+    }
+  ]
+}
