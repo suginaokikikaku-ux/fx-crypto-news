@@ -1,0 +1,170 @@
+{
+  "type": "fx",
+  "date": "2026-07-26",
+  "seoTitle": "USD/JPYの相場構造分析と市場ドライバー",
+  "seoDescription": "USD/JPYを中心とした相場構造の解釈と主要ドライバーを分析。金利や地政学の影響を考察。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米ドルの強さを背景に円安が進行しており、主に金利政策の期待がトリガーとなって動いている。USD/JPYは上昇傾向にあり、この流れは継続性が見込まれる。ビットコイン（BTC）への資金シフトも視野に入る。\n\n## 2. 今日の主要ドライバー3つ\n1. **米ドルの強さ → 円安の進行**  \n米国の金利引き上げ期待が高まり、ドルが強含むことで円との相対的な価値が下がっている。これにより、ドル買いが加速し、円安が進行中。\n\n2. **地政学的リスクの高まり → リスクオフの動き**  \n特定の地域での地政学的緊張が高まり、資金が安全資産に流れる動きが強まっている。リスク回避の姿勢が円を支える要因にもなっている。\n\n3. **セクター間の資金シフト → 特定の通貨への影響**  \nAI関連からヘルスケアへの資金移動が見られ、これが各国通貨に影響を与えている。特に、米国株式市場での変動がドル買いを助長している。\n\n## 3. 市場構造の解釈\n現在の動きは主に金利政策に主導されており、特に米国の金融政策に対する期待が市場を動かしている。これは短期的には継続する可能性が高い。機関投資家によるドルのポジション調整が進んでいることが、この流れを助長していると考えられる。今後の金利に関する発表がさらなる変動要因となるだろう。\n\n## 4. USD/JPY分析\n今日の相場観は強気であり、短期的には上昇トレンドが維持される見込み。中期的には、金利の動向によって変化する可能性があり、特に来週の米連邦準備制度理事会（FRB）の会合が注目される。今回の動きは「継続型」と判断される。\n\n## 5. BTCへの波及\n米ドルの強さが続く中で、BTCへの流入が見られる可能性がある。特にリスクオフの動きが強まると、BTCが資金の逃避先として見られることが多くなる。これにより、BTCの価格に影響を与える可能性がある。\n\n## 6. 強気・弱気の分岐条件\n- **強気の維持条件**  \n  - 米国の金利がさらに引き上げられることが確認される。\n  - 地政学的リスクが緩和される。\n- **弱気の転換条件**  \n  - 米国の経済指標が予想を下回る。\n  - 地政学的緊張がエスカレートする。\n\n## 7. 今日の示唆\n現在の相場では、金利動向や地政学的リスクに注目すべき。特に、米国の経済指標やFRBの動きが大きな影響を与えるため、これらの指標を追いかけることが重要。市場の反応を観察し、投資戦略を練ることが求められる。\n\n## 8. 今日の結論\n今日の相場は、米ドルの強さを背景に円安が進行している。金利政策の影響が大きく、今後の動向に注目が必要である。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx_analysis",
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "CFTC Report: A split tape; bearish FX conviction, selective covering and a crude reversal",
+      "link": "https://www.fxstreet.com/analysis/cftc-report-a-split-tape-bearish-fx-conviction-selective-covering-and-a-crude-reversal-202607251310",
+      "pubDate": "Sat, 25 Jul 2026 13:10:03 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "From AI Hype to Healthcare Income: Where Capital Is Rotating Now",
+      "link": "https://www.investing.com/analysis/from-ai-hype-to-healthcare-income-where-capital-is-rotating-now-200684556",
+      "pubDate": "Jul 25, 2026 10:24 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "12 High-Conviction Investment Ideas for H2 2026",
+      "link": "https://www.investing.com/analysis/12-highconviction-investment-ideas-for--h2-2026-200684369",
+      "pubDate": "Jul 25, 2026 10:23 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105",
+      "pubDate": "Fri, 24 Jul 2026 21:05:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-consolidates-near-18700-bulls-target-18800-202607242054",
+      "pubDate": "Fri, 24 Jul 2026 20:54:08 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Malaysia: Solid fundamentals support Ringgit and bonds – DBS",
+      "link": "https://www.fxstreet.com/news/malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-202607242022",
+      "pubDate": "Fri, 24 Jul 2026 20:22:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "South Korean Won: Strong GDP and inflows support Won – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-strong-gdp-and-inflows-support-won-commerzbank-202607241939",
+      "pubDate": "Fri, 24 Jul 2026 19:39:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Forecasting the upcoming week: Fed, BoE and BoJ decisions take center stage",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-decisions-take-center-stage-202607241928",
+      "pubDate": "Fri, 24 Jul 2026 19:28:47 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923",
+      "pubDate": "Fri, 24 Jul 2026 19:23:23 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Thai Baht: Oil shock and dovish BoT keep THB pressured against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/thai-baht-oil-shock-and-dovish-bot-keep-thb-pressured-against-us-dollar-ocbc-202607241858",
+      "pubDate": "Fri, 24 Jul 2026 18:58:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Euro falls even amid strong Eurozone PMIs ",
+      "link": "https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833",
+      "pubDate": "Fri, 24 Jul 2026 18:33:40 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold gains despite firm US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-gains-despite-firm-us-dollar-202607241830",
+      "pubDate": "Fri, 24 Jul 2026 18:30:53 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Indonesian Rupiah: BI pause seen as hawkish hold – UOB",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-seen-as-hawkish-hold-uob-202607241823",
+      "pubDate": "Fri, 24 Jul 2026 18:23:00 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Breakout Puts Bulls in Control, but Confirmation Still Matters",
+      "link": "https://www.investing.com/analysis/us-dollar-breakout-puts-bulls-in-control-but-confirmation-still-matters-200684543",
+      "pubDate": "Jul 24, 2026 15:50 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "Silver mid-year outlook: From record high to record crash. Can the metal return to $100?",
+      "link": "https://www.fxstreet.com/analysis/silver-mid-year-outlook-from-record-high-to-record-crash-can-the-metal-return-to-100-202607241359",
+      "pubDate": "Fri, 24 Jul 2026 13:59:37 GMT"
+    }
+  ]
+}
