@@ -1,5 +1,86 @@
 [
   {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Australian Dollar outlook: Chances of another rally won’t be decided in Canberra, but in Washington",
+    "link": "https://www.fxstreet.com/analysis/australian-dollar-outlook-chances-of-another-rally-wont-be-decided-in-canberra-but-in-washington-202607262300",
+    "pubDate": "Sun, 26 Jul 2026 23:00:00 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
+    "link": "https://coinpost.jp/?p=727327",
+    "pubDate": "Mon, 27 Jul 2026 07:49:37 +0900"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "2 weeks left for Clarity: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+    "pubDate": "Sun, 26 Jul 2026 18:30:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+    "link": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+    "pubDate": "Sun, 26 Jul 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+    "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+    "pubDate": "Sun, 26 Jul 2026 10:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+    "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+    "pubDate": "Sun, 26 Jul 2026 07:29:45 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+    "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+    "pubDate": "Sun, 26 Jul 2026 06:59:51 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=727127",
+    "pubDate": "Sun, 26 Jul 2026 11:30:35 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ　",
+    "link": "https://coinpost.jp/?p=726998",
+    "pubDate": "Sun, 26 Jul 2026 09:25:27 +0900"
+  },
+  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -171,15 +252,6 @@
     "pubDate": "Sat, 25 Jul 2026 07:10:33 +0900"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米クラリティー法案、年内成立の確率が30%まで低下＝ギャラクシー・リサーチ",
-    "link": "https://coinpost.jp/?p=727266",
-    "pubDate": "Sat, 25 Jul 2026 06:20:30 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -207,15 +279,6 @@
     "pubDate": "Fri, 24 Jul 2026 20:54:08 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米上院版クラリティー法案、7民主党議員が反対　全米警察友愛会は支持",
-    "link": "https://coinpost.jp/?p=727262",
-    "pubDate": "Sat, 25 Jul 2026 05:50:17 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -232,15 +295,6 @@
     "title": "Bitcoin ETF Inflows Signal Institutional Demand Is Returning, Not Fully Recovered",
     "link": "https://www.investing.com/analysis/bitcoin-etf-inflows-signal-institutional-demand-is-returning-not-fully-recovered-200684560",
     "pubDate": "Jul 24, 2026 20:08 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "海外仮想通貨取引所29社、韓国グーグルプレイで新規インストール非対応に",
-    "link": "https://coinpost.jp/?p=727254",
-    "pubDate": "Sat, 25 Jul 2026 05:00:29 +0900"
   },
   {
     "source": "Investing",
@@ -414,24 +468,6 @@
     "pubDate": "Fri, 24 Jul 2026 15:01:46 +0000"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-    "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-    "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-    "link": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-    "pubDate": "Fri, 24 Jul 2026 14:36:16 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
@@ -459,24 +495,6 @@
     "pubDate": "Fri, 24 Jul 2026 13:29:30 +0000"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-    "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-    "pubDate": "Fri, 24 Jul 2026 13:15:15 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
-    "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-    "pubDate": "Fri, 24 Jul 2026 13:03:03 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -484,15 +502,6 @@
     "title": "XRP trims gains as ETF interest fades",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/xrp-price-forecast-xrp-remains-pressured-despite-the-launch-of-institutional-focused-ripple-mint-202607241300",
     "pubDate": "Fri, 24 Jul 2026 13:00:00 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-    "link": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-    "pubDate": "Fri, 24 Jul 2026 11:58:06 +0000"
   },
   {
     "source": "Investing",
@@ -934,15 +943,6 @@
     "title": "Bitcoin Reclaims $65K as ETF Demand Restarts the Recovery",
     "link": "https://www.investing.com/analysis/bitcoin-reclaims-65k-as-etf-demand-restarts-the-recovery-200684321",
     "pubDate": "Jul 21, 2026 19:08 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Australian Dollar Price Forecast: Holding on to 0.7000",
-    "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-holding-on-to-07000-202607211814",
-    "pubDate": "Tue, 21 Jul 2026 18:14:48 GMT"
   },
   {
     "source": "Investing",
