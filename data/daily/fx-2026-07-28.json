@@ -1,0 +1,170 @@
+{
+  "type": "fx",
+  "date": "2026-07-28",
+  "seoTitle": "USD/JPYの相場構造分析とマクロ経済の影響",
+  "seoDescription": "今日のUSD/JPY相場動向をマクロ経済や地政学の観点から分析し、主要ドライバーや市場構造を解説します。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の金利政策に対する懸念が高まり、USD/JPYが上昇を試みる中で、政府の介入の信頼性が低下していることが影響しています。\n\n## 2. 今日の主要ドライバー3つ\n1. **米国の金利政策 → 日本円の弱さ**: 米国の金利引き下げの可能性が浮上する中、円安が加速し、USD/JPYは上昇しています。\n2. **日本政府の介入の信頼性低下 → 市場の不安定化**: 日本の円防衛政策への信頼が揺らぎ、トレーダーが円売りに動く要因となっています。\n3. **グローバルな経済指標 → リスク選好の変化**: 世界経済の動向がリスク選好を左右し、相場全体に影響を与えています。\n\n## 3. 市場構造の解釈\n今回の動きは主に金利政策に主導されており、特に米国の政策金利に対する市場の反応が顕著です。この動きは短期的な需給のバランスを崩し、円安を加速させる要因となっています。特に機関投資家が流動性を求めて動いていると考えられ、今後もこの傾向が続く可能性があります。市場全体としては、リスク回避からリスク選好にシフトする過程で、円が売られていると解釈できます。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的には上昇トレンドが継続していると見られます。ただし、中期的には不安定要因が多く、価格の急激な変動が予想されます。今回の動きは「継続型」であり、特に金利動向に敏感に反応しています。市場の変動を注視する必要があります。\n\n## 5. BTCへの波及\n金利の変動やリスク選好の変化は、BTC市場にも影響を与える可能性があります。特に、トレーダーがUSD/JPYでの動きに反応する形で、BTCが資金の逃避先として見られることが考えられます。リスクオンの流れがBTCにプラスに働く可能性があるため、注意が必要です。\n\n## 6. 強気・弱気の分岐条件\n- **強気条件**: 米国の金利が上昇し続ける場合、円安が進む可能性が高まります。\n- **弱気条件**: 日本政府の円防衛策が強化される場合、円高に転じるリスクがあります。さらに、米国の経済指標が悪化する場合も見方が変わります。\n\n## 7. 今日の示唆\n現在の相場では、米国の経済指標や金利動向を注視すべきです。また、日本政府の政策発表や市場の反応にも注意が必要です。勝っているトレーダーは、リスク管理を徹底しつつ、マーケットの心理を読み解く視点を持っていることが重要です。\n\n## 8. 今日の結論\n今日の相場は、米国の金利政策に影響されつつ、日本円の信頼性が問われている状況です。トレーダーはこの流れを意識し、柔軟に対応することが求められます。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro",
+      "fx_analysis"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokyo can still afford to defend the Japanese Yen, just not for very long",
+      "link": "https://www.fxstreet.com/news/tokyo-can-still-afford-to-defend-the-japanese-yen-just-not-for-very-long-202607272314",
+      "pubDate": "Mon, 27 Jul 2026 23:14:45 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "The Australian Dollar stops trading commodities and starts trading one number",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-stops-trading-commodities-and-starts-trading-one-number-202607272314",
+      "pubDate": "Mon, 27 Jul 2026 23:14:11 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Britain's best data week of the summer sends British Pound Sterling to a four-week low",
+      "link": "https://www.fxstreet.com/news/britains-best-data-week-of-the-summer-sends-british-pound-sterling-to-a-four-week-low-202607272313",
+      "pubDate": "Mon, 27 Jul 2026 23:13:49 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: MAS tightening underpins Singapore Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-underpins-singapore-dollar-bbh-202607272243",
+      "pubDate": "Mon, 27 Jul 2026 22:43:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump urges Fed rate cuts as Gulf War ends, seen lowering prices",
+      "link": "https://www.fxstreet.com/news/trump-urges-fed-rate-cuts-as-gulf-war-ends-seen-lowering-prices-202607272234",
+      "pubDate": "Mon, 27 Jul 2026 22:34:10 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US President Trump keeps Iran diplomacy alive after halting strikes",
+      "link": "https://www.fxstreet.com/news/us-president-trump-keeps-iran-diplomacy-alive-after-halting-strikes-202607272211",
+      "pubDate": "Mon, 27 Jul 2026 22:11:38 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-rangebound-trade-against-us-dollar-guided-by-pboc-fix-ocbc-202607272157",
+      "pubDate": "Mon, 27 Jul 2026 21:57:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "New Zealand Dollar holds after weak US durable goods data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-after-weak-us-durable-goods-data-202607272142",
+      "pubDate": "Mon, 27 Jul 2026 21:42:14 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: Hawkish MAS supports SGD against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-supports-sgd-against-us-dollar-mufg-202607272119",
+      "pubDate": "Mon, 27 Jul 2026 21:19:00 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Near 164 Shows Japan’s Intervention Threat Is Losing Credibility",
+      "link": "https://www.investing.com/analysis/usdjpy-near-164-shows-japans-intervention-threat-is-losing-credibility-200684664",
+      "pubDate": "Jul 27, 2026 20:53 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Indonesian Rupiah: Political risks temper valuation case – BBH",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-political-risks-temper-valuation-case-bbh-202607272037",
+      "pubDate": "Mon, 27 Jul 2026 20:37:00 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Remains Trapped as ECB and Fed Hawkishness Cancel Each Other Out",
+      "link": "https://www.investing.com/analysis/eurusd-remains-trapped-as-ecb-and-fed-hawkishness-cancel-each-other-out-200684662",
+      "pubDate": "Jul 27, 2026 20:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Rises as Cheaper Oil Improves the UK Growth Outlook",
+      "link": "https://www.investing.com/analysis/gbpusd-rises-as-cheaper-oil-improves-the-uk-growth-outlook-200684660",
+      "pubDate": "Jul 27, 2026 20:09 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Tariffs Complicate the Fed’s Inflation Fight",
+      "link": "https://www.investing.com/analysis/tariffs-complicate-the-feds-inflation-fight-200684658",
+      "pubDate": "Jul 27, 2026 19:23 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "XAU/USD Price forecast: Gold struggles to extend gains beyond $4,100 ",
+      "link": "https://www.fxstreet.com/analysis/xau-usd-price-forecast-gold-struggles-to-extend-gains-beyond-4-100-202607271703",
+      "pubDate": "Mon, 27 Jul 2026 17:03:24 GMT"
+    }
+  ]
+}

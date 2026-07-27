@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USD/JPYの相場構造分析とマクロ経済の影響</title>
+  <meta name="description" content="今日のUSD/JPY相場動向をマクロ経済や地政学の観点から分析し、主要ドライバーや市場構造を解説します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-28.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="USD/JPYの相場構造分析とマクロ経済の影響" />
+  <meta property="og:description" content="今日のUSD/JPY相場動向をマクロ経済や地政学の観点から分析し、主要ドライバーや市場構造を解説します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-28.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"USD/JPYの相場構造分析とマクロ経済の影響","description":"今日のUSD/JPY相場動向をマクロ経済や地政学の観点から分析し、主要ドライバーや市場構造を解説します。","datePublished":"2026-07-28","dateModified":"2026-07-28","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-07-28.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">FX DAILY ARTICLE</div>
+        <h1>USD/JPYの相場構造分析とマクロ経済の影響</h1>
+        <p>今日のUSD/JPY相場動向をマクロ経済や地政学の観点から分析し、主要ドライバーや市場構造を解説します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-07-28 / fx・macro・fx_analysis</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はfx・macro・fx_analysisを中心に、FXStreet / Investingのニュースをもとに整理しています。</div>
+      <h2>1. 1分で読める結論</h2>
+今日の相場は、米国の金利政策に対する懸念が高まり、USD/JPYが上昇を試みる中で、政府の介入の信頼性が低下していることが影響しています。</p><h2>2. 今日の主要ドライバー3つ</h2>
+1. <strong>米国の金利政策 → 日本円の弱さ</strong>: 米国の金利引き下げの可能性が浮上する中、円安が加速し、USD/JPYは上昇しています。
+2. <strong>日本政府の介入の信頼性低下 → 市場の不安定化</strong>: 日本の円防衛政策への信頼が揺らぎ、トレーダーが円売りに動く要因となっています。
+3. <strong>グローバルな経済指標 → リスク選好の変化</strong>: 世界経済の動向がリスク選好を左右し、相場全体に影響を与えています。</p><h2>3. 市場構造の解釈</h2>
+今回の動きは主に金利政策に主導されており、特に米国の政策金利に対する市場の反応が顕著です。この動きは短期的な需給のバランスを崩し、円安を加速させる要因となっています。特に機関投資家が流動性を求めて動いていると考えられ、今後もこの傾向が続く可能性があります。市場全体としては、リスク回避からリスク選好にシフトする過程で、円が売られていると解釈できます。</p><h2>4. USD/JPY分析</h2>
+現在の相場観は、短期的には上昇トレンドが継続していると見られます。ただし、中期的には不安定要因が多く、価格の急激な変動が予想されます。今回の動きは「継続型」であり、特に金利動向に敏感に反応しています。市場の変動を注視する必要があります。</p><h2>5. BTCへの波及</h2>
+金利の変動やリスク選好の変化は、BTC市場にも影響を与える可能性があります。特に、トレーダーがUSD/JPYでの動きに反応する形で、BTCが資金の逃避先として見られることが考えられます。リスクオンの流れがBTCにプラスに働く可能性があるため、注意が必要です。</p><h2>6. 強気・弱気の分岐条件</h2>
+<ul><li><strong>強気条件</strong>: 米国の金利が上昇し続ける場合、円安が進む可能性が高まります。</li>
+<li><strong>弱気条件</strong>: 日本政府の円防衛策が強化される場合、円高に転じるリスクがあります。さらに、米国の経済指標が悪化する場合も見方が変わります。</li></ul><h2>7. 今日の示唆</h2>
+現在の相場では、米国の経済指標や金利動向を注視すべきです。また、日本政府の政策発表や市場の反応にも注意が必要です。勝っているトレーダーは、リスク管理を徹底しつつ、マーケットの心理を読み解く視点を持っていることが重要です。</p><h2>8. 今日の結論</h2>
+今日の相場は、米国の金利政策に影響されつつ、日本円の信頼性が問われている状況です。トレーダーはこの流れを意識し、柔軟に対応することが求められます。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/fx/what-is-fx.html">FXとは？</a></li><li><a href="../basics/fx/what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="../basics/fx/what-is-usdjpy.html">ドル円とは？USD/JPYの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>FXStreet / Investing</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>fx・macro・fx_analysis</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] Tokyo can still afford to defend the Japanese Yen, just not for very long（FXStreet / fx） - <a href="https://www.fxstreet.com/news/tokyo-can-still-afford-to-defend-the-japanese-yen-just-not-for-very-long-202607272314" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] The Australian Dollar stops trading commodities and starts trading one number（FXStreet / fx） - <a href="https://www.fxstreet.com/news/the-australian-dollar-stops-trading-commodities-and-starts-trading-one-number-202607272314" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Britain's best data week of the summer sends British Pound Sterling to a four-week low（FXStreet / fx） - <a href="https://www.fxstreet.com/news/britains-best-data-week-of-the-summer-sends-british-pound-sterling-to-a-four-week-low-202607272313" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Singapore Dollar: MAS tightening underpins Singapore Dollar – BBH（FXStreet / fx） - <a href="https://www.fxstreet.com/news/singapore-dollar-mas-tightening-underpins-singapore-dollar-bbh-202607272243" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Trump urges Fed rate cuts as Gulf War ends, seen lowering prices（FXStreet / fx） - <a href="https://www.fxstreet.com/news/trump-urges-fed-rate-cuts-as-gulf-war-ends-seen-lowering-prices-202607272234" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] US President Trump keeps Iran diplomacy alive after halting strikes（FXStreet / fx） - <a href="https://www.fxstreet.com/news/us-president-trump-keeps-iran-diplomacy-alive-after-halting-strikes-202607272211" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC（FXStreet / fx） - <a href="https://www.fxstreet.com/news/chinese-yuan-rangebound-trade-against-us-dollar-guided-by-pboc-fix-ocbc-202607272157" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] New Zealand Dollar holds after weak US durable goods data（FXStreet / fx） - <a href="https://www.fxstreet.com/news/new-zealand-dollar-holds-after-weak-us-durable-goods-data-202607272142" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Singapore Dollar: Hawkish MAS supports SGD against US Dollar – MUFG（FXStreet / fx） - <a href="https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-supports-sgd-against-us-dollar-mufg-202607272119" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] USD/JPY Near 164 Shows Japan’s Intervention Threat Is Losing Credibility（Investing / fx） - <a href="https://www.investing.com/analysis/usdjpy-near-164-shows-japans-intervention-threat-is-losing-credibility-200684664" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Indonesian Rupiah: Political risks temper valuation case – BBH（FXStreet / fx） - <a href="https://www.fxstreet.com/news/indonesian-rupiah-political-risks-temper-valuation-case-bbh-202607272037" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] EUR/USD Remains Trapped as ECB and Fed Hawkishness Cancel Each Other Out（Investing / fx） - <a href="https://www.investing.com/analysis/eurusd-remains-trapped-as-ecb-and-fed-hawkishness-cancel-each-other-out-200684662" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] GBP/USD Rises as Cheaper Oil Improves the UK Growth Outlook（Investing / fx） - <a href="https://www.investing.com/analysis/gbpusd-rises-as-cheaper-oil-improves-the-uk-growth-outlook-200684660" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] Tariffs Complicate the Fed’s Inflation Fight（Investing / macro） - <a href="https://www.investing.com/analysis/tariffs-complicate-the-feds-inflation-fight-200684658" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] XAU/USD Price forecast: Gold struggles to extend gains beyond $4,100 （FXStreet / fx_analysis） - <a href="https://www.fxstreet.com/analysis/xau-usd-price-forecast-gold-struggles-to-extend-gains-beyond-4-100-202607271703" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜FX デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
