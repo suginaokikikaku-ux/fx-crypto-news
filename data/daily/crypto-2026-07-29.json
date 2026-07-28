@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-07-29",
+  "seoTitle": "2026年7月28日の暗号資産市場分析",
+  "seoDescription": "7月28日の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n本日は、米連邦準備制度理事会（Fed）の利上げ決定を控え、EthereumやSolanaのETFが登場する中、ビットコイン市場はレバレッジ取引の影響を受けている。全体的には市場の不安定さが続いており、主要コインの動向に注目が集まっている。\n\n## 今日の暗号資産市場の地合い\n市場全体は不安定な状況が続いている。特に、米国の利上げに関する期待感が高まっており、それに伴う市場の反応が注視されている。また、レバレッジ取引による売り圧力が強まり、特にビットコインの価格動向に影響を与えている。\n\n## 今日の主要トピック3つ\n1. **EthereumとSolanaのETFが登場**: モルガン・スタンレーがEthereumとSolanaのETFを発表し、これにより新たな資金流入が期待される。\n2. **ビットコインのレバレッジ取引**: ビットコイン市場ではレバレッジ取引による売りが主な要因とされ、価格下落の背景にある。\n3. **ロシアのデジタル預託ルール**: ロシアがデジタル預託に関する新たな規制を発表し、今後の暗号資産市場に影響を与える可能性がある。\n\n## メインコインの整理\n- **ビットコイン**: レバレッジ取引により売り圧力が強まっており、短期的な価格動向に注意が必要。\n- **イーサリアム**: ETFの登場により新たな資金流入が期待されるが、利上げの影響を受ける可能性がある。\n- **ソラナ**: モルガン・スタンレーのETF発表により注目を集めている。\n\n## 個別プロジェクトの進捗\n- **Zcash**: Ironwoodアップグレードの実施により、17億ドルのシールドプールが確保された。この進展はプライバシー機能の強化を意味し、今後の利用拡大が期待される。\n- **Ondo**: トークン化資産のブロックチェーン計画を中止し、高速取引ネットワークに注力する方針を示した。\n- **EthSystems**: プライバシー機能を強化することで、銀行の公衆ブロックチェーンへの移行を促進しようとしている。\n\n## 今日の要約から見える示唆\n市場の不安定さが続く中、主要プロジェクトの動向には注目が必要であり、特に新たな金融商品や規制の影響を受ける可能性がある。特に、ビットコインのレバレッジ取引の影響は短期的な価格動向に直結するため、注意を要する。\n\n## 次に確認すべきこと\n- 米連邦準備制度理事会（Fed）の利上げ決定が市場に与える影響。\n- EthereumおよびSolanaのETFに対する市場の反応。\n- ZcashのIronwoodアップグレード後の利用状況。\n\n## 今日の結論\n市場全体の地合いは不安定であり、主要コインの動向に大きな影響を及ぼす要因が多く存在する。特に、利上げの影響や新たな金融商品の登場が注目される中、今後の展開に注意が必要である。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "CoinDesk",
+      "Investing",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH cools ahead of Fed rate decision",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-cools-ahead-of-fed-rate-decision-202607282256",
+      "pubDate": "Tue, 28 Jul 2026 22:56:31 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Morgan Stanley debuts Ethereum and Solana ETPs with staking benefits",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/morgan-stanley-debuts-ethereum-and-solana-etps-with-staking-benefits-202607282102",
+      "pubDate": "Tue, 28 Jul 2026 21:02:03 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+      "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+      "pubDate": "Tue, 28 Jul 2026 20:23:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+      "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
+      "pubDate": "Tue, 28 Jul 2026 19:44:26 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Liquidations Show Leverage, Not Fundamentals, Drove the Selloff",
+      "link": "https://www.investing.com/analysis/bitcoin-liquidations-show-leverage-not-fundamentals-drove-the-selloff-200684746",
+      "pubDate": "Jul 28, 2026 19:41 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+      "link": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+      "pubDate": "Tue, 28 Jul 2026 17:23:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
+      "pubDate": "Tue, 28 Jul 2026 16:08:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
+      "link": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
+      "pubDate": "Tue, 28 Jul 2026 15:46:33 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Miners Are Answering the AI Debate With Their Balance Sheets",
+      "link": "https://www.investing.com/analysis/bitcoin-miners-are-answering-the-ai-debate-with-their-balance-sheets-200684727",
+      "pubDate": "Jul 28, 2026 14:51 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+      "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+      "pubDate": "Tue, 28 Jul 2026 14:49:50 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+      "link": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+      "pubDate": "Tue, 28 Jul 2026 14:49:01 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
+      "pubDate": "Tue, 28 Jul 2026 14:35:28 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+      "link": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
+      "pubDate": "Tue, 28 Jul 2026 14:30:57 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Uniswap Price Forecast: UNI tests 200-day EMA supply amid renewed retail demand",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/uniswap-price-forecast-uni-tests-200-day-ema-supply-amid-renewed-retail-demand-202607281404",
+      "pubDate": "Tue, 28 Jul 2026 14:04:22 GMT"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/595552",
+      "pubDate": "Tue, 28 Jul 2026 13:35:37 +0000"
+    }
+  ]
+}
