@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-07-31",
+  "seoTitle": "暗号資産市場動向と注目プロジェクトの進捗",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状態、個別プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、Bitcoinが7月に9%の上昇を見せ、全体として回復基調にあります。一方、Coinbaseは第二四半期の収益見通しを下回り、株価が5%下落しました。Aaveは複数のプロジェクトのリザーブを終了する方針を示し、市場に影響を与えています。\n\n## 今日の暗号資産市場の地合い\n全体の市場感は回復の兆しが見られ、特にBitcoinが7月に9%の上昇を記録しました。AIによる市場の変動からの回復が期待されている中、機関投資家の取引が過去最高の72%に達し、より安定した取引環境が整いつつあることが示されています。これにより、投資家の信頼感が高まりつつあります。\n\n## 今日の主要トピック3つ\n1. **Aaveのプロジェクト見直し**: AaveはSonic、Aptos、zkSync、Scrollのリザーブを終了し、約9800万ドルの供給に影響を与える計画を発表しました。これは流動性の減少や市場の信頼性に影響を及ぼす可能性があります。\n2. **Coinbaseの収益予想未達**: Coinbaseは第二四半期の収益見通しを下回り、株価が5%下落しました。これは、取引量の減少や競争の激化が要因とされています。\n3. **国際的な銀行のトークン化実験**: BIS主導で、国際的な銀行がトークン化された通貨を用いた国境を越えた決済の実験を行っており、100万ドル規模でのパイロットプロジェクトが開始されました。これはデジタル通貨の将来に影響を与える可能性があります。\n\n## メインコインの整理\n- **Bitcoin**: 7月に9%の上昇を果たし、全体の回復を牽引しています。\n- **Ethereum**: 二十年目を迎え、基盤の再構築が進んでいます。\n- **XRP**: 短期的な上昇が続いており、クジラと小口投資家の需要が高まっています。\n\n## 個別プロジェクトの進捗\n- **Aave**: プロジェクトの見直しが進行中で、6つのチェーンを終了する方針が示されています。これにより、収益の安定化を図る狙いがあります。\n- **Ondo Finance**: 最大5億ドル規模の買収を検討しており、成長戦略の一環として注目されています。\n- **Coinbase**: 第二四半期の業績が悪化し、今後の収益改善が求められています。\n\n## 今日の要約から見える示唆\n市場全体は回復基調にありながら、特定のプロジェクトの動向が影響を及ぼす場面が見受けられます。特にAaveのリザーブ見直しは、流動性の変動や市場への影響が懸念されるため、注視が必要です。また、Coinbaseの業績も今後の市場動向に影響を与える可能性があります。\n\n## 次に確認すべきこと\n- Aaveのリザーブ終了の具体的な影響を確認すること。\n- Coinbaseの業績改善策や今後の見通しを追跡すること。\n- 国際的な銀行のトークン化実験の進展とその影響を注視すること。\n\n## 今日の結論\n暗号資産市場は回復基調にあり、主要コインは安定した動きを見せています。しかし、AaveやCoinbaseなどの個別プロジェクトの動向が市場に与える影響を考慮し、今後の展開を注意深く観察する必要があります。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Aave to sunset Sonic, Aptos, zkSync, Scroll reserves, affecting $98 million in supply",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/aave-to-sunset-sonic-aptos-zksync-scroll-reserves-affecting-98-million-in-supply-202607302032",
+      "pubDate": "Thu, 30 Jul 2026 20:32:22 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline ",
+      "link": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "pubDate": "Thu, 30 Jul 2026 20:32:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "link": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "pubDate": "Thu, 30 Jul 2026 20:18:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+      "link": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+      "pubDate": "Thu, 30 Jul 2026 17:34:03 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Gains 9% in July—Is Crypto Leading the Recovery From the AI Unwind?",
+      "link": "https://www.investing.com/analysis/bitcoin-gains-9-in-julyis-crypto-leading-the-recovery-from-the-ai-unwind-200684913",
+      "pubDate": "Jul 30, 2026 17:04 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The Tokenization of Treasury Bonds: Wall Street’s Quiet Revolution",
+      "link": "https://www.investing.com/analysis/the-tokenization-of-treasury-bonds-wall-streets-quiet-revolution-200684911",
+      "pubDate": "Jul 30, 2026 16:32 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Market Overview: Bitcoin builds momentum alongside ONDO and PUMP gains",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-market-overview-bitcoin-builds-momentum-alongside-ondo-and-pump-gains-202607301617",
+      "pubDate": "Thu, 30 Jul 2026 16:17:45 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ondo Finance weighs acquisition worth up to $500 million",
+      "link": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "pubDate": "Thu, 30 Jul 2026 16:04:16 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto for Advisors: Is the Clarity Act dead?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
+      "pubDate": "Thu, 30 Jul 2026 15:00:49 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
+      "pubDate": "Thu, 30 Jul 2026 14:33:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+      "link": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
+      "pubDate": "Thu, 30 Jul 2026 14:25:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+      "link": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+      "pubDate": "Thu, 30 Jul 2026 14:06:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+      "link": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
+      "pubDate": "Thu, 30 Jul 2026 13:55:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
+      "link": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
+      "pubDate": "Thu, 30 Jul 2026 13:52:37 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP extends short-term advance as whale and retail demand strengthen",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-builds-recovery-momentum-as-whales-increase-exposure-202607301300",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 GMT"
+    }
+  ]
+}
