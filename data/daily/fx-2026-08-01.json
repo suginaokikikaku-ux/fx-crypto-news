@@ -1,0 +1,170 @@
+{
+  "type": "fx",
+  "date": "2026-08-01",
+  "seoTitle": "ドル円相場の動向とマクロ経済分析",
+  "seoDescription": "ドル円相場を中心に、地政学や金利の影響を考察し、トレーダーに必要な情報を提供します。",
+  "article": "## 1. 1分で読める結論\n現在の相場は、米国の金利上昇と地政学的リスクが影響しており、特にUSD/JPYはトリガーによって方向感が変わっています。地政学的な緊張が高まる中で、リスクオフの動きが観察され、これが市場全体に波及しています。\n\n## 2. 今日の主要ドライバー3つ\n1. **米国の金利上昇 → 短期的な資金流入**: 米国の長期金利が上昇しており、これによりドルが強くなる傾向が見られます。投資家は米国資産へのシフトを加速させ、ドルの需要が高まっていることが背景にあります。\n2. **地政学的リスクの高まり → リスクオフの動き**: 米国とイスラエルがイランのエネルギーインフラに対する攻撃計画を発表しました。これにより市場は不安定化し、安全資産への資金流入が見られ、円高の圧力がかかっています。\n3. **市場の流動性の変化 → ボラティリティの増加**: 市場の流動性が変化する中で、ポジション調整が行われており、これが価格のボラティリティを増加させています。特に、ドルと円の動きに影響を与える要因として注視されています。\n\n## 3. 市場構造の解釈\n今回の動きは主に金利と地政学が主導していると考えられます。金利の上昇は米国の経済指標に反応しており、これがドルの強さを支えています。一方、地政学的リスクは短期的な投資家の心理に大きく影響を与え、リスクオフの流れを強めています。したがって、今回の相場変動は継続性がある可能性が高いとみられます。特に、機関投資家がリスク管理の観点から動いていることが背景にあると考えられます。\n\n## 4. USD/JPY分析\n短期的には、USD/JPYは地政学的リスクの影響を受けて動いています。中期的には、金利の動向が相場に大きな影響を及ぼす可能性があります。構造的には、特にリスクオフの流れが続くようであれば、USD/JPYは下方向に圧力がかかると予想されますが、現在の動きが継続型かノイズ型かは不確実です。\n\n## 5. BTCへの波及\n現在の地政学的リスクと米国の金利上昇は、BTC市場にも影響を与える可能性があります。リスクオフの動きが強まることで、BTCが資金逃避先として見られる場合があり、これが価格に波及する可能性があります。\n\n## 6. 強気・弱気の分岐条件\n- **強気の維持条件**: 米国の経済指標が市場の予想を上回り、金利がさらに上昇する場合。\n- **弱気の転換条件**: 地政学的リスクが緩和され、投資家のリスク選好が高まる場合。\n\n## 7. 今日の示唆\n現在の相場環境では、金利の動向と地政学的リスクに注目することが重要です。特に、経済指標の発表や国際情勢の進展を注視し、リスク管理の観点からポジションを考えるべきです。市場の反応がどのように変わるかが鍵となります。\n\n## 8. 今日の結論\n今日の相場は、米国の金利上昇と地政学的リスクが主導している状況です。引き続き、これらの要因に注意を払いながら相場を見守る必要があります。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro",
+      "fx_analysis"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US and Israel plan to attack Iran's energy infrastructure – CBS News",
+      "link": "https://www.fxstreet.com/news/us-and-israel-plan-to-attack-irans-energy-infrastructure-cbs-news-202607312202",
+      "pubDate": "Fri, 31 Jul 2026 22:02:48 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-eye-06000-after-sma-break-202607312015",
+      "pubDate": "Fri, 31 Jul 2026 20:15:11 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-labor-market-takes-center-stage-after-hawkish-fed-split-202607312014",
+      "pubDate": "Fri, 31 Jul 2026 20:14:39 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-202607311949",
+      "pubDate": "Fri, 31 Jul 2026 19:49:05 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold slides as US yields surge, keeping $4,100 out of reach",
+      "link": "https://www.fxstreet.com/news/gold-slides-as-us-yields-surge-keeping-4-100-out-of-reach-202607311944",
+      "pubDate": "Fri, 31 Jul 2026 19:44:44 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "The Japanese Yen has a second buyer nobody will name",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-has-a-second-buyer-nobody-will-name-202607311901",
+      "pubDate": "Fri, 31 Jul 2026 19:01:22 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "United States Dollar Index struggles near 100 after suspected Japanese intervention",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-struggles-near-100-after-suspected-japanese-intervention-202607311855",
+      "pubDate": "Fri, 31 Jul 2026 18:55:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Breaks Its Downtrend as ECB Rate Bets Strengthen",
+      "link": "https://www.investing.com/analysis/eurusd-breaks-its-downtrend-as-ecb-rate-bets-strengthen-200684999",
+      "pubDate": "Jul 31, 2026 18:36 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Rising Interest Rates Threaten Market Recovery Despite Strong Earnings",
+      "link": "https://www.investing.com/analysis/rising-interest-rates-threaten-market-recovery-despite-strong-earnings-200684998",
+      "pubDate": "Jul 31, 2026 18:25 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed's Barkin: It's a close call whether interest rates are high enough",
+      "link": "https://www.fxstreet.com/news/feds-barkin-its-a-close-call-whether-interest-rates-are-high-enough-202607311824",
+      "pubDate": "Fri, 31 Jul 2026 18:24:36 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Why the Fed and Bank of England Held Rates Amid the Energy Shock",
+      "link": "https://www.investing.com/analysis/why-the-fed-and-bank-of-england-held-rates-amid-the-energy-shock-200684931",
+      "pubDate": "Jul 31, 2026 18:24 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Euro recovers as Eurozone inflation stays firm ",
+      "link": "https://www.fxstreet.com/news/euro-recovers-as-eurozone-inflation-stays-firm-202607311800",
+      "pubDate": "Fri, 31 Jul 2026 18:00:10 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Weekly Forecast: Geopolitics, inflation and the Fed shape the outlook",
+      "link": "https://www.fxstreet.com/analysis/us-dollar-weekly-forecast-geopolitics-inflation-and-the-fed-shape-the-outlook-202607311741",
+      "pubDate": "Fri, 31 Jul 2026 17:41:50 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-55-as-downside-momentum-eases-202607311740",
+      "pubDate": "Fri, 31 Jul 2026 17:40:43 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "5 Signs Chairman Warsh’s Honeymoon at the Fed Is Over",
+      "link": "https://www.investing.com/analysis/fomc-fallout-5-signs-chairman-warshs-honeymoon-at-the-fed-is-over-200684940",
+      "pubDate": "Jul 31, 2026 16:57 GMT"
+    }
+  ]
+}
