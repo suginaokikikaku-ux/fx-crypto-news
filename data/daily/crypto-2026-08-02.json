@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-08-02",
+  "seoTitle": "暗号資産市場動向とプロジェクト進捗",
+  "seoDescription": "今日の暗号資産市場の地合いや主要トピック、個別プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n本日は、ビットコインの冷蔵ウォレット攻撃が拡大し、損失が8900万ドルに達したことが市場に影響を与えている。さらに、イタリア中央銀行の研究がステーブルコインの送金コストに疑問を呈し、XRPレジャーのアップグレードが注目されている。これらの動向は市場における信頼性や安全性の観点から重要な指標となる。\n\n## 今日の暗号資産市場の地合い\n暗号資産市場は主にネガティブな地合いにあり、特にビットコインに関連するセキュリティ問題が投資家の懸念を高めている。冷蔵ウォレット攻撃の拡大や、取引所のセキュリティに関する不安が影響を与えている。また、ステーブルコインのコストに関する研究結果も、投資家の心理に影を落としている。\n\n## 今日の主要トピック3つ\n1. **ビットコイン冷蔵ウォレット攻撃の拡大**: 4500のアドレスが攻撃を受け、損失は8900万ドルに達している。\n2. **イタリア中央銀行のステーブルコイン研究**: ステーブルコインが送金において必ずしもコスト優位性を持たないとの研究結果が発表された。\n3. **XRPレジャーのアップグレード**: 以前のバグにより削除された機能が復活したことが注目されている。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 冷蔵ウォレット攻撃の影響で市場信頼が低下。\n- **イーサリアム (ETH)**: 具体的なニュースはないが、全体の暗号市場の影響を受けている可能性がある。\n- **XRP**: レジャーのアップグレードにより、機能が強化されたが、全体的な市場地合いには影響なし。\n\n## 個別プロジェクトの進捗\n- **STRC**: 配当率が12%に設定され、注目を集めているが、全体の地合いの影響を受ける可能性がある。\n- **HIP-4**: パーミッションレス予測市場がテストネットで有効化され、今後の展開に期待が寄せられている。\n\n## 今日の要約から見える示唆\nビットコインに関連するセキュリティ問題が市場全体に影を落としている中で、投資家は安全性を重視する傾向が強まっている。また、ステーブルコインに関する新しい知見が市場の流れに影響を与えているため、これらの要素は今後の市場分析において重要な指標となる。\n\n## 次に確認すべきこと\n- ビットコインの冷蔵ウォレット攻撃の進展状況と、取引所の対応策。\n- ステーブルコインのコストに関するさらなる研究や報告。\n- XRPレジャーのアップグレード後の機能の実態とその影響。\n\n## 今日の結論\n市場は現在、セキュリティ問題とコストに関する新たな知見に直面している。これらの要因は投資家の心理に大きな影響を及ぼすため、引き続き注視が必要である。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy holds STRC dividend at 12%",
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "pubDate": "Sat, 01 Aug 2026 22:01:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "pubDate": "Sat, 01 Aug 2026 20:10:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "pubDate": "Sat, 01 Aug 2026 16:51:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "pubDate": "Sat, 01 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "pubDate": "Sat, 01 Aug 2026 15:48:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Everyone has the perps convergence backwards",
+      "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "pubDate": "Sat, 01 Aug 2026 09:01:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "pubDate": "Sat, 01 Aug 2026 06:09:51 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ハイパーリキッドHIP-4、パーミッションレス予測市場をテストネットで有効化",
+      "link": "https://coinpost.jp/?p=729236",
+      "pubDate": "Sat, 01 Aug 2026 13:15:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+      "link": "https://coinpost.jp/?p=729182",
+      "pubDate": "Sat, 01 Aug 2026 11:12:26 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
+      "link": "https://coinpost.jp/?p=729183",
+      "pubDate": "Sat, 01 Aug 2026 10:15:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況",
+      "link": "https://coinpost.jp/?p=729214",
+      "pubDate": "Sat, 01 Aug 2026 09:45:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米財務省がイラン企業2社に制裁措置、デジタル資産決済による制裁回避も主張",
+      "link": "https://coinpost.jp/?p=729205",
+      "pubDate": "Sat, 01 Aug 2026 08:15:25 +0900"
+    }
+  ]
+}

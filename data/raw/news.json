@@ -1,5 +1,194 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Strategy holds STRC dividend at 12%",
+    "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+    "pubDate": "Sat, 01 Aug 2026 22:01:57 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+    "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+    "pubDate": "Sat, 01 Aug 2026 20:10:54 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+    "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+    "pubDate": "Sat, 01 Aug 2026 16:51:35 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+    "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+    "pubDate": "Sat, 01 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+    "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+    "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+    "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+    "pubDate": "Sat, 01 Aug 2026 15:48:27 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "CFTC Report: Bearish FX extremes deepen as cross-asset signals diverge",
+    "link": "https://www.fxstreet.com/analysis/cftc-report-bearish-fx-extremes-deepen-as-cross-asset-signals-diverge-202608011457",
+    "pubDate": "Sat, 01 Aug 2026 14:57:00 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+    "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Everyone has the perps convergence backwards",
+    "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+    "pubDate": "Sat, 01 Aug 2026 09:01:08 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The 2 Major Forces Driving Growth Stocks Lower",
+    "link": "https://www.investing.com/analysis/the-2-major-forces-driving-growth-stocks-lower-200685008",
+    "pubDate": "Aug 01, 2026 08:03 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "AI Bear Case: What Skeptics Get Right and Wrong",
+    "link": "https://www.investing.com/analysis/ai-bear-case-what-skeptics-get-right-and-wrong-200684961",
+    "pubDate": "Aug 01, 2026 08:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "95% of Traders Don’t Have a Strategy Problem—They’re Bad at Discipline",
+    "link": "https://www.investing.com/analysis/95-of-traders-dont-have-a-strategy-problemtheyre-bad-at-discipline-200684722",
+    "pubDate": "Aug 01, 2026 07:59 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "The CAPEX Number Is the Macro Story of 2026",
+    "link": "https://www.investing.com/analysis/the-capex-number-is-the-macro-story-of-2026-200684978",
+    "pubDate": "Aug 01, 2026 07:58 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US Dollar Faces a Delayed Reaction After the Fed Stood Pat",
+    "link": "https://www.investing.com/analysis/us-dollar-faces-a-delayed-reaction-after-the-fed-stood-pat-200684975",
+    "pubDate": "Aug 01, 2026 07:57 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+    "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+    "pubDate": "Sat, 01 Aug 2026 06:09:51 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ハイパーリキッドHIP-4、パーミッションレス予測市場をテストネットで有効化",
+    "link": "https://coinpost.jp/?p=729236",
+    "pubDate": "Sat, 01 Aug 2026 13:15:08 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+    "link": "https://coinpost.jp/?p=729182",
+    "pubDate": "Sat, 01 Aug 2026 11:12:26 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
+    "link": "https://coinpost.jp/?p=729183",
+    "pubDate": "Sat, 01 Aug 2026 10:15:28 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況",
+    "link": "https://coinpost.jp/?p=729214",
+    "pubDate": "Sat, 01 Aug 2026 09:45:28 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米財務省がイラン企業2社に制裁措置、デジタル資産決済による制裁回避も主張",
+    "link": "https://coinpost.jp/?p=729205",
+    "pubDate": "Sat, 01 Aug 2026 08:15:25 +0900"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -43,15 +232,6 @@
     "title": "US Government Equity Deals Blur the Line Between Regulator and Investor",
     "link": "https://www.investing.com/analysis/us-government-equity-deals-blur-the-line-between-regulator-and-investor-200685006",
     "pubDate": "Jul 31, 2026 20:59 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-    "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-    "pubDate": "Fri, 31 Jul 2026 20:50:58 +0000"
   },
   {
     "source": "CoinPost",
@@ -180,15 +360,6 @@
     "pubDate": "Jul 31, 2026 18:25 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-    "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-    "pubDate": "Fri, 31 Jul 2026 18:24:55 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -225,15 +396,6 @@
     "pubDate": "Fri, 31 Jul 2026 18:00:10 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "The good and the bad of perps, according to crypto traders",
-    "link": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-    "pubDate": "Fri, 31 Jul 2026 17:53:59 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
@@ -268,15 +430,6 @@
     "title": "Why NXP Semiconductors Could Be the AI Stock Everyone Is Missing",
     "link": "https://www.investing.com/analysis/why-nxp-semiconductors-could-be-the-ai-stock-everyone-is-missing-200684993",
     "pubDate": "Jul 31, 2026 17:17 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-    "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-    "pubDate": "Fri, 31 Jul 2026 17:07:30 +0000"
   },
   {
     "source": "Investing",
@@ -316,39 +469,12 @@
   },
   {
     "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Qualcomm’s Turnaround Is Working, So Why Is Wall Street Selling?",
-    "link": "https://www.investing.com/analysis/qualcomms-turnaround-is-working-so-why-is-wall-street-selling-200684990",
-    "pubDate": "Jul 31, 2026 16:29 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
     "title": "The 2-Headed Yen Intervention Monster Has Awoken",
     "link": "https://www.investing.com/analysis/the-2headed-yen-intervention-monster-has-awoken-200684988",
     "pubDate": "Jul 31, 2026 15:55 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-    "link": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-    "pubDate": "Fri, 31 Jul 2026 15:39:30 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Meta’s Earnings Show Why Wall Street Is Losing Patience With AI Spending",
-    "link": "https://www.investing.com/analysis/metas-earnings-show-why-wall-street-is-losing-patience-with-ai-spending-200684986",
-    "pubDate": "Jul 31, 2026 15:36 GMT"
   },
   {
     "source": "FXStreet",
@@ -367,15 +493,6 @@
     "title": "Dogecoin Forecast: DOGE risks falling toward four-year floor price",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/dogecoin-forecast-doge-risks-falling-toward-four-year-floor-price-202607311512",
     "pubDate": "Fri, 31 Jul 2026 15:12:44 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
-    "link": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-    "pubDate": "Fri, 31 Jul 2026 15:00:00 +0000"
   },
   {
     "source": "FXStreet",
@@ -405,24 +522,6 @@
     "pubDate": "Jul 31, 2026 13:38 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-    "link": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-    "pubDate": "Fri, 31 Jul 2026 13:35:17 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-    "link": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-    "pubDate": "Fri, 31 Jul 2026 13:20:45 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -432,15 +531,6 @@
     "pubDate": "Jul 31, 2026 13:16 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "RWA perps will outpace tokenization",
-    "link": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-    "pubDate": "Fri, 31 Jul 2026 13:00:00 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -448,15 +538,6 @@
     "title": "XRP sustains bearish bias as price lingers below $1.10",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-trades-below-110-amid-persistent-technical-weakness-202607311230",
     "pubDate": "Fri, 31 Jul 2026 12:30:00 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-    "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-    "pubDate": "Fri, 31 Jul 2026 12:28:02 +0000"
   },
   {
     "source": "Investing",
@@ -541,30 +622,12 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Yen Intervention Sends Shockwaves Through FX Markets",
-    "link": "https://www.investing.com/analysis/yen-intervention-sends-shockwaves-through-fx-markets-200684966",
-    "pubDate": "Jul 31, 2026 10:27 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
     "title": "Weak US Data and Hawkish BoJ Expectations Drive USD/JPY Toward Critical Support",
     "link": "https://www.investing.com/analysis/weak-us-data-and-hawkish-boj-expectations-drive-usdjpy-toward-critical-support-200684965",
     "pubDate": "Jul 31, 2026 10:15 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Markets Rebound as Oil Prices Stays High Amid US-Iran Tensions",
-    "link": "https://www.investing.com/analysis/markets-rebound-as-oil-prices-stays-high-amid-usiran-tensions-200684964",
-    "pubDate": "Jul 31, 2026 10:09 GMT"
   },
   {
     "source": "Investing",
@@ -601,15 +664,6 @@
     "title": "USD/JPY After Volatility: Multiple Events in 1 Day",
     "link": "https://www.investing.com/analysis/usdjpy-after-volatility-multiple-events-in-1-day-200684959",
     "pubDate": "Jul 31, 2026 09:35 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "レイ・ダリオ、ビットコインは1％保有継続　増刷不可も量子リスクに警戒",
-    "link": "https://coinpost.jp/?p=729138",
-    "pubDate": "Fri, 31 Jul 2026 17:29:30 +0900"
   },
   {
     "source": "FXStreet",
@@ -720,15 +774,6 @@
     "pubDate": "Fri, 31 Jul 2026 07:05:25 +0000"
   },
   {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar Hits Post-FOMC Perfect Storm",
-    "link": "https://www.investing.com/analysis/us-dollar-hits-postfomc-perfect-storm-200684945",
-    "pubDate": "Jul 31, 2026 06:59 GMT"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -747,15 +792,6 @@
     "pubDate": "Fri, 31 Jul 2026 06:35:23 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "アルトコイン相場、ビットコインから切り離され値動きに＝ウィンターミュート",
-    "link": "https://coinpost.jp/?p=729090",
-    "pubDate": "Fri, 31 Jul 2026 15:32:07 +0900"
-  },
-  {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
@@ -765,24 +801,6 @@
     "pubDate": "Jul 31, 2026 06:24 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットコイン長期保有者供給、月間21万7000BTC増＝アナリスト",
-    "link": "https://coinpost.jp/?p=729073",
-    "pubDate": "Fri, 31 Jul 2026 14:20:51 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "BIS主導「プロジェクト・アゴラ」、1.6億円相当のトークン化マネーで国際決済の実証実験に成功",
-    "link": "https://coinpost.jp/?p=729043",
-    "pubDate": "Fri, 31 Jul 2026 14:00:13 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -790,15 +808,6 @@
     "title": "Quantum Solutions sells $1.9 million ETH as DATs wind down continues",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/quantum-solutions-sells-19-million-eth-as-dats-wind-down-continues-202607310433",
     "pubDate": "Fri, 31 Jul 2026 04:33:28 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ストラテジー、ビットコイン一辺倒から転換　準備金は動的配分へ",
-    "link": "https://coinpost.jp/?p=729051",
-    "pubDate": "Fri, 31 Jul 2026 13:18:36 +0900"
   },
   {
     "source": "FXStreet",
@@ -907,15 +916,6 @@
     "title": "US Dollar Surged After the Fed Decision - Where Is the Market Headed Next?",
     "link": "https://www.investing.com/analysis/us-dollar-surged-after-the-fed-decision--where-is-the-market-headed-next-200684843",
     "pubDate": "Jul 30, 2026 05:05 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold Price Forecast: XAU/USD eyes $4,000 and US GDP amid fresh US-Iran tensions",
-    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-re-targets-4-000-and-us-gdp-amid-fresh-us-iran-tensions-202607300336",
-    "pubDate": "Thu, 30 Jul 2026 03:36:23 GMT"
   },
   {
     "source": "Investing",
