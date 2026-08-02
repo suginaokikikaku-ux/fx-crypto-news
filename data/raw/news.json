@@ -1,5 +1,86 @@
 [
   {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
+    "link": "https://coinpost.jp/?p=729250",
+    "pubDate": "Mon, 03 Aug 2026 08:02:00 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Middle East War updates: Trump holds off Iran strikes on pledge Hormuz deal is close",
+    "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-holds-off-iran-strikes-on-pledge-hormuz-deal-is-close-202608022237",
+    "pubDate": "Sun, 02 Aug 2026 22:37:57 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Counting down the days: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+    "pubDate": "Sun, 02 Aug 2026 18:30:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+    "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+    "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "The reverse bridge: Crypto meets Wall Street using perps",
+    "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+    "pubDate": "Sun, 02 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+    "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+    "pubDate": "Sun, 02 Aug 2026 12:03:51 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=729103",
+    "pubDate": "Sun, 02 Aug 2026 11:30:37 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "週刊仮想通貨ニュース（7/31）｜クラリティー法の動向・ETHとSOLのETP提供・XRP運用戦略のまとめ",
+    "link": "https://coinpost.jp/?p=728969",
+    "pubDate": "Sun, 02 Aug 2026 09:25:00 +0900"
+  },
+  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -45,15 +126,6 @@
     "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-    "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-    "pubDate": "Sat, 01 Aug 2026 15:48:27 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
@@ -61,33 +133,6 @@
     "title": "CFTC Report: Bearish FX extremes deepen as cross-asset signals diverge",
     "link": "https://www.fxstreet.com/analysis/cftc-report-bearish-fx-extremes-deepen-as-cross-asset-signals-diverge-202608011457",
     "pubDate": "Sat, 01 Aug 2026 14:57:00 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-    "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Everyone has the perps convergence backwards",
-    "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "pubDate": "Sat, 01 Aug 2026 09:01:08 +0000"
   },
   {
     "source": "Investing",
@@ -133,15 +178,6 @@
     "title": "US Dollar Faces a Delayed Reaction After the Fed Stood Pat",
     "link": "https://www.investing.com/analysis/us-dollar-faces-a-delayed-reaction-after-the-fed-stood-pat-200684975",
     "pubDate": "Aug 01, 2026 07:57 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-    "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-    "pubDate": "Sat, 01 Aug 2026 06:09:51 +0000"
   },
   {
     "source": "CoinPost",
@@ -216,15 +252,6 @@
     "pubDate": "Sat, 01 Aug 2026 06:35:32 +0900"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減",
-    "link": "https://coinpost.jp/?p=729186",
-    "pubDate": "Sat, 01 Aug 2026 06:15:34 +0900"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -232,15 +259,6 @@
     "title": "US Government Equity Deals Blur the Line Between Regulator and Investor",
     "link": "https://www.investing.com/analysis/us-government-equity-deals-blur-the-line-between-regulator-and-investor-200685006",
     "pubDate": "Jul 31, 2026 20:59 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
-    "link": "https://coinpost.jp/?p=729181",
-    "pubDate": "Sat, 01 Aug 2026 05:50:13 +0900"
   },
   {
     "source": "Investing",
@@ -268,15 +286,6 @@
     "title": "Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split",
     "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-labor-market-takes-center-stage-after-hawkish-fed-split-202607312014",
     "pubDate": "Fri, 31 Jul 2026 20:14:39 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
-    "link": "https://coinpost.jp/?p=729175",
-    "pubDate": "Sat, 01 Aug 2026 05:00:30 +0900"
   },
   {
     "source": "Investing",
@@ -403,15 +412,6 @@
     "title": "US Dollar Weekly Forecast: Geopolitics, inflation and the Fed shape the outlook",
     "link": "https://www.fxstreet.com/analysis/us-dollar-weekly-forecast-geopolitics-inflation-and-the-fed-shape-the-outlook-202607311741",
     "pubDate": "Fri, 31 Jul 2026 17:41:50 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
-    "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-55-as-downside-momentum-eases-202607311740",
-    "pubDate": "Fri, 31 Jul 2026 17:40:43 GMT"
   },
   {
     "source": "Investing",

@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-08-03",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "暗号資産市場の地合いや主要トピックを分析し、次に確認すべきことを整理。初心者から中級者まで理解できる内容。",
+  "article": "## 1分で読める結論\n暗号資産市場はビットコインの先物ベーシスが米国債を下回る長期状態にあり、全体的に上値が重い状況が続いている。特に、クラリティ法案やDeFiプラットフォームの動向に注目が集まっている。\n\n## 今日の暗号資産市場の地合い\n現在の市場は、ビットコインの先物ベーシスが2022年以来の長さを記録し、リスクオフの雰囲気が漂っている。特に、米国の経済政策や金利動向が意識され、投資家の心理に影響を与えている。これにより、全体的に上値が重く、各種のプロジェクトも慎重な姿勢を見せている。\n\n## 今日の主要トピック3つ\n1. **ビットコイン先物ベーシスの長期化**: グラスノードによると、ビットコイン先物ベーシスが米国債を下回る状態が続いている。この状況は、投資家のリスク回避姿勢を示している。\n2. **DeFiプラットフォームの変化**: あるDeFiプラットフォームが消費者向けアプリから撤退し、テクノロジー企業のバックエンドとしての役割を強化。これにより、将来的な収益モデルが変化する可能性がある。\n3. **ビットコインのコールドウォレット攻撃**: 約89百万ドルの損失をもたらしたコールドウォレット攻撃が広がり、多くの投資家がビットコインを取引所に戻している。この動きが市場に与える影響は注視すべきである。\n\n## メインコインの整理\n- **ビットコイン**: 先物ベーシスの長期化により、上値が重い状況が続いている。FOMCの動向やクラリティ法案が焦点に。\n- **イーサリアム (ETH)**: クラリティ法案の影響を受けつつ、取引所での流動性が注目される。今後のETP提供に関する情報も重要。\n- **ソラナ (SOL)**: DeFiプロジェクトの動向が市場に影響を与えており、特に技術的進展に注目。\n\n## 個別プロジェクトの進捗\n- **クラリティ法案**: 市場の関心が高まっており、法案の動向が投資判断に影響を与える可能性がある。特に、ETHとSOLに関連するETP提供の進展が注目される。\n- **HIP-4**: パーミッションレス予測市場がテストネットで有効化され、今後の実用化に向けた動きが注目される。\n\n## 今日の要約から見える示唆\nマーケット全体がリスクオフの傾向を示しており、プロジェクトの進捗も慎重に進められている。特に、規制の動向が市場に与える影響は大きく、今後の戦略に影響を及ぼすことが考えられる。\n\n## 次に確認すべきこと\n- クラリティ法案の進捗状況とそれが主要コインに与える影響。\n- DeFiプラットフォームのビジネスモデルの変化が市場に与える影響。\n- ビットコインのコールドウォレット攻撃に関するさらなる情報と投資家の反応。\n\n## 今日の結論\n暗号資産市場は上値が重く、リスクオフの雰囲気が広がっている。主要なプロジェクトの進捗や規制の動向をしっかりとウォッチすることが重要である。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
+      "link": "https://coinpost.jp/?p=729250",
+      "pubDate": "Mon, 03 Aug 2026 08:02:00 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Counting down the days: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "pubDate": "Sun, 02 Aug 2026 18:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The reverse bridge: Crypto meets Wall Street using perps",
+      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "pubDate": "Sun, 02 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+      "pubDate": "Sun, 02 Aug 2026 12:03:51 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=729103",
+      "pubDate": "Sun, 02 Aug 2026 11:30:37 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（7/31）｜クラリティー法の動向・ETHとSOLのETP提供・XRP運用戦略のまとめ",
+      "link": "https://coinpost.jp/?p=728969",
+      "pubDate": "Sun, 02 Aug 2026 09:25:00 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy holds STRC dividend at 12%",
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "pubDate": "Sat, 01 Aug 2026 22:01:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "pubDate": "Sat, 01 Aug 2026 20:10:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "pubDate": "Sat, 01 Aug 2026 16:51:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "pubDate": "Sat, 01 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ハイパーリキッドHIP-4、パーミッションレス予測市場をテストネットで有効化",
+      "link": "https://coinpost.jp/?p=729236",
+      "pubDate": "Sat, 01 Aug 2026 13:15:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+      "link": "https://coinpost.jp/?p=729182",
+      "pubDate": "Sat, 01 Aug 2026 11:12:26 +0900"
+    }
+  ]
+}
