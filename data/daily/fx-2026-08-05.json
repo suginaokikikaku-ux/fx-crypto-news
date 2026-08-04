@@ -1,0 +1,170 @@
+{
+  "type": "fx",
+  "date": "2026-08-05",
+  "seoTitle": "USD/JPYの動向を探るマクロ分析",
+  "seoDescription": "最新のUSD/JPY相場を中心に金利、地政学、マクロ要因がどのように影響しているかを深掘りします。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の金利動向と地政学的リスクが主なトリガーとなり、USD/JPYは上昇傾向を示しています。特に、米国の利上げ期待が強まっており、これが円安を促進しています。今後の動向には注意が必要です。\n\n## 2. 今日の主要ドライバー3つ\n1. **米国の金利上昇期待 → USDの需要増加**  \n   米国の経済指標が強い影響を及ぼし、金利の引き上げが予想されています。これがUSDの需要を押し上げ、円安を加速させています。\n   \n2. **地政学的リスクの高まり → 安全資産への逃避行動**  \n   中東地域の緊張が高まっており、これがリスク回避の動きを促進し、円が安全資産としての位置づけを強化しています。\n   \n3. **新興国通貨の不安定さ → 投資家の選好変化**  \n   新興国の通貨が不安定な中、投資家は相対的に安定した円へのシフトを図っています。これが円の動きに影響を与えています。\n\n## 3. 市場構造の解釈\n今回の相場の動きは、主に金利の影響を受けています。米国の金利上昇期待が強い中で、機関投資家が積極的にUSDを買い進めており、これが円に対する圧力となっています。短期的には金利動向が相場を主導し、長期的には地政学的リスクが影響を及ぼす可能性があります。全体を通じて、金利差が相場の基調を決定づける要因として機能しています。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的にはUSDが強いトレンドを形成していると考えられます。中期的には、米国の金利が維持される限り、円安が続く可能性があります。今回の動きは「継続型」と見るべきで、金利と地政学が今後も相場に強い影響を与えるでしょう。\n\n## 5. BTCへの波及\n米国の金利上昇やリスクオンの動きがBTC市場にも影響を与える可能性があります。特に、円安が続くと資金がBTCなどのリスク資産に流れ込むことも考えられます。リスク選好度が高まる中、BTCは投資家の関心を集めるでしょう。\n\n## 6. 強気・弱気の分岐条件\n- **強気の条件**: 米国の金利が予想以上に引き上げられ、USDへの需要が持続する場合。\n- **弱気の条件**: 地政学的リスクが高まり、投資家のリスク回避が進む場合。\n\n## 7. 今日の示唆\n今の相場では、米国の金利動向に特に注目する必要があります。また、地政学的リスクのニュースにも注意を払うべきです。これらが相場への影響を大きく左右するため、関連する指標やイベントをしっかりと追跡することが重要です。\n\n## 8. 今日の結論\n今日の相場は、米国の金利上昇期待に支えられたUSDの強さが際立っており、円安傾向が続くと予想されます。地政学的リスクの影響も無視できないため、慎重な姿勢が求められます。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro",
+      "fx_analysis"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/JPY Price Forecast: Rebound stalls below 200-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-rebound-stalls-below-200-day-sma-202608042247",
+      "pubDate": "Tue, 04 Aug 2026 22:47:45 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "New Zealand’s Unemployment Rate climbs to 5.6% in Q2 vs. 5.4% expected",
+      "link": "https://www.fxstreet.com/news/new-zealands-unemployment-rate-climbs-to-56-in-q2-vs-54-expected-202608042246",
+      "pubDate": "Tue, 04 Aug 2026 22:46:13 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "New Zealand Dollar climbs ahead of NZ employment data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-ahead-of-nz-employment-data-202608042228",
+      "pubDate": "Tue, 04 Aug 2026 22:28:57 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/CHF Price Forecast: Trendline break puts 50-day SMA in focus",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-trendline-break-puts-50-day-sma-in-focus-202608042227",
+      "pubDate": "Tue, 04 Aug 2026 22:27:07 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Chinese Yuan: Strengthening toward 6.7300 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-strengthening-toward-67300-against-us-dollar-uob-202608042117",
+      "pubDate": "Tue, 04 Aug 2026 21:17:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-202608042034",
+      "pubDate": "Tue, 04 Aug 2026 20:34:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Nothing Britain does moves the Pound against the Dollar",
+      "link": "https://www.fxstreet.com/news/nothing-britain-does-moves-the-pound-against-the-dollar-202608041954",
+      "pubDate": "Tue, 04 Aug 2026 19:54:36 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
+      "link": "https://www.fxstreet.com/news/forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-202608041951",
+      "pubDate": "Tue, 04 Aug 2026 19:51:39 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-202608041951",
+      "pubDate": "Tue, 04 Aug 2026 19:51:00 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Compression Signals a Breakout as Rate Differentials Vanish",
+      "link": "https://www.investing.com/analysis/gbpusd-compression-signals-a-breakout-as-rate-differentials-vanish-200685199",
+      "pubDate": "Aug 04, 2026 19:32 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Mexican Peso rallies to six-week high on Hormuz deal speculation",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928",
+      "pubDate": "Tue, 04 Aug 2026 19:28:37 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Rally Lacks Confirmation Below the 100-Day Average",
+      "link": "https://www.investing.com/analysis/eurusd-rally-lacks-confirmation-below-the-100day-average-200685196",
+      "pubDate": "Aug 04, 2026 18:53 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Palantir Delivers Another Perfect Quarter and Raises Guidance Above Estimates",
+      "link": "https://www.investing.com/analysis/palantir-delivers-another-perfect-quarter-and-raises-guidance-above-estimates-200685191",
+      "pubDate": "Aug 04, 2026 17:52 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "Why the WTI sell-off may be hiding a supply warning",
+      "link": "https://www.fxstreet.com/analysis/why-the-wti-sell-off-may-be-hiding-a-supply-warning-202608041614",
+      "pubDate": "Tue, 04 Aug 2026 16:14:20 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "fx_analysis",
+      "market": "global",
+      "lang": "en",
+      "title": "XAU/USD Price forecast: Gold keeps the range despite fresh optimism ",
+      "link": "https://www.fxstreet.com/analysis/xau-usd-price-forecast-gold-keeps-the-range-despite-fresh-optimism-202608041600",
+      "pubDate": "Tue, 04 Aug 2026 16:00:10 GMT"
+    }
+  ]
+}

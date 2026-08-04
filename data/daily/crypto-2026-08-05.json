@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-08-05",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いやメインコインの動向、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n本日、暗号資産市場は全体的に安定を見せており、特にビットコインやイーサリアムは重要な価格レベルに注目が集まっています。ソラナやウェルズ・ファーゴの新しい取り組みも市場の関心を引いています。\n\n## 今日の暗号資産市場の地合い\n市場全体の地合いは比較的安定していますが、ビットコインの動向が依然として重要です。特に最近のETF関連の動きや、企業の決算が市場に与える影響が注目されています。投資家はリスクを警戒しつつも、新たな機会を探る姿勢が見えます。\n\n## 今日の主要トピック3つ\n1. **ブラックロックのトークン化MMF提供**: ブラックロックが欧州にてトークン化されたマネーマーケットファンド（MMF）の提供を開始し、その原資産の運用規模は約49兆円に達します。これにより、暗号資産市場における資金流入が期待されます。\n2. **ソラナの供給引き締め提案**: ソラナがトークン供給の引き締めを提案し、議論が進んでいます。この動きは、供給減少による価格上昇の可能性を秘めています。\n3. **ウェルズ・ファーゴのトークン化預金導入**: 米大手銀行ウェルズ・ファーゴが法人向けトークン化預金を導入する計画を発表しました。これにより、より多くの企業がブロックチェーン技術を活用することが予想されます。\n\n## メインコインの整理\n- **ビットコイン**: 最近の動向から、ビットコインの価格は重要な移動平均線に接近しており、今後のトレンドを形成するかが注目されています。\n- **イーサリアム**: イーサリアムは$2,055のレベルがトレンド修復の重要な閾値とされ、投資家の関心が高まっています。\n- **XRP**: XRPの価格は$1.06で、バイナリーのブレイクアウトまたはブレイクダウンの可能性が指摘されています。\n\n## 個別プロジェクトの進捗\n- **スペースX**: スペースXの上場後初の決算で、売上高がほぼ倍増し、ビットコイン保有額は1900億円相当を維持しています。この動きは、企業が暗号資産をどのように活用しているかの一例です。\n- **ギャラクシーとBNYの提携**: ギャラクシーとBNYメロンが提携し、仮想通貨のカストディにステーキング機能を組み込むことが発表されました。これにより、投資家の利便性が向上します。\n\n## 今日の要約から見える示唆\n現在、ビットコインやイーサリアムの価格レベルに大きな注目が集まっており、特に供給の引き締めや企業の新しい取り組みが市場に影響を与える可能性があります。特に、トークン化された金融商品や新たな金融サービスの導入が進む中で、暗号資産の普及が加速することが期待されます。\n\n## 次に確認すべきこと\n- ビットコインやイーサリアムの価格動向とそれに関連するテクニカル指標を確認すること。\n- ソラナのトークン供給引き締め提案の進捗状況を追跡すること。\n- ウェルズ・ファーゴのトークン化預金に関する詳細情報を収集し、他の金融機関の動向も注視すること。\n\n## 今日の結論\n市場は全体的に安定しているものの、ビットコインやイーサリアムなど主要コインの価格動向が今後の市場に大きな影響を与えると考えられます。また、企業の新たな取り組みが暗号資産市場の活性化に寄与することが期待されます。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "Investing",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ブラックロック、欧州などでトークン化MMFを提供へ　原資産の運用規模は計約49兆円",
+      "link": "https://coinpost.jp/?p=729853",
+      "pubDate": "Wed, 05 Aug 2026 07:45:14 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナ、トークン供給引き締め提案が議論段階へ進む",
+      "link": "https://coinpost.jp/?p=729844",
+      "pubDate": "Wed, 05 Aug 2026 07:15:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ハッシュデックス、米国初のビットコイン現物ETF閉鎖事例　",
+      "link": "https://coinpost.jp/?p=729843",
+      "pubDate": "Wed, 05 Aug 2026 06:40:50 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum’s $2,055 Level Defines the Threshold for Trend Repair",
+      "link": "https://www.investing.com/analysis/ethereums-2055-level-defines-the-threshold-for-trend-repair-200685204",
+      "pubDate": "Aug 04, 2026 21:21 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スペースX上場後初決算、売上高ほぼ倍増　1900億円相当ビットコイン保有を継続",
+      "link": "https://coinpost.jp/?p=729842",
+      "pubDate": "Wed, 05 Aug 2026 06:15:47 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラウドフレア、AIエージェント向け専用ウォレット機能を発表",
+      "link": "https://coinpost.jp/?p=729834",
+      "pubDate": "Wed, 05 Aug 2026 05:55:48 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP at $1.06 Defines a Binary Breakout or Breakdown Setup",
+      "link": "https://www.investing.com/analysis/xrp-at-106-defines-a-binary-breakout-or-breakdown-setup-200685201",
+      "pubDate": "Aug 04, 2026 20:42 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ギャラクシーとBNY提携、カストディに仮想通貨ステーキング組み込む",
+      "link": "https://coinpost.jp/?p=729833",
+      "pubDate": "Wed, 05 Aug 2026 05:35:00 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "link": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "pubDate": "Tue, 04 Aug 2026 20:26:21 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米大手銀ウェルズ・ファーゴ、法人向けトークン化預金導入へ",
+      "link": "https://coinpost.jp/?p=729814",
+      "pubDate": "Wed, 05 Aug 2026 05:00:03 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s Moving Average Wall Keeps the Recovery Inside a Downtrend",
+      "link": "https://www.investing.com/analysis/bitcoins-moving-average-wall-keeps-the-recovery-inside-a-downtrend-200685198",
+      "pubDate": "Aug 04, 2026 19:19 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "link": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "pubDate": "Tue, 04 Aug 2026 17:55:23 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "pubDate": "Tue, 04 Aug 2026 17:14:13 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase Bitcoin Premium Index extends historical negative streak as risk appetite deteriorates",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/coinbase-bitcoin-premium-index-extends-historical-negative-streak-as-risk-appetite-deteriorates-202608041633",
+      "pubDate": "Tue, 04 Aug 2026 16:33:06 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "pubDate": "Tue, 04 Aug 2026 16:21:59 +0000"
+    }
+  ]
+}
