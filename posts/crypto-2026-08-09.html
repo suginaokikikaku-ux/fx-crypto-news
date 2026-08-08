@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場の最新動向と今後の注目ポイント</title>
+  <meta name="description" content="今日の暗号資産市場の地合いや主要プロジェクトの進捗を分析し、次に確認すべきポイントを整理します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-09.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場の最新動向と今後の注目ポイント" />
+  <meta property="og:description" content="今日の暗号資産市場の地合いや主要プロジェクトの進捗を分析し、次に確認すべきポイントを整理します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-09.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場の最新動向と今後の注目ポイント","description":"今日の暗号資産市場の地合いや主要プロジェクトの進捗を分析し、次に確認すべきポイントを整理します。","datePublished":"2026-08-09","dateModified":"2026-08-09","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-09.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場の最新動向と今後の注目ポイント</h1>
+        <p>今日の暗号資産市場の地合いや主要プロジェクトの進捗を分析し、次に確認すべきポイントを整理します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-08-09 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinDesk / CoinPostのニュースをもとに整理しています。</div>
+      <h2>1分で読める結論</h2>
+本日はビットコインのBIP-110ソフトフォークの開始や、ブラジルの中央銀行による大規模な仮想通貨送金に関する規制強化が話題となっています。ロシアではハードウェアウォレットの販売が急増していますが、これは新たな規制に対する反応と見られます。全体的には、暗号資産市場は規制強化の影響を受けつつ、機関投資家の流入が期待される状況です。</p><h2>今日の暗号資産市場の地合い</h2>
+市場全体は規制に対する懸念と機関投資家からの資金流入期待が交錯しています。特にビットコインに関しては、ソフトフォークを巡る不安が影響を与えており、投資家の心理が揺れ動いています。ロシアやブラジルの事例は、地域ごとの規制動向が市場に及ぼす影響を示しています。</p><h2>今日の主要トピック3つ</h2>
+1. <strong>ビットコインのBIP-110ソフトフォークの開始</strong>: ブロック961,632での開始が報告され、マイナーの支持率が低迷しています。
+2. <strong>ブラジル中央銀行の新規制</strong>: 大規模な仮想通貨送金に対し、最大24時間の遅延を義務付ける方針が示されました。
+3. <strong>ロシアでのハードウェアウォレット販売の急増</strong>: 新たな規制の影響で、ハードウェアウォレットの需要が急増しています。</p><h2>メインコインの整理</h2>
+<ul><li><strong>ビットコイン</strong>: BIP-110ソフトフォークが開始され、マイナーの支持が低調。開発者からはフォークによるリスクが指摘されています。</li>
+<li><strong>イーサリアム</strong>: 特に新たなニュースはありませんが、全体的な市場の動向に影響を受けていると考えられます。</li></p><h2>個別プロジェクトの進捗</h2>
+<li><strong>XRP Ledger</strong>: 新しい改訂が発表され、5億3000万ドル相当のトークン化されたウォールストリート資産をターゲットとしています。これは資産の流動性を高める一助となる可能性があります。</li>
+<li><strong>USDCとCCTPのXレイヤー導入</strong>: サークルが進める取り組みで、これによりトークンの相互運用性が向上する見込みです。</li></p><h2>今日の要約から見える示唆</h2>
+規制強化が暗号資産市場に影響を与えている一方で、機関投資家の資金流入が期待される中での動きが見受けられます。特にビットコインの技術的進展と規制の影響が今後の市場に大きな影響を及ぼすでしょう。</p><h2>次に確認すべきこと</h2>
+<li>BIP-110ソフトフォークの進捗とマイナーの反応</li>
+<li>ブラジル中央銀行の新規制が市場に与える影響</li>
+<li>ロシアのハードウェアウォレット市場の動向と今後の規制の可能性</li></ul><h2>今日の結論</h2>
+現在の暗号資産市場は規制強化と機関投資家の動向が交錯する状況です。特にビットコインの技術的な進展や、地域ごとの規制が市場に与える影響を注視する必要があります。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../basics/crypto/what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="../basics/crypto/how-to-read-projects.html">暗号資産プロジェクトの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinDesk / CoinPost</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins（CoinDesk / crypto） - <a href="https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] Hardware wallet sales in Russia more than double as new crypto rules near（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Brazil's central bank orders exchanges to delay large crypto transfers abroad（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers（CoinDesk / crypto） - <a href="https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] ブラジル中銀、仮想通貨送金に最大24時間の遅延義務付け（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730620" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] ロシア当局、ウクライナ発詐欺に関与した違法仮想通貨交換所を摘発　20人超拘束（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730609" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] New XRP Ledger amendments target $530 million in tokenized Wall Street assets（CoinDesk / crypto） - <a href="https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer（CoinDesk / crypto） - <a href="https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] サークル、USDCとCCTPをXレイヤーに導入（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730607" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] ビットコインのeCashフォーク、8月23日から3段階で開始（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730586" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] クリーンスパーク26年4-6月期決算、売上高30%減　BTC評価損で純損失（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730592" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] トランプ・メディア、クリプトドットコムとの仮想通貨事業を縮小（CoinPost / crypto） - <a href="https://coinpost.jp/?p=730563" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
