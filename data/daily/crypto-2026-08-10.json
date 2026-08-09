@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-08-10",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "暗号資産市場の最新ニュースを分析し、主要コインやプロジェクトの状況を整理。今後の注目ポイントを解説。",
+  "article": "# 1分で読める結論\n\n暗号資産市場は、ビットコインのスポットETFへの大規模な資金流入や、100以上のプロジェクトの撤退といったダイナミックな動きを見せています。特に、ビットコインに対する機関投資家の関心が高まる中、規制やプロジェクトの進捗も影響を与えています。\n\n## 今日の暗号資産市場の地合い\n\n現在の市場は、機関投資家の参入が進む中で不安定な局面にあり、特にビットコインは価格の上昇が見られていますが、CPIや利上げ観測が影響を与えています。また、特定のプロジェクトが撤退する中で、全体的な信頼感が試されています。\n\n## 今日の主要トピック3つ\n1. **ビットコインETFへの資金流入**: 投資家がスポットETFに853百万ドルを投入し、ブラックロックのIBITがその大部分を占めている。\n2. **クリプト市場のプロジェクト撤退**: 2026年に100以上のプロジェクトが市場から撤退し、ドットコムバブルのような状況が進行中。\n3. **ビットコインのBIP-110フォークの試み**: 物議を醸しているBIP-110がブロックを2つ採掘した後、活動を停止。\n\n## メインコインの整理\n\n- **ビットコイン**: スポットETFへの資金流入が強い影響を及ぼしており、価格は上昇傾向にあるが、CPIや利上げの影響が懸念されている。\n- **イーサリアム**: パフォーマンスは安定しているが、プロジェクトの進展や規制に対する反応が必要。\n- **その他の主要コイン**: 状況は様々で、特に規制の影響を受けているコインについてのウォッチが重要。\n\n## 個別プロジェクトの進捗\n\n- **Hyperliquid**: RWAパーペチュアルの需要が急増し、収益が圧迫されている。\n- **サークル**: USDCとCCTPを新たにXレイヤーに導入し、エコシステムを強化。\n- **ロシア**: 新たな規制によりハードウェアウォレットの販売が急増。\n\n## 今日の要約から見える示唆\n\n市場は機関投資家の関心が高まる一方で、プロジェクトの撤退や規制が影を落としています。特にビットコインに対する強い資金流入は、今後の展開に大きな影響を与える可能性があります。\n\n## 次に確認すべきこと\n\n1. ビットコインのスポットETFに関連する最新の動向。\n2. 撤退したプロジェクトの影響や市場の反応。\n3. 新たな規制や法令に対する各国の対応。\n\n## 今日の結論\n\n暗号資産市場は今後も機関投資家の動向や規制の影響を受け続けるため、継続的なウォッチが必要です。特にビットコインの動きが市場全体に与える影響は無視できません。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "pubDate": "Sun, 09 Aug 2026 18:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "pubDate": "Sun, 09 Aug 2026 14:19:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "pubDate": "Sun, 09 Aug 2026 05:08:20 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=730494",
+      "pubDate": "Sun, 09 Aug 2026 11:30:43 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（8/7）｜スペースX決算・相場分析・金融庁の規制対応のまとめ",
+      "link": "https://coinpost.jp/?p=730414",
+      "pubDate": "Sun, 09 Aug 2026 09:25:52 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "pubDate": "Sat, 08 Aug 2026 20:06:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "pubDate": "Sat, 08 Aug 2026 17:48:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "pubDate": "Sat, 08 Aug 2026 15:25:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ブラジル中銀、仮想通貨送金に最大24時間の遅延義務付け",
+      "link": "https://coinpost.jp/?p=730620",
+      "pubDate": "Sat, 08 Aug 2026 14:00:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ロシア当局、ウクライナ発詐欺に関与した違法仮想通貨交換所を摘発　20人超拘束",
+      "link": "https://coinpost.jp/?p=730609",
+      "pubDate": "Sat, 08 Aug 2026 13:00:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "サークル、USDCとCCTPをXレイヤーに導入",
+      "link": "https://coinpost.jp/?p=730607",
+      "pubDate": "Sat, 08 Aug 2026 11:20:33 +0900"
+    }
+  ]
+}
