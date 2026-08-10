@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-08-11",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場では、ビットコインが2%下落し、トランプメディアが361百万ドルの損失を計上した一方で、リップルは50億ドルの時価総額を維持しています。また、グレースケールはアダルトトークンのETF計画を取り下げました。\n\n## 今日の暗号資産市場の地合い\n市場全体は弱気の傾向が見られ、特にビットコインが売られている状況です。戦略的な資金調達や他の資産へのシフトが進む中、投資家の心理も冷え込んでいます。特に、トランプメディアのビットコイン保有が減少したことが市場に影響を与えています。\n\n## 今日の主要トピック3つ\n1. **トランプメディアのビットコイン保有の減少**: 361百万ドルの損失が報告され、影響が広がる可能性。\n2. **ビットコインの下落**: MARAなどの報告を受けて2%の下落が見られ、売り圧力が強まっている。\n3. **グレースケールのETF計画の取り下げ**: アダルトトークンに関するETF計画が取り下げられ、影響が出る可能性。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 2%の下落。主に戦略的売却や市場の冷え込みが影響。\n- **リップル (XRP)**: 時価総額が50億ドルであり、2018年の価格水準で安定。\n- **イーサリアム (ETH)**: ビットマインのイーサリアム購入が減少している。\n\n## 個別プロジェクトの進捗\n- **トランプメディア**: ビットコインの損失が361百万ドルに達し、保有量が減少。\n- **グレースケール**: アダルトトークンのETF計画を取り下げ、今後の動向が注目される。\n- **ソラナ**: Jupiterの新機能が導入され、同じドルで二重に稼ぐことが可能に。\n\n## 今日の要約から見える示唆\n市場全体が弱気である中、特にビットコインが売られ続けていることから、投資家は他の資産へのシフトを考慮する必要があります。また、トランプメディアの影響やグレースケールの動きも注視するべきです。\n\n## 次に確認すべきこと\n- ビットコインの価格動向と売り圧力の持続性。\n- ソラナの新機能が市場に与える影響。\n- グレースケールの今後の展開や、他のプロジェクトへの影響。\n\n## 今日の結論\n今日の暗号資産市場は、ビットコインの下落とトランプメディアの損失報告を受けて、全体的に厳しい地合いです。投資家は他の資産やプロジェクトの動向を注視し、次の戦略を考える必要があります。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+      "pubDate": "Mon, 10 Aug 2026 21:12:07 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin slips 2% as MARA, Strategy report BTC selling",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-slips-2-as-mara-strategy-report-btc-selling-202608102037",
+      "pubDate": "Mon, 10 Aug 2026 20:37:38 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "pubDate": "Mon, 10 Aug 2026 20:20:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+      "pubDate": "Mon, 10 Aug 2026 20:03:24 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ripple Is Worth $50B and XRP Trades at 2018 Prices",
+      "link": "https://www.investing.com/analysis/ripple-is-worth-50b-and-xrp-trades-at-2018-prices-200685548",
+      "pubDate": "Aug 10, 2026 19:58 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin vs Gold Overview: XAU tests breakout, BTC slides as Trump claims Iran negotiations",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-vs-gold-overview-xau-tests-breakout-btc-slides-as-trump-claims-iran-negotiations-202608101701",
+      "pubDate": "Mon, 10 Aug 2026 17:01:24 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+      "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "pubDate": "Mon, 10 Aug 2026 15:02:14 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy sells another 1,690 BTC to fund STRC stock buybacks as Bitcoin holds steady",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/strategy-sells-another-1-690-btc-to-fund-strc-stock-buybacks-as-bitcoin-holds-steady-202608101501",
+      "pubDate": "Mon, 10 Aug 2026 15:01:50 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+      "link": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+      "pubDate": "Mon, 10 Aug 2026 14:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+      "link": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+      "pubDate": "Mon, 10 Aug 2026 13:50:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana gets its first Strategy STRC product through Solstice Finance ",
+      "link": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
+      "pubDate": "Mon, 10 Aug 2026 13:26:36 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP upside stays limited despite steady inflows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-remains-range-bound-above-key-support-202608101300",
+      "pubDate": "Mon, 10 Aug 2026 13:00:00 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "link": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "pubDate": "Mon, 10 Aug 2026 12:09:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "link": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
+      "pubDate": "Mon, 10 Aug 2026 11:39:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
+      "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "pubDate": "Mon, 10 Aug 2026 11:38:33 +0000"
+    }
+  ]
+}
