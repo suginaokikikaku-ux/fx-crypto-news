@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場の最新動向と分析</title>
+  <meta name="description" content="BTCやETHを含む主要コインの市場動向と個別プロジェクトの最新情報を整理し、次に確認すべきポイントを解説します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-12.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場の最新動向と分析" />
+  <meta property="og:description" content="BTCやETHを含む主要コインの市場動向と個別プロジェクトの最新情報を整理し、次に確認すべきポイントを解説します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-12.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場の最新動向と分析","description":"BTCやETHを含む主要コインの市場動向と個別プロジェクトの最新情報を整理し、次に確認すべきポイントを解説します。","datePublished":"2026-08-12","dateModified":"2026-08-12","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-08-12.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場の最新動向と分析</h1>
+        <p>BTCやETHを含む主要コインの市場動向と個別プロジェクトの最新情報を整理し、次に確認すべきポイントを解説します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-08-12 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinDesk / FXStreet / Investingのニュースをもとに整理しています。</div>
+      <h2>1分で読める結論</h2>
+最近の暗号資産市場は、BTCのETF資金流入が売り圧力を相殺しつつありますが、インフレデータの影響で動きが見込まれます。ETHは供給の希少性が高まり続けており、XRPはETF需要の低迷が続いています。</p><h2>今日の暗号資産市場の地合い</h2>
+市場全体は、ETF関連の資金流入が影響し、BTCは横ばいの状態が続いています。しかし、インフレデータの発表を控え、投資家の関心が高まりつつあり、今後の動きに影響を与える可能性があります。</p><h2>今日の主要トピック3つ</h2>
+1. <strong>ETF資金流入とBTCの動き</strong>: ETFからの資金流入が売り圧力を相殺し、BTCは安定した状態ですが、インフレデータの発表を控えた状況です。
+2. <strong>ETHの供給希少性</strong>: ETHの供給が減少している中で、価格が過去のピークを大きく下回っており、供給と需要のバランスに注目が集まります。
+3. <strong>XRPのETF需要</strong>: XRPのETF保有量が小さく、供給圧力を生むことは難しい状況が続いています。</p><h2>メインコインの整理</h2>
+<ul><li><strong>Bitcoin (BTC)</strong>: ETFからの資金流入が続く中、売り圧力を相殺しています。市場はインフレデータの発表を見守っています。</li>
+<li><strong>Ethereum (ETH)</strong>: 供給の希少性が増しており、価格は低迷していますが、プロジェクトの基盤は強固です。</li>
+<li><strong>XRP</strong>: ETF需要の低迷が続き、$1.00のサポートラインが脆弱です。</li></p><h2>個別プロジェクトの進捗</h2>
+<li><strong>Itaú</strong>: ブラジルの最大手銀行がトークン化への取り組みを強化しており、金融業界における暗号資産の利用拡大が期待されています。</li>
+<li><strong>Coinbase</strong>: アブダビでのトークン化ハブを設立し、規制当局からの承認を受けたことで、地域での影響力を強化しています。</li>
+<li><strong>MoneyGram</strong>: Solanaブロックチェーンを利用したグローバルな暗号資産から現金へのサービスを拡大中です。</li></p><h2>今日の要約から見える示唆</h2>
+市場はETF資金流入によって支えられているものの、インフレデータの影響で変動が予想されます。また、ETHの供給が変化する中で、より多くの投資家がその動向に注目しています。XRPの状況も引き続き観察が必要です。</p><h2>次に確認すべきこと</h2>
+<li>インフレデータの発表後の市場反応を観察する。</li>
+<li>ETHの供給状況とその価格動向に注目する。</li>
+<li>XRPのETF需要が今後どうなるか、特に市場のサポートラインを確認する。</li></ul><h2>今日の結論</h2>
+暗号資産市場はETFの資金流入によって一定の安定を示していますが、インフレデータ発表後の動きが重要です。ETHとXRPの動向も引き続き注視する必要があります。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../basics/crypto/what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="../basics/crypto/how-to-read-projects.html">暗号資産プロジェクトの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinDesk / FXStreet / Investing</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Can EIP-8363 save Ethereum's ultrasound money thesis, or is the damage already done?（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/can-eip-8363-save-ethereums-ultrasound-money-thesis-or-is-the-damage-already-done-202608112030" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Bitcoin risks liquidation-driven spikes amid deepening market apathy（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/bitcoin-risks-liquidation-driven-spikes-amid-deepening-market-apathy-202608112019" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Ether Supply Scarcity Deepens as Price Remains Far Below Its Peak（Investing / crypto） - <a href="https://www.investing.com/analysis/ether-supply-scarcity-deepens-as-price-remains-far-below-its-peak-200685643" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] Brazil's largest lender Itaú is stepping deeper into the tokenization（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] XRP ETF Holdings Remain Too Small to Create a Supply Squeeze（Investing / crypto） - <a href="https://www.investing.com/analysis/xrp-etf-holdings-remain-too-small-to-create-a-supply-squeeze-200685639" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] EToro reports second quarter crypto loss even as total profit beats estimates（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Shiba Inu Price Forecast: SHIB extends sell-off despite surging futures Open Interest（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/shiba-inu-price-forecast-shib-extends-sell-off-despite-surging-futures-open-interest-202608111608" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] If crypto goes back to the congressional drawing board, 3 Democrat women loom large（CoinDesk / crypto） - <a href="https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] Coinbase launches Abu Dhabi tokenization hub after regulatory approval（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/coinbase-launches-abu-dhabi-tokenization-hub-after-regulatory-approval-202608111347" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] XRP holds fragile $1.00 support amid muted ETF demand（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrps-slow-grind-near-100-raises-risk-of-deeper-sell-off-202608111230" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] MoneyGram expands on Solana with global crypto-to-cash service（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
