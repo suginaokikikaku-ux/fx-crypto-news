@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-08-14",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "暗号資産市場の地合い、主要コインの動き、注目プロジェクトの進捗を解説。次に確認すべきことも整理。",
+  "article": "## 1分で読める結論\n暗号資産市場は全体的に弱含んでおり、特にXRPの価格が大きく下落しました。SECの規制案のキャンセルが影響を及ぼしている可能性があります。一方、テザーは監査を完了し、信頼性向上を図っています。\n\n## 今日の暗号資産市場の地合い\n本日の暗号資産市場は、SECの規制案キャンセルの影響で全体的に弱含んでいます。特に、主要コインの価格が伸び悩んでおり、投資家の信頼感が低下しています。市場全体のボラティリティは高く、新規資金流入が鈍化しています。\n\n## 今日の主要トピック3つ\n1. **SECが長らく待たれていた規制提案をキャンセル** - SECは、新たな会議の日程を設定することなく、規制案の提案をキャンセルしました。この動きは、投資家に不安を与えています。\n   [詳細はこちら](https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date)\n\n2. **XRPが72%下落し、価格回復が困難に** - XRPは72%の下落を記録し、価格を押し上げるカタリストが機能していない状況です。\n   [詳細はこちら](https://www.investing.com/analysis/xrps-72-drawdown-shows-why-catalysts-have-failed-to-lift-price-200685799)\n\n3. **テザーが1800億ドルのUSDTの監査を完了** - テザーは、米国の大手監査法人による監査を完了し、財務の透明性を高める取り組みを強化しています。\n   [詳細はこちら](https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin)\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 最近の価格は不透明で、短期的なトレンドが明確でない状況です。\n- **イーサリアム (ETH)**: 価格が伸び悩み、主要なサポートラインが意識されています。\n- **XRP**: 72%の下落により、1ドルのサポートを維持しようとする動きがありますが、全体市場の影響を受け続けています。\n\n## 個別プロジェクトの進捗\n- **テザー (USDT)**: 監査を完了し、信頼性を向上させることで、投資家の信頼を取り戻す努力をしています。\n- **Trezor**: データ侵害の警告が出され、14,000人の顧客に影響を及ぼす可能性があるため、ユーザーのセキュリティ意識が高まることが予想されます。\n   [詳細はこちら](https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach)\n\n## 今日の要約から見える示唆\nSECの規制案のキャンセルは市場全体に不安を与え、投資家の信頼感を損なっています。この影響は主要コインの価格動向に顕著に表れており、特にXRPのケースが示すように、悪材料が重なることで価格が押し下げられています。テザーの監査完了は、規制の透明性を求める動きの中で信頼性を高めるかもしれません。\n\n## 次に確認すべきこと\n- SECの今後の動きと新たな規制案に関する情報\n- XRPの価格動向と市場全体への影響\n- テザーの監査結果が市場に与える影響\n\n## 今日の結論\n今日の暗号資産市場は、SECの動きによる不安と、XRPの価格崩落が影響し、全体的に弱含んでいます。テザーの監査結果には注目が集まるものの、投資家は慎重な姿勢を崩さないでしょう。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "Investing",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "pubDate": "Thu, 13 Aug 2026 22:18:07 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP’s 72% Drawdown Shows Why Catalysts Have Failed to Lift Price",
+      "link": "https://www.investing.com/analysis/xrps-72-drawdown-shows-why-catalysts-have-failed-to-lift-price-200685799",
+      "pubDate": "Aug 13, 2026 19:11 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+      "link": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+      "pubDate": "Thu, 13 Aug 2026 18:26:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "link": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+      "pubDate": "Thu, 13 Aug 2026 17:43:25 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "link": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
+      "pubDate": "Thu, 13 Aug 2026 17:10:57 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Dogecoin Price Prediction: DOGE reclaims $0.07 support as whales step in",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/dogecoin-price-prediction-doge-reclaims-007-support-as-whales-step-in-202608131610",
+      "pubDate": "Thu, 13 Aug 2026 16:10:03 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto for Advisors: The crypto advice gap",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+      "pubDate": "Thu, 13 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "link": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "pubDate": "Thu, 13 Aug 2026 14:43:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
+      "pubDate": "Thu, 13 Aug 2026 14:16:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
+      "link": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
+      "pubDate": "Thu, 13 Aug 2026 13:41:32 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
+      "link": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
+      "pubDate": "Thu, 13 Aug 2026 13:37:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
+      "link": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
+      "pubDate": "Thu, 13 Aug 2026 13:29:28 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP holds above $1.00 support amid a broader bearish trend",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-recovery-lacks-momentum-as-bulls-defend-100-support-202608131300",
+      "pubDate": "Thu, 13 Aug 2026 13:00:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Today: Bitcoin, Ethereum, XRP remain sluggish amid mixed ETF flows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-remain-sluggish-amid-mixed-etf-flows-202608131100",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Price Forecast: BTC rebounds slightly as consolidation range keeps direction unclear",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-forecast-btc-rebounds-slightly-as-consolidation-range-keeps-direction-unclear-202608131053",
+      "pubDate": "Thu, 13 Aug 2026 10:53:29 GMT"
+    }
+  ]
+}
