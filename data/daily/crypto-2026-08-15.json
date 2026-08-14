@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-08-15",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の地合い、主要トピック、プロジェクトの進捗を分析し、次に確認すべきことを整理しました。",
+  "article": "## 1分で読める結論\n本日の暗号資産市場は、規制に関する懸念が高まる中での不安定な地合いが続いており、特にビットコインの取引量が7年ぶりの低水準に達しました。また、ノルウェー政府系ファンドによるビットコインの間接保有が過去最高となり、機関投資家の動向にも変化が見られます。\n\n## 今日の暗号資産市場の地合い\n現在の市場状況は、規制不安と機関投資家の動きが交錯する複雑なものとなっています。特に、JPMorganがPolymarketとの銀行関係を断絶したことや、米SECによる規則の延期が市場に影響を与えています。また、ビットコインのスポット取引量は過去7年で最低水準となっており、売買の活発さが失われています。\n\n## 今日の主要トピック3つ\n1. **JPMorganがPolymarketとの関係を断絶**: 規制の懸念から、JPMorganがPolymarketとの銀行関係を終了しました。これにより、分散型金融（DeFi）に対する銀行の姿勢が問われることになります。\n2. **ノルウェー政府系ファンドのビットコイン保有が最高に**: ノルウェー政府系ファンドがビットコインを間接的に保有しており、機関投資家によるビットコインへの関心が高まっています。\n3. **米SECの規則延期**: 米SECが証券トークン化に関する特例規則の公表を再度延期しました。これにより、投資家の不安が増し、関連株が影響を受ける可能性があります。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: 取引量が過去7年で最低水準。市場の不安が影響している。\n- **イーサリアム（ETH）**: デリバティブ市場は静かな状況が続いており、投資家の関心が薄い。\n\n## 個別プロジェクトの進捗\n- **Polymarket**: JPMorganとの関係断絶により、今後の資金調達や流動性に影響が出る可能性がある。\n- **World Liberty**: トランプ支持のWorld Libertyが連邦規制当局から条件付き銀行免許を取得しました。今後の展開に注目。\n\n## 今日の要約から見える示唆\n規制に対する懸念が市場全体に影響を与えていることが浮き彫りになっています。特に、規制の動向が暗号資産市場の流動性や機関投資家の行動に重要な役割を果たしています。\n\n## 次に確認すべきこと\n- 規制の進展: SECが新たな規制案をいつ発表するのか、またその内容が市場に与える影響を注視する必要があります。\n- 機関投資家の動向: ノルウェー政府系ファンドなど、他の機関投資家の動きや投資戦略を分析することが重要です。\n\n## 今日の結論\n現在の暗号資産市場は、規制不安が影響を及ぼし、特にビットコインの取引量が低迷しています。機関投資家の動向には注目が集まっており、今後の規制動向が市場の流れを大きく変える可能性があります。",
+  "meta": {
+    "sources": [
+      "FXStreet",
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan severs banking ties with Polymarket amid regulatory concerns",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/jpmorgan-severs-banking-ties-with-polymarket-amid-regulatory-concerns-202608142227",
+      "pubDate": "Fri, 14 Aug 2026 22:27:24 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ノルウェー政府系ファンド、ビットコイン間接保有が過去最高に",
+      "link": "https://coinpost.jp/?p=731028",
+      "pubDate": "Sat, 15 Aug 2026 07:15:34 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、証券トークン化特例規則の公表を再度延期",
+      "link": "https://coinpost.jp/?p=731029",
+      "pubDate": "Sat, 15 Aug 2026 06:30:38 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "pubDate": "Fri, 14 Aug 2026 21:05:23 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
+      "link": "https://coinpost.jp/?p=731026",
+      "pubDate": "Sat, 15 Aug 2026 06:05:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、仮想通貨規則案の採決会合を延期",
+      "link": "https://coinpost.jp/?p=731030",
+      "pubDate": "Sat, 15 Aug 2026 05:50:39 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy, Metaplanet face possible removal from MSCI index under proposed eligibility rules",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/strategy-metaplanet-face-possible-removal-from-msci-index-under-proposed-eligibility-rules-202608142034",
+      "pubDate": "Fri, 14 Aug 2026 20:34:36 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米MSCI、ストラテジーとメタプラネットの株価指数除外を協議",
+      "link": "https://coinpost.jp/?p=731018",
+      "pubDate": "Sat, 15 Aug 2026 05:00:43 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: Derivatives interest remains calm amid mixed sentiment",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-derivatives-interest-remains-calm-amid-mixed-sentiment-202608141926",
+      "pubDate": "Fri, 14 Aug 2026 19:26:59 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "pubDate": "Fri, 14 Aug 2026 17:48:04 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Spot Volume Hits a 7-Year Low: A Late-Stage Bear?",
+      "link": "https://www.investing.com/analysis/bitcoin-spot-volume-hits-a-7year-low-a-latestage-bear-200685858",
+      "pubDate": "Aug 14, 2026 15:47 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "pubDate": "Fri, 14 Aug 2026 14:12:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "pubDate": "Fri, 14 Aug 2026 13:51:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "pubDate": "Fri, 14 Aug 2026 11:33:50 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Robinhood Chain Exposes Crypto’s Regulatory Blind Spot",
+      "link": "https://www.investing.com/analysis/robinhood-chain-exposes-cryptos-regulatory-blind-spot-200685842",
+      "pubDate": "Aug 14, 2026 11:29 GMT"
+    }
+  ]
+}
