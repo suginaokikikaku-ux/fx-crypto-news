@@ -1,0 +1,171 @@
+{
+  "type": "crypto",
+  "date": "2026-09-12",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "最新の暗号資産市場の地合い、主要コインの状態、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "# 1分で読める結論\n現在の暗号資産市場は、米国のCPI発表後にビットコインが急伸し、その後反落したことが影響しています。イーサリアムは短期的な価格変動が見られる一方で、特定のプロジェクトが成長を続けています。\n\n## 今日の暗号資産市場の地合い\n米国の8月CPIが発表され、予想を上回る結果となったことで、インフレ懸念が再浮上。これにより、ビットコインとゴールドが一時的に上昇しましたが、ビットコインはその後反落し、市場全体に影響を及ぼしました。投資家は今後の金利動向やインフレ指標に注目しています。\n\n## 今日の主要トピック3つ\n1. **米8月CPIの発表**：コア指数が予想を上回り、ビットコインが急伸後に反落。\n2. **イーサリアムの価格予測**：イーサリアムが$2,600を一時超えたが、ショートポジションが巻き込まれる状況に。\n3. **スタンダードチャータードの仮想通貨予想**：スカイが5倍になる可能性があるとの見解が発表されている。\n\n## メインコインの整理\n- **ビットコイン**：CPI発表後に急伸するも、反落。\n- **イーサリアム**：$2,600を一時超えた後、調整局面に。\n- **ソラナ**：$98.79のサポートラインが崩れた場合、11%の下落リスクが指摘されている。\n\n## 個別プロジェクトの進捗\n- **メタプラネット**：香港に子会社を設立し、ビットコイン資産運用体制を強化する計画を発表。\n- **コインベース**：クラリティ法案が不成立でも、規制の明確化が進む見通し。\n- **インドの州**：資産のトークン化を検討しており、新インフラ資金調達の手段として注目されている。\n\n## 今日の要約から見える示唆\n市場はインフレ懸念に敏感に反応しており、特に米国の経済指標が暗号資産の価格動向に大きな影響を与えています。また、特定のプロジェクトが進展していることから、今後の成長が見込める分野にも注目が必要です。\n\n## 次に確認すべきこと\n- 次回のCPI発表とその市場への影響。\n- イーサリアムの価格動向と需給状況の変化。\n- メタプラネットやインドのトークン化プロジェクトの進捗。\n\n## 今日の結論\nインフレ指標の結果が暗号資産市場に影響を及ぼしている中、特定のプロジェクトが注目を集めています。投資家は経済指標に加え、成長が見込まれるプロジェクトに目を向けるべきです。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet",
+      "Investing",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "pubDate": "Fri, 11 Sep 2026 23:47:51 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "仮想通貨スカイ価格5倍予想、オフチェーン中央銀行的存在＝スタンダードチャータード",
+      "link": "https://coinpost.jp/?p=737056",
+      "pubDate": "Sat, 12 Sep 2026 08:25:44 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH's brief surge above $2,600 traps shorts despite hot inflation print",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eths-brief-surge-above-2-600-traps-shorts-despite-hot-inflation-print-202609112323",
+      "pubDate": "Fri, 11 Sep 2026 23:23:44 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米8月CPI、コア指数が予想上振れ｜ビットコインは急伸後反落",
+      "link": "https://coinpost.jp/?p=737057",
+      "pubDate": "Sat, 12 Sep 2026 06:50:41 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin could benefit from failed Treasury intervention despite persistent inflation — CoinShares",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-could-benefit-from-failed-treasury-intervention-despite-persistent-inflation-coinshares-202609112130",
+      "pubDate": "Fri, 11 Sep 2026 21:30:46 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "クラリティー法案不成立でも規制明確化へ、コインベースCEOが見方示す",
+      "link": "https://coinpost.jp/?p=737058",
+      "pubDate": "Sat, 12 Sep 2026 06:15:47 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "メタプラネット、株主意見を踏まえ第10回の潜在株式を41%削減",
+      "link": "https://coinpost.jp/?p=737059",
+      "pubDate": "Sat, 12 Sep 2026 05:55:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "メタプラネットが香港子会社設立へ、ビットコイン資産運用体制を強化",
+      "link": "https://coinpost.jp/?p=737046",
+      "pubDate": "Sat, 12 Sep 2026 05:00:02 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana Faces an 11% Downside Risk if $98.79 Support Fails",
+      "link": "https://www.investing.com/analysis/solana-faces-an-11-downside-risk-if-9879-support-fails-200687560",
+      "pubDate": "Sep 11, 2026 18:30 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "pubDate": "Fri, 11 Sep 2026 17:12:45 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin and Gold Outlook: BTC and Gold advance after US CPI holds steady in August",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-gold-outlook-btc-and-gold-advance-after-us-cpi-holds-steady-in-august-202609111631",
+      "pubDate": "Fri, 11 Sep 2026 16:31:43 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+      "pubDate": "Fri, 11 Sep 2026 15:45:56 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
+      "pubDate": "Fri, 11 Sep 2026 15:17:08 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "August CPI Puts Gold and Bitcoin at a Fed Crossroads",
+      "link": "https://www.investing.com/analysis/august-cpi-puts-gold-and-bitcoin-at-a-fed-crossroads-200687544",
+      "pubDate": "Sep 11, 2026 14:29 GMT"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【9/11話題】CLARITY法案の修正版公開、ネットスターズとカイア財団がMOU、ナスダックがペイワードに1億ドル出資へなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/607297",
+      "pubDate": "Fri, 11 Sep 2026 14:01:32 +0000"
+    }
+  ]
+}
