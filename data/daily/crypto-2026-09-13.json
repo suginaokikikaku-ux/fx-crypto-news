@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-09-13",
+  "seoTitle": "今日の暗号資産市場分析 2026年9月12日",
+  "seoDescription": "9月12日の暗号資産市場の状況を分析。主要コインやプロジェクトの進捗を詳述し、今後の注目点を整理しました。",
+  "article": "## 1分で読める結論\n本日は暗号資産市場がやや活発な動きを見せており、特にビットコインが81.7Kでの重い抵抗に直面しています。RippleのRLUSDは新たな企業向け機会を提示し、Coinbaseはソーシャル機能を撤退しました。\n\n## 今日の暗号資産市場の地合い\n市場全体は、ビットコインの価格が81.7Kでの抵抗に直面する中、やや慎重な雰囲気が漂っています。特に、ビットコインの動向が他の主要コインに影響を与え、全体的なボラティリティが高まっています。投資家たちは、今後の価格動向と市場の反応を注視しています。\n\n## 今日の主要トピック3つ\n1. **Bitcoinの価格抵抗**: ビットコインは81.7Kで重い抵抗に直面しており、供給壁が高まっています。\n2. **RippleのRLUSDの機会**: Rippleの安定コインRLUSDは、13兆ドルの企業向け財務機会を見込んでおり、大きな注目を集めています。\n3. **Coinbaseのソーシャル機能撤退**: Coinbaseがソーシャル機能を撤退し、過去のウォレット名に戻すことを発表しました。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 81.7Kでの抵抗が強く、今後の動きが注目されます。\n- **イーサリアム (ETH)**: 市場全体の影響を受けつつも、安定した動きを見せています。\n- **Ripple (XRP)**: RLUSDの企業向け機会が注目されており、今後の展開が期待されます。\n\n## 個別プロジェクトの進捗\n- **Ripple**: RLUSDが13兆ドルの企業財務機会を見込んでおり、今後の成長が期待されています。\n- **Coinbase**: ソーシャル機能の撤退により、サービス戦略が見直される可能性があります。\n- **Bitcoin Suisse**: スイスでの雇用を半減する計画が発表され、業務の国際化が進行しています。\n\n## 今日の要約から見える示唆\nビットコインの価格抵抗は、投資家心理に影響を与えており、安定コインや企業向けの新しい機会が注目されています。市場の動向を慎重に見守る必要があります。\n\n## 次に確認すべきこと\n- ビットコインの価格動向と供給壁の動き。\n- RippleのRLUSDの企業向け展開の進捗。\n- Coinbaseの今後のサービス戦略と市場反応。\n\n## 今日の結論\n本日は市場においてビットコインの価格抵抗が強く、Rippleの安定コインが新たな機会を提供しています。今後の市場動向を注視し、各プロジェクトの進捗を確認することが重要です。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+      "pubDate": "Sat, 12 Sep 2026 21:09:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+      "pubDate": "Sat, 12 Sep 2026 21:09:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "pubDate": "Sat, 12 Sep 2026 18:51:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "pubDate": "Sat, 12 Sep 2026 18:43:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "pubDate": "Sat, 12 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+      "pubDate": "Sat, 12 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "pubDate": "Sat, 12 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "pubDate": "Sat, 12 Sep 2026 10:11:01 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベース、ソーシャル機能撤退　ウォレット名を旧称に戻す",
+      "link": "https://coinpost.jp/?p=737111",
+      "pubDate": "Sat, 12 Sep 2026 14:14:55 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "FTX創業者バンクマン＝フリード氏、詐欺罪判決見直しを米最高裁に申し立て",
+      "link": "https://coinpost.jp/?p=737098",
+      "pubDate": "Sat, 12 Sep 2026 13:45:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "機関向け融資のクリアプール、XRPレジャーへ事業拡大",
+      "link": "https://coinpost.jp/?p=737054",
+      "pubDate": "Sat, 12 Sep 2026 13:20:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "裏付け資産はペイパルのステーブルコイン、ペイパルなど3社が『PYUSDx』始動",
+      "link": "https://coinpost.jp/?p=737093",
+      "pubDate": "Sat, 12 Sep 2026 11:05:12 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin faces heavy resistance at $81.7K as supply wall blocks rally",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-faces-heavy-resistance-at-817k-as-supply-wall-blocks-rally-202609120202",
+      "pubDate": "Sat, 12 Sep 2026 02:02:43 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「ポリマーケットとカルシは無認可運営」欧州証券当局が指摘",
+      "link": "https://coinpost.jp/?p=737055",
+      "pubDate": "Sat, 12 Sep 2026 10:05:41 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トークン化株式は「流通・利用競争」の段階へ移行中＝バイナンス・リサーチ",
+      "link": "https://coinpost.jp/?p=737079",
+      "pubDate": "Sat, 12 Sep 2026 09:45:17 +0900"
+    }
+  ]
+}
