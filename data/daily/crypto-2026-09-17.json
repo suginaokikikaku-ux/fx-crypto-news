@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-09-17",
+  "seoTitle": "暗号資産市場の最新動向と注目ポイント",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コイン、プロジェクトの進捗を詳しく分析し、次に確認すべきポイントを提案します。",
+  "article": "## 1分で読める結論\n本日は、米国における規制の進展と新たなプロジェクトの始動が市場に影響を与えています。特に、仮想通貨税制法案の可決や独自ブロックチェーンの稼働開始が注目されています。\n\n## 今日の暗号資産市場の地合い\n現在の市場は規制に対する期待感と新しい技術の導入により活気を呈しています。特に、米国での税制関連法案の進展が市場の地合いを強めている様子です。一方で、特定のコインに対しては慎重な姿勢が見られます。\n\n## 今日の主要トピック3つ\n1. **米下院委員会、仮想通貨税制法案を可決** - 38対5の圧倒的多数で可決され、本会議へ送付されました。この動きは、今後の税制に対する透明性を高める期待があります。\n2. **サークル、独自ブロックチェーン「アーク」の稼働開始** - 新たなインフラとして、デジタル資産の取引を支える基盤が整いました。\n3. **ペイワード、ハイパーリキッドの無期限先物を米国で提供計画** - 新たな金融商品として、投資家の選択肢が広がります。\n\n## メインコインの整理\nビットコイン（BTC）を含む主要コインは、規制の進展により安定感を増しています。特にBTCは、法案の可決を受けて一定の支持を得ている模様ですが、依然として市場のボラティリティには注意が必要です。\n\n## 個別プロジェクトの進捗\n- **サークル**の「アーク」が稼働を開始し、独自のブロックチェーン技術を提供しています。これにより、デジタル資産の取引がさらに円滑になると期待されています。\n- **ペイワード**は、ハイパーリキッドの無期限先物を米国で提供する計画を発表し、トレーダーに新たな機会を提供します。\n\n## 今日の要約から見える示唆\n規制環境の整備が進む中で、新たなプロジェクトが市場に登場しており、今後の成長が期待されます。特に、税制法案の可決は投資家の信頼を高める要因となるでしょう。\n\n## 次に確認すべきこと\n- 米国の仮想通貨税制法案が本会議でどのように扱われるか。\n- サークルの「アーク」の実際の運用状況と市場への影響。\n- ペイワードのハイパーリキッド無期限先物が市場に与える影響。\n\n## 今日の結論\n米国における規制の進展と新たな技術の導入が市場にプラスの影響を与えています。今後、これらの動きがどのように市場に反映されるのかに注目が必要です。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "Investing",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ペイワード、ハイパーリキッドの無期限先物を米国で提供計画",
+      "link": "https://coinpost.jp/?p=737914",
+      "pubDate": "Thu, 17 Sep 2026 07:45:26 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "サークル、独自ブロックチェーン「アーク」稼働開始",
+      "link": "https://coinpost.jp/?p=737915",
+      "pubDate": "Thu, 17 Sep 2026 07:15:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米下院委員会、仮想通貨税制法案を38対5で可決　本会議へ送付",
+      "link": "https://coinpost.jp/?p=737917",
+      "pubDate": "Thu, 17 Sep 2026 06:50:32 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米下院委員会、ビットコイン準備金法案を可決丨保有BTC20年凍結を規定",
+      "link": "https://coinpost.jp/?p=737916",
+      "pubDate": "Thu, 17 Sep 2026 06:30:30 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC・CFTC両委員長が規制推進を表明、クラリティー法案否決を受け",
+      "link": "https://coinpost.jp/?p=737919",
+      "pubDate": "Thu, 17 Sep 2026 06:10:36 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "クラリティー法案「年内成立の可能性低い」、JPモルガン",
+      "link": "https://coinpost.jp/?p=737918",
+      "pubDate": "Thu, 17 Sep 2026 05:50:34 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米団体、各上院議員のクラリティー法案投票結果を評価丨中間選挙の判断材料に",
+      "link": "https://coinpost.jp/?p=737899",
+      "pubDate": "Thu, 17 Sep 2026 05:00:15 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin ETF Outflows Expose the Fragility Behind the August Rally",
+      "link": "https://www.investing.com/analysis/bitcoin-etf-outflows-expose-the-fragility-behind-the-august-rally-200687822",
+      "pubDate": "Sep 16, 2026 19:11 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "pubDate": "Wed, 16 Sep 2026 19:07:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "pubDate": "Wed, 16 Sep 2026 17:54:55 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "pubDate": "Wed, 16 Sep 2026 17:34:04 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin and Gold Outlook: BTC defends support as XAU rebounds ahead of Fed decision",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-gold-outlook-btc-defends-support-as-xau-rebounds-ahead-of-fed-decision-202609161640",
+      "pubDate": "Wed, 16 Sep 2026 16:40:29 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "pubDate": "Wed, 16 Sep 2026 16:21:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
+      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+      "pubDate": "Wed, 16 Sep 2026 15:25:41 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Institutional Money Is Pouring Into These 2 Altcoin ETFs",
+      "link": "https://www.investing.com/analysis/institutional-money-is-pouring-into-these-2-altcoin-etfs-200687805",
+      "pubDate": "Sep 16, 2026 15:02 GMT"
+    }
+  ]
+}
