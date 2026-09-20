@@ -1,5 +1,140 @@
 [
   {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+    "pubDate": "Sat, 19 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+    "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+    "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "pubDate": "Sat, 19 Sep 2026 13:39:15 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "pubDate": "Sat, 19 Sep 2026 12:13:57 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+    "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Has the Market Become a Concentrated Bet on AI?",
+    "link": "https://www.investing.com/analysis/is-the-market-now-becoming-a-concentrated-bet-on-ai-200687759",
+    "pubDate": "Sep 19, 2026 10:50 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Stocks Adjust to a ‘New Normal’ for 10-Year Treasury Rates",
+    "link": "https://www.investing.com/analysis/stocks-adjust-to-a-new-normal-for-10year-treasury-rates-200688000",
+    "pubDate": "Sep 19, 2026 09:12 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "The Latest on the AI Trade: What Actually Changed, and What Didn’t",
+    "link": "https://www.investing.com/analysis/the-latest-on-the-ai-trade-what-actually-changed-and-what-didnt-200687999",
+    "pubDate": "Sep 19, 2026 09:10 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin pushes above $81K, faces liquidation test between $83K and $86K",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-pushes-above-81k-faces-liquidation-test-between-83k-and-86k-202609190625",
+    "pubDate": "Sat, 19 Sep 2026 06:25:24 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "JPモルガン系ブロックチェーン決済網と英LSEG、24時間決済で提携",
+    "link": "https://coinpost.jp/?p=738671",
+    "pubDate": "Sat, 19 Sep 2026 13:35:31 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "「トークン化RWAのAUMが5兆円に到達」バイナンスが市場の現状と展望をレポート",
+    "link": "https://coinpost.jp/?p=738660",
+    "pubDate": "Sat, 19 Sep 2026 11:45:52 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン急騰、8万ドル台回復　SEC・CFTCの制度整備を好感｜仮想NISHI",
+    "link": "https://coinpost.jp/?p=738612",
+    "pubDate": "Sat, 19 Sep 2026 11:05:04 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "サークル社、独自チェーンArcのAIエージェント公開",
+    "link": "https://coinpost.jp/?p=738638",
+    "pubDate": "Sat, 19 Sep 2026 10:20:44 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "コインベース、米国で個別株の無期限先物上場を申請　規制緩和受け",
+    "link": "https://coinpost.jp/?p=738644",
+    "pubDate": "Sat, 19 Sep 2026 09:55:15 +0900"
+  },
+  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -108,15 +243,6 @@
     "pubDate": "Fri, 18 Sep 2026 21:12:00 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米CFTC、仮想通貨規則案2件をホワイトハウスに提出｜セリグ委員長方針を実行",
-    "link": "https://coinpost.jp/?p=738611",
-    "pubDate": "Sat, 19 Sep 2026 05:50:33 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -160,15 +286,6 @@
     "title": "Bitcoin’s Fifth-Wave Rally Can Target $93K",
     "link": "https://www.investing.com/analysis/bitcoins-fifthwave-rally-can-target-93k-200687998",
     "pubDate": "Sep 18, 2026 20:27 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ハイパーリキッドがUSDC・USDT手動借入機能を導入、初日の借入額2.65億ドル超",
-    "link": "https://coinpost.jp/?p=738601",
-    "pubDate": "Sat, 19 Sep 2026 05:00:37 +0900"
   },
   {
     "source": "FXStreet",
@@ -277,24 +394,6 @@
     "title": "Nasdaq Futures Are Coiled at the Level That Could Define the Post-Fed Trade",
     "link": "https://www.investing.com/analysis/nasdaq-futures-are-coiled-at-the-level-that-could-define-the-postfed-trade-200687988",
     "pubDate": "Sep 18, 2026 17:53 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "4 Stocks With Momentum, Value and Technical Strength to Buy and Hold Into Year-End",
-    "link": "https://www.investing.com/analysis/4-stocks-with-momentum-valuation-and-technical-setups-into-yearend-200687906",
-    "pubDate": "Sep 18, 2026 17:46 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "3 Luxury Consumer Brands to Watch in a Beaten-Down Sector",
-    "link": "https://www.investing.com/analysis/3-luxury-consumer-brands-to-watch-in-a-beatendown-sector-200687986",
-    "pubDate": "Sep 18, 2026 17:39 GMT"
   },
   {
     "source": "FXStreet",
@@ -432,15 +531,6 @@
     "pubDate": "Sep 18, 2026 12:53 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Zcash targets November upgrade to make private payments up to three times faster",
-    "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-    "pubDate": "Fri, 18 Sep 2026 12:50:01 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -504,15 +594,6 @@
     "pubDate": "Sep 18, 2026 11:22 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-    "pubDate": "Fri, 18 Sep 2026 11:15:00 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -558,15 +639,6 @@
     "pubDate": "Fri, 18 Sep 2026 10:33:48 +0000"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-    "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-    "pubDate": "Fri, 18 Sep 2026 10:33:05 +0000"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -577,39 +649,12 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "FX Punishes Indecision",
-    "link": "https://www.investing.com/analysis/fx-punishes-indecision-200687957",
-    "pubDate": "Sep 18, 2026 10:22 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "How Much Margin Is Safe? The 30% Rule, Explained",
-    "link": "https://www.investing.com/analysis/how-much-margin-is-safe-the-30-rule-explained-200687952",
-    "pubDate": "Sep 18, 2026 10:15 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
     "title": "The Spread Is Cheap - Holding the Trade May Not Be",
     "link": "https://www.investing.com/analysis/the-spread-is-cheap--holding-the-trade-may-not-be-200687954",
     "pubDate": "Sep 18, 2026 10:08 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-    "pubDate": "Fri, 18 Sep 2026 10:07:33 +0000"
   },
   {
     "source": "FXStreet",
@@ -630,15 +675,6 @@
     "pubDate": "Fri, 18 Sep 2026 10:05:51 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-    "pubDate": "Fri, 18 Sep 2026 09:49:51 +0000"
-  },
-  {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
@@ -655,15 +691,6 @@
     "title": "Hyperliquid Price Forecast: HYPE eyes record high amid SEC’s Innovation Exemption, confidential perpetuals",
     "link": "https://www.fxstreet.com/cryptocurrencies/news/hyperliquid-price-forecast-hype-eyes-record-high-amid-secs-innovation-exemption-confidential-perpetuals-202609180917",
     "pubDate": "Fri, 18 Sep 2026 09:17:39 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "日米豪独7機関、北朝鮮ハッカー「WaterPlum」が仮想通貨17億円窃取と公表",
-    "link": "https://coinpost.jp/?p=738590",
-    "pubDate": "Fri, 18 Sep 2026 18:12:55 +0900"
   },
   {
     "source": "Investing",
@@ -684,15 +711,6 @@
     "pubDate": "Sep 18, 2026 08:41 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "AI・オンチェーン金融サミット、平将明氏やメガバンク幹部が登壇",
-    "link": "https://coinpost.jp/?p=738486",
-    "pubDate": "Fri, 18 Sep 2026 17:00:29 +0900"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -700,15 +718,6 @@
     "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
     "link": "https://www.neweconomy.jp/posts/609183",
     "pubDate": "Fri, 18 Sep 2026 07:52:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-    "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-    "pubDate": "Fri, 18 Sep 2026 07:37:32 +0000"
   },
   {
     "source": "Investing",
@@ -756,13 +765,13 @@
     "pubDate": "Sep 18, 2026 07:04 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "NYSE親会社ICE、アバランチを24時間取引の基盤候補に",
-    "link": "https://coinpost.jp/?p=738543",
-    "pubDate": "Fri, 18 Sep 2026 16:01:46 +0900"
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The Fed Hikes: 7 Key FAQs on Rates and What Comes Next",
+    "link": "https://www.investing.com/analysis/the-fed-hikes-7-key-faqs-on-rates-and-what-comes-next-200687925",
+    "pubDate": "Sep 18, 2026 06:47 GMT"
   },
   {
     "source": "Investing",
@@ -781,15 +790,6 @@
     "title": "USD/JPY: Bank of Japan Raises Interest Rates to a 31-Year High, Yet the Yen Falls",
     "link": "https://www.investing.com/analysis/usdjpy-bank-of-japan-raises-interest-rates-to-a-31year-high-yet-the-yen-falls-200687931",
     "pubDate": "Sep 18, 2026 06:23 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Pi Network Price Forecast: PI halts the decline amid KYC, mainnet migration upgrades",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/pi-network-price-forecast-pi-halts-the-decline-amid-kyc-mainnet-migration-upgrades-202609180622",
-    "pubDate": "Fri, 18 Sep 2026 06:22:49 GMT"
   },
   {
     "source": "Investing",
