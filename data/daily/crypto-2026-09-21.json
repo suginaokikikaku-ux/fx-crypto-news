@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-09-21",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "本日の暗号資産市場の地合いや主要コインの状態、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n本日の暗号資産市場は、ビットコイン（BTC）が堅調な動きを見せる中、ZetaChainが重要な方針転換を決定しました。OTC市場ではビットコインの保有量が減少傾向にあり、これが供給側に影響を与える可能性があります。主要な動きとして、RippleのXRP Ledgerのアップグレード準備が進行中です。\n\n## 今日の暗号資産市場の地合い\n市場全体の地合いは安定しており、ビットコインは底堅い値動きを維持しています。特にFOMC通過後の市場反応は強く、米国金利や中東情勢が引き続き注目されています。また、ZetaChainの方針変更が市場にどのような影響を与えるかが焦点となっています。\n\n## 今日の主要トピック3つ\n1. **ZetaChain、ZETAのソラナ移行を可決**: ZetaChainは独自のL1を廃止し、ソラナへの移行を決定しました。これにより、エコシステムの効率化が期待されます。\n2. **OTC市場のビットコイン保有量が減少**: アナリストによると、OTC市場でのビットコイン保有量が過去5年で4分の1に減少しています。これは流動性に影響を与える可能性があります。\n3. **RippleのXRP Ledgerのアップグレード準備**: Rippleは資産運用者が次のXRP Ledgerのアップグレードに備えていると報告しました。これにより、決済機能の向上が期待されています。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: FOMC通過後も堅調な動きを示しており、米金利の影響を受けつつあります。\n- **イーサリアム（ETH）**: 市場の注目度は高いものの、具体的な動きは見られません。\n- **リップル（XRP）**: アップグレードに向けた動きが進行中で、今後の機能向上が期待されます。\n\n## 個別プロジェクトの進捗\n- **ZetaChain**: ソラナへの移行とL1廃止を可決したことで、エコシステムの効率化に向けた重要なステップを踏み出しました。\n- **Ripple**: XRP Ledgerのアップグレードに向けた準備が進んでおり、資産運用者の関心が高まっています。\n\n## 今日の要約から見える示唆\nビットコインの基盤が安定している一方で、ZetaChainの方針変更やOTC市場での動きが供給に影響を与え、今後の流動性に変化をもたらす可能性が高いです。また、Rippleの進展は決済市場における競争力を高める要因となります。\n\n## 次に確認すべきこと\n- ZetaChainのソラナ移行が実際にどのような影響を市場に与えるか。\n- OTC市場でのビットコインの流動性動向とその影響。\n- RippleのXRP Ledgerアップグレード後の機能強化の具体的な成果。\n\n## 今日の結論\n本日は、ビットコインが堅調に推移する中、ZetaChainの方針変更が注目されています。OTC市場の動向やRippleのアップグレード準備も重要なポイントであり、今後の市場の流動性や競争環境に影響を与える可能性があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ZetaChain、ZETAのソラナ移行・独自L1廃止を可決",
+      "link": "https://coinpost.jp/?p=738711",
+      "pubDate": "Mon, 21 Sep 2026 08:40:50 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "OTC保有ビットコイン、5年で4分の1に減少＝アナリスト",
+      "link": "https://coinpost.jp/?p=738706",
+      "pubDate": "Mon, 21 Sep 2026 08:04:25 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "pubDate": "Sun, 20 Sep 2026 14:54:48 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインFOMC通過後も底堅く、米金利と中東情勢が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=738574",
+      "pubDate": "Sun, 20 Sep 2026 11:30:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（9/18）｜クラリティー法案・日本の分離課税・米BTC準備金法案の動向まとめ",
+      "link": "https://coinpost.jp/?p=738323",
+      "pubDate": "Sun, 20 Sep 2026 09:25:46 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+      "pubDate": "Sat, 19 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+      "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+      "pubDate": "Sat, 19 Sep 2026 13:39:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+      "pubDate": "Sat, 19 Sep 2026 12:13:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin pushes above $81K, faces liquidation test between $83K and $86K",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-pushes-above-81k-faces-liquidation-test-between-83k-and-86k-202609190625",
+      "pubDate": "Sat, 19 Sep 2026 06:25:24 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPモルガン系ブロックチェーン決済網と英LSEG、24時間決済で提携",
+      "link": "https://coinpost.jp/?p=738671",
+      "pubDate": "Sat, 19 Sep 2026 13:35:31 +0900"
+    }
+  ]
+}
