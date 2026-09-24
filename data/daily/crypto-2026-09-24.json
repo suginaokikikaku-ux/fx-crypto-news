@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-09-24",
+  "seoTitle": "2026年9月24日暗号資産市場分析",
+  "seoDescription": "カナダの銀行が預金のトークン化を検討。主要コインの動向や注目プロジェクトの進捗を解説します。",
+  "article": "# 1分で読める結論\nカナダの6大銀行が預金のトークン化を検討し、暗号資産市場における信頼性向上を目指しています。また、Ethereumは$2,700での推移を続け、SkyとXRPがそれぞれのプロジェクトで注目を集めています。\n\n## 今日の暗号資産市場の地合い\n市場全体は、主要コインが安定した価格推移を見せており、特にEthereumは$2,700での横ばいが続いています。投資家の関心はETHの活動とレバレッジの動向に集中しており、今後の価格動向に影響を与える可能性があります。カナダの銀行による預金のトークン化検討は、金融機関の暗号資産への信頼感を示しています。\n\n## 今日の主要トピック3つ\n1. **カナダの銀行による預金のトークン化検討**: 6大銀行が共同で取り組むことで、暗号資産のインフラの競争力と安全性を強化する意向を示しています。\n2. **Ethereumの価格安定**: ETHは$2,700での安定を保ち、取引活動は落ち着きを見せています。\n3. **Skyプロジェクトの進展**: Galaxy Digitalが$100百万をsUSDSに配分し、Skyが急騰しています。\n\n## メインコインの整理\n- **Bitcoin**: $81,722のコストベースが今後のラリーにおいて重要なテストとなる見込みです。\n- **Ethereum**: 現在の価格は$2,700で、取引活動は落ち着いています。\n- **XRP**: 鯨の需要が高まり、強気な見通しが広がっています。\n\n## 個別プロジェクトの進捗\n- **カナダの銀行**: 預金のトークン化を検討中で、暗号資産市場の信頼性を高めることを狙っています。\n- **Sky**: Galaxy Digitalの資金配分が成功し、相場が急騰。\n- **NEAR**: Ondoとの提携により、機密性の高いトークン化された米国株式やETFを提供予定。\n\n## 今日の要約から見える示唆\nカナダの銀行の動きは、金融機関が暗号資産を取り入れる一歩として注目されます。市場全体は安定しているものの、ETHとXRPの動向が今後のトレンドを左右する可能性があります。特に、XRPの鯨需要は投資家の関心を引き続き集めるでしょう。\n\n## 次に確認すべきこと\n- **ETHの取引活動**: 今後の価格変動に対する影響を監視する。\n- **XRPの鯨の動き**: 需要の変化を注視し、相場への影響を分析する。\n- **カナダの銀行の進捗**: 預金トークン化の具体的な進展を追う。\n\n## 今日の結論\nカナダの銀行による預金トークン化の検討は、暗号資産市場の信頼性向上に寄与する可能性があります。主要コインの安定が続く中、ETHとXRPの動向に注目が集まります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "FXStreet",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "カナダ6大銀行が共同で預金のトークン化を検討、インフラの競争力や安全性を維持へ",
+      "link": "https://coinpost.jp/?p=738916",
+      "pubDate": "Thu, 24 Sep 2026 09:10:34 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH takes a breather at $2,700 as activity, leverage stays calm",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-takes-a-breather-at-2-700-as-activity-leverage-stays-calm-202609232158",
+      "pubDate": "Wed, 23 Sep 2026 21:58:22 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Sky rallies as Galaxy Digital allocates $100 million to sUSDS",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/sky-rallies-as-galaxy-digital-allocates-100-million-to-susds-202609231908",
+      "pubDate": "Wed, 23 Sep 2026 19:08:20 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "pubDate": "Wed, 23 Sep 2026 19:04:52 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "pubDate": "Wed, 23 Sep 2026 18:59:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "pubDate": "Wed, 23 Sep 2026 18:04:11 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s $81,722 Cost Basis Becomes the Key Test for the Rally",
+      "link": "https://www.investing.com/analysis/bitcoins-81722-cost-basis-becomes-the-key-test-for-the-rally-200688252",
+      "pubDate": "Sep 23, 2026 17:56 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Inside the FBI’s little-known annual crypto crime gathering",
+      "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "pubDate": "Wed, 23 Sep 2026 15:26:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "pubDate": "Wed, 23 Sep 2026 15:07:21 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Breaks the 50-Week SMA: Why It Matters",
+      "link": "https://www.investing.com/analysis/bitcoin-breaks-the-50week-sma-why-it-matters-200688235",
+      "pubDate": "Sep 23, 2026 13:21 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "BTC ETF Demand and Falling Oil Prices Offset Hawkish Fed; Where Next for Bitcoin?",
+      "link": "https://www.investing.com/analysis/btc-etf-demand-and-falling-oil-prices-offset-hawkish-fed-where-next-for-bitcoin-200688234",
+      "pubDate": "Sep 23, 2026 13:13 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "pubDate": "Wed, 23 Sep 2026 13:02:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP ticks up as whale demand fuels bullish outlook",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-accelerates-gains-amid-heavy-whale-accumulation-and-etf-inflows-202609231300",
+      "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NEAR partners with Ondo to bring tokenized US stocks, ETFs with confidential execution",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/near-partners-with-ondo-to-bring-tokenized-us-stocks-etfs-with-confidential-execution-202609231154",
+      "pubDate": "Wed, 23 Sep 2026 11:54:39 GMT"
+    }
+  ]
+}
