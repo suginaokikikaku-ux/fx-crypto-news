@@ -1,750 +1,912 @@
 [
   {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "AI’s Next Frontier Is Moving From Data Centers to Space and Robots",
+    "link": "https://www.investing.com/analysis/ais-next-frontier-is-moving-from-data-centers-to-space-and-robots-200688445",
+    "pubDate": "Sep 25, 2026 23:15 GMT"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "カナダ6大銀行が共同で預金のトークン化を検討、インフラの競争力や安全性を維持へ",
-    "link": "https://coinpost.jp/?p=738916",
-    "pubDate": "Thu, 24 Sep 2026 09:10:34 +0900"
+    "title": "米証券決済大手DTCC、114兆ドル規模の資産トークン化開始へ＝報道",
+    "link": "https://coinpost.jp/?p=739394",
+    "pubDate": "Sat, 26 Sep 2026 08:13:46 +0900"
   },
   {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Treasury Secretary Bessent says US-China trade truce extended through January 10",
-    "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-us-china-trade-truce-extended-through-january-10-202609240003",
-    "pubDate": "Thu, 24 Sep 2026 00:03:32 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Ukraine's President Zelenskyy says ready for energy ceasefire with Russia",
-    "link": "https://www.fxstreet.com/news/ukraines-president-zelenskyy-says-ready-for-energy-ceasefire-with-russia-202609232351",
-    "pubDate": "Wed, 23 Sep 2026 23:51:53 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Iran President sends defiant message to US over potential talks",
-    "link": "https://www.fxstreet.com/news/iran-president-sends-defiant-message-to-us-over-potential-talks-202609232337",
-    "pubDate": "Wed, 23 Sep 2026 23:37:48 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Australian Dollar cools off against the New Zealand Dollar before jobs data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-cools-off-against-the-new-zealand-dollar-before-jobs-data-202609232330",
-    "pubDate": "Wed, 23 Sep 2026 23:30:00 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold falls below $4,300 on Fed hawkish signals",
-    "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-on-fed-hawkish-signals-202609232321",
-    "pubDate": "Wed, 23 Sep 2026 23:21:32 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Australian Dollar tumbles amid soaring US yields, ahead of jobs data",
-    "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-soaring-us-yields-ahead-of-jobs-data-202609232306",
-    "pubDate": "Wed, 23 Sep 2026 23:06:51 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "New Zealand Dollar slides toward its range floor as US yields climb",
-    "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-its-range-floor-as-us-yields-climb-202609232300",
-    "pubDate": "Wed, 23 Sep 2026 23:00:00 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Japanese Yen gives back most of its rally as Fed hike talk grows",
-    "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-most-of-its-rally-as-fed-hike-talk-grows-202609232245",
-    "pubDate": "Wed, 23 Sep 2026 22:45:00 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Euro extends its slide as US surveys top Europe's strong reading",
-    "link": "https://www.fxstreet.com/news/euro-extends-its-slide-as-us-surveys-top-europes-strong-reading-202609232230",
-    "pubDate": "Wed, 23 Sep 2026 22:30:47 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "British Pound sells off hard as US surveys outpace the UK's",
-    "link": "https://www.fxstreet.com/news/british-pound-sells-off-hard-as-us-surveys-outpace-the-uks-202609232224",
-    "pubDate": "Wed, 23 Sep 2026 22:24:19 GMT"
-  },
-  {
-    "source": "FXStreet",
+    "source": "CoinPost",
     "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Ethereum Price Forecast: ETH takes a breather at $2,700 as activity, leverage stays calm",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-takes-a-breather-at-2-700-as-activity-leverage-stays-calm-202609232158",
-    "pubDate": "Wed, 23 Sep 2026 21:58:22 GMT"
+    "market": "jp",
+    "lang": "ja",
+    "title": "米上場シークアンスがビットコイン財務戦略を終了、残りの314BTCを売却",
+    "link": "https://coinpost.jp/?p=739412",
+    "pubDate": "Sat, 26 Sep 2026 07:40:59 +0900"
   },
   {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Rates Spark: The Overshoot Commences",
-    "link": "https://www.investing.com/analysis/rates-spark-the-overshoot-commences-200688262",
-    "pubDate": "Sep 23, 2026 21:01 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Tech Can Push Higher From Here — Yet October Could Punish the Last Buyers In",
-    "link": "https://www.investing.com/analysis/sp-500-and-nasdaq-bulls-still-control-the-tape-but-the-risk-window-is-closing-200688261",
-    "pubDate": "Sep 23, 2026 20:46 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar Is Breaking Higher as Commodities Split Into Winners and Casualties",
-    "link": "https://www.investing.com/analysis/us-dollar-is-breaking-higher-as-commodities-split-into-winners-and-casualties-200688259",
-    "pubDate": "Sep 23, 2026 20:19 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "GBP/USD Weakness Deepens as UK Growth and Fiscal Risks Converge",
-    "link": "https://www.investing.com/analysis/gbpusd-weakness-deepens-as-uk-growth-and-fiscal-risks-converge-200688258",
-    "pubDate": "Sep 23, 2026 19:40 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "IonQ Revenue Growth Collides With a 38x Sales Valuation",
-    "link": "https://www.investing.com/analysis/ionq-revenue-growth-collides-with-a-38x-sales-valuation-200688257",
-    "pubDate": "Sep 23, 2026 19:12 GMT"
-  },
-  {
-    "source": "FXStreet",
+    "source": "CoinPost",
     "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Sky rallies as Galaxy Digital allocates $100 million to sUSDS",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/sky-rallies-as-galaxy-digital-allocates-100-million-to-susds-202609231908",
-    "pubDate": "Wed, 23 Sep 2026 19:08:20 GMT"
+    "market": "jp",
+    "lang": "ja",
+    "title": "仮想通貨タスクフォースを主導したクリプトママ、米SECを10月2日退任",
+    "link": "https://coinpost.jp/?p=739396",
+    "pubDate": "Sat, 26 Sep 2026 07:35:33 +0900"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-    "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-    "pubDate": "Wed, 23 Sep 2026 19:04:52 +0000"
+    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+    "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "pubDate": "Fri, 25 Sep 2026 22:17:38 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+    "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
+    "pubDate": "Fri, 25 Sep 2026 21:41:00 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ethereum Price Forecast: ETH holds steady despite weakening derivatives",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-holds-steady-despite-weakening-derivatives-202609252138",
+    "pubDate": "Fri, 25 Sep 2026 21:38:33 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ストライブ、ビットコイン保有企業のMSCI除外基準に明確性要求",
+    "link": "https://coinpost.jp/?p=739395",
+    "pubDate": "Sat, 26 Sep 2026 06:35:31 +0900"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-    "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-    "pubDate": "Wed, 23 Sep 2026 18:59:36 +0000"
+    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "pubDate": "Fri, 25 Sep 2026 21:17:30 +0000"
   },
   {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "A Diesel Export Ban Could Turn US Energy Isolation Into a Bigger Liability",
-    "link": "https://www.investing.com/analysis/a-diesel-export-ban-could-turn-us-energy-isolation-into-a-bigger-liability-200688256",
-    "pubDate": "Sep 23, 2026 18:57 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "The Path to Lower Inflation Still Runs Through Iran",
-    "link": "https://www.investing.com/analysis/the-path-to-lower-inflation-still-runs-through-iran-200688229",
-    "pubDate": "Sep 23, 2026 18:54 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Finfluencers Can Teach You Money, but They Can’t Build Your Wealth Plan",
-    "link": "https://www.investing.com/analysis/finfluencers-can-teach-you-money-but-they-cant-build-your-wealth-plan-200688255",
-    "pubDate": "Sep 23, 2026 18:35 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Can Apple Overtake Nvidia as the World’s Most Valuable Company?",
-    "link": "https://www.investing.com/analysis/can-apple-overtake-nvidia-as-the-worlds-most-valuable-company-200688249",
-    "pubDate": "Sep 23, 2026 18:14 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "S&P 500 E-Mini Sell-Off Looks Violent, but the Daily Chart Still Favors a Range",
-    "link": "https://www.investing.com/analysis/sp-500-emini-selloff-looks-violent-but-the-daily-chart-still-favors-a-range-200688253",
-    "pubDate": "Sep 23, 2026 18:13 GMT"
-  },
-  {
-    "source": "CoinDesk",
+    "source": "CoinPost",
     "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-    "pubDate": "Wed, 23 Sep 2026 18:04:11 +0000"
+    "market": "jp",
+    "lang": "ja",
+    "title": "金融庁、オンチェーン金融フォーラム初会合を9月30日に開催予定",
+    "link": "https://coinpost.jp/?p=739397",
+    "pubDate": "Sat, 26 Sep 2026 06:02:36 +0900"
   },
   {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Bitcoin’s $81,722 Cost Basis Becomes the Key Test for the Rally",
-    "link": "https://www.investing.com/analysis/bitcoins-81722-cost-basis-becomes-the-key-test-for-the-rally-200688252",
-    "pubDate": "Sep 23, 2026 17:56 GMT"
+    "title": "XRP ETF Inflows Clash With a $1.60 Wall of Overhead Supply",
+    "link": "https://www.investing.com/analysis/xrp-etf-inflows-clash-with-a-160-wall-of-overhead-supply-200688444",
+    "pubDate": "Sep 25, 2026 21:02 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
+    "pubDate": "Fri, 25 Sep 2026 20:56:00 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米SEC、トークン買戻しや実用性宣伝は投資契約非該当と新FAQ公表",
+    "link": "https://coinpost.jp/?p=739398",
+    "pubDate": "Sat, 26 Sep 2026 05:45:39 +0900"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Strong Durable Goods and AI Spending Keep the US Growth Story Running Hot",
+    "link": "https://www.investing.com/analysis/strong-durable-goods-and-ai-spending-keep-the-us-growth-story-running-hot-200688442",
+    "pubDate": "Sep 25, 2026 20:44 GMT"
   },
   {
     "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
-    "title": "EUR/USD Faces More Downside as Treasury Yields Reach Cycle Highs",
-    "link": "https://www.investing.com/analysis/eurusd-faces-more-downside-as-treasury-yields-reach-cycle-highs-200688250",
-    "pubDate": "Sep 23, 2026 17:26 GMT"
+    "title": "GBP/USD Nears Its June Low as Fed Tightening Outruns the BOE",
+    "link": "https://www.investing.com/analysis/gbpusd-nears-its-june-low-as-fed-tightening-outruns-the-boe-200688441",
+    "pubDate": "Sep 25, 2026 20:39 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US Treasury yields rise as 30-year bond hits 22-year high",
+    "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
+    "pubDate": "Fri, 25 Sep 2026 20:22:47 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "South Korean Won: Trade surplus seen widening – ING",
+    "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
+    "pubDate": "Fri, 25 Sep 2026 20:12:00 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "ENA rallies 16% as Ethena partners with Binance to extend USDe basis trade into equity perpetuals",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/ena-rallies-16-as-ethena-partners-with-binance-to-extend-usde-basis-trade-into-equity-perpetuals-202609252010",
+    "pubDate": "Fri, 25 Sep 2026 20:10:25 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "pubDate": "Fri, 25 Sep 2026 20:01:05 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ストラテジー、優先株の日次配当化を提案｜ビットコイン調達強化狙い",
+    "link": "https://coinpost.jp/?p=739390",
+    "pubDate": "Sat, 26 Sep 2026 05:00:27 +0900"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Options Expiry Removes a Key Source of Market Stability",
+    "link": "https://www.investing.com/analysis/bitcoin-options-expiry-removes-a-key-source-of-market-stability-200688439",
+    "pubDate": "Sep 25, 2026 19:55 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+    "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
+    "pubDate": "Fri, 25 Sep 2026 19:31:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Bloom Energy’s Oracle Rebound Tests Confidence in Its AI Power Thesis",
+    "link": "https://www.investing.com/analysis/bloom-energys-oracle-rebound-tests-confidence-in-its-ai-power-thesis-200688437",
+    "pubDate": "Sep 25, 2026 19:19 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Dell’s $95 Billion AI Backlog Tests the Limits of Server Execution",
+    "link": "https://www.investing.com/analysis/dells-95-billion-ai-backlog-tests-the-limits-of-server-execution-200688436",
+    "pubDate": "Sep 25, 2026 19:03 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+    "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
+    "pubDate": "Fri, 25 Sep 2026 19:00:32 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+    "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
+    "pubDate": "Fri, 25 Sep 2026 18:54:44 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "If You Missed Nvidia, This Could Be Even Bigger",
+    "link": "https://www.investing.com/analysis/if-you-missed-nvidia-this-could-be-even-bigger-200688434",
+    "pubDate": "Sep 25, 2026 18:43 GMT"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
-    "title": "Freight costs may reach US shelves after the Fed plans to stop hiking",
-    "link": "https://www.fxstreet.com/analysis/freight-costs-may-reach-us-shelves-after-the-fed-plans-to-stop-hiking-202609231649",
-    "pubDate": "Wed, 23 Sep 2026 16:49:55 GMT"
+    "title": "US Dollar Weekly Forecast: The Dollar is back, but can the rally go further?",
+    "link": "https://www.fxstreet.com/analysis/us-dollar-weekly-forecast-the-dollar-is-back-but-can-the-rally-go-further-202609251840",
+    "pubDate": "Fri, 25 Sep 2026 18:40:50 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
+    "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
+    "pubDate": "Fri, 25 Sep 2026 18:34:02 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+    "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+    "pubDate": "Fri, 25 Sep 2026 18:22:51 GMT"
   },
   {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
     "lang": "en",
-    "title": "US Stocks Face Rate Pressure as Hot PMI Revives Fed Hike Risk",
-    "link": "https://www.investing.com/analysis/us-stocks-face-rate-pressure-as-hot-pmi-revives-fed-hike-risk-200688247",
-    "pubDate": "Sep 23, 2026 16:41 GMT"
+    "title": "S&P 500 E-Mini Bulls Regain Control, but 7,900 Is Where the Real Test Begins",
+    "link": "https://www.investing.com/analysis/sp-500-emini-bulls-regain-control-but-7900-is-where-the-real-test-begins-200688433",
+    "pubDate": "Sep 25, 2026 18:17 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
+    "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
+    "pubDate": "Fri, 25 Sep 2026 18:15:03 GMT"
   },
   {
     "source": "Investing",
-    "category": "stocks",
+    "category": "macro",
     "market": "global",
     "lang": "en",
-    "title": "Paramount Skydance Clears a Major Warner Bros. Discovery Hurdle",
-    "link": "https://www.investing.com/analysis/paramount-skydance-clears-a-major-warner-bros-discovery-hurdle-200688246",
-    "pubDate": "Sep 23, 2026 16:22 GMT"
+    "title": "Consumer Credit Stress: What the Data Really Shows",
+    "link": "https://www.investing.com/analysis/consumer-credit-stress-what-the-data-really-shows-200688400",
+    "pubDate": "Sep 25, 2026 18:14 GMT"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
-    "title": "Australian Dollar Price Forecast: Next stop… 0.7000? ",
-    "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-next-stop-07000-202609231618",
-    "pubDate": "Wed, 23 Sep 2026 16:18:48 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "October Could Expose the Cracks Beneath Wall Street’s Resilient Rally",
-    "link": "https://www.investing.com/analysis/october-could-expose-the-cracks-beneath-wall-streets-resilient-rally-200688244",
-    "pubDate": "Sep 23, 2026 15:52 GMT"
+    "title": "The Canadian Dollar keeps sliding as the rate gap with the US widens",
+    "link": "https://www.fxstreet.com/analysis/the-canadian-dollar-keeps-sliding-as-the-rate-gap-with-the-us-widens-202609251805",
+    "pubDate": "Fri, 25 Sep 2026 18:05:05 GMT"
   },
   {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
     "lang": "en",
-    "title": "5 Stocks With Potential Reversal Setups as Fundamentals and Technicals Align",
-    "link": "https://www.investing.com/analysis/5-stocks-with-potential-reversal-setups-as-fundamentals-and-technicals-align-200688211",
-    "pubDate": "Sep 23, 2026 15:30 GMT"
+    "title": "Is Palantir Worth $250 or $1? Bulls and Burry Arrive at Opposite Conclusions",
+    "link": "https://www.investing.com/analysis/is-palantir-worth-250-or-1-bulls-and-burry-arrive-at-opposite-conclusions-200688432",
+    "pubDate": "Sep 25, 2026 18:00 GMT"
   },
   {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
     "lang": "en",
-    "title": "Microsoft’s 8% Dividend Hike: Confidence Signal or Distraction From Capex Math?",
-    "link": "https://www.investing.com/analysis/microsofts-8-dividend-hike-confidence-signal-or-distraction-from-capex-math-200688243",
-    "pubDate": "Sep 23, 2026 15:30 GMT"
+    "title": "The S&P 500’s Narrow Road Back to New Highs",
+    "link": "https://www.investing.com/analysis/the-sp-500s-narrow-road-back-to-new-highs-200688417",
+    "pubDate": "Sep 25, 2026 17:39 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
+    "source": "Investing",
+    "category": "stocks",
     "market": "global",
     "lang": "en",
-    "title": "Inside the FBI’s little-known annual crypto crime gathering",
-    "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-    "pubDate": "Wed, 23 Sep 2026 15:26:35 +0000"
+    "title": "Meta One Subscriptions Show Positive Early Signs, Analysts Forecast Long-Term Grow",
+    "link": "https://www.investing.com/analysis/meta-one-subscriptions-show-positive-early-signs-analysts-forecast-longterm-grow-200688431",
+    "pubDate": "Sep 25, 2026 17:38 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "3 Restaurant Stocks Near 52-Week Lows as Consumer Pressure Builds",
+    "link": "https://www.investing.com/analysis/3-restaurant-stocks-near-52week-lows-as-consumer-pressure-builds-200688430",
+    "pubDate": "Sep 25, 2026 17:18 GMT"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
-    "title": "Three rate hikes, one warning: The inflation fight isn't over",
-    "link": "https://www.fxstreet.com/analysis/three-rate-hikes-one-warning-the-inflation-fight-isnt-over-202609231511",
-    "pubDate": "Wed, 23 Sep 2026 15:11:26 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "pubDate": "Wed, 23 Sep 2026 15:07:21 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Broadcom CEO Holds $350B Outlook Strong Amid Calls to Slow Froniter AI Development",
-    "link": "https://www.investing.com/analysis/broadcom-ceo-holds-350b-outlook-strong-amid-calls-to-slow-froniter-ai-development-200688241",
-    "pubDate": "Sep 23, 2026 14:52 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Frontier AI Just Became a Price War",
-    "link": "https://www.investing.com/analysis/frontier-ai-just-became-a-price-war-200688200",
-    "pubDate": "Sep 23, 2026 14:40 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Is the Fed Playing Chess With Rates—Or Just Behind the Curve Again?",
-    "link": "https://www.investing.com/analysis/is-the-fed-playing-chess-with-ratesor-just-behind-the-curve-again-200688240",
-    "pubDate": "Sep 23, 2026 14:37 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Markets Stay Bullish as VIX Falls",
-    "link": "https://www.investing.com/analysis/markets-stay-bullish-as-vix-falls-200688236",
-    "pubDate": "Sep 23, 2026 13:28 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Breaks the 50-Week SMA: Why It Matters",
-    "link": "https://www.investing.com/analysis/bitcoin-breaks-the-50week-sma-why-it-matters-200688235",
-    "pubDate": "Sep 23, 2026 13:21 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "BTC ETF Demand and Falling Oil Prices Offset Hawkish Fed; Where Next for Bitcoin?",
-    "link": "https://www.investing.com/analysis/btc-etf-demand-and-falling-oil-prices-offset-hawkish-fed-where-next-for-bitcoin-200688234",
-    "pubDate": "Sep 23, 2026 13:13 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
-    "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-    "pubDate": "Wed, 23 Sep 2026 13:02:43 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
-    "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "XRP ticks up as whale demand fuels bullish outlook",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-accelerates-gains-amid-heavy-whale-accumulation-and-etf-inflows-202609231300",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "GBP/JPY Bearish Momentum Faces a Key Test From Hourly Convergence",
-    "link": "https://www.investing.com/analysis/gbpjpy-starts-the-downward-move-200688232",
-    "pubDate": "Sep 23, 2026 12:46 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Politics Is Dragging European Currencies Down",
-    "link": "https://www.investing.com/analysis/politics-is-dragging-european-currencies-down-200688230",
-    "pubDate": "Sep 23, 2026 12:12 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "NEAR partners with Ondo to bring tokenized US stocks, ETFs with confidential execution",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/near-partners-with-ondo-to-bring-tokenized-us-stocks-etfs-with-confidential-execution-202609231154",
-    "pubDate": "Wed, 23 Sep 2026 11:54:39 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "USD/JPY: US Dollar Strength Puts 158.50 Resistance to the Test",
-    "link": "https://www.investing.com/analysis/usdjpy-us-dollar-strength-puts-15850-resistance-to-the-test-200688228",
-    "pubDate": "Sep 23, 2026 11:53 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar Strength Puts EUR/USD, GBP/USD and AUD/USD at Key Technical Levels",
-    "link": "https://www.investing.com/analysis/us-dollar-rally-puts-eurusd-gbpusd-and-audusd-at-key-technical-levels-200688226",
-    "pubDate": "Sep 23, 2026 11:34 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Japan Breaks the ‘Debt Causes Inflation’ Narrative",
-    "link": "https://www.investing.com/analysis/japan-breaks-the-debt-causes-inflation-narrative-200688223",
-    "pubDate": "Sep 23, 2026 11:33 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
-    "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-    "pubDate": "Wed, 23 Sep 2026 11:29:30 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
-    "pubDate": "Wed, 23 Sep 2026 11:28:50 +0000"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto Today: Bitcoin and Ethereum consolidate gains as XRP extends breakout",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-consolidate-gains-as-xrp-extends-breakout-202609231119",
-    "pubDate": "Wed, 23 Sep 2026 11:19:22 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Plaza Agreement at 41: Why a New Deal With China Would Be Different",
-    "link": "https://www.investing.com/analysis/plaza-agreement-at-41-why-a-new-deal-with-china-would-be-different-200688225",
-    "pubDate": "Sep 23, 2026 10:58 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto: Traders Want More Risk",
-    "link": "https://www.investing.com/analysis/crypto-traders-want-more-risk-200688222",
-    "pubDate": "Sep 23, 2026 10:49 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
-    "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
-    "pubDate": "Wed, 23 Sep 2026 10:28:11 +0000"
+    "title": "Gold keeps falling until the Fed stops raising rate forecasts",
+    "link": "https://www.fxstreet.com/analysis/gold-keeps-falling-until-the-fed-stops-raising-rate-forecasts-202609251708",
+    "pubDate": "Fri, 25 Sep 2026 17:08:01 GMT"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
-    "title": "Gold faces critical technical test after hawkish Fed rate hike",
-    "link": "https://www.fxstreet.com/analysis/gold-faces-critical-technical-test-after-hawkish-fed-rate-hike-202609231000",
-    "pubDate": "Wed, 23 Sep 2026 10:00:45 GMT"
+    "title": "Forecasting the upcoming week: The RBA is set to hike rates; NFP shifts the focus to US jobs",
+    "link": "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-the-rba-is-set-to-hike-rates-nfp-shifts-the-focus-to-us-jobs-202609251659",
+    "pubDate": "Fri, 25 Sep 2026 16:59:24 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "EUR/USD Weekly Forecast: The Dollar takes back control ",
+    "link": "https://www.fxstreet.com/analysis/eur-usd-weekly-forecast-the-dollar-takes-back-control-202609251652",
+    "pubDate": "Fri, 25 Sep 2026 16:52:59 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Is the Market Right or Wrong About These High Short Interest Stocks?",
+    "link": "https://www.investing.com/analysis/is-the-market-right-or-wrong-about-these-high-short-interest-stocks-200688426",
+    "pubDate": "Sep 25, 2026 16:04 GMT"
   },
   {
     "source": "FXStreet",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Hyperliquid Price Forecast: HYPE pulls back from record high as rally eyes $100",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/hyperliquid-price-forecast-hype-pulls-back-from-record-high-as-rally-eyes-100-202609230926",
-    "pubDate": "Wed, 23 Sep 2026 09:26:37 GMT"
+    "title": "Bitcoin/Gold Outlook: BTC falls below $84K support as XAU/USD remains under pressure",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-gold-outlook-btc-falls-below-84k-support-as-xau-usd-remains-under-pressure-202609251556",
+    "pubDate": "Fri, 25 Sep 2026 15:56:46 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold Weekly Forecast: Bulls can’t catch a break as Fed doubles down on hawkish rhetoric",
+    "link": "https://www.fxstreet.com/analysis/gold-weekly-forecast-bulls-cant-catch-a-break-as-fed-doubles-down-on-hawkish-rhetoric-202609251501",
+    "pubDate": "Fri, 25 Sep 2026 15:01:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "2 Pre-Market Setups to Watch Before Sunday",
+    "link": "https://www.investing.com/analysis/2-premarket-setups-to-watch-before-sunday-200688423",
+    "pubDate": "Sep 25, 2026 15:01 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+    "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+    "pubDate": "Fri, 25 Sep 2026 14:41:53 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Tokenization is moving faster than Washington",
+    "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "pubDate": "Fri, 25 Sep 2026 14:37:32 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+    "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+    "pubDate": "Fri, 25 Sep 2026 14:32:48 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Can Marvell Keep Up in the Custom AI Chip Race?",
+    "link": "https://www.investing.com/analysis/can-marvell-keep-up-in-the-custom-ai-chip-race-200688421",
+    "pubDate": "Sep 25, 2026 14:31 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+    "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+    "pubDate": "Fri, 25 Sep 2026 14:22:07 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Fed vs BoJ: Both hiked. The market only believes one of them – and the chart shows which",
+    "link": "https://www.fxstreet.com/analysis/fed-vs-boj-both-hiked-the-market-only-believes-one-of-them-and-the-chart-shows-which-202609251338",
+    "pubDate": "Fri, 25 Sep 2026 13:38:48 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Bonds, Yields and Stocks: The Market Signals You Need to Watch on Friday",
+    "link": "https://www.investing.com/analysis/bonds-yields-and-stocks-the-market-signals-you-need-to-watch-on-friday-200688411",
+    "pubDate": "Sep 25, 2026 13:03 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "XRP eyes short-term breakout  as firm OI support bullish trend",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/xrp-price-forecast-momentum-builds-as-bulls-eye-another-breakout-202609251245",
+    "pubDate": "Fri, 25 Sep 2026 12:45:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Nasdaq at Record High Amid AI Stocks and Oil Price Drop",
+    "link": "https://www.investing.com/analysis/nasdaq-at-record-high-amid-ai-stocks-and-oil-price-drop-200688410",
+    "pubDate": "Sep 25, 2026 12:08 GMT"
   },
   {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "ピス、ナスダックベーシック配信へ。リアルタイム米国株データを提供予定",
-    "link": "https://www.neweconomy.jp/posts/610046",
-    "pubDate": "Wed, 23 Sep 2026 09:04:09 +0000"
+    "title": "【9/25話題】ビットゲットで約3.5億ドルの不正流出、暗号資産型ステーブルコイン「JPYdf」、JADATの全株式が三井住友信託銀に譲渡へなど（音声ニュース）",
+    "link": "https://www.neweconomy.jp/posts/611079",
+    "pubDate": "Fri, 25 Sep 2026 12:07:24 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+    "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+    "pubDate": "Fri, 25 Sep 2026 11:54:28 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+    "pubDate": "Fri, 25 Sep 2026 11:29:04 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US Dollar Steadies on Softer US Rates as US-Japan Coordination Snaps Yen Slide",
+    "link": "https://www.investing.com/analysis/us-dollar-steadies-on-softer-us-rates-as-usjapan-coordination-snaps-yen-slide-200688408",
+    "pubDate": "Sep 25, 2026 11:10 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto Today: Bitcoin and Ethereum edge lower, XRP extends recovery as macro headwinds weigh",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-edge-lower-xrp-extends-recovery-as-macro-headwinds-weigh-202609251056",
+    "pubDate": "Fri, 25 Sep 2026 10:56:06 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "RBA Preview: A Decisive Hike to Keep Inflation in Check",
+    "link": "https://www.investing.com/analysis/rba-preview-a-decisive-hike-to-keep-inflation-in-check-200688406",
+    "pubDate": "Sep 25, 2026 10:44 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Week Ahead: US Jobs Report and Eurozone Inflation Data",
+    "link": "https://www.investing.com/analysis/week-ahead-us-jobs-report-and-eurozone-inflation-data-200688405",
+    "pubDate": "Sep 25, 2026 10:44 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Weekly Forecast: BTC consolidates gains as ETF inflows hit highest level since October 2025",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-weekly-forecast-btc-consolidates-gains-as-etf-inflows-hit-highest-level-since-october-2025-202609251022",
+    "pubDate": "Fri, 25 Sep 2026 10:22:09 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY: The Yen Tide Is Turning, but the Beach Is Already Crowded",
+    "link": "https://www.investing.com/analysis/usdjpy-the-yen-tide-is-turning-but-the-beach-is-already-crowded-200688379",
+    "pubDate": "Sep 25, 2026 10:17 GMT"
   },
   {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "米CMEグループ、ビットコインキャッシュ（BCH）とユニスワップ（UNI）の先物取引を提供へ",
-    "link": "https://www.neweconomy.jp/posts/610041",
-    "pubDate": "Wed, 23 Sep 2026 08:58:47 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ECB含むユーロシステム、トークン化資産のホールセール取引向け決済サービス「Pontes」運用開始",
-    "link": "https://www.neweconomy.jp/posts/610031",
-    "pubDate": "Wed, 23 Sep 2026 08:48:56 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "オンド、保有株式・ETFとトークン化商品を交換可能に。アルパカと連携",
-    "link": "https://www.neweconomy.jp/posts/610003",
-    "pubDate": "Wed, 23 Sep 2026 08:34:52 +0000"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Price Forecast: BTC outperforms US equities and Gold since mid-August",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-forecast-btc-outperforms-us-equities-and-gold-since-mid-august-202609230823",
-    "pubDate": "Wed, 23 Sep 2026 08:23:00 GMT"
+    "title": "米CFTCスタッフ、トークン化資産への顧客資金投資とブロックチェーン記録保存の条件を明確化",
+    "link": "https://www.neweconomy.jp/posts/611130",
+    "pubDate": "Fri, 25 Sep 2026 10:08:11 +0000"
   },
   {
     "source": "Investing",
-    "category": "fx",
+    "category": "macro",
     "market": "global",
     "lang": "en",
-    "title": "USD/JPY Continues to Rise as Intervention Risks Keep Yen Outlook Uncertain",
-    "link": "https://www.investing.com/analysis/usdjpy-continues-to-rise-as-intervention-risks-keep-yen-outlook-uncertain-200688209",
-    "pubDate": "Sep 23, 2026 08:22 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "EUR/USD Under Pressure as German-US Yield Spread Breaks Down",
-    "link": "https://www.investing.com/analysis/eurusd-under-pressure-as-germanus-yield-spread-breaks-down-200688208",
-    "pubDate": "Sep 23, 2026 08:22 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar Resilience Builds",
-    "link": "https://www.investing.com/analysis/us-dollar-resilience-builds-200688204",
-    "pubDate": "Sep 23, 2026 07:18 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Pi Network Price Forecast: PI extends gains as mainnet blocks confirm Protocol v27 upgrade",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/pi-network-price-forecast-pi-extends-gains-as-mainnet-blocks-confirm-protocol-v27-upgrade-202609230618",
-    "pubDate": "Wed, 23 Sep 2026 06:18:29 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "EUR/AUD, GBP/AUD Outlook: Rates, Risk and Metals Reinforce Bearish Technical Case",
-    "link": "https://www.investing.com/analysis/euraud-gbpaud-outlook-rates-risk-and-metals-reinforce-bearish-technical-case-200688188",
-    "pubDate": "Sep 23, 2026 05:19 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Cardano Price Forecast: Bulls push higher as open interest, funding rates rise",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/cardano-price-forecast-bulls-push-higher-as-open-interest-funding-rates-rise-202609230505",
-    "pubDate": "Wed, 23 Sep 2026 05:05:20 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Zcash Price Forecast: ZEC rally hits record high in a parallel channel amid network growth",
-    "link": "https://www.fxstreet.com/cryptocurrencies/news/zcash-price-forecast-zec-rally-hits-record-high-in-a-parallel-channel-amid-network-growth-202609230436",
-    "pubDate": "Wed, 23 Sep 2026 04:36:19 GMT"
+    "title": "Iran Deal Hopes Lift Sentiment, Oil and Dollar Slip, Yen Rebounds",
+    "link": "https://www.investing.com/analysis/iran-deal-hopes-lift-sentiment-oil-and-dollar-slip-yen-rebound-200688403",
+    "pubDate": "Sep 25, 2026 10:06 GMT"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "米ネオバンクSoFi発行のステーブルコイン、マスターカード決済網で稼働開始",
-    "link": "https://coinpost.jp/?p=738882",
-    "pubDate": "Wed, 23 Sep 2026 13:08:02 +0900"
+    "title": "トークン化預金推進の新機構が10月に始動　黒田前日銀総裁らも参画",
+    "link": "https://coinpost.jp/?p=739073",
+    "pubDate": "Fri, 25 Sep 2026 19:00:25 +0900"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ethereum Privacy Push Turns on Who Holds the Keys",
+    "link": "https://www.investing.com/analysis/ethereum-privacy-push-turns-on-who-holds-the-keys-200688402",
+    "pubDate": "Sep 25, 2026 10:00 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+    "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+    "pubDate": "Fri, 25 Sep 2026 09:59:45 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Fed Hawkishness Puts Pressure on Gold: Can It Hold Above $4,300?",
+    "link": "https://www.investing.com/analysis/fed-hawkishness-puts-pressure-on-gold-can-it-hold-above-4300-200688398",
+    "pubDate": "Sep 25, 2026 09:43 GMT"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
+    "link": "https://www.neweconomy.jp/posts/611113",
+    "pubDate": "Fri, 25 Sep 2026 09:28:25 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ondo Price Forecast: Ondo rallies on the launch of Intelligent Portfolios with BlackRock",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/ondo-price-forecast-ondo-rallies-on-the-launch-of-intelligent-portfolios-with-blackrock-202609250907",
+    "pubDate": "Fri, 25 Sep 2026 09:07:37 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "GBP/USD at 3-Month Low: What Happens Next?",
+    "link": "https://www.investing.com/analysis/gbpusd-at-3month-low-what-happens-next-200688394",
+    "pubDate": "Sep 25, 2026 08:50 GMT"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
+    "link": "https://www.neweconomy.jp/posts/611072",
+    "pubDate": "Fri, 25 Sep 2026 08:31:51 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットバンク、JADATの保有全株式を三井住友信託銀行に譲渡へ",
+    "link": "https://www.neweconomy.jp/posts/611059",
+    "pubDate": "Fri, 25 Sep 2026 08:19:53 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY Elliott Wave: Wave 4 Pullback Toward 157 With Eyes on 160",
+    "link": "https://www.investing.com/analysis/usdjpy-elliott-wave-wave-4-pullback-toward-157-with-eyes-on-160-200688392",
+    "pubDate": "Sep 25, 2026 08:19 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "円建てステーブルコインEJPY、東芝など26社が実証参加を表明",
+    "link": "https://coinpost.jp/?p=739378",
+    "pubDate": "Fri, 25 Sep 2026 17:10:57 +0900"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "パクソスラボ、PAXG裏付けトークン「PAXGy」ローンチ。金の貸出収益を交換レートに反映",
+    "link": "https://www.neweconomy.jp/posts/611044",
+    "pubDate": "Fri, 25 Sep 2026 08:04:08 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ヴィタリック、ブロックチェーンは「台帳」から暗号技術による計算基盤へ移行すると語る",
+    "link": "https://www.neweconomy.jp/posts/611038",
+    "pubDate": "Fri, 25 Sep 2026 07:58:47 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
+    "link": "https://www.neweconomy.jp/posts/611035",
+    "pubDate": "Fri, 25 Sep 2026 07:54:35 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "英ロイズやバークレイズら、トークン化預金で銀行間取引を実証",
+    "link": "https://www.neweconomy.jp/posts/610954",
+    "pubDate": "Fri, 25 Sep 2026 07:47:10 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin: A Bull Market Does Not Rule Out a Drop to $75K",
+    "link": "https://www.investing.com/analysis/bitcoin-a-bull-market-does-not-rule-out-a-drop-to-75k-200688386",
+    "pubDate": "Sep 25, 2026 07:37 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "AI is booming, but AI crypto tokens are missing the rally",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/ai-is-booming-but-ai-crypto-tokens-are-missing-the-rally-202609250700",
+    "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
+    "link": "https://coinpost.jp/?p=739348",
+    "pubDate": "Fri, 25 Sep 2026 15:57:28 +0900"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US Dollar: Bond Sell-Off Helps Greenback Consolidate Gains",
+    "link": "https://www.investing.com/analysis/us-dollar-bond-selloff-helps-greenback-consolidate-gains-200688384",
+    "pubDate": "Sep 25, 2026 06:49 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY Q4 Outlook: Hawkish Fed Pricing Clashes With Intervention Risk",
+    "link": "https://www.investing.com/analysis/usdjpy-q4-outlook-hawkish-fed-pricing-clashes-with-intervention-risk-200688374",
+    "pubDate": "Sep 25, 2026 06:34 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Chainlink Price Forecast: Extends rally on rising ETF inflows, bullish derivatives and Infosys deal",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/chainlink-price-forecast-extends-rally-on-rising-etf-inflows-bullish-derivatives-and-infosys-deal-202609250544",
+    "pubDate": "Fri, 25 Sep 2026 05:44:42 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Quant Price Forecast: QNT price rally hits annual high on securing US tokenized deposit settlements",
+    "link": "https://www.fxstreet.com/cryptocurrencies/news/quant-price-forecast-qnt-price-rally-hits-annual-high-on-securing-us-tokenized-deposit-settlements-202609250534",
+    "pubDate": "Fri, 25 Sep 2026 05:34:41 GMT"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "SBIとJR九州、金融アプリ「JQ BANK」検討。暗号資産・ステーブルコイン決済も視野",
+    "link": "https://www.neweconomy.jp/posts/610981",
+    "pubDate": "Fri, 25 Sep 2026 05:23:37 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Q4 Outlook: Did the August Rally Mark the Cycle Low?",
+    "link": "https://www.investing.com/analysis/q4-bitcoin-outlook-did-the-august-rally-mark-the-cycle-low-200688373",
+    "pubDate": "Sep 25, 2026 05:21 GMT"
   },
   {
     "source": "FXStreet",
     "category": "fx_analysis",
     "market": "global",
     "lang": "en",
-    "title": "Gold Price Forecast: Bull-bear tug-of-war extends for XAU/USD ahead of Trump-Xi meet",
-    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-bull-bear-tug-of-war-extends-for-xau-usd-ahead-of-trump-xi-meet-202609230341",
-    "pubDate": "Wed, 23 Sep 2026 03:41:54 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "CMEグループ、ビットコインキャッシュとユニスワップの先物上場へ",
-    "link": "https://coinpost.jp/?p=738868",
-    "pubDate": "Wed, 23 Sep 2026 12:02:52 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "クリプトクアントCEO、ビットコイン上昇幅は過去より縮小と予想",
-    "link": "https://coinpost.jp/?p=738876",
-    "pubDate": "Wed, 23 Sep 2026 11:46:11 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "プライバシー通貨の時価総額、1年で約5倍に＝21シェアーズ",
-    "link": "https://coinpost.jp/?p=738867",
-    "pubDate": "Wed, 23 Sep 2026 11:03:07 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "CFTC委員長、市場に大規模トークン化への備え求める",
-    "link": "https://coinpost.jp/?p=738861",
-    "pubDate": "Wed, 23 Sep 2026 10:03:02 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "バイナンス、USDCのサークル社に約160億円出資　戦略的提携を拡大",
-    "link": "https://coinpost.jp/?p=738853",
-    "pubDate": "Wed, 23 Sep 2026 09:35:33 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "コインベース、量子耐性の保管体制を開発中　全署名方式への対応目指す",
-    "link": "https://coinpost.jp/?p=738851",
-    "pubDate": "Wed, 23 Sep 2026 09:06:28 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットコイン8.6万ドル、利上げとクラリティー法案頓挫を消化＝ウィンターミュート",
-    "link": "https://coinpost.jp/?p=738847",
-    "pubDate": "Wed, 23 Sep 2026 08:35:02 +0900"
+    "title": "Gold Price Forecast: XAU/USD eyes worst week in a month amid hawkish Fed outlook",
+    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-eyes-worst-week-in-a-month-amid-hawkish-fed-outlook-202609250247",
+    "pubDate": "Fri, 25 Sep 2026 02:47:57 GMT"
   },
   {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Ethereum Elliott Wave Setup Points to $3,000 Before a Deeper Pullback",
-    "link": "https://www.investing.com/analysis/ethereum-elliott-wave-setup-points-to-3000-before-a-deeper-pullback-200688179",
-    "pubDate": "Sep 22, 2026 19:15 GMT"
+    "title": "Ethereum’s $2,544 Support Zone Could Decide the Next Major Move",
+    "link": "https://www.investing.com/analysis/ethereums-2544-support-zone-could-decide-the-next-major-move-200688355",
+    "pubDate": "Sep 24, 2026 19:22 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Australian Dollar Price Forecast: Bearish bias below 0.7000 ",
+    "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-bearish-bias-below-07000-202609241827",
+    "pubDate": "Thu, 24 Sep 2026 18:27:34 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "EUR/USD Slide Shows How US Real Yields Are Overpowering Euro Strength",
+    "link": "https://www.investing.com/analysis/eurusd-slide-shows-how-us-real-yields-are-overpowering-euro-strength-200688345",
+    "pubDate": "Sep 24, 2026 18:02 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Faces a Real-Yield Shock as Treasury Returns Top 5%",
+    "link": "https://www.investing.com/analysis/bitcoin-faces-a-realyield-shock-as-treasury-returns-top-5-200688344",
+    "pubDate": "Sep 24, 2026 17:52 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "AUD/USD Breakdown Points to a Final Elliott Wave Leg Lower",
+    "link": "https://www.investing.com/analysis/audusd-breakdown-points-to-a-final-elliott-wave-leg-lower-200688326",
+    "pubDate": "Sep 24, 2026 15:21 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Oracle's force majeure on New Mexico data center sends AI stocks lower",
+    "link": "https://www.fxstreet.com/news/oracles-force-majeure-on-new-mexico-data-center-sends-ai-stocks-lower-202609241424",
+    "pubDate": "Thu, 24 Sep 2026 14:24:21 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin and Treasury Yields: Blame the Bond Jitters",
+    "link": "https://www.investing.com/analysis/bitcoin-and-treasury-yields-blame-the-bond-jitters-200688304",
+    "pubDate": "Sep 24, 2026 11:34 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "$15 Billion Bitcoin Expiry: Hold $84,000 — or Risk $76,000",
+    "link": "https://www.investing.com/analysis/15-billion-bitcoin-expiry-hold-84000--or-risk-76000-200688303",
+    "pubDate": "Sep 24, 2026 11:16 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Is Bitcoin’s Supercycle Starting?",
+    "link": "https://www.investing.com/analysis/is-bitcoins-supercycle-starting-200688299",
+    "pubDate": "Sep 24, 2026 10:50 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold braces for two-way risks as Trump-Xi meeting looms",
+    "link": "https://www.fxstreet.com/analysis/gold-braces-for-two-way-risks-as-trump-xi-meeting-looms-202609240312",
+    "pubDate": "Thu, 24 Sep 2026 03:12:56 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Sandisk’s $93.9 Billion Backlog Challenges the Old NAND Cycle",
+    "link": "https://www.investing.com/analysis/sandisks-939-billion-backlog-challenges-the-old-nand-cycle-200688183",
+    "pubDate": "Sep 22, 2026 20:36 GMT"
   },
   {
     "source": "FXStreet",
@@ -754,159 +916,6 @@
     "title": "AMD investors cash in on Tuesday after joining $1 trillion stock club",
     "link": "https://www.fxstreet.com/news/amd-investors-cash-in-on-tuesday-after-joining-1-trillion-stock-club-202609221343",
     "pubDate": "Tue, 22 Sep 2026 13:43:46 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Trump meets Xi: Why markets are watching this summit so closely",
-    "link": "https://www.fxstreet.com/analysis/trump-meets-xi-why-markets-are-watching-this-summit-so-closely-202609221342",
-    "pubDate": "Tue, 22 Sep 2026 13:42:54 GMT"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "グレースケールの「ジーキャッシュ（ZEC）」現物ETF、3対1の口数分割へ",
-    "link": "https://www.neweconomy.jp/posts/609911",
-    "pubDate": "Tue, 22 Sep 2026 13:28:42 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ハナ銀行、ユーロクリアのブロックチェーン基盤で1億ドルのデジタル債券発行。当日決済実現",
-    "link": "https://www.neweconomy.jp/posts/609906",
-    "pubDate": "Tue, 22 Sep 2026 13:21:31 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始",
-    "link": "https://www.neweconomy.jp/posts/609901",
-    "pubDate": "Tue, 22 Sep 2026 13:17:02 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ストラテジー、2週間の見送り後にBTC購入再開。保有84.6万BTCに",
-    "link": "https://www.neweconomy.jp/posts/609894",
-    "pubDate": "Tue, 22 Sep 2026 12:45:43 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "バイナンスウォレット、パンケーキスワップの「プレアクセス」に対応。未上場企業へ間接投資",
-    "link": "https://www.neweconomy.jp/posts/609885",
-    "pubDate": "Tue, 22 Sep 2026 12:35:24 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ゼータチェーン、L1終了とZETAのソラナ移行方針が可決",
-    "link": "https://www.neweconomy.jp/posts/609878",
-    "pubDate": "Tue, 22 Sep 2026 12:25:11 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Hits the Next Target of $86,500/600",
-    "link": "https://www.investing.com/analysis/bitcoin-hits-the-next-target-of-86500600-200688144",
-    "pubDate": "Sep 22, 2026 10:33 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Breaks Resistance, Eyes $85K–$95K Range",
-    "link": "https://www.investing.com/analysis/bitcoin-breaks-resistance-eyes-85k95k-range-200688124",
-    "pubDate": "Sep 22, 2026 07:34 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ビットマイン、イーサリアム保有量598万ETHに　「5％取得目標」まであとわずか",
-    "link": "https://coinpost.jp/?p=738807",
-    "pubDate": "Tue, 22 Sep 2026 13:26:17 +0900"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold Price Forecast: XAU/USD lacks a clear directional impetus, with eyes on geopolitics ",
-    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-lacks-a-clear-directional-impetus-with-eyes-on-geopolitics-202609220353",
-    "pubDate": "Tue, 22 Sep 2026 03:53:41 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "The Highway Illusion: Circle’s Real Revolution Isn’t the Token",
-    "link": "https://www.investing.com/analysis/the-highway-illusion-circles-real-revolution-isnt-the-token-200688084",
-    "pubDate": "Sep 21, 2026 17:14 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Australian Dollar Price Forecast: Bulls need more conviction ",
-    "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-bulls-need-more-conviction-202609211634",
-    "pubDate": "Mon, 21 Sep 2026 16:34:01 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Breakout Above $78,500 Triggers Buy Signal, as Bull Flag Is Confirmed",
-    "link": "https://www.investing.com/analysis/bitcoin-breakout-above-78500-triggers-buy-signal-as-bull-flag-is-confirmed-200688062",
-    "pubDate": "Sep 21, 2026 11:36 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Altcoins Drive the Rally as Bitcoin Plays Catch-up",
-    "link": "https://www.investing.com/analysis/altcoins-drive-the-rally-as-bitcoin-plays-catchup-200688048",
-    "pubDate": "Sep 21, 2026 08:50 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold Price Forecast: XAU/USD feeling the heat as geopolitics is back in play  ",
-    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-feeling-the-heat-as-geopolitics-is-back-in-play-202609210321",
-    "pubDate": "Mon, 21 Sep 2026 03:21:18 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold Weekly Forecast: Recovery continues, but fresh buying is needed to extend gains",
-    "link": "https://www.fxstreet.com/analysis/gold-weekly-forecast-bulls-regain-control-the-next-leg-higher-remains-uncertain-202609181623",
-    "pubDate": "Fri, 18 Sep 2026 16:23:00 GMT"
   },
   {
     "source": "FXStreet",
@@ -979,15 +988,6 @@
     "title": "Intel sheds 4% as announces $15 billion equity raise",
     "link": "https://www.fxstreet.com/news/intel-sheds-4-as-announces-15-billion-equity-raise-202608101515",
     "pubDate": "Mon, 10 Aug 2026 15:15:20 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "The Trade Desk suffers massive miss as shareholders head for exit",
-    "link": "https://www.fxstreet.com/news/the-trade-desk-suffers-massive-miss-as-shareholders-head-for-exit-202608062105",
-    "pubDate": "Thu, 06 Aug 2026 21:05:34 GMT"
   },
   {
     "source": "Investing",
