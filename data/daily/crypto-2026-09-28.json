@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-09-28",
+  "seoTitle": "暗号資産市場ニュースまとめ（9/28）",
+  "seoDescription": "9月28日の暗号資産市場の最新情報を総まとめ。主要トピックや個別プロジェクトの進捗を詳しく分析。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場では、バイナンス上場アルトコインの多くが200日移動平均線を超え、過熱感が懸念される状況です。また、ロビンフッドチェーンのミーム銘柄に関する抜き取り事件が報じられました。Ethereumの創始者ビタリック・ブテリンは2030年に向けたビジョンを示し、技術的な進化が期待されています。\n\n## 今日の暗号資産市場の地合い\n全体的にアルトコイン市場は活況で、バイナンス上場銘柄の87％が200日線を超えたことから、投資家の関心が集まっています。しかし、過熱感も指摘されており、今後の動向には注意が必要です。特に、ロビンフッドチェーンの問題は市場に不安をもたらす可能性があります。\n\n## 今日の主要トピック3つ\n1. **ロビンフッドチェーンのミーム銘柄、1843万ドル抜き取りか**  \n   ロビンフッドチェーンに関連するミーム銘柄での大規模な資金抜き取り事件が報じられ、投資家の信頼に影を落とす可能性があります。\n\n2. **バイナンス上場アルトコインの87％が200日線超え**  \n   アルトコインの上昇が続く中で、過熱感が強まっており、投資家は警戒を強める必要があります。\n\n3. **ビタリック・ブテリンが示すEthereumの2030年ビジョン**  \n   Ethereumの未来に関するビジョンが発表され、技術的な進化への期待が高まっています。\n\n## メインコインの整理\n現在、Bitcoin（BTC）の動向は安定しているものの、全体的な市場の熱気がアルトコインに集中しています。特に、バイナンス上場のアルトコインは注目されており、価格動向に影響を与える要因となるでしょう。Ethereum（ETH）については、ビタリック・ブテリンのビジョンが今後のプロジェクト進行に影響を与えると考えられます。\n\n## 個別プロジェクトの進捗\n- **ロビンフッドチェーン**: ミーム銘柄に関する抜き取り事件が発生し、1843万ドルが抜き取られたとの報道。\n- **Ethereum**: ビタリック・ブテリンが2030年のビジョンを提示し、ブロックチェーンを超えた展望が紹介されました。\n- **Solana**: 150ミリ秒の決済アップグレードが第二の公開テストネットに到達し、技術的な進展が見られています。\n\n## 今日の要約から見える示唆\n市場全体において、アルトコインの急上昇が見られる一方で、過熱感や不安要素も顕在化しています。特に、ロビンフッドチェーンの事件は、投資家の心理に影響を与えかねない要因です。\n\n## 次に確認すべきこと\n- アルトコインの過熱感が続く中、主要銘柄の調整があるかどうか。\n- ロビンフッドチェーンによる影響が市場全体に波及するかどうか。\n- ビタリック・ブテリンのビジョンがEthereumのエコシステムにどのように影響するか。\n\n## 今日の結論\n暗号資産市場はアルトコインの活況が続いていますが、ロビンフッドチェーンの抜き取り事件など、警戒すべき要因も存在します。今後の市場動向には細心の注意を払い、各プロジェクトの進展を継続的にウォッチする必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ロビンフッドチェーンのミーム53銘柄、1843万ドル抜き取りか＝報道",
+      "link": "https://coinpost.jp/?p=739475",
+      "pubDate": "Mon, 28 Sep 2026 08:29:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス上場アルトコインの87％が200日線超え、過熱警戒も＝アナリスト",
+      "link": "https://coinpost.jp/?p=739471",
+      "pubDate": "Mon, 28 Sep 2026 07:38:58 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "pubDate": "Sun, 27 Sep 2026 14:29:13 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "How months of work on the Clarity Act all fell apart",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "pubDate": "Sun, 27 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（9/25）｜BTC相場・ストラテジーの財務戦略・機関投資家の動向まとめ",
+      "link": "https://coinpost.jp/?p=739190",
+      "pubDate": "Sun, 27 Sep 2026 09:25:50 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s Biggest Regime Shift Yet: From Fed Beta to Treasury Hedge",
+      "link": "https://www.investing.com/analysis/bitcoins-biggest-regime-shift-yet-from-fed-beta-to-treasury-hedge-200688233",
+      "pubDate": "Sep 26, 2026 13:23 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米控訴裁「予測市場のスポーツイベント契約は州が規制可能」と判決、カルシ敗訴",
+      "link": "https://coinpost.jp/?p=739441",
+      "pubDate": "Sat, 26 Sep 2026 14:00:37 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC、顧客資金の投資対象トークン化と記録管理を容認",
+      "link": "https://coinpost.jp/?p=739450",
+      "pubDate": "Sat, 26 Sep 2026 13:25:53 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米司法省、テザー準備金の一部を扱った決済業者から8400万ドル押収",
+      "link": "https://coinpost.jp/?p=739425",
+      "pubDate": "Sat, 26 Sep 2026 11:30:34 +0900"
+    }
+  ]
+}

@@ -1,5 +1,77 @@
 [
   {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US President Donald Trump says he will not rule out more Iran strikes ",
+    "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-will-not-rule-out-more-iran-strikes-202609280019",
+    "pubDate": "Mon, 28 Sep 2026 00:19:49 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "BoJ Minutes: Members agree financial conditions remain accommodative",
+    "link": "https://www.fxstreet.com/news/boj-minutes-members-agree-financial-conditions-remain-accommodative-202609272353",
+    "pubDate": "Sun, 27 Sep 2026 23:53:51 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ロビンフッドチェーンのミーム53銘柄、1843万ドル抜き取りか＝報道",
+    "link": "https://coinpost.jp/?p=739475",
+    "pubDate": "Mon, 28 Sep 2026 08:29:52 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
+    "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
+    "pubDate": "Sun, 27 Sep 2026 23:23:33 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "バイナンス上場アルトコインの87％が200日線超え、過熱警戒も＝アナリスト",
+    "link": "https://coinpost.jp/?p=739471",
+    "pubDate": "Mon, 28 Sep 2026 07:38:58 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Middle East War updates: Trump says he expects renewed Iran talks this week",
+    "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-says-he-expects-renewed-iran-talks-this-week-202609272231",
+    "pubDate": "Sun, 27 Sep 2026 22:31:35 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "pubDate": "Sun, 27 Sep 2026 14:29:13 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "How months of work on the Clarity Act all fell apart",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+    "pubDate": "Sun, 27 Sep 2026 12:00:00 +0000"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -207,24 +279,6 @@
     "pubDate": "Sat, 26 Sep 2026 08:13:46 +0900"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米上場シークアンスがビットコイン財務戦略を終了、残りの314BTCを売却",
-    "link": "https://coinpost.jp/?p=739412",
-    "pubDate": "Sat, 26 Sep 2026 07:40:59 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "仮想通貨タスクフォースを主導したクリプトママ、米SECを10月2日退任",
-    "link": "https://coinpost.jp/?p=739396",
-    "pubDate": "Sat, 26 Sep 2026 07:35:33 +0900"
-  },
-  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -324,15 +378,6 @@
     "pubDate": "Fri, 25 Sep 2026 20:10:25 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-    "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-    "pubDate": "Fri, 25 Sep 2026 20:01:05 +0000"
-  },
-  {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
@@ -378,15 +423,6 @@
     "pubDate": "Fri, 25 Sep 2026 19:00:32 GMT"
   },
   {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
-    "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
-    "pubDate": "Fri, 25 Sep 2026 18:54:44 GMT"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -405,24 +441,6 @@
     "pubDate": "Fri, 25 Sep 2026 18:40:50 GMT"
   },
   {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
-    "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
-    "pubDate": "Fri, 25 Sep 2026 18:34:02 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Asian FX: Higher yields and Oil weigh – OCBC",
-    "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
-    "pubDate": "Fri, 25 Sep 2026 18:22:51 GMT"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -430,15 +448,6 @@
     "title": "S&P 500 E-Mini Bulls Regain Control, but 7,900 Is Where the Real Test Begins",
     "link": "https://www.investing.com/analysis/sp-500-emini-bulls-regain-control-but-7900-is-where-the-real-test-begins-200688433",
     "pubDate": "Sep 25, 2026 18:17 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
-    "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
-    "pubDate": "Fri, 25 Sep 2026 18:15:03 GMT"
   },
   {
     "source": "Investing",
@@ -520,15 +529,6 @@
     "title": "2 Pre-Market Setups to Watch Before Sunday",
     "link": "https://www.investing.com/analysis/2-premarket-setups-to-watch-before-sunday-200688423",
     "pubDate": "Sep 25, 2026 15:01 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-    "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "pubDate": "Fri, 25 Sep 2026 14:41:53 +0000"
   },
   {
     "source": "Investing",
