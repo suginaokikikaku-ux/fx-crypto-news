@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場の最新動向とトピック</title>
+  <meta name="description" content="ビットコイン、イーサリアム、OUSDなどの最新情報と、今後の注目ポイントを解説します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-10-01.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場の最新動向とトピック" />
+  <meta property="og:description" content="ビットコイン、イーサリアム、OUSDなどの最新情報と、今後の注目ポイントを解説します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-10-01.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場の最新動向とトピック","description":"ビットコイン、イーサリアム、OUSDなどの最新情報と、今後の注目ポイントを解説します。","datePublished":"2026-10-01","dateModified":"2026-10-01","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-10-01.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場の最新動向とトピック</h1>
+        <p>ビットコイン、イーサリアム、OUSDなどの最新情報と、今後の注目ポイントを解説します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-10-01 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinPost / FXStreet / Investing / CoinDeskのニュースをもとに整理しています。</div>
+      <h2>1分で読める結論</h2>
+暗号資産市場は、ビットワイズのクラリティー法案に関する見解や新しいステーブルコインOUSDのローンチなど、重要なトピックが浮上しています。市場全体は安定しているものの、個別プロジェクトの進展が注目されています。</p><h2>今日の暗号資産市場の地合い</h2>
+全体として、暗号資産市場はやや落ち着きを見せており、特にビットコインは取引価格が84,000ドルを回復しています。しかし、価格の上昇には利確やETF需要の弱さが影響しているとされています。全体的には、主要コインは安定しているが、流動性の偏りが見られます。</p><h2>今日の主要トピック3つ</h2>
+1. <strong>ビットワイズCIOの見解</strong>: クラリティー法案の頓挫が暗号資産市場にとってプラスであるとビットワイズのCIOが評価。
+2. <strong>新ステーブルコインOUSDのローンチ</strong>: 企業コンソーシアム型のステーブルコインOUSDがイーサリアムなど4つのチェーンで発行可能に。
+3. <strong>ビットコインの流動性問題</strong>: ビットコインが市場の流動性を集める中で、アルトコインが影響を受けているとの指摘。</p><h2>メインコインの整理</h2>
+<ul><li><strong>ビットコイン</strong>: 84,000ドルを回復し、安定した取引が続いているが、利確の動きが見られる。</li>
+<li><strong>イーサリアム</strong>: レバレッジ資本が低水準にあり、価格の安定を示している。</li>
+<li><strong>アルトコイン</strong>: ビットコインの流動性集中により、価格が圧迫されている状況。</li></p><h2>個別プロジェクトの進捗</h2>
+<li><strong>OUSD</strong>: 新たにローンチされた企業コンソーシアム型ステーブルコイン。これにより、複数のチェーン上での利用が可能になり、競争が激化する見込み。</li>
+<li><strong>ビットワイズ</strong>: クラリティー法案の頓挫が市場に好影響を与えるとの見解を示し、今後の規制環境に期待を寄せている。</li></ul><h2>今日の要約から見える示唆</h2>
+市場の安定性が続く中で、個別プロジェクトが重要な役割を果たす可能性が高まっています。特に、OUSDのような新しいステーブルコインが市場に与える影響や、ビットワイズの見解が今後の動向を左右するでしょう。</p><h2>次に確認すべきこと</h2>
+1. OUSDの実際の採用状況と市場に与える影響。
+2. ビットワイズのクラリティー法案に関するさらなる動向。
+3. ビットコインとアルトコインの流動性の変化。</p><h2>今日の結論</h2>
+暗号資産市場は全体的に安定を保っていますが、新しいプロジェクトの進展が市場動向に影響を与える可能性があります。今後のトピックとして、OUSDや規制環境の変化に注目する必要があります。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../basics/crypto/what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="../basics/crypto/how-to-read-projects.html">暗号資産プロジェクトの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinPost / FXStreet / Investing / CoinDesk</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] ビットワイズCIO、クラリティー法案頓挫は追い風　SECの迅速対応を評価（CoinPost / crypto） - <a href="https://coinpost.jp/?p=740314" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] Why CLARITY Act's failure is beneficial for crypto — Bitwise（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/why-clarity-acts-failure-is-beneficial-for-crypto-bitwise-202610010037" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] 企業コンソーシアム型ステーブルコイン「OUSD」がローンチ、イーサリアムなど4チェーンで発行可能に（CoinPost / crypto） - <a href="https://coinpost.jp/?p=740305" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Ethereum Price Forecast: Leverage capital cools to lowest level since March amid consolidation（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-leverage-capital-cools-to-lowest-level-since-march-amid-consolidation-202609302341" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Why Bitcoin has failed to clear $85,000 — Profit-taking and weak ETF demand weigh on price（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/why-bitcoin-has-failed-to-clear-85-000-profit-taking-and-weak-etf-demand-weigh-on-price-202609302130" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] Bitget’s $387 Million Hack Tests Crypto Trust — Not Bitcoin’s Long-Term Thesis（Investing / crypto） - <a href="https://www.investing.com/analysis/bitgets-387-million-hack-tests-crypto-trust--not-bitcoins-longterm-thesis-200688716" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal（CoinDesk / crypto） - <a href="https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] Bitcoin and Gold Outlook: BTC recovers $84K, XAU slips amid softer US PCE（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-gold-outlook-btc-recovers-84k-xau-slips-amid-softer-us-pce-202609301712" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Bitcoin Is Hoarding Crypto Liquidity — and Altcoins Are Paying the Price（Investing / crypto） - <a href="https://www.investing.com/analysis/bitcoin-is-hoarding-crypto-liquidity--and-altcoins-are-paying-the-price-200688703" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Bitcoin’s 4-year cycle looks self-fulfilling, but RWA may define what's next – ARK Invest（FXStreet / crypto） - <a href="https://www.fxstreet.com/cryptocurrencies/news/bitcoins-4-year-cycle-looks-self-fulfilling-but-rwa-may-define-whats-next-ark-invest-202609301530" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] U.S. CFTC  seeks event contract definitions that may defy states' gambling claims（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Crypto Long &amp; Short: What will the AI agents run on? （CoinDesk / crypto） - <a href="https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] Clock's ticking: UK's crypto regulatory application window opens with February deadline（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] Will Core PCE Data Trigger Bitcoin’s Next Big Move?（Investing / crypto） - <a href="https://www.investing.com/analysis/will-core-pce-data-trigger-bitcoins-next-big-move-200688692" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
