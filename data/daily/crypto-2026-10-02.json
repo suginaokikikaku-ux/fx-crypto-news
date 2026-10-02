@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-10-02",
+  "seoTitle": "暗号資産市場の最新動向と注目ポイント",
+  "seoDescription": "本日（2026年10月2日）の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "# 1分で読める結論\n本日の暗号資産市場では、ステーブルコインや国際送金に関するニュースが注目される中、ビットコインは上昇の初期段階にあるものの売り注文の壁に直面しています。リップルはブラジルでの提携を発表し、イーサリアムはアップグレード案が撤回されました。\n\n## 今日の暗号資産市場の地合い\n全体的に市場は活発な動きを見せており、特にステーブルコインや国際送金関連のプロジェクトが注目されています。ビットコインは上昇の兆しを見せていますが、売り圧力が強く、今後の動きに注目が必要です。リップルの提携やイーサリアムのアップグレードに関するニュースも、各プロジェクトの影響を考慮する上で重要です。\n\n## 今日の主要トピック3つ\n1. **SBIデジトラストが日韓間でステーブルコイン送金の共同検証を開始**。\n2. **ポリマーケット国際版での個人口座の約7割が損失とする分析**。\n3. **ビットコインが上昇の初期段階にあるが、売り注文の壁が存在する**。\n\n## メインコインの整理\n- **ビットコイン（BTC）**: 上昇の初期段階にあるが、売り注文の壁が上値を抑えている。\n- **イーサリアム（ETH）**: 発行量削減案が次期アップグレード『ヘゴタ』から撤回されたことが市場に影響を与える可能性がある。\n- **リップル（XRP）**: ブラジルの中央証券保管機関との提携が発表され、国際的な展開が期待される。\n\n## 個別プロジェクトの進捗\n- **SBIデジトラスト**: 日韓間でのステーブルコイン送金の共同検証開始。これにより、アジア市場でのデジタル資産の流通が促進される可能性がある。\n- **ポリマーケット**: 約7割の個人口座が損失を出しているとの分析が発表され、投資家の信頼感に影響を与えるかもしれない。\n- **イーサリアム財団**: AI利用料を匿名で支払う新技術「zkAPI」を始動し、プライバシー関連の機能強化を図る。\n\n## 今日の要約から見える示唆\n市場は新たなプロジェクトの進展や国際的な提携に注目しており、特にステーブルコイン関連は今後の成長が期待される。一方で、ビットコインの売り圧力は注意が必要で、投資家は状況を見極める必要がある。\n\n## 次に確認すべきこと\n- SBIデジトラストのステーブルコイン送金の進展状況。\n- リップルのブラジルでの提携の具体的な影響。\n- イーサリアムのアップグレードに関する新たな動きや対応策。\n\n## 今日の結論\n本日はステーブルコインや国際送金に関するニュースが目立つ中、ビットコインの売り圧力が市場に影響を与えています。各プロジェクトの進展が今後の市場動向にどう影響するか、注視する必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "Investing",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBIデジトラスト、日韓間ステーブルコイン送金で共同検証へ",
+      "link": "https://coinpost.jp/?p=740531",
+      "pubDate": "Fri, 02 Oct 2026 10:20:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ポリマーケット国際版、個人口座の約7割が損失＝ギャラクシー分析",
+      "link": "https://coinpost.jp/?p=740577",
+      "pubDate": "Fri, 02 Oct 2026 09:57:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、上昇の初期段階も売り注文の壁が上値抑制＝グラスノード",
+      "link": "https://coinpost.jp/?p=740555",
+      "pubDate": "Fri, 02 Oct 2026 09:30:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "リップル、ブラジルの中央証券保管機関とXRPレジャーで提携",
+      "link": "https://coinpost.jp/?p=740532",
+      "pubDate": "Fri, 02 Oct 2026 09:30:06 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム発行量削減案、次期アップグレード『ヘゴタ』実装候補から撤回",
+      "link": "https://coinpost.jp/?p=740515",
+      "pubDate": "Fri, 02 Oct 2026 08:20:16 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビザと英金融大手ロイズ、ステーブルコインの越境決済のライブ実験を完了──USDC活用",
+      "link": "https://coinpost.jp/?p=740535",
+      "pubDate": "Fri, 02 Oct 2026 07:42:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米イリノイ州、仮想通貨0.2％課税の延期へ合意",
+      "link": "https://coinpost.jp/?p=740516",
+      "pubDate": "Fri, 02 Oct 2026 07:35:18 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム財団、AI利用料を匿名で支払う新技術「zkAPI」始動",
+      "link": "https://coinpost.jp/?p=740517",
+      "pubDate": "Fri, 02 Oct 2026 06:45:21 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "XRPトレジャリー企業エバーノース、8日にナスダック上場見込み",
+      "link": "https://coinpost.jp/?p=740518",
+      "pubDate": "Fri, 02 Oct 2026 06:25:23 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Was There a Link Between Trump’s Nigeria Policy and Changpeng Zhao’s Pardon?",
+      "link": "https://www.investing.com/analysis/was-there-a-link-between-trumps-nigeria-policy-and-changpeng-zhaos-pardon-200688803",
+      "pubDate": "Oct 01, 2026 21:14 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "NEARインテンツが一時停止、約6億円の不正流出判明",
+      "link": "https://coinpost.jp/?p=740519",
+      "pubDate": "Fri, 02 Oct 2026 06:10:25 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "pubDate": "Thu, 01 Oct 2026 20:20:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "pubDate": "Thu, 01 Oct 2026 18:45:29 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Is Bouncing Back—Here are 2 Ways to Play the Rebound",
+      "link": "https://www.investing.com/analysis/bitcoin-is-bouncing-backhere-are-2-ways-to-play-the-rebound-200688787",
+      "pubDate": "Oct 01, 2026 16:50 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Near Protocol slides below $5.00 after Near Intents $4M exploit",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/near-protocol-slides-below-500-after-near-intents-4m-exploit-202610011619",
+      "pubDate": "Thu, 01 Oct 2026 16:19:26 GMT"
+    }
+  ]
+}
