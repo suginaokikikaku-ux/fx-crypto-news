@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-04",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の最新ニュースや主要コインの動向、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n暗号資産市場は、主要コインの動きや新規上場、プロジェクトの進捗を背景に活発な動きを見せている。特に、ビットコインのレバレッジETF承認やNEAR Intentsのハッキング被害の回復が注目される。これに伴い、投資家は今後の市場動向を注意深く見守る必要がある。\n\n## 今日の暗号資産市場の地合い\n市場全体は、米SECがビットコインなど6資産の3倍レバレッジETFを承認したことで、投資家の関心が高まっている。市場は回復基調にあり、特にビットコインの動向が他のコインにも影響を与えている。これに伴い、より多くの資金が市場に流入している。\n\n## 今日の主要トピック3つ\n1. **ビットコインのレバレッジETF承認**: 米SECがビットコインを含む6資産の3倍レバレッジETFを承認し、投資機会が広がる。\n2. **NEAR Intentsのハッキング回復**: NEAR Intentsがハッキングで失った約6億円の資産を全額返還し、プロジェクトの信頼性が回復。\n3. **中央銀行マネーのオンチェーン化**: ECBが中央銀行のデジタル通貨に関する新しい方法を検討中で、今後の金融システムに影響を与える可能性がある。\n\n## メインコインの整理\nビットコインはSECのETF承認を受けて上昇傾向にあり、アルトコインもその影響を受けている。イーサリアムはL2ソリューションの問題に直面しているが、全体的なエコシステムの強化が進んでいる。また、QNT、NIGHT、PUMP、WLDなどのコインが最近の週間でパフォーマンスを上げており、注目されている。\n\n## 個別プロジェクトの進捗\n- **NEAR Intents**: ハッキング被害からの回復が完了し、全額返還が行われた。これにより、プロジェクトの信頼性が回復。\n- **OpenPayd**: 米国進出と買収を目的とした年末のNASDAQ上場を目指しており、これが資金調達に寄与する見込み。\n- **BlackRock**: トークン化が投資ポートフォリオに与える影響を示唆しており、今後の投資戦略に影響を与える可能性がある。\n\n## 今日の要約から見える示唆\n市場はSECのETF承認やプロジェクトの信頼回復を受けて活発化している。特に、ビットコインの動向が他のコインに波及効果をもたらすため、投資家は今後の市場動向を注視する必要がある。また、プロジェクトの信頼性が市場の動向に影響を与えることが示された。\n\n## 次に確認すべきこと\n- ビットコインの価格動向とその影響を受けるアルトコインのパフォーマンス\n- NEAR Intentsの今後の開発計画とプロジェクトの進捗\n- ECBの中央銀行デジタル通貨に関する動向とその市場への影響\n\n## 今日の結論\n暗号資産市場はSECのETF承認やプロジェクトの信頼回復を受けて活発に動いている。投資家は今後の市場動向や各プロジェクトの進捗を注視し、戦略を練る必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "FXStreet"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（10/2）｜国税庁の新システム稼働・相場分析・DAT企業の動向まとめ",
+      "link": "https://coinpost.jp/?p=740608",
+      "pubDate": "Sun, 04 Oct 2026 09:25:57 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto's Sisyphean struggle",
+      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum L2 Blast shuts down as BLAST token crashes 99% from peak",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-l2-blast-shuts-down-as-blast-token-crashes-99-from-peak-202610030619",
+      "pubDate": "Sat, 03 Oct 2026 06:19:51 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Top 7 weekly crypto performers: QNT, NIGHT, PUMP and WLD lead gains",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/top-7-weekly-crypto-performers-qnt-night-pump-and-wld-lead-gains-202610030423",
+      "pubDate": "Sat, 03 Oct 2026 04:23:38 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、ビットコインなど6資産の3倍レバレッジETFの上場を承認",
+      "link": "https://coinpost.jp/?p=740844",
+      "pubDate": "Sat, 03 Oct 2026 11:10:43 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「中央銀行マネーのオンチェーン化に3つの方法」ECBが検討中",
+      "link": "https://coinpost.jp/?p=740866",
+      "pubDate": "Sat, 03 Oct 2026 10:00:26 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ニアインテンツ（NEAR Intents）、ハッキングされた約6億円資産が全額返還",
+      "link": "https://coinpost.jp/?p=740845",
+      "pubDate": "Sat, 03 Oct 2026 09:25:45 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米財務省、イラン利用の影の銀行ネットワークに制裁対応　8月開始の新プログラムの一環",
+      "link": "https://coinpost.jp/?p=740858",
+      "pubDate": "Sat, 03 Oct 2026 09:00:25 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「10月のビットコイン、過去13年間で10回上昇」、米CNBCが強気相場入りの可能性を指摘",
+      "link": "https://coinpost.jp/?p=740846",
+      "pubDate": "Sat, 03 Oct 2026 07:50:47 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプ大統領、元SEC委員長のクレイトン長官をAI担当に起用の見通し",
+      "link": "https://coinpost.jp/?p=740847",
+      "pubDate": "Sat, 03 Oct 2026 06:55:49 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "pubDate": "Fri, 02 Oct 2026 21:23:20 +0000"
+    }
+  ]
+}
