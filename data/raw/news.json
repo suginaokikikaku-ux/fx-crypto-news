@@ -1,5 +1,122 @@
 [
   {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Euro softens below 1.1250 on France’s fiscal risk",
+    "link": "https://www.fxstreet.com/news/euro-softens-below-11250-on-frances-fiscal-risk-202610050043",
+    "pubDate": "Mon, 05 Oct 2026 00:43:49 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Base上のボールトから約600万ドル流出　運営元は不明",
+    "link": "https://coinpost.jp/?p=740922",
+    "pubDate": "Mon, 05 Oct 2026 09:17:02 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Russia vows to step up strikes on Ukraine ",
+    "link": "https://www.fxstreet.com/news/russia-vows-to-step-up-strikes-on-ukraine-202610050014",
+    "pubDate": "Mon, 05 Oct 2026 00:14:22 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "OPEC+ agrees to keep oil output policy unchanged for November",
+    "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
+    "pubDate": "Mon, 05 Oct 2026 00:02:57 GMT"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data  ",
+    "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
+    "pubDate": "Sun, 04 Oct 2026 23:21:46 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン現物出来高、約3年ぶり低水準から小幅回復＝アナリスト",
+    "link": "https://coinpost.jp/?p=740918",
+    "pubDate": "Mon, 05 Oct 2026 08:17:35 +0900"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US",
+    "link": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
+    "pubDate": "Sun, 04 Oct 2026 22:38:47 GMT"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン長期保有者、弱気相場でも含み益維持　2015年以降初＝グラスノード",
+    "link": "https://coinpost.jp/?p=740915",
+    "pubDate": "Mon, 05 Oct 2026 07:26:23 +0900"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "There's an election next month: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "pubDate": "Sun, 04 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto poured years into new products. The next challenge is keeping users",
+    "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+    "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "source": "FXStreet",
+    "category": "fx_analysis",
+    "market": "global",
+    "lang": "en",
+    "title": "CFTC Report: Speculators turn more defensive as Oil exposure falls",
+    "link": "https://www.fxstreet.com/analysis/cftc-report-speculators-turn-more-defensive-as-oil-exposure-falls-202610041345",
+    "pubDate": "Sun, 04 Oct 2026 13:45:53 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+    "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+    "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=740798",
+    "pubDate": "Sun, 04 Oct 2026 11:30:55 +0900"
+  },
+  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -144,15 +261,6 @@
     "pubDate": "Sat, 03 Oct 2026 07:50:47 +0900"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "トランプ大統領、元SEC委員長のクレイトン長官をAI担当に起用の見通し",
-    "link": "https://coinpost.jp/?p=740847",
-    "pubDate": "Sat, 03 Oct 2026 06:55:49 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -180,24 +288,6 @@
     "pubDate": "Fri, 02 Oct 2026 21:12:09 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米SEC委員長、仮想通貨保管案を規制整備の一環と説明｜追加提案も予告",
-    "link": "https://coinpost.jp/?p=740849",
-    "pubDate": "Sat, 03 Oct 2026 06:10:53 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "レイヤー2「ブラスト」が閉鎖へ、預かり資産規模は一時23億ドル超",
-    "link": "https://coinpost.jp/?p=740848",
-    "pubDate": "Sat, 03 Oct 2026 05:55:51 +0900"
-  },
-  {
     "source": "FXStreet",
     "category": "fx",
     "market": "global",
@@ -205,15 +295,6 @@
     "title": "Mexican Peso rebounds but carry trade exodus still bites",
     "link": "https://www.fxstreet.com/news/mexican-peso-rebounds-but-carry-trade-exodus-still-bites-202610022008",
     "pubDate": "Fri, 02 Oct 2026 20:08:43 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "bitFlyerが「クールダウン」導入、円入金後48時間の暗号資産出金を制限",
-    "link": "https://coinpost.jp/?p=740830",
-    "pubDate": "Sat, 03 Oct 2026 05:00:25 +0900"
   },
   {
     "source": "Investing",
@@ -288,24 +369,6 @@
     "pubDate": "Fri, 02 Oct 2026 17:34:40 +0000"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-    "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-    "pubDate": "Fri, 02 Oct 2026 17:15:35 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-    "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-    "pubDate": "Fri, 02 Oct 2026 17:12:48 +0000"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -334,24 +397,6 @@
   },
   {
     "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
-    "link": "https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607",
-    "pubDate": "Fri, 02 Oct 2026 16:07:02 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
-    "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556",
-    "pubDate": "Fri, 02 Oct 2026 15:56:09 GMT"
-  },
-  {
-    "source": "FXStreet",
     "category": "crypto",
     "market": "global",
     "lang": "en",
@@ -367,15 +412,6 @@
     "title": "The US Dollar Index just hit new 2026 highs above 102.20 – This chart shows the runaway move",
     "link": "https://www.fxstreet.com/analysis/the-us-dollar-index-just-hit-new-2026-highs-above-10220-this-chart-shows-the-runaway-move-202610021505",
     "pubDate": "Fri, 02 Oct 2026 15:05:03 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
-    "link": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
-    "pubDate": "Fri, 02 Oct 2026 15:02:23 GMT"
   },
   {
     "source": "Investing",
@@ -423,15 +459,6 @@
     "pubDate": "Fri, 02 Oct 2026 14:35:55 GMT"
   },
   {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "US Dollar: FOMC minutes to offer limited fresh clues – TD Securities",
-    "link": "https://www.fxstreet.com/news/us-dollar-fomc-minutes-to-offer-limited-fresh-clues-td-securities-202610021435",
-    "pubDate": "Fri, 02 Oct 2026 14:35:04 GMT"
-  },
-  {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
@@ -439,15 +466,6 @@
     "title": "Genius Sports Prediction Market Push Could Reframe Its Valuation",
     "link": "https://www.investing.com/analysis/genius-sports-prediction-market-push-could-reframe-its-valuation-200688859",
     "pubDate": "Oct 02, 2026 14:32 GMT"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "Japanese Yen gives back post-NFP gains despite US Dollar weakness",
-    "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-post-nfp-gains-despite-us-dollar-weakness-202610021431",
-    "pubDate": "Fri, 02 Oct 2026 14:31:54 GMT"
   },
   {
     "source": "Investing",
@@ -484,15 +502,6 @@
     "title": "Hobby Boom or Travel Bust? Here Are 3 Stocks to Ride the Trend",
     "link": "https://www.investing.com/analysis/hobby-boom-or-travel-bust-here-are-3-stocks-to-ride-the-trend-200688856",
     "pubDate": "Oct 02, 2026 13:57 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-    "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-    "pubDate": "Fri, 02 Oct 2026 13:22:19 +0000"
   },
   {
     "source": "あたらしい経済",
@@ -781,15 +790,6 @@
     "title": "米シティ、BTCの12カ月後予想を11.3万ドルに上方修正。ETHも引き上げ",
     "link": "https://www.neweconomy.jp/posts/613162",
     "pubDate": "Fri, 02 Oct 2026 04:49:57 +0000"
-  },
-  {
-    "source": "FXStreet",
-    "category": "fx_analysis",
-    "market": "global",
-    "lang": "en",
-    "title": "Gold Price Forecast: US Nonfarm Payrolls holds the key to XAU/USD’s next big move",
-    "link": "https://www.fxstreet.com/analysis/gold-price-forecast-us-nonfarm-payrolls-holds-the-key-to-xau-usds-next-big-move-202610020335",
-    "pubDate": "Fri, 02 Oct 2026 03:35:05 GMT"
   },
   {
     "source": "FXStreet",
