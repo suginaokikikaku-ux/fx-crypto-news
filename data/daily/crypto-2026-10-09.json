@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-10-09",
+  "seoTitle": "暗号資産市場動向と注目プロジェクトの進捗【2026年10月9日】",
+  "seoDescription": "最新の暗号資産市場動向と主要プロジェクトの進捗を解説。今後の注目ポイントも整理しています。",
+  "article": "## 1分で読める結論\n本日の暗号資産市場は、ビザとアブダビのADI財団の協業や、米国の国債オンチェーン化に向けた提案が注目されている。ビットコインの採掘事業者による売り圧力は緩和傾向にあり、投資家の関心が高まっている。特にNEARが市場での評価を受けている。\n\n## 今日の暗号資産市場の地合い\n全体的な市場の地合いは先週からの上昇を受けて安定しているが、米国の金利上昇の影響や各国の規制動向が投資家心理に影響を与えている。特に国債オンチェーン化の動きや大手企業のブロックチェーン活用が進行中で、期待感が高まっている。\n\n## 今日の主要トピック3つ\n1. **ビザとADI財団の協業**: デジタル決済のブロックチェーン活用に向けて協力を開始。\n2. **国債オンチェーン化の提案**: 財務省が新たな国債の発行形態を提示。\n3. **ビットコインの売り圧力緩和**: 採掘事業者による市場への影響が減少しているとの分析。\n\n## メインコインの整理\n- **ビットコイン**: 採掘事業者の売り圧力が緩和され、投資家心理は改善。年末予想が引き上げられた。\n- **イーサリアム**: 金利上昇による影響で価格が下落。市場全体の動向に敏感。\n\n## 個別プロジェクトの進捗\n- **NEAR**: 7〜9月において約3倍の上昇を記録し、ビットワイズCIOからの評価が高まる。\n- **アプトス**: 2.1億APTトークンを永久ステーキングすることで、長期的な価値保持を目指す。\n- **SBIとマネーフォワードの新会社設立**: デジタル資産決済の簡素化を目指す。\n\n## 今日の要約から見える示唆\nブロックチェーン技術の実用化が進む中、特に金融領域での影響が顕著になっている。大手企業の動きが市場の信頼感を高めており、特定のプロジェクトに対する投資家の関心が集まっている。\n\n## 次に確認すべきこと\n- ビザとADI財団の協業による具体的な成果がどうなるか。\n- 財務省の国債オンチェーン化に関する進捗と市場の反応。\n- NEARのさらなる価格動向やプロジェクトの進展。\n\n## 今日の結論\n市場は全体的に安定しているが、金利上昇の影響や規制の動向に注意が必要。特定のプロジェクトや企業の動きが市場を牽引する可能性があるため、これらの情報を注視する必要がある。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost",
+      "FXStreet",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビザとアブダビのADI財団が協業、ブロックチェーン活用のデジタル決済を共同検討",
+      "link": "https://www.neweconomy.jp/posts/615373",
+      "pubDate": "Fri, 09 Oct 2026 01:58:58 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "カルシ、米大型株500社指数に連動する無期限先物を開始、CFTCが承認",
+      "link": "https://www.neweconomy.jp/posts/615367",
+      "pubDate": "Fri, 09 Oct 2026 01:51:33 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "財務省、国債オンチェーン化の3類型を提示　新形態の国債発行も類型に",
+      "link": "https://coinpost.jp/?p=741978",
+      "pubDate": "Fri, 09 Oct 2026 10:16:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン採掘事業者による売り圧力は緩和傾向＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=741947",
+      "pubDate": "Fri, 09 Oct 2026 10:05:07 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH drops below $2,500 as rising Treasury yields trigger selling pressure​",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-drops-below-2-500-as-rising-treasury-yields-trigger-selling-pressure-202610090100",
+      "pubDate": "Fri, 09 Oct 2026 01:00:29 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "AI銘柄NEAR、7〜9月に約3倍上昇　ビットワイズCIOが事業性を評価",
+      "link": "https://coinpost.jp/?p=741959",
+      "pubDate": "Fri, 09 Oct 2026 09:38:21 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アプトス財団、2.1億APTトークンを売却せず永久ステーキング",
+      "link": "https://coinpost.jp/?p=741933",
+      "pubDate": "Fri, 09 Oct 2026 09:32:06 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hyperliquid Price Forecast: HYPE drops to $84 as Hyperliquid Labs begins $330 million OTC distribution",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/hyperliquid-price-forecast-hype-drops-to-84-as-hyperliquid-labs-begins-330-million-otc-distribution-202610090022",
+      "pubDate": "Fri, 09 Oct 2026 00:22:02 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "EU当局、MiCA非準拠ステーブルコインを排除へ｜事業是正期限は3カ月以内",
+      "link": "https://coinpost.jp/?p=741934",
+      "pubDate": "Fri, 09 Oct 2026 08:15:17 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPモルガン試算、仮想通貨流入は今年約500億ドル｜第4四半期に勢い",
+      "link": "https://coinpost.jp/?p=741913",
+      "pubDate": "Fri, 09 Oct 2026 08:05:13 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米投資銀行、ビットコイン年末予想を9.7万ドルから10.9万ドルに引き上げ",
+      "link": "https://coinpost.jp/?p=741912",
+      "pubDate": "Fri, 09 Oct 2026 07:50:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBI・マネーフォワード・メッシュ3社が新会社設立で基本合意、デジタル資産決済を簡素化へ",
+      "link": "https://coinpost.jp/?p=741927",
+      "pubDate": "Fri, 09 Oct 2026 07:10:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "2010年採掘のビットコインが16年ぶりに移動、現在13億円相当で価値が約28.6万倍増",
+      "link": "https://coinpost.jp/?p=741914",
+      "pubDate": "Fri, 09 Oct 2026 06:50:15 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "pubDate": "Thu, 08 Oct 2026 21:22:58 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "セキュリタイズ、ソラナでエヌビディアなど12銘柄の米国株トークンを提供──配当の権利も維持",
+      "link": "https://coinpost.jp/?p=741915",
+      "pubDate": "Fri, 09 Oct 2026 06:10:18 +0900"
+    }
+  ]
+}
