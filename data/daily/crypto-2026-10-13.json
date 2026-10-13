@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-10-13",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の最新ニュースと主要トピックを整理し、今後の注目ポイントを解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、主にビットコインの底打ちサインとリップルの新たなカストディサービスの導入が注目されています。市場全体は緩やかな成長を見せていますが、ETFの資金流出が懸念材料です。\n\n## 今日の暗号資産市場の地合い\n市場は全体的に回復傾向にありますが、ビットコインの価格はETFからの資金流出に影響を受けており、上昇が鈍化しています。リップルの新サービスの導入は特に注目されており、これが市場に与える影響が期待されています。\n\n## 今日の主要トピック3つ\n1. **ビットコインの底打ちサイン**: マクロ経済の圧力にもかかわらず、ビットコインが底打ちの兆しを見せています。\n2. **リップルのRLUSDカストディサービス**: スタンダードチャータードがリップルの新しいカストディサービスを開始し、これが市場での流動性を向上させる可能性があります。\n3. **Ethereumの大規模なブルマーケット予測**: BitMineが供給目標に近づく中、Ethereumの価格にプラスの影響を与えると予測されています。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 価格は下落中だが、底打ちサインが見られる。\n- **イーサリアム (ETH)**: BitMineの進捗により、ブルマーケットの期待が高まっている。\n- **リップル (XRP)**: 新たなカストディサービスによる影響が注目されている。\n\n## 個別プロジェクトの進捗\n- **コインチェックの子会社3iQ**: アブダビの金融事業免許を原則承認され、新たな展開が期待される。\n- **BitMine**: Ethereumのさらなる調達を進めており、供給目標を達成する見込み。\n\n## 今日の要約から見える示唆\n市場は成長の兆しを見せているものの、ビットコインのETFからの資金流出が影響を与えている。リップルとEthereumの動きが市場の流動性と価格に影響を与える可能性が高い。\n\n## 次に確認すべきこと\n- ビットコインの価格動向とマクロ経済の影響を継続的に監視する。\n- リップルのカストディサービスの運用状況と市場での反応を確認する。\n- Ethereumの供給状況とBitMineの動向を引き続きチェックする。\n\n## 今日の結論\nビットコインは底打ちの兆しを示しているが、リップルとEthereumの新たなサービスが市場のダイナミクスを変えつつある。これらの進展を注視し、今後の市場動向に備える必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "FXStreet",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインチェックG子会社3iQの関連企業、アブダビの金融事業免許の原則承認を取得",
+      "link": "https://coinpost.jp/?p=742468",
+      "pubDate": "Tue, 13 Oct 2026 11:41:35 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スタンダードチャータード、リップルのRLUSDのカストディを開始",
+      "link": "https://coinpost.jp/?p=742424",
+      "pubDate": "Tue, 13 Oct 2026 09:55:21 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin shows bottoming signs despite recent macro pressures",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-shows-bottoming-signs-despite-recent-macro-pressures-202610122233",
+      "pubDate": "Mon, 12 Oct 2026 22:33:01 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: Lee predicts \"largest ever crypto bull market\" as BitMine nears 5% supply goal",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-lee-predicts-largest-ever-crypto-bull-market-as-bitmine-nears-5-supply-goal-202610122028",
+      "pubDate": "Mon, 12 Oct 2026 20:28:07 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin and Gold Outlook: BTC slides as ETF outflows weigh, XAU gives back recent gains",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-gold-outlook-btc-slides-as-etf-outflows-weigh-xau-gives-back-recent-gains-202610121621",
+      "pubDate": "Mon, 12 Oct 2026 16:21:09 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "pubDate": "Mon, 12 Oct 2026 16:18:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "pubDate": "Mon, 12 Oct 2026 15:27:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "pubDate": "Mon, 12 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP holds 50-day EMA support amid steady ETF inflows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ripple-price-forecast-xrp-defends-50-day-ema-as-standard-chartered-launches-rlusd-custody-202610121230",
+      "pubDate": "Mon, 12 Oct 2026 12:30:00 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The Crypto Market Is Growing, Albeit Slowly",
+      "link": "https://www.investing.com/analysis/the-crypto-market-is-growing-albeit-slowly-200689408",
+      "pubDate": "Oct 12, 2026 12:29 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジー、4週連続でビットコイン買い増し　34億円相当BTCを取得",
+      "link": "https://coinpost.jp/?p=742410",
+      "pubDate": "Mon, 12 Oct 2026 21:10:49 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "pubDate": "Mon, 12 Oct 2026 12:01:53 +0000"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NEAR Protocol Price Forecast: NEAR rally stalls below $6 amid firm ETF inflows",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/near-protocol-price-forecast-near-rally-stalls-below-6-amid-firm-etf-inflows-202610121145",
+      "pubDate": "Mon, 12 Oct 2026 11:45:37 GMT"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Price Forecast: BTC struggles as ETF outflows, geopolitical uncertainty weigh",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-forecast-btc-struggles-as-etf-outflows-geopolitical-uncertainty-weigh-202610121129",
+      "pubDate": "Mon, 12 Oct 2026 11:29:49 GMT"
+    }
+  ]
+}
