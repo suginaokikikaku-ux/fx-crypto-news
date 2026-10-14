@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-10-14",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の地合いや主要トピック、個別プロジェクトの進捗を整理し、次に確認すべきポイントを解説します。",
+  "article": "## 1分で読める結論\n暗号資産市場は、ビットコインの動向が影響を及ぼしつつ、規制や新しい金融商品に関するニュースが目立つ状況です。特に、フィリピンの大手取引所が中央銀行の規制に直面していることや、ビットコインの大口移動が注目されています。トークン化ファンドの発行計画や、各種プロジェクトの進捗も市場に影響を与える要因となっています。\n\n## 今日の暗号資産市場の地合い\n市場全体は、米国の金利上昇の影響を受けており、ビットコインは売り圧力にさらされています。一方で、企業によるビットコインの購入が進んでおり、長期的な需要は堅調と見られています。これは、特に資産運用大手の動きが顕著です。\n\n## 今日の主要トピック3つ\n1. フィリピンの大手取引所Coins.phが中央銀行の規制に直面\n2. ビットコインクジラが600億円相当のBTCを移動\n3. フェデレーテッド・ハーミーズがトークン化ファンドを発行予定\n\n## メインコインの整理\n- **ビットコイン**: 大口投資家の動きが活発化しているが、金利上昇に伴い、価格には圧力がかかっている。\n- **イーサリアム**: オープンインタレストが低下しているが、価格は$2,500を維持。\n- **XRP**: トレーダーが長期的にポジションを持つ中、清算リスクが増加している。\n\n## 個別プロジェクトの進捗\n- **Coins.ph**: 中央銀行の規制対象となったことで、今後の運営に影響が出る可能性がある。\n- **Strive**: 436億円相当のビットコインを追加購入し、ビットコインの保有を強化。\n- **Ripple**: Privyとの提携により、XRPレジャーの決済とAI向けウォレット基盤を開発中。\n\n## 今日の要約から見える示唆\nビットコイン市場は規制や金利など外部要因に影響されやすい状況です。大口投資家の動きが活発化する中、小型プロジェクトやトークン化金融商品も注目されており、今後の市場の流れを探る手がかりとなります。\n\n## 次に確認すべきこと\n- Coins.phの規制に対する対応策と影響\n- 大口投資家の動向とそれが市場全体に与える影響\n- トークン化ファンドの発行に伴う市場の反応\n\n## 今日の結論\n市場は短期的な圧力を受けつつも、長期的な需要は堅調です。新しい金融商品の発行や大口投資家の動きに注目しつつ、規制の影響をウォッチする必要があります。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "CoinPost",
+      "FXStreet",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "pubDate": "Wed, 14 Oct 2026 01:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "6年超休眠ビットコインクジラ、600億円相当BTCを移動",
+      "link": "https://coinpost.jp/?p=742679",
+      "pubDate": "Wed, 14 Oct 2026 09:50:31 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米資産運用大手フェデレーテッド・ハーミーズ、トークン化ファンド発行へ　2027年1Qのローンチを計画",
+      "link": "https://coinpost.jp/?p=742674",
+      "pubDate": "Wed, 14 Oct 2026 09:00:29 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin pressured by rising yields as equities draw strength from earnings expectations",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-pressured-by-rising-yields-as-equities-draw-strength-from-earnings-expectations-202610132337",
+      "pubDate": "Tue, 13 Oct 2026 23:37:35 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "pubDate": "Tue, 13 Oct 2026 23:23:05 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストライブ、436億円相当ビットコインを追加購入　1月以来最大",
+      "link": "https://coinpost.jp/?p=742645",
+      "pubDate": "Wed, 14 Oct 2026 08:20:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "BNY、トークン化米国債を担保に三者間レポ実施　数分で決済完了",
+      "link": "https://coinpost.jp/?p=742646",
+      "pubDate": "Wed, 14 Oct 2026 07:50:47 +0900"
+    },
+    {
+      "source": "FXStreet",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Price Forecast: ETH holds $2,500 as open interest drops to lowest level since February",
+      "link": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-holds-2-500-as-open-interest-drops-to-lowest-level-since-february-202610132216",
+      "pubDate": "Tue, 13 Oct 2026 22:16:33 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トレザーウォレット、正規販売店網を縮小　予防措置と説明",
+      "link": "https://coinpost.jp/?p=742648",
+      "pubDate": "Wed, 14 Oct 2026 07:05:51 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "pubDate": "Tue, 13 Oct 2026 21:52:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "S&Pダウ・ジョーンズ、カントンでトークン化指数参照の初のOTCデリバティブ取引完了",
+      "link": "https://coinpost.jp/?p=742647",
+      "pubDate": "Wed, 14 Oct 2026 06:15:49 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "リップルとストライプ傘下Privyが提携、XRPレジャーの決済・AI向けウォレット基盤を開発者に提供",
+      "link": "https://coinpost.jp/?p=742649",
+      "pubDate": "Wed, 14 Oct 2026 06:05:53 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP Faces Fresh Liquidation Risk as Traders Lean Heavily Long",
+      "link": "https://www.investing.com/analysis/xrp-faces-fresh-liquidation-risk-as-traders-lean-heavily-long-200689522",
+      "pubDate": "Oct 13, 2026 20:49 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Bull Market Confirmed, but Elliott Wave Signals a Pullback Toward $70K",
+      "link": "https://www.investing.com/analysis/bitcoin-bull-market-confirmed-but-elliott-wave-signals-a-pullback-toward-70k-200689515",
+      "pubDate": "Oct 13, 2026 20:46 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スイ、Devネットで耐量子取引に初成功｜メインネット導入は2027年Q1目標",
+      "link": "https://coinpost.jp/?p=742650",
+      "pubDate": "Wed, 14 Oct 2026 05:42:56 +0900"
+    }
+  ]
+}
