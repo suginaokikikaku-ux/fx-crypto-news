@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-10-15",
+  "seoTitle": "暗号資産市場の最新情報と注目プロジェクト",
+  "seoDescription": "暗号資産市場の地合いや主要コインの状態、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n暗号資産市場は、ビットコインの価格が8.2万ドルを下回り、利上げ観測が再燃する中で影響を受けています。さらに、米SECが業績連動バイナリーオプションの承認を発表し、規制動向に注目が集まっています。特に、クラーケン基盤の企業が欧州の銀行を買収するなど、暗号資産企業の伝統金融への進出が進んでいます。\n\n## 今日の暗号資産市場の地合い\n今日の市場は、ビットコインの価格が8.2万ドルを下回り、米消費者物価の上振れが影響して利上げ観測が再燃しています。このような状況下で、主要コインの動向や規制関連のニュースが市場に影響を与えています。\n\n## 今日の主要トピック3つ\n1. **ビットコインの価格下落**: 米消費者物価の上振れによりビットコインが8.2万ドルを割り込む。\n2. **米SECのバイナリーオプション承認**: コインベースなどが関与する業績連動バイナリーオプションが承認され、今後の取引に影響を及ぼす可能性がある。\n3. **クラーケン基盤企業の銀行買収**: ペイワードが欧州の銀行を買収し、暗号資産企業として初の試みを行う。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 現在の価格は8.2万ドルを下回る。利上げ観測が影響して短期的な不安定要因となっている。\n- **イーサリアム (ETH)**: 今回のニュースには言及されていないが、全体の市場動向に連動する可能性が高い。\n- **リップル (XRP)**: エバーノースが保有する4.7億XRPを運用する計画があり、リップルネットワークの利用状況に影響が出る可能性がある。\n\n## 個別プロジェクトの進捗\n- **ペイワード (Payward)**: 欧州の銀行を買収することで、暗号資産企業の金融サービス展開における新たな道を開く。\n- **コインベース**: 米SECより業績連動バイナリーオプションの承認を受け、今後の取引において競争力が向上する可能性がある。\n\n## 今日の要約から見える示唆\n市場は未だに利上げ観測に敏感であり、特にビットコインの価格動向が市場全体に影響を与えている。また、規制の動向が企業戦略に大きく影響を与えるため、今後の規制関連ニュースに注意が必要である。\n\n## 次に確認すべきこと\n- ビットコインの価格動向と米消費者物価の関係を引き続きウォッチ。\n- 米SECの新たな規制に関する情報とその影響。\n- ペイワードの銀行買収後の展開と、他の暗号資産企業の動き。\n\n## 今日の結論\n暗号資産市場は、ビットコインの価格下落と規制の動向に影響されている。ペイワードの銀行買収は、暗号資産企業の金融サービス展開に新たな可能性を示しているが、全体の地合いには注意が必要である。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットワイズ、「AIや金利がどう動いてもビットコインは長期的に上昇」と予想",
+      "link": "https://coinpost.jp/?p=742973",
+      "pubDate": "Thu, 15 Oct 2026 09:25:56 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ホワイトハウス仮想通貨評議会のウィット事務局長が退任、後任未発表",
+      "link": "https://coinpost.jp/?p=742983",
+      "pubDate": "Thu, 15 Oct 2026 08:22:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、コインベースなど一部企業の業績連動バイナリーオプションを承認",
+      "link": "https://coinpost.jp/?p=742971",
+      "pubDate": "Thu, 15 Oct 2026 07:25:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
+      "link": "https://coinpost.jp/?p=742972",
+      "pubDate": "Thu, 15 Oct 2026 06:55:54 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "クラーケン基盤企業ペイワード、欧州の銀行買収へ　仮想通貨企業で初",
+      "link": "https://coinpost.jp/?p=742974",
+      "pubDate": "Thu, 15 Oct 2026 06:35:58 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン8.2万ドル割れ、米消費者物価の上振れで利上げ観測再燃",
+      "link": "https://coinpost.jp/?p=742975",
+      "pubDate": "Thu, 15 Oct 2026 06:10:00 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場エバーノース、保有する4.7億XRPを運用へ　リップルやコインベースなど4社と連携",
+      "link": "https://coinpost.jp/?p=742976",
+      "pubDate": "Thu, 15 Oct 2026 05:40:02 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+      "link": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+      "pubDate": "Wed, 14 Oct 2026 16:34:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+      "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+      "pubDate": "Wed, 14 Oct 2026 15:35:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+      "pubDate": "Wed, 14 Oct 2026 15:05:15 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+      "pubDate": "Wed, 14 Oct 2026 14:49:32 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+      "pubDate": "Wed, 14 Oct 2026 14:31:14 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "pubDate": "Wed, 14 Oct 2026 14:08:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+      "pubDate": "Wed, 14 Oct 2026 13:51:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+      "pubDate": "Wed, 14 Oct 2026 13:07:45 +0000"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CPI高騰がUSD/JPYに与える影響と市場構造</title>
+  <meta name="description" content="米国のCPI上昇がUSD/JPYに与える影響を解析。金利と流動性の観点から市場構造を解説します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-10-15.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="CPI高騰がUSD/JPYに与える影響と市場構造" />
+  <meta property="og:description" content="米国のCPI上昇がUSD/JPYに与える影響を解析。金利と流動性の観点から市場構造を解説します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-10-15.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"CPI高騰がUSD/JPYに与える影響と市場構造","description":"米国のCPI上昇がUSD/JPYに与える影響を解析。金利と流動性の観点から市場構造を解説します。","datePublished":"2026-10-15","dateModified":"2026-10-15","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-10-15.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">FX DAILY ARTICLE</div>
+        <h1>CPI高騰がUSD/JPYに与える影響と市場構造</h1>
+        <p>米国のCPI上昇がUSD/JPYに与える影響を解析。金利と流動性の観点から市場構造を解説します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-10-15 / macro・fx</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はmacro・fxを中心に、Investingのニュースをもとに整理しています。</div>
+      <h2>1. 1分で読める結論</h2>
+現在の相場は、米国のCPIが予想を上回ったことを受けて、金利引き上げリスクが高まっている。これにより、USD/JPYは上昇傾向にある。BTCについても、リスクオンの流れが感じられ、影響を受ける可能性がある。</p><h2>2. 今日の主要ドライバー3つ</h2>
+1. <strong>CPI上昇 → 利上げ期待の高まり</strong>: 米国のCPIが前年同月比で3.7%に達し、インフレ圧力が強まったため、連邦準備制度が利上げを続けるとの期待が高まった。この結果、ドルが強含みとなり、USD/JPYが上昇。
+2. <strong>短期金利の上昇 → 流動性の変化</strong>: 市場は金利上昇を見越して流動性を再評価しており、これが為替市場に反映されている。特に、ドルが流動性の高い通貨として選好され、JPYに対して強い動きが続いている。
+3. <strong>市場のリスク選好度 → BTCの影響</strong>: 相場全体のリスク選好度が高まる中で、BTCへの資金流入が見られ、リスク資産としての地位が強化されている。これにより、BTCも上昇トレンドを維持。</p><h2>3. 市場構造の解釈</h2>
+今回の動きは、主に金利と流動性が主導している。CPIの発表により、利上げの必要性が高まり、これがドル買いを促進している。特に機関投資家がリスク管理の観点から金利上昇を予測し、ポジションを調整している可能性が高い。この動きは一時的なものではなく、今後数日間にわたって継続する可能性がある。市場全体の流動性が変化していることから、ドルが主導する相場構造が形成されつつある。</p><h2>4. USD/JPY分析</h2>
+現在の相場観は、短期的には上昇トレンドが続く見込みである。中期的には、CPIの影響が持続する限り、ドルの強さが続く可能性が高い。今回の動きは「継続型」と判断され、相場が新たなレジスタンスを試す展開になるだろう。構造変化の条件として、金利の動向や流動性の変化が重要な要素となる。</p><h2>5. BTCへの波及</h2>
+ドルの強さと金利上昇がBTCに与える影響は大きい。リスク選好度の上昇により、BTCは資金の逃避先としての地位を維持しており、今後もドルの動向によって影響を受ける可能性がある。特に、流動性の変化がBTCの価格形成に寄与することが考えられる。</p><h2>6. 強気・弱気の分岐条件</h2>
+<ul><li><strong>強気条件</strong>: USD/JPYが高値を更新し続け、金利が引き続き上昇する場合、ドル強気が維持される。</li>
+<li><strong>弱気条件</strong>: CPIが予想を下回ったり、他の経済指標が悪化した場合、ドル売り圧力が強まる可能性がある。</li></ul><h2>7. 今日の示唆</h2>
+現在の相場では、CPIと金利動向に注目する必要がある。特に、米国の経済指標が発表される際には、相場の変動が大きくなる可能性がある。投資家は流動性の変化やリスク選好度を意識しながら、ポジションを調整することが求められる。</p><h2>8. 今日の結論</h2>
+今日の相場は、CPIの影響を受けたドルの強さが際立っており、USD/JPYは上昇基調にある。市場は金利動向に敏感に反応しており、投資戦略を見直すべき重要な局面にある。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/fx/what-is-fx.html">FXとは？</a></li><li><a href="../basics/fx/what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="../basics/fx/what-is-usdjpy.html">ドル円とは？USD/JPYの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>Investing</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>macro・fx</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] Hot CPI Revives the Case for Sticky Inflation and Higher Fed Rate Risk（Investing / macro） - <a href="https://www.investing.com/analysis/hot-cpi-revives-the-case-for-sticky-inflation-and-higher-fed-rate-risk-200689584" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] Hotter US Inflation Leaves the Market Gunning for Rate Hikes（Investing / macro） - <a href="https://www.investing.com/analysis/hotter-us-inflation-leaves-the-market-gunning-for-rate-hikes-200689576" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] US CPI Hits 3.7% as Hot Inflation Puts Fed Rate Cuts at Risk（Investing / macro） - <a href="https://www.investing.com/analysis/us-cpi-hits-37-as-hot-inflation-puts-fed-rate-cuts-at-risk-200689577" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] Hotter CPI Puts Fed Easing Hopes Under Pressure as Core Inflation Rises（Investing / macro） - <a href="https://www.investing.com/analysis/hotter-cpi-puts-fed-easing-hopes-under-pressure-as-core-inflation-rises-200689574" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Euro FX Options: Near Walls Within 1% While the Big Call Sits at 1.18（Investing / fx） - <a href="https://www.investing.com/analysis/euro-fx-options-near-walls-within-1-while-the-big-call-sits-at-118-200689573" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] ASML Beats Expectations as Demand Remains Strong（Investing / macro） - <a href="https://www.investing.com/analysis/asml-beats-expectations-as-demand-remains-strong-200689572" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] GBP/JPY Bearish Setup Points to a Break Below the Current Range（Investing / fx） - <a href="https://www.investing.com/analysis/gbpjpy-bearish-setup-points-to-a-break-below-the-current-range-200689570" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] EUR/USD, USD/JPY Forecast: 2 Trades to Watch（Investing / fx） - <a href="https://www.investing.com/analysis/eurusd-usdjpy-forecast-2-trades-to-watch-200689564" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] China’s Trade Surplus Swells and the Market Awaits US CPI（Investing / fx） - <a href="https://www.investing.com/analysis/chinas-trade-surplus-swells-and-the-market-awaits-us-cpi-200689562" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] Australian Dollar Leads Short-Term Gains as EUR/AUD Extends Its Slide（Investing / fx） - <a href="https://www.investing.com/analysis/australian-dollar-leads-shortterm-gains-as-euraud-extends-its-slide-200689560" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Investors Turn Cautious Ahead of US CPI Data（Investing / macro） - <a href="https://www.investing.com/analysis/investors-turn-cautious-ahead-of-us-cpi-data-200689557" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] Gold Faces Inflation Test: Is a Drop to $4,100 Next?（Investing / macro） - <a href="https://www.investing.com/analysis/gold-faces-inflation-test-is-a-drop-to-4100-next-200689556" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Gold Braces for an Inflation Shock: Where Are Prices Headed Next?（Investing / macro） - <a href="https://www.investing.com/analysis/gold-braces-for-an-inflation-shock-where-are-prices-headed-next-200689555" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] What the NFL Can Teach Us About Risk Management（Investing / macro） - <a href="https://www.investing.com/analysis/what-the-nfl-can-teach-us-about-risk-management-200689551" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] USD/JPY: US Dollar Remains Fundamentally Supported With All Eyes on CPI（Investing / fx） - <a href="https://www.investing.com/analysis/usdjpy-us-dollar-remains-fundamentally-supported-with-all-eyes-on-cpi-200689550" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜FX デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
