@@ -1,48 +1,138 @@
 [
   {
-    "source": "CoinDesk",
+    "source": "CoinPost",
     "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-    "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-    "pubDate": "Sat, 17 Oct 2026 17:00:00 +0000"
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン軟調、ETF流出と企業の買い鈍化が一因＝ギャラクシー・リサーチ",
+    "link": "https://coinpost.jp/?p=743489",
+    "pubDate": "Mon, 19 Oct 2026 08:45:44 +0900"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Citrini sees a tokenization boom. The harder question is who profits",
-    "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-    "pubDate": "Sat, 17 Oct 2026 15:00:00 +0000"
+    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+    "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "pubDate": "Sun, 18 Oct 2026 23:28:06 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化　USDCで顕著",
+    "link": "https://coinpost.jp/?p=743482",
+    "pubDate": "Mon, 19 Oct 2026 08:24:30 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "アルトコインの勢い鈍る、上昇基調の銘柄は9割から5割に＝アナリスト",
+    "link": "https://coinpost.jp/?p=743479",
+    "pubDate": "Mon, 19 Oct 2026 07:46:10 +0900"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-    "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-    "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000"
+    "title": "The White House's crypto chief departs: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-    "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000"
+    "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+    "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000"
   },
   {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
     "lang": "en",
-    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-    "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-    "pubDate": "Sat, 17 Oct 2026 06:39:48 +0000"
+    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+    "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+    "pubDate": "Sun, 18 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+    "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+    "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+    "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+    "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+    "pubDate": "Sun, 18 Oct 2026 07:13:32 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点｜bitbankアナリスト寄稿",
+    "link": "https://coinpost.jp/?p=743353",
+    "pubDate": "Sun, 18 Oct 2026 11:30:53 +0900"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+    "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+    "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "週刊仮想通貨ニュース（10/16）｜英国の押収BTC・レジャー関連の資産流出・6年超休眠のBTCの動向まとめ",
+    "link": "https://coinpost.jp/?p=743294",
+    "pubDate": "Sun, 18 Oct 2026 09:25:23 +0900"
   },
   {
     "source": "CoinPost",
@@ -108,15 +198,6 @@
     "pubDate": "Oct 17, 2026 04:10 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-    "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-    "pubDate": "Sat, 17 Oct 2026 02:30:00 +0000"
-  },
-  {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
@@ -133,51 +214,6 @@
     "title": "ビットコインは年末にかけて回復見通し、ただし9万ドルが壁＝レポート",
     "link": "https://coinpost.jp/?p=743430",
     "pubDate": "Sat, 17 Oct 2026 10:25:36 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "コインベース、カード発行のMarqetaに仮想通貨基盤提供　",
-    "link": "https://coinpost.jp/?p=743408",
-    "pubDate": "Sat, 17 Oct 2026 10:00:35 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ウォーシュFRB議長が利上げ示唆せず観測後退、ビットコイン当面レンジ相場",
-    "link": "https://coinpost.jp/?p=743403",
-    "pubDate": "Sat, 17 Oct 2026 09:10:57 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "東証上場のunbanked、金連動トークン「Kinka」の暗号資産事業を廃止　採算難",
-    "link": "https://coinpost.jp/?p=743404",
-    "pubDate": "Sat, 17 Oct 2026 07:30:59 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始　アジア展開も",
-    "link": "https://coinpost.jp/?p=743405",
-    "pubDate": "Sat, 17 Oct 2026 06:50:33 +0900"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "中国発老舗Coboの個人向け仮想通貨ウォレット終了へ、公開から約9年",
-    "link": "https://coinpost.jp/?p=743406",
-    "pubDate": "Sat, 17 Oct 2026 06:15:36 +0900"
   },
   {
     "source": "Investing",
@@ -315,15 +351,6 @@
     "pubDate": "Oct 16, 2026 16:04 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Big Tech's AI auditors will only see what they're shown",
-    "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-    "pubDate": "Fri, 16 Oct 2026 14:58:22 +0000"
-  },
-  {
     "source": "Investing",
     "category": "crypto",
     "market": "global",
@@ -376,33 +403,6 @@
     "title": "Interactive Brokers Adds Ethereum Staking - Is the Yield Worth It?",
     "link": "https://www.investing.com/analysis/interactive-brokers-adds-ethereum-staking--is-the-yield-worth-it-200689722",
     "pubDate": "Oct 16, 2026 12:11 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-    "pubDate": "Fri, 16 Oct 2026 11:15:00 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-    "pubDate": "Fri, 16 Oct 2026 10:54:35 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-    "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-    "pubDate": "Fri, 16 Oct 2026 10:52:26 +0000"
   },
   {
     "source": "Investing",
