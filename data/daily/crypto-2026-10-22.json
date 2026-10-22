@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-22",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "暗号資産市場の地合いや主要トピック、注目プロジェクトの進捗を分析し、次に確認すべきことを整理します。",
+  "article": "## 1分で読める結論\n本日は、ビットコインが83,000ドルを上回る中、暗号資産市場全体が上昇傾向にあります。特に、ソラナやイーサリアムも強気の構造が見られ、個別プロジェクトではDATAが新たな戦略を模索しています。さらに、トランプ元大統領が暗号資産の国際的な問題に焦点を当てるイベントが予定されています。\n\n## 今日の暗号資産市場の地合い\n今日の暗号資産市場では、ビットコインが83,000ドルを上回る強い取引を見せており、リスク感情が高まっています。アジアのテクノロジー株の上昇に連動して、全体的に市場は楽観的なムードに包まれています。\n\n## 今日の主要トピック3つ\n1. **トランプ元大統領のイベント**: 海外の暗号資産の悪用に関する問題を焦点にしたイベントがホワイトハウスで開催される予定。\n2. **ソラナとイーサリアムの強気の構造**: 両コインの調整は広範な強気の波構造に一致しているとの分析が発表される。\n3. **DATAの戦略見直し**: a16zに支援されるDATAが、3000万ドルのSui取引後にブロックチェーン戦略を再考している。\n\n## メインコインの整理\n- **ビットコイン**: 83,000ドルを超え、リスク感情の改善に寄与。市場の注目を集めている。\n- **イーサリアム**: 調整が見られるが、全体の強気の構造に寄与しており、今後の動向に注目。\n- **ソラナ**: 価格調整はあるものの、全体的な強気のトレンドが継続する見込み。\n\n## 個別プロジェクトの進捗\n- **DATA**: 3000万ドルのSui取引後にブロックチェーンの戦略を再評価中。新たな方向性が注目される。\n- **DOGE**: ウォレットとアプリチームが連携し、日常的な利用を促進する取り組みを進めている。\n- **シンハン-SBI提携**: 日本の訪問者が韓国で円建てのステーブルコインを利用できる可能性がある。\n\n## 今日の要約から見える示唆\nリスク感情が改善し、ビットコインが83,000ドルを超えたことで市場全体が上昇基調にあります。特に、ソラナとイーサリアムの動向は今後の市場の指標となる可能性が高い。DATAの戦略見直しも、ブロックチェーン業界の今後に影響を与える要因となるでしょう。\n\n## 次に確認すべきこと\n- トランプ元大統領のイベントの結果が市場に与える影響。\n- ソラナとイーサリアムの価格動向がどのように展開するか。\n- DATAの新しい戦略がどのように実行されるか。\n\n## 今日の結論\nビットコインを筆頭に暗号資産市場は強気の流れにあり、特にマクロ経済の動向や規制に関する新たな情報に注意が必要です。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "Investing",
+      "あたらしい経済"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+      "pubDate": "Wed, 21 Oct 2026 16:23:44 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Solana and Ethereum Pullbacks Still Fit a Broader Bullish Wave Structure",
+      "link": "https://www.investing.com/analysis/solana-and-ethereum-pullbacks-still-fit-a-broader-bullish-wave-structure-200690007",
+      "pubDate": "Oct 21, 2026 15:39 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+      "pubDate": "Wed, 21 Oct 2026 15:22:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+      "pubDate": "Wed, 21 Oct 2026 15:09:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+      "pubDate": "Wed, 21 Oct 2026 15:00:53 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Rises Above $83K as Strong U.S. Earnings Lift Risk Sentiment",
+      "link": "https://www.investing.com/analysis/bitcoin-rises-above-83k-as-strong-us-earnings-lift-risk-sentiment-200689997",
+      "pubDate": "Oct 21, 2026 13:33 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+      "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+      "pubDate": "Wed, 21 Oct 2026 12:12:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+      "pubDate": "Wed, 21 Oct 2026 12:10:39 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+      "pubDate": "Wed, 21 Oct 2026 11:15:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Can Bitcoin Reach $100K Before Year-End?",
+      "link": "https://www.investing.com/analysis/can-bitcoin-reach-100k-before-yearend-200689980",
+      "pubDate": "Oct 21, 2026 10:57 GMT"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【10/21話題】JPYC活用の銀行口座連携型チャージ機能の実証へ、SBI VCトレードらが韓国シンハンカードとステーブルコイン決済の活用検討へなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/619049",
+      "pubDate": "Wed, 21 Oct 2026 10:46:40 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+      "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+      "pubDate": "Wed, 21 Oct 2026 10:34:37 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Has Caught a Tailwind",
+      "link": "https://www.investing.com/analysis/bitcoin-has-caught-a-tailwind-200689968",
+      "pubDate": "Oct 21, 2026 09:04 GMT"
+    }
+  ]
+}
