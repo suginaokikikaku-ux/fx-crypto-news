@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-10-23",
+  "seoTitle": "USD/JPYのサポート突破と金利の影響",
+  "seoDescription": "USD/JPYがサポートを突破した背景には、米国の国債利回り低下が影響。市場構造と今後の見通しを分析。",
+  "article": "## 1. 1分で読める結論\nUSD/JPYがサポートを突破し、米国の国債利回り低下が円高を助長している。市場の流動性が影響し、短期的には円高が続く見込み。これにより、BTCも影響を受ける可能性がある。\n\n## 2. 今日の主要ドライバー3つ\n1. 米国の国債利回りの低下 → これにより、投資家は円を選好し、USD/JPYがサポートを突破。\n2. 地政学的リスクの高まり → 投資家のリスク回避姿勢が強まり、円が安全資産として買われる。\n3. 流動性の減少 → 短期的なポジション調整が進み、円が買われる要因となっている。\n\n## 3. 市場構造の解釈\n今回の動きは主に金利が主導しており、特に米国の国債利回り低下が円高を促進している。この動きは一時的なものではなく、利回りの動向に依存した継続性が期待される。機関投資家が主導する市場では、リスク回避が進む中で円が選好される傾向が強い。したがって、今後も金利の動向が重要な要素として機能し続けるだろう。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的に円高が進行している。短期的には、サポートの突破が示すように、円高が継続する可能性が高い。中期的には、米国の金利動向に応じた調整が見込まれる。今回の動きは継続型であり、流動性やポジション調整がその背景にある。\n\n## 5. BTCへの波及\nUSD/JPYの円高は、リスクオフの姿勢を強める要因となり、BTCにも波及し得る。投資家がリスクを避ける中で、BTCが資金の逃避先として選ばれる可能性がある。ただし、相関関係は流動的であり、注意が必要。\n\n## 6. 強気・弱気の分岐条件\n- 強気シナリオの維持条件：米国の金利が安定し、流動性が高まること。\n- 弱気シナリオの条件：地政学的リスクが高まる、または金利が急上昇する場合。\n\n## 7. 今日の示唆\n現在の相場で意識すべきは、米国の金利動向と地政学的リスクの変化である。特に、国債利回りの変動に注目し、流動性の影響を考慮することが重要。市場の反応を見ながら、ポジション調整を行うことが求められる。\n\n## 8. 今日の結論\n今日の相場は、米国の国債利回り低下により円高が進行している。投資家はリスクオフの姿勢を強めており、今後の金利動向が重要な鍵となる。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Breaks Support as Falling Treasury Yields Favor the Yen",
+      "link": "https://www.investing.com/analysis/usdjpy-breaks-support-as-falling-treasury-yields-favor-the-yen-200690110",
+      "pubDate": "Oct 22, 2026 20:54 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Gains Support as UK Inflation Revives Rate-Hike Risk",
+      "link": "https://www.investing.com/analysis/gbpusd-gains-support-as-uk-inflation-revives-ratehike-risk-200690102",
+      "pubDate": "Oct 22, 2026 19:10 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD French Bond Stress Deepens the Euro’s Downside Risk",
+      "link": "https://www.investing.com/analysis/eurusd-french-bond-stress-deepens-the-euros-downside-risk-200690101",
+      "pubDate": "Oct 22, 2026 19:01 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Bulls Take Control, but Britain’s Budget Could Make or Break the Rally",
+      "link": "https://www.investing.com/analysis/gbpusd-bulls-take-control-but-britains-budget-could-make-or-break-the-rally-200690090",
+      "pubDate": "Oct 22, 2026 15:19 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Is Losing Ground, but Gold Bulls Have a Bigger Problem",
+      "link": "https://www.investing.com/analysis/us-dollar-is-losing-ground-but-gold-bulls-have-a-bigger-problem-200690086",
+      "pubDate": "Oct 22, 2026 14:16 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Winners and Losers If the Data-Center Buildout Is Delayed",
+      "link": "https://www.investing.com/analysis/winners-and-losers-if-the-datacenter-buildout-is-delayed-200690082",
+      "pubDate": "Oct 22, 2026 13:16 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/NZD Bearish Setup Points to Further Downside",
+      "link": "https://www.investing.com/analysis/eurnzd-bearish-setup-points-to-further-downside-200690079",
+      "pubDate": "Oct 22, 2026 12:55 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Brent at $113: Gulf Strikes Put US Stocks on Edge",
+      "link": "https://www.investing.com/analysis/brent-at-113-gulf-strikes-put-us-stocks-on-edge-200690075",
+      "pubDate": "Oct 22, 2026 12:24 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The AI Arms Race Could Reach Your Current Account",
+      "link": "https://www.investing.com/analysis/the-ai-arms-race-could-reach-your-current-account-200690070",
+      "pubDate": "Oct 22, 2026 11:22 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Risk Appetites Wane: AI Jitters Returns, European Debt Stress Continues, Oil Firms",
+      "link": "https://www.investing.com/analysis/risk-appetites-wane-ai-jitters-returns-european-debt-stress-continues-oil-firms-200690069",
+      "pubDate": "Oct 22, 2026 10:51 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "DAX, Gold Forecast: 2 Trades to Watch",
+      "link": "https://www.investing.com/analysis/dax-gold-forecast-2-trades-to-watch-200690066",
+      "pubDate": "Oct 22, 2026 10:25 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Equity Rebound Stutters as Oil Spikes Again, Yen Gains From AI Jitters",
+      "link": "https://www.investing.com/analysis/equity-rebound-stutters-as-oil-spikes-again-yen-gains-from-ai-jitters-200690065",
+      "pubDate": "Oct 22, 2026 10:10 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Hit by Oil and the Fed",
+      "link": "https://www.investing.com/analysis/gold-hit-by-oil-and-the-fed-200690062",
+      "pubDate": "Oct 22, 2026 09:50 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Index Sits on 101 Support as the 2-Year Yield Points to a Wave 4 Dip",
+      "link": "https://www.investing.com/analysis/us-dollar-index-sits-on-101-support-as-the-2year-yield-points-to-a-wave-4-dip-200690057",
+      "pubDate": "Oct 22, 2026 09:02 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Crude Oil Technical Analysis: Is WTI Targeting $110?",
+      "link": "https://www.investing.com/analysis/crude-oil-technical-analysis-is-wti-targeting-110-200690054",
+      "pubDate": "Oct 22, 2026 08:27 GMT"
+    }
+  ]
+}
