@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-10-26",
+  "seoTitle": "暗号資産市場の最新動向分析",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの動向を詳しく解説。初心者から中級者まで役立つ情報をお届けします。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ビットコインの価格が8.5万ドル手前で失速し、全体的に弱含みの状況が続いている。インドの取引所CoinDCXからの大規模なUSDT流出が市場に影響を与え、ETHのレバレッジ解消も進行中。特に、FXやレバレッジ取引に関連する動きには注意が必要。\n\n## 今日の暗号資産市場の地合い\n現在の市場は、ビットコインが8.5万ドルを下回る状況であり、過去数日間の下落トレンドが続いている。特に、米国の中東での動きが市場心理に影響を与えていることが指摘されている。また、インドのCoinDCXからの資金流出により、投資家のリスク回避姿勢が強まる可能性がある。\n\n## 今日の主要トピック3つ\n1. **CoinDCXの流出**: インドの大手取引所CoinDCXから1599万USDTが流出したことが報じられ、特に流出先やその影響についての詳細な分析が求められている。\n2. **ETHのレバレッジ解消**: ETHの建玉が115億ドルに縮小し、レバレッジ取引の解消が進んでいる。これは投資家がリスクを減少させる動きの一環と考えられ、今後の価格動向に影響を与える可能性がある。\n3. **Xの送金機能**: Xプラットフォームが新たにいいね長押しで1ドル送金を可能にしたが、仮想通貨には依然として対応していない。この動きが今後の決済手段にどのように影響するかが注目される。\n\n## メインコインの整理\n- **ビットコイン**: 価格が8.5万ドル手前で失速し、過去の高値からの調整が続く。\n- **イーサリアム**: レバレッジ解消が進んでおり、建玉が115億ドルに縮小。\n- **その他のコイン**: 現在の情報では特筆すべき動きは見られないが、他の主要コインの動向にも引き続き注視が必要。\n\n## 個別プロジェクトの進捗\n- **CoinDCX**: 大規模なUSDT流出が確認されており、取引所の信頼性に影響を与える可能性がある。流出の経緯や影響についての詳細な調査が求められる。\n- **Xプラットフォーム**: 新しい送金機能が追加されたが、暗号資産との連携が未だにないため、今後の展開に注目が必要。\n\n## 今日の要約から見える示唆\nビットコインの価格が高値からの調整を続ける中、投資家のリスク回避姿勢が顕著になっている。特に、流出やレバレッジ取引の解消が進むことで、価格にさらなる影響を与える可能性がある。市場の動向を注視し、具体的な情報を基にした分析が重要である。\n\n## 次に確認すべきこと\n- CoinDCXからのUSDT流出の具体的な影響と、その後の市場の反応。\n- ETHのレバレッジ解消が今後の価格に与える影響。\n- Xプラットフォームの送金機能が今後の決済手段に与える影響。\n\n## 今日の結論\n暗号資産市場は現在、ビットコインの価格調整や主要取引所の動きによって影響を受けている。投資家は、流出やレバレッジ取引の状況を注視し、今後の市場動向を見極める必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "インド大手取引所CoinDCX、旧ウォレットから1599万USDT流出",
+      "link": "https://coinpost.jp/?p=744616",
+      "pubDate": "Mon, 26 Oct 2026 08:52:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "X、いいね長押しで1ドル送金へ　仮想通貨は依然非対応",
+      "link": "https://coinpost.jp/?p=744612",
+      "pubDate": "Mon, 26 Oct 2026 08:09:45 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ETHのレバレッジ解消進む、建玉115億ドルに縮小＝アナリスト",
+      "link": "https://coinpost.jp/?p=744608",
+      "pubDate": "Mon, 26 Oct 2026 07:34:33 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+      "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=744399",
+      "pubDate": "Sun, 25 Oct 2026 11:30:17 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "『投機』がこの10年のテーマ、注目すべきは予測市場・無期限先物取引所＝Delphi Digital",
+      "link": "https://coinpost.jp/?p=744542",
+      "pubDate": "Sun, 25 Oct 2026 09:00:19 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "pubDate": "Sat, 24 Oct 2026 15:21:06 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "pubDate": "Sat, 24 Oct 2026 14:38:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "pubDate": "Sat, 24 Oct 2026 14:06:24 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+      "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+      "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000"
+    }
+  ]
+}

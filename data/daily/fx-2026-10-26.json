@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-10-26",
+  "seoTitle": "USD/JPYの動向とマクロ経済の影響分析",
+  "seoDescription": "今日のUSD/JPYはマクロ経済指標や金利政策の影響を受け、今後の見通しについて分析します。市場構造の変化も考察。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の金利政策とインフレ指標が影響し、USD/JPYは弱含みで推移している。特に、消費者信頼感の改善が円安を進める一因となっているが、今後の金利動向が重要なトリガーである。BTCには流動性の変化が影響を及ぼしている。\n\n## 2. 今日の主要ドライバー3つ\n1. **消費者信頼感の上昇 → 円安**: 米国の消費者信頼感が48.0に修正され、インフレ期待が高まっている。この改善は、経済の回復期待を示し、ドルを支える要因となっている。\n2. **ビジネス売上価格の上昇 → インフレ懸念の再燃**: 米国のビジネス売上価格が2022年以来の高水準に達しており、これがインフレ懸念を再燃させ、金利引き上げの可能性を高めている。\n3. **市場の流動性低下 → ボラティリティの増加**: 市場全体の流動性が低下する中、特にテクノロジー株が圧力を受けており、これがリスク回避の動きを強め、円が買われる要因となっている。\n\n## 3. 市場構造の解釈\n現在の動きは、主に金利政策が主導していると考えられる。特に、米国のインフレ指標が市場に与える影響は大きく、これに基づいた金利の先行きが注目される。機関投資家がこの動きに反応しており、短期的にはポジション調整が見られる一方、長期的には政策の方向性が市場を支配するだろう。今後の反応は、インフレデータや金利予測に依存している。\n\n## 4. USD/JPY分析\n現在の相場観は弱気であり、短期的にはさらなる下落の可能性が示唆されている。中期的には、金利動向により変動が予想されるが、方向性は依然として下向きだ。今回の動きは「継続型」と見なされ、特に金利の発表や重要なマクロデータの結果次第で構造変化が生じる可能性がある。\n\n## 5. BTCへの波及\n米国の金利やインフレに対する懸念は、BTCにも影響を及ぼす。流動性の低下がリスクオフの動きを強める中で、BTCは資金の逃避先としての役割を果たす可能性がある。特に米ドルの弱含みが続く場合、BTCが再び注目されることになるだろう。\n\n## 6. 強気・弱気の分岐条件\n- **強気条件**: 米国のインフレが予想を下回り、金利引き上げの見通しが緩和される場合。\n- **弱気条件**: インフレ指標が予想を上回り、金利引き上げのリスクが高まる場合。\n- **材料ベース**: 重要な経済指標発表や中央銀行のコメントにより、相場が影響を受ける可能性が高い。\n\n## 7. 今日の示唆\n現在の相場では、特に米国のマクロ経済指標に注目すべきである。インフレデータや金利政策に関する発表は、USD/JPYや市場全体に大きな影響を与える可能性がある。短期的なボラティリティに備えつつ、長期的なトレンドに焦点を当てることが重要だ。\n\n## 8. 今日の結論\n今日の相場は、米国の金利政策とインフレ指標によって影響を受けており、特にUSD/JPYは弱気の方向に進んでいる。市場の動向は、今後のデータ次第で大きく変わる可能性がある。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed Over-Tightening: How Much Runway Is Left Before It Bites?",
+      "link": "https://www.investing.com/analysis/fed-overtightening-how-much-runway-is-left-before-it-bites-200690151",
+      "pubDate": "Oct 24, 2026 09:15 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "S&P 500 Earnings Face Key Test as Fed, Inflation Data and Tech Giants Take Focus",
+      "link": "https://www.investing.com/analysis/sp-500-earnings-face-key-test-as-fed-inflation-data-and-tech-giants-take-focus-200690183",
+      "pubDate": "Oct 23, 2026 20:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Consumer Sentiment Revised Up to 48.0 as Inflation Expectations Rise",
+      "link": "https://www.investing.com/analysis/us-consumer-sentiment-revised-up-to-480-as-inflation-expectations-rise-200690181",
+      "pubDate": "Oct 23, 2026 20:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Business Selling Prices Hit Highest Level Since 2022, Flash PMI Shows",
+      "link": "https://www.investing.com/analysis/us-business-selling-prices-hit-highest-level-since-2022-flash-pmi-shows-200690179",
+      "pubDate": "Oct 23, 2026 19:57 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Federal Reserve Preview: A Pause Before a December Hike",
+      "link": "https://www.investing.com/analysis/federal-reserve-preview-a-pause-before-a-december-hike-200690175",
+      "pubDate": "Oct 23, 2026 18:10 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Bloom Energy Achieves an Earnings ‘Triple Play’",
+      "link": "https://www.investing.com/analysis/bloom-energy-achieves-an-earnings-triple-play-200690169",
+      "pubDate": "Oct 23, 2026 16:37 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Pain Trade Bites Hard as Long AI, Short Bonds Comes Apart at the Seams",
+      "link": "https://www.investing.com/analysis/the-pain-trade-bites-hard-as-long-ai-short-bonds-comes-apart-at-the-seams-200690117",
+      "pubDate": "Oct 23, 2026 14:15 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Breakdown Signals Further Downside Toward 156.11",
+      "link": "https://www.investing.com/analysis/usdjpy-breakdown-signals-further-downside-toward-15611-200690157",
+      "pubDate": "Oct 23, 2026 13:39 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "AI Stocks Face Renewed Pressure as Oil Prices Surge, Gold Falls Below $4,100",
+      "link": "https://www.investing.com/analysis/ai-stocks-face-renewed-pressure-as-oil-prices-surge-gold-falls-below-4100-200690155",
+      "pubDate": "Oct 23, 2026 13:19 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Crude Oil Above $100 as Stock Market Risks Increase",
+      "link": "https://www.investing.com/analysis/crude-oil-above-100-as-stock-market-risks-increase-200690153",
+      "pubDate": "Oct 23, 2026 13:08 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Price Forecast: Will $4,000 Hold or Trigger a Deeper Sell-Off?",
+      "link": "https://www.investing.com/analysis/gold-price-forecast-will-4000-hold-or-trigger-a-deeper-selloff-200690149",
+      "pubDate": "Oct 23, 2026 12:04 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "France’s Flash October PMI Drop Below 50 Ahead of Moody’s Decision Later Today",
+      "link": "https://www.investing.com/analysis/frances-flash-october-pmi-drop-below-50-ahead-of-moodys-decision-later-today-200690145",
+      "pubDate": "Oct 23, 2026 10:54 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar’s Safe-Haven Halo Slips",
+      "link": "https://www.investing.com/analysis/us-dollars-safehaven-halo-slips-200690140",
+      "pubDate": "Oct 23, 2026 10:25 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD: The French Debt Crisis Adds to Pressure on the Euro",
+      "link": "https://www.investing.com/analysis/eurusd-the-french-debt-crisis-adds-to-pressure-on-the-euro-200690135",
+      "pubDate": "Oct 23, 2026 09:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Has Lost Its Safe-Haven Crown",
+      "link": "https://www.investing.com/analysis/us-dollar-has-lost-its-safehaven-crown-200690126",
+      "pubDate": "Oct 23, 2026 07:10 GMT"
+    }
+  ]
+}
