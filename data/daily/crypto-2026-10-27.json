@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-27",
+  "seoTitle": "暗号資産市場動向 - 2026年10月27日",
+  "seoDescription": "リップルの信託銀行設立やビットコインの価格予測引き下げなど、最新の暗号資産市場の動向を解説します。",
+  "article": "## 1分で読める結論\n本日は、リップルが米信託銀行設立の最終承認を獲得し、ステーブルコインの準備金保管が可能になることが報じられました。また、ビットコインの2026年末目標価格が引き下げられ、主要コインの市場状況に影響を与えています。これらの動きが今後の市場にどのように影響するか、注意深く見守る必要があります。\n\n## 今日の暗号資産市場の地合い\n現在の暗号資産市場は、リップルのニュースによりポジティブな流れが見られる一方、ビットコイン価格予測の引き下げがネガティブな影響を及ぼしています。特に、ビットコインの年末目標価格が引き下げられたことで、投資家の心理に変化が生じる可能性があります。\n\n## 今日の主要トピック3つ\n1. **リップルが米信託銀行設立の最終承認を獲得** - ステーブルコインの準備金を保管可能になり、流動性の向上が期待される。\n2. **ビットコインの2026年末目標価格が引き下げられる** - シティなどの金融機関がビットコインの価格見通しを修正。\n3. **アビバがXRPL上で英ファンドをトークン化** - 従来の商品全体の規模は4兆円を超え、トークン化の進展が注目される。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 価格予測の引き下げが行われ、投資家の見通しに影響。\n- **イーサリアム (ETH)**: 本日特筆すべきニュースはないが、トークン化やDeFiプロジェクトの進展が引き続き注目される。\n\n## 個別プロジェクトの進捗\n- **リップル (XRP)**: 米信託銀行設立の最終承認を獲得し、ステーブルコインの準備金保管が可能となる。\n- **アビバ**: 英ファンドをXRPL上でトークン化し、4兆円を超える商品規模が話題に。\n- **カルシ**: S&P指数の公式値で決済する契約を提供するため、指数大手と提携を発表。\n\n## 今日の要約から見える示唆\nリップルの進展は市場にポジティブな影響を与える一方、ビットコインの価格見通しの引き下げは慎重な姿勢を求める要因となります。特に、トークン化の流れが進む中、関連プロジェクトにさらなる注目が集まるでしょう。\n\n## 次に確認すべきこと\n- リップルの信託銀行設立後の具体的な影響や流動性の向上について。\n- ビットコインの市場心理と価格変動の関係を分析。\n- トークン化された英ファンドの市場での受け入れ状況。\n\n## 今日の結論\nリップルの信託銀行設立が市場にポジティブな影響を与える中で、ビットコインの価格見通し引き下げが投資家の心理に影響を及ぼしています。今後の市場動向を注視し、特にトークン化プロジェクトの進展を確認することが重要です。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "リップルが米信託銀行設立で最終承認を獲得、ステーブルコイン準備金を保管可能に",
+      "link": "https://coinpost.jp/?p=744793",
+      "pubDate": "Tue, 27 Oct 2026 09:50:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインの2026年末目標価格、シティなど3社が引き下げ　15万ドルまで約88％上昇必要",
+      "link": "https://coinpost.jp/?p=744774",
+      "pubDate": "Tue, 27 Oct 2026 08:30:09 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アビバ、XRPL上で英ファンドをトークン化　従来の商品全体の規模は4兆円超",
+      "link": "https://coinpost.jp/?p=744788",
+      "pubDate": "Tue, 27 Oct 2026 07:55:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場カルシ、S&P指数の公式値で決済する契約を提供へ　指数大手と提携",
+      "link": "https://coinpost.jp/?p=744775",
+      "pubDate": "Tue, 27 Oct 2026 07:30:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米アンソロピックが上場へ、過去最大のIPOとなるか　トークン化株は未発表",
+      "link": "https://coinpost.jp/?p=744784",
+      "pubDate": "Tue, 27 Oct 2026 07:05:13 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米資産運用大手バンガードの小型株ETF、メタプラネット株保有を初開示　12億円に相当",
+      "link": "https://coinpost.jp/?p=744776",
+      "pubDate": "Tue, 27 Oct 2026 06:25:15 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットマイン、38億円相当イーサリアムを追加購入　204万株買い戻し",
+      "link": "https://coinpost.jp/?p=744777",
+      "pubDate": "Tue, 27 Oct 2026 05:50:16 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "pubDate": "Mon, 26 Oct 2026 16:05:12 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "pubDate": "Mon, 26 Oct 2026 15:59:55 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Vs. Bitcoin: Ether’s November Comeback Faces a Wall",
+      "link": "https://www.investing.com/analysis/ethereum-vs-bitcoin-ethers-november-comeback-faces-a-wall-200690272",
+      "pubDate": "Oct 26, 2026 15:46 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "pubDate": "Mon, 26 Oct 2026 15:45:51 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+      "pubDate": "Mon, 26 Oct 2026 14:51:07 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "pubDate": "Mon, 26 Oct 2026 14:23:41 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Stablecoin Rewards Now Carry a Price Nobody Can Measure",
+      "link": "https://www.investing.com/analysis/stablecoin-rewards-now-carry-a-price-nobody-can-measure-200690266",
+      "pubDate": "Oct 26, 2026 13:39 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "pubDate": "Mon, 26 Oct 2026 13:22:09 +0000"
+    }
+  ]
+}
