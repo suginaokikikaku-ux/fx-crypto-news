@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-28",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "今日の暗号資産市場の地合い、主要コインの状態、個別プロジェクトの進捗を整理し、次に確認すべきことを提案します。",
+  "article": "## 1分で読める結論\n本日は暗号資産市場において、ギャラクシーデジタルの黒字化や米ヴァンエックの新ETF提供が注目される中、主要コイン全体は比較的安定した地合いを見せています。特に、XRPに関連するニュースが取り上げられています。\n\n## 今日の暗号資産市場の地合い\n市場全体の地合いは穏やかで、リスク選好が回復した兆候が見られます。投資家は新しいファンドやプロジェクトの進展に注目しつつ、主要コインの価格安定を望んでいるようです。特に、ETF関連のニュースが市場にポジティブな影響を与えています。\n\n## 今日の主要トピック3つ\n1. **ギャラクシーデジタル、7～9月期は510億円の黒字に転換**  \n   ギャラクシーデジタルは前四半期の赤字から黒字に転換し、暗号資産市場の信頼感を高めています。  \n   [詳細はこちら](https://coinpost.jp/?p=745078)\n2. **米ヴァンエック、ビットコイン2％組み入れの複数資産ETFを提供開始**  \n   新たなETFは投資家に多様な選択肢を提供し、市場の流動性向上が期待されています。  \n   [詳細はこちら](https://coinpost.jp/?p=745067)\n3. **米CFTC、ポリマーケットを再調査**  \n   規制当局がユーザー排除の遵守を疑問視しており、今後の動向に注目です。  \n   [詳細はこちら](https://coinpost.jp/?p=745040)\n\n## メインコインの整理\n- **ビットコイン(BTC)**: 安定した価格帯を維持。\n- **イーサリアム(ETH)**: スマートコントラクトの利用が引き続き高まる。\n- **リップル(XRP)**: BNYがXRPの保管に対応し、貿易金融トークン化を進めている。\n   [詳細はこちら](https://coinpost.jp/?p=745038)\n\n## 個別プロジェクトの進捗\n- **アーサー・ヘイズのAI計算資源に関する新提案**: FLOPを基準とした価格算出方法が注目されています。  \n   [詳細はこちら](https://coinpost.jp/?p=745039)\n- **ジーキャッシュの新提案**: ブロック報酬の配分方法に関する革新が期待されています。  \n   [詳細はこちら](https://coinpost.jp/?p=745066)\n\n## 今日の要約から見える示唆\n市場全体の安定感が強まる中、特定のプロジェクトの進展が市場にポジティブな影響を与えている。特に、規制の動向や新しいファンドの発表が投資家の関心を集めている。\n\n## 次に確認すべきこと\n- ギャラクシーデジタルの今後の業績発表や新たなプロジェクトの動向。\n- 米ヴァンエックのETFが市場に与える影響。\n- XRPの流動性向上に向けたBNYの取り組みの進展。\n\n## 今日の結論\n暗号資産市場は新たなファンドの提供やプロジェクトの進展により、安定した地合いを保っています。今後の市場動向に注目し、特定のプロジェクトや規制の進展をウォッチすることが重要です。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "あたらしい経済",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ギャラクシーデジタル、7～9月期は510億円の黒字　前四半期の赤字から転換",
+      "link": "https://coinpost.jp/?p=745078",
+      "pubDate": "Wed, 28 Oct 2026 09:45:41 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アーサー・ヘイズ、AI計算資源の先物設計図を公開　FLOPで算出する価格が基準",
+      "link": "https://coinpost.jp/?p=745039",
+      "pubDate": "Wed, 28 Oct 2026 09:40:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ジーキャッシュ共同創設者、ブロック報酬の配分方法で新提案　「8％分をNSMへ」",
+      "link": "https://coinpost.jp/?p=745066",
+      "pubDate": "Wed, 28 Oct 2026 08:22:01 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ヴァンエック、ビットコイン2％組み入れの複数資産ETFを提供開始",
+      "link": "https://coinpost.jp/?p=745067",
+      "pubDate": "Wed, 28 Oct 2026 07:55:02 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC、ポリマーケットを再調査　米国ユーザー排除の遵守を疑問視か",
+      "link": "https://coinpost.jp/?p=745040",
+      "pubDate": "Wed, 28 Oct 2026 07:20:49 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "資産運用大手ジャナス、ナスダック100連動ファンドをトークン化で発行",
+      "link": "https://coinpost.jp/?p=745041",
+      "pubDate": "Wed, 28 Oct 2026 07:05:51 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米財務長官「米中技術競争で仮想通貨がドルの優位性を強化」＝報道",
+      "link": "https://coinpost.jp/?p=745042",
+      "pubDate": "Wed, 28 Oct 2026 06:35:53 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【10/27話題】SBI・スターテイル・ブラックロックがトークン化MMFとJPYSC連携検討、NECとDFNSが金融機関向けデジタル資産基盤で協業へなど（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/620899",
+      "pubDate": "Tue, 27 Oct 2026 21:31:21 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ロビンフッドの仮想通貨取引収益が前年比55％減、予測市場収益は6倍超に",
+      "link": "https://coinpost.jp/?p=745043",
+      "pubDate": "Wed, 28 Oct 2026 05:55:58 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "pubDate": "Tue, 27 Oct 2026 20:41:33 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米BNY、XRPの保管に対応開始　リップルと貿易金融トークン化を進める方針",
+      "link": "https://coinpost.jp/?p=745038",
+      "pubDate": "Wed, 28 Oct 2026 05:40:37 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "pubDate": "Tue, 27 Oct 2026 20:32:21 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "link": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "pubDate": "Tue, 27 Oct 2026 19:07:59 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "pubDate": "Tue, 27 Oct 2026 18:13:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "pubDate": "Tue, 27 Oct 2026 16:59:07 +0000"
+    }
+  ]
+}
