@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-10-29",
+  "seoTitle": "USD/JPYと金融政策の影響を分析",
+  "seoDescription": "今日の相場は米連邦準備制度の金利動向とカナダ中銀の動きに影響を受け、USD/JPYに注目が集まる。地政学的要因も考慮すべき。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米連邦準備制度（Fed）が金利を据え置く一方で将来の利上げの可能性を示唆したことがトリガーとなり、USD/JPYが上昇圧力を受けている。カナダ中銀の利上げ期待も影響し、リスク選好の動きが見られる。これにより、BTCにも波及する可能性がある。\n\n## 2. 今日の主要ドライバー3つ\n1. Fedが金利を据え置く決定をしたが、2票が利上げを支持したことで、12月の利上げが視野に入った。この動きは市場に緊張感を与え、USD/JPYの上昇を助長した。\n2. カナダ中銀が今後の利上げを示唆したことで、北米の金融環境に対する期待が高まった。これによりカナダドルに対する相対的な強さが生じ、他の通貨にも波及する可能性がある。\n3. 消費者信頼感が改善したという報告があり、これがリスク選好の流れを後押しし、特にテクノロジー株やビットコインに影響を与える結果となった。\n\n## 3. 市場構造の解釈\n今回の動きは、主に金利の変動を背景としたものだ。市場は金利が据え置かれるという安定感と同時に、将来の利上げの可能性を意識しているため、短期的にはボラティリティが増すと考えられる。機関投資家が主導していると推測され、彼らはこれらの情報を基にポジションを調整している。このような状況下で、資金の流れをどのように捉えるかが今後の相場における重要なポイントである。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的には上昇トレンドが続いていると考えられるが、過去の高値付近での抵抗が意識される。中期的には、米国の金利動向が影響を与え、特に12月のFOMCに向けての市場の反応が注目される。今回の動きは「継続型」であると判断でき、短期的な調整があるとしても、基調としては上昇が続く可能性が高い。\n\n## 5. BTCへの波及\n米国の金利動向が安定している中で、リスク選好が高まるとビットコインに対する投資意欲が増すことが予想される。特に、テクノロジー株に対する強気の姿勢が続く限り、BTCも強気の影響を受けやすくなる。流動性の供給が続くことで、BTCの価格も上昇する可能性がある。\n\n## 6. 強気・弱気の分岐条件\n- 強気の条件: 米国の経済指標が好調で、12月の利上げが確実視される場合、USD/JPYはさらに上昇する可能性がある。\n- 弱気の条件: 予想外の経済指標の悪化や、地政学的リスクの高まりがあった場合、USD/JPYは調整を余儀なくされる可能性がある。\n\n## 7. 今日の示唆\n現在の相場では、特に米国の経済指標やFOMCの発表に注目する必要がある。また、消費者信頼感の動向も重要な指標となるため、これらの情報を基に市場の流れを意識しておくことが重要だ。特に、テクノロジー株やビットコインの動向にも注意が必要である。\n\n## 8. 今日の結論\n今日の相場は、米国の金利動向に影響を受けつつ、リスク選好が高まる中でUSD/JPYが上昇している。投資家は今後の経済指標やFOMCの動向を注視する必要がある。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Still Leaning Hawkish, but No Action by the Fed",
+      "link": "https://www.investing.com/analysis/still-leaning-hawkish-but-no-action-by-the-fed-200690467",
+      "pubDate": "Oct 28, 2026 21:17 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank of Canada Likely to Hike Again After Today’s Move",
+      "link": "https://www.investing.com/analysis/bank-of-canada-likely-to-hike-again-after-todays-move-200690465",
+      "pubDate": "Oct 28, 2026 20:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed Holds Rates Steady, but 2 Votes for a Hike Keep December in Play",
+      "link": "https://www.investing.com/analysis/fed-holds-rates-steady-but-2-votes-for-a-hike-keep-december-in-play-200690464",
+      "pubDate": "Oct 28, 2026 19:38 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed Holds Rates, but Dissent Keeps Bitcoin, Gold and Tech Stocks Under Pressure",
+      "link": "https://www.investing.com/analysis/fed-holds-rates-but-dissent-keeps-bitcoin-gold-and-tech-stocks-under-pressure-200690463",
+      "pubDate": "Oct 28, 2026 19:05 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Rising Consumer Confidence and AI Backlogs Offer Signals for Investors",
+      "link": "https://www.investing.com/analysis/rising-consumer-confidence-and-ai-backlogs-offer-signals-for-investors-200690461",
+      "pubDate": "Oct 28, 2026 18:16 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Fed’s Biggest Rate Dilemma May Be Financial Conditions, Not Inflation Alone",
+      "link": "https://www.investing.com/analysis/the-feds-biggest-rate-dilemma-may-be-financial-conditions-not-inflation-alone-200690458",
+      "pubDate": "Oct 28, 2026 17:31 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Why a Fed Rate Hold May Not Stop Treasury Yields and Mortgage Costs Rising",
+      "link": "https://www.investing.com/analysis/why-a-fed-rate-hold-may-not-stop-treasury-yields-and-mortgage-costs-rising-200690455",
+      "pubDate": "Oct 28, 2026 16:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FOMC Meeting Preview: Is Warsh Even Capable of Delivering a Hawkish Hold?",
+      "link": "https://www.investing.com/analysis/fomc-meeting-preview-is-warsh-even-capable-of-delivering-a-hawkish-hold-200690388",
+      "pubDate": "Oct 28, 2026 14:41 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Rally Faces a Critical Test at the 160–161 Resistance Zone",
+      "link": "https://www.investing.com/analysis/usdjpy-rally-faces-a-critical-test-at-the-160161-resistance-zone-200690442",
+      "pubDate": "Oct 28, 2026 14:21 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "RBA Rate Hike Bets Surge as Australian Inflation Heats Up",
+      "link": "https://www.investing.com/analysis/rba-rate-hike-bets-surge-as-australian-inflation-heats-up-200690438",
+      "pubDate": "Oct 28, 2026 13:26 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD, EUR/USD Forecast: 2 Trades to Watch",
+      "link": "https://www.investing.com/analysis/gbpusd-eurusd-forecast-2-trades-to-watch-200690437",
+      "pubDate": "Oct 28, 2026 13:18 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/JPY Breaks to the Upside",
+      "link": "https://www.investing.com/analysis/eurjpy-breaks-to-the-upside-200690434",
+      "pubDate": "Oct 28, 2026 12:50 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Will Robust Q3 GDP Growth Complicate the Inflation Outlook?",
+      "link": "https://www.investing.com/analysis/will-robust-q3-gdp-growth-complicate-the-inflation-outlook-200690432",
+      "pubDate": "Oct 28, 2026 12:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Fed Will Set the Course for the Markets",
+      "link": "https://www.investing.com/analysis/the-fed-will-set-the-course-for-the-markets-200690431",
+      "pubDate": "Oct 28, 2026 11:17 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Focus on FOMC and Bank of Canada After Reserve Bank of New Zealand Disappointed",
+      "link": "https://www.investing.com/analysis/focus-on-fomc-and-bank-of-canada-after-reserve-bank-of-new-zealand-disappointed-200690429",
+      "pubDate": "Oct 28, 2026 10:54 GMT"
+    }
+  ]
+}

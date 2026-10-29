@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-29",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の最新ニュースや主要コインの動向、注目プロジェクトの進捗を詳しく解説します。初心者から中級者まで役立つ情報をお届け。",
+  "article": "## 1分で読める結論\n暗号資産市場は、米国の金利政策を受けて安定した様子を見せており、特にBTCと主要アルトコインが注目されています。新たにトークン化ファンドが立ち上がったことや、XRPレジャーの新機能提案が進行中です。\n\n## 今日の暗号資産市場の地合い\n米国の連邦準備制度（FRB）が金利を据え置いたことが市場にポジティブな影響を与えています。これにより投資家のリスク選好が高まり、暗号資産への資金流入が期待されています。価格は総じて安定しており、主要コインが底固い動きを見せています。\n\n## 今日の主要トピック3つ\n1. **ナスダック100連動のトークン化ファンド立ち上げ**: ジャナスとセントリフュージが共同で提供開始。これにより、より多くの投資家が暗号資産にアクセスできるようになり、流動性向上が見込まれます。\n2. **XRPレジャーの新機能提案**: 開発者がゼロXRPでのステーブルコイン決済用ウォレットの作成を提案。これにより、取引コストの削減と利便性向上が期待されます。\n3. **Bitcoin-backed mortgagesの導入**: カナダでビットコイン担保の住宅ローンが開始される予定。ただし、借り手はそのコストについての認識が不足しているため、注意が必要です。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 金利政策の影響で安定した動き。市場全体の基盤として機能。\n- **イーサリアム (ETH)**: 価格が底堅く、DeFi分野での利用が引き続き増加。特にNFT市場での動きが活発。\n- **XRP**: 新機能提案が注目されており、コミュニティの関心が高まっています。\n\n## 個別プロジェクトの進捗\n- **ジャナスとセントリフュージ**: ナスダック100連動のトークン化ファンドを立ち上げ、暗号資産と伝統的な金融市場の接点を強化。\n- **XRPレジャー**: 開発者がステーブルコイン決済用の新しいウォレット機能を提案し、さらなる普及を目指す。\n- **Predict[.]fun**: 不正送金事件が発生したが、運営チームが全額補償を表明し、信頼性の維持に努めています。\n\n## 今日の要約から見える示唆\n市場は金利政策により安定しており、新たな投資機会が生まれています。特に、トークン化ファンドや新機能の提案は、今後の市場の流動性や利用シーンを拡大する可能性があります。\n\n## 次に確認すべきこと\n- トークン化ファンドの具体的な商品内容とその影響を確認する。\n- XRPレジャーの新機能が実装される際の市場反応を追う。\n- カナダにおけるビットコイン担保の住宅ローンの詳細とその影響を調査する。\n\n## 今日の結論\n暗号資産市場は、金利政策の影響を受けて安定した動きを見せており、新たなプロジェクトや機能の提案が進行中です。これにより、投資環境が改善される可能性が高く、今後の動向に注目する必要があります。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ジャナスとセントリフュージ、ナスダック100連動のトークン化ファンド立ち上げ、ステラ展開へ",
+      "link": "https://www.neweconomy.jp/posts/620903",
+      "pubDate": "Thu, 29 Oct 2026 01:20:18 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "pubDate": "Wed, 28 Oct 2026 21:13:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+      "pubDate": "Wed, 28 Oct 2026 19:01:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+      "pubDate": "Wed, 28 Oct 2026 18:11:31 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+      "pubDate": "Wed, 28 Oct 2026 18:00:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "pubDate": "Wed, 28 Oct 2026 17:02:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "pubDate": "Wed, 28 Oct 2026 16:01:36 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "pubDate": "Wed, 28 Oct 2026 13:14:37 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "pubDate": "Wed, 28 Oct 2026 12:59:36 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【10/28話題】商工中金が「DCJPY」活用の貿易決済基盤を検討、トヨタファイナンスの自己募集デジタル社債申込額が発行予定額10倍超など（音声ニュース）",
+      "link": "https://www.neweconomy.jp/posts/621614",
+      "pubDate": "Wed, 28 Oct 2026 12:55:09 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "pubDate": "Wed, 28 Oct 2026 11:57:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "pubDate": "Wed, 28 Oct 2026 11:52:14 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Income Just Hit a Treasury Wall",
+      "link": "https://www.investing.com/analysis/bitcoin-income-just-hit-a-treasury-wall-200690423",
+      "pubDate": "Oct 28, 2026 09:50 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Recovers as Fed Decision Looms",
+      "link": "https://www.investing.com/analysis/crypto-recovers-as-fed-decision-looms-200690419",
+      "pubDate": "Oct 28, 2026 09:02 GMT"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
+      "link": "https://www.neweconomy.jp/posts/621589",
+      "pubDate": "Wed, 28 Oct 2026 08:47:33 +0000"
+    }
+  ]
+}
