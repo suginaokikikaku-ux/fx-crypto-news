@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-10-30",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "ビットコインノードの脆弱性やSBIの暗号資産信託合併など、最新の市場動向と注目すべきポイントを解説します。",
+  "article": "## 1分で読める結論\n暗号資産市場は、ビットコインノードの脆弱性が明らかになり、セキュリティへの懸念が高まる中、SBIが新たな信託会社との合併を発表しました。リップルのステーブルコインが高評価を得る一方、バイナンスでは大規模なハッキングが発生し、流出額が過去最大となりました。\n\n## 今日の暗号資産市場の地合い\n市場全体では、ビットコインおよび主要アルトコインに対する不安定な地合いが続いています。特にセキュリティ問題が浮き彫りとなっており、投資家の信頼感に影響を与えています。加えて、暗号資産関連企業の合併や新しいプロジェクトが進行中で、業界全体の発展が期待されています。\n\n## 今日の主要トピック3つ\n1. **ビットコインノードの脆弱性**: AIによる発見で、特にWindowsとmacOSに影響があることが確認されました。\n2. **SBIの新生信託銀行の合併**: JPYSC発行の信託会社との合併が12月に予定されており、暗号資産信託市場における影響が懸念されています。\n3. **リップルのステーブルコイン格付け**: ムーディーズがRLUSDに『A2』を付与し、信頼性の向上が期待されています。\n\n## メインコインの整理\n- **ビットコイン**: セキュリティ問題が顕在化し、投資家の関心が低下。\n- **イーサリアム**: 特に目立ったニュースはなく、全体的なトレンドに従っている。\n- **リップル**: ステーブルコインの格付け向上で注目を集めている。\n\n## 個別プロジェクトの進捗\n- **SBI**: 新生信託銀行が暗号資産信託会社を吸収合併予定。\n- **Boundless**: ZK証明技術を活用した新しいAIサービスを審査制で提供開始。\n- **カントン・ストラテジック**: 米SECの新枠組み下での上場株トークン化計画が進行中。\n\n## 今日の要約から見える示唆\n市場はセキュリティ問題や業界の再編が進行中であり、これらの動きが長期的な投資戦略に影響を与える可能性があります。特に、新たに進出するプロジェクトや合併は、今後の市場の流れに重要な役割を果たすでしょう。\n\n## 次に確認すべきこと\n- ビットコインノードの脆弱性に関するさらなる情報と影響範囲。\n- SBIの信託会社合併後の市場の反応。\n- リップルのステーブルコインの市場での受け入れ状況。\n\n## 今日の結論\n暗号資産市場は現在、セキュリティの不安や業界再編に直面している。新たなプロジェクトや合併が進行している中、これらの動向が将来の市場にどのような影響を及ぼすか、引き続き注視する必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインノード停止の脆弱性をAI発見　Windows・macOSに影響",
+      "link": "https://coinpost.jp/?p=745550",
+      "pubDate": "Fri, 30 Oct 2026 10:34:19 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPYSC発行のSBI新生信託銀行、暗号資産信託会社を12月に吸収合併",
+      "link": "https://coinpost.jp/?p=745516",
+      "pubDate": "Fri, 30 Oct 2026 09:58:58 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ムーディーズ、リップルのステーブルコインRLUSDに『A2』格付けを付与",
+      "link": "https://coinpost.jp/?p=745457",
+      "pubDate": "Fri, 30 Oct 2026 09:45:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "三井住友FGとSBI、ステーブルコインで資本提携へ＝日経",
+      "link": "https://coinpost.jp/?p=745504",
+      "pubDate": "Fri, 30 Oct 2026 09:30:41 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "pubDate": "Fri, 30 Oct 2026 00:17:10 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ZK証明のBoundless、拒否応答を外したAIを審査制で提供",
+      "link": "https://coinpost.jp/?p=745410",
+      "pubDate": "Fri, 30 Oct 2026 09:00:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "カントン・ストラテジック、米SECの新枠組み下で上場株のトークン化を計画　11月2日にも取引開始か",
+      "link": "https://coinpost.jp/?p=745480",
+      "pubDate": "Fri, 30 Oct 2026 08:30:25 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソニー、ソニューム活用のエンタメ事業を公募　トークン発行計画などが条件",
+      "link": "https://coinpost.jp/?p=745458",
+      "pubDate": "Fri, 30 Oct 2026 08:05:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "大手予測市場ポリマーケット、外部事業者の侵害で4億円超が流出",
+      "link": "https://coinpost.jp/?p=745456",
+      "pubDate": "Fri, 30 Oct 2026 07:15:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンスから9000億円以上の仮想通貨が不正流出、過去最大規模",
+      "link": "https://coinpost.jp/?p=745459",
+      "pubDate": "Fri, 30 Oct 2026 06:45:51 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "pubDate": "Thu, 29 Oct 2026 21:12:45 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジー、四半期営業利益が過去最大　3.2兆円のビットコイン評価益計上",
+      "link": "https://coinpost.jp/?p=745461",
+      "pubDate": "Fri, 30 Oct 2026 06:00:54 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "pubDate": "Thu, 29 Oct 2026 18:55:35 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+      "pubDate": "Thu, 29 Oct 2026 17:04:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+      "pubDate": "Thu, 29 Oct 2026 16:51:18 +0000"
+    }
+  ]
+}
