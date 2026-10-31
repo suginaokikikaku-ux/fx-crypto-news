@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-10-31",
+  "seoTitle": "暗号資産市場の最新動向とバイナンスの影響",
+  "seoDescription": "暗号資産市場の地合いや主要トピックを整理し、バイナンスのハッキング影響を分析。次に確認すべきことも解説。",
+  "article": "# 1分で読める結論\n\n今日の暗号資産市場は、バイナンスのハッキング事件が大きな影響を与えている。特に、バイナンスが約1兆円の補償を確保したことや、米CFTC委員長が取引所に対する保護の提案を行ったことが注目される。これにより、投資家の不安が高まりつつも、全体的な市場への影響は限定的と見られている。\n\n## 今日の暗号資産市場の地合い\n\nバイナンスのハッキングに伴い、仮想通貨関連株が全面安となる一方で、トレーダーたちは市場の動向を注視している。ハッキング事件の影響が短期的なものであると考えられているが、長期的な信頼に関する懸念が依然として残っている。特に、バイナンスの対応策や市場全体の反応が重要な焦点となる。\n\n## 今日の主要トピック3つ\n1. **バイナンスハッキングの影響**: 6.3億ドル規模のハッキングが行われ、バイナンスは約1兆円を補償として確保した。\n2. **米CFTCの提案**: バイナンスの被害を受けて、仮想通貨取引所に対する伝統的金融並みの保護が提案された。\n3. **イオレのビットコイン売却**: 東証上場のイオレが保有する151.21ビットコインを全量売却し、AIデータセンターへの投資に充当することを発表した。\n\n## メインコインの整理\n\nビットコインやイーサリアムなどの主要コインは、バイナンスのハッキング事件にもかかわらず、大きな価格変動を見せてはいないが、投資家の信頼感が低下している可能性がある。市場は依然として不安定であり、特にハッキング事件後の対応が注目されている。\n\n## 個別プロジェクトの進捗\n\n- **バイナンス**: ハッキングの被害を受け、資金確保のために約1兆円を準備し、顧客への補償を行う計画を進めている。\n- **イオレ**: 保有する151.21ビットコインを全量売却し、AIデータセンターへの投資に充当することが決定された。\n- **米CFTC**: 仮想通貨取引所が選択できる保護を提案し、業界の規制強化の動きが進んでいる。\n\n## 今日の要約から見える示唆\n\nバイナンスのハッキングが市場全体に与える影響は限定的であり、短期的な価格変動に対する過剰反応が見られる可能性がある。一方で、業界全体の信頼性に関する懸念が高まる中で、規制強化の動きは今後の市場に影響を与える要因となる。\n\n## 次に確認すべきこと\n\n- バイナンスのハッキングに対する対応策の進捗状況。\n- CFTCの提案に対する業界の反応及び他の取引所の対応。\n- イオレのAIデータセンター投資の具体的な進展。\n\n## 今日の結論\n\nバイナンスのハッキングが暗号資産市場に与える影響は短期的には限定的だが、長期的な信頼性に関する懸念が残る。規制の進展や個別プロジェクトの動向に注目しつつ、今後の市場動向を見守る必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当",
+      "link": "https://coinpost.jp/?p=745770",
+      "pubDate": "Sat, 31 Oct 2026 10:20:48 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "pubDate": "Sat, 31 Oct 2026 00:48:56 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス不正流出の大半が約20分で実行、秘密鍵に頼らず署名悪用",
+      "link": "https://coinpost.jp/?p=745771",
+      "pubDate": "Sat, 31 Oct 2026 09:20:45 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC委員長、バイナンス被害めぐり仮想通貨取引所が選べる伝統金融並みの保護を提案",
+      "link": "https://coinpost.jp/?p=745772",
+      "pubDate": "Sat, 31 Oct 2026 07:32:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米仮想通貨関連株が全面安、1兆円規模のハッキングも市場全体への脅威は限定的とアナリストが見解",
+      "link": "https://coinpost.jp/?p=745773",
+      "pubDate": "Sat, 31 Oct 2026 07:05:00 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプ大統領、仮想通貨取引所バイナンスのハッキングめぐり北朝鮮の関与を調査と発言",
+      "link": "https://coinpost.jp/?p=745774",
+      "pubDate": "Sat, 31 Oct 2026 06:20:03 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、ハッキング被害の補償に約1兆円を確保",
+      "link": "https://coinpost.jp/?p=745769",
+      "pubDate": "Sat, 31 Oct 2026 06:05:39 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "pubDate": "Fri, 30 Oct 2026 19:55:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "pubDate": "Fri, 30 Oct 2026 16:31:17 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+      "pubDate": "Fri, 30 Oct 2026 14:13:34 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBI VCトレードとビットバンク、バイナンスの暗号資産流出で顧客資産に影響なし",
+      "link": "https://coinpost.jp/?p=745755",
+      "pubDate": "Fri, 30 Oct 2026 21:25:00 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+      "pubDate": "Fri, 30 Oct 2026 12:13:02 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+      "pubDate": "Fri, 30 Oct 2026 11:51:26 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+      "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+      "pubDate": "Fri, 30 Oct 2026 11:35:16 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The Impact of the Binance Hack Is Unlikely to Last Long",
+      "link": "https://www.investing.com/analysis/the-impact-of-the-binance-hack-is-unlikely-to-last-long-200690580",
+      "pubDate": "Oct 30, 2026 11:29 GMT"
+    }
+  ]
+}
