@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-01",
+  "seoTitle": "今日の相場構造：USD/JPYとマクロ経済の影響",
+  "seoDescription": "最新のUSD/JPYの動向やマクロ経済の要因を深掘り。米中間選挙やインフレ期待が市場に与える影響を分析します。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の中間選挙による政治的な不透明感とインフレ期待の上昇がトリガーとなり、USD/JPYは下落傾向を続けている。これにより、リスク回避の動きが強まり、BTCにも一定の影響が見られる。\n\n## 2. 今日の主要ドライバー3つ\n1. 米中間選挙の影響 → 不透明感が高まり、投資家がリスクを回避しやすくなる。この動きは、特にUSD/JPYに対して影響を及ぼし、円高を促進する要因となっている。\n2. インフレ期待の上昇 → インフレ率の上昇が懸念されており、これが金利上昇の期待を強めている。結果として、米ドルに対する信頼が揺らぎ、一時的な下落を引き起こしている。\n3. 日本銀行の政策決定 → 日本銀行がインフレ目標2%を達成したことが報じられ、円の支持材料となり、USD/JPYの下落に寄与している。\n\n## 3. 市場構造の解釈\n今回の動きは、主にインフレ期待の上昇に伴う金利の変動が主導している。これが機関投資家や短期トレーダーのポジション調整を促進し、相場全体に影響を与えている。特に、米中間選挙の結果が不透明なため、リスク回避の動きが強まる局面となっている。この状況下では、投資家が新たな経済指標や政治的な進展に注目せざるを得ない。\n\n## 4. USD/JPY分析\n現在のUSD/JPYは、短期的には下落基調が続いている。中期的には、米中間選挙の結果やインフレデータ次第で変動が生じる可能性が高い。今回の動きは「継続型」であり、持続的な円高傾向が見込まれる。\n\n## 5. BTCへの波及\nドルが弱含む中、リスク回避の動きが強まることで、投資家はBTCを資金逃避先として考える可能性がある。特に、インフレ懸念が高まる中で、BTCがデジタルゴールドとしての役割を果たすことが期待される。\n\n## 6. 強気・弱気の分岐条件\n- **強気の維持条件**：米中間選挙結果が市場に安心感を与え、インフレ期待が落ち着く場合。\n- **弱気の変化条件**：インフレデータが予想以上に悪化し、金利上昇が加速する場合。\n\n## 7. 今日の示唆\n今日の相場では、米中間選挙やインフレデータに注目することが重要。特に、経済指標発表後の相場反応を観察し、リスク管理を徹底することが求められる。市場のセンチメントを把握するために、ニュースの動向や主要指標を注視する必要がある。\n\n## 8. 今日の結論\n今日の相場は、米中間選挙やインフレ懸念による不透明感が支配しており、USD/JPYの下落が続く見込み。投資家は政治的な動向とマクロ経済指標に敏感に反応する必要がある。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "3 Ways the US Midterms Could Reshape the Global Economy",
+      "link": "https://www.investing.com/analysis/3-ways-the-us-midterms-could-reshape-the-global-economy-200690610",
+      "pubDate": "Oct 31, 2026 08:51 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Rise in Inflation Expectations Is Becoming Harder to Ignore",
+      "link": "https://www.investing.com/analysis/the-rise-in-inflation-expectations-is-becoming-harder-to-ignore-200690581",
+      "pubDate": "Oct 31, 2026 08:46 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Don’t Blame the Messenger — The AI Boom Finally Meets the Bill",
+      "link": "https://www.investing.com/analysis/dont-blame-the-messenger--the-ai-boom-finally-meets-the-bill-200690616",
+      "pubDate": "Oct 30, 2026 20:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Britain Buys Some Breathing Room as the Bond Market Calls a Truce",
+      "link": "https://www.investing.com/analysis/britain-buys-some-breathing-room-as-the-bond-market-calls-a-truce-200690609",
+      "pubDate": "Oct 30, 2026 18:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Real Wages 2026: Why Consumer Stocks Feel It First",
+      "link": "https://www.investing.com/analysis/real-wages-2026-why-consumer-stocks-feel-it-first-200690569",
+      "pubDate": "Oct 30, 2026 17:55 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Chicago PMI Drops to 55.3, Holds Above 50 for Second Month",
+      "link": "https://www.investing.com/analysis/chicago-pmi-drops-to-553-holds-above-50-for-second-month-200690600",
+      "pubDate": "Oct 30, 2026 16:26 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Midterms: A Republican Setback Could Reshape Washington",
+      "link": "https://www.investing.com/analysis/us-midterms-a-republican-setback-could-reshape-washington-200690595",
+      "pubDate": "Oct 30, 2026 14:55 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Rebound Faces a Test as ECB Rate Bets Clash With US Dollar Strength",
+      "link": "https://www.investing.com/analysis/eurusd-rebound-faces-a-test-as-ecb-rate-bets-clash-with-us-dollar-strength-200690589",
+      "pubDate": "Oct 30, 2026 13:57 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Stock Market Warning: Nasdaq Leads a Sharp Pre-Market Decline",
+      "link": "https://www.investing.com/analysis/stock-market-warning-nasdaq-leads-a-sharp-premarket-decline-200690585",
+      "pubDate": "Oct 30, 2026 13:06 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Dragged Lower by Questions of the AI Meme",
+      "link": "https://www.investing.com/analysis/us-dollar-dragged-lower-by-questions-of-the-ai-meme-200690579",
+      "pubDate": "Oct 30, 2026 11:05 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FX Daily: These Quirky Midterms Are Coming Into View",
+      "link": "https://www.investing.com/analysis/fx-daily-these-quirky-midterms-are-coming-into-view-200690574",
+      "pubDate": "Oct 30, 2026 10:41 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Sweeps the Weekly Low: Trap or Turning Point?",
+      "link": "https://www.investing.com/analysis/gold-sweeps-the-weekly-low-trap-or-turning-point-200690570",
+      "pubDate": "Oct 30, 2026 10:05 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank of Japan Hits 2% Price Target",
+      "link": "https://www.investing.com/analysis/bank-of-japan-hits-2-price-target-200690564",
+      "pubDate": "Oct 30, 2026 08:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FX Outlook: Time to Think About the Midterms?",
+      "link": "https://www.investing.com/analysis/fx-outlook-time-to-think-about-the-midterms-200690563",
+      "pubDate": "Oct 30, 2026 08:28 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Falls for 3rd Straight Day: Yen Supported by BoJ Decision",
+      "link": "https://www.investing.com/analysis/usdjpy-falls-for-3rd-straight-day-yen-supported-by-boj-decision-200690560",
+      "pubDate": "Oct 30, 2026 07:31 GMT"
+    }
+  ]
+}

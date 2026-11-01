@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-01",
+  "seoTitle": "暗号資産市場の最新動向と主要コインの分析",
+  "seoDescription": "バイナンス流出や機関投資家の動向を踏まえた暗号資産市場の最新情報と、今後の注目ポイントを解説します。",
+  "article": "# 1分で読める結論\nバイナンスの流出問題が市場に影響を与えている中、機関投資家は依然として暗号資産のステーキングを続けている。主要コインの動きは鈍化しているが、特定プロジェクトでは進展が見られる。\n\n## 今日の暗号資産市場の地合い\nバイナンスで発生した6.3億ドルのハッキング事件が市場に影響を与え、投資家の信頼が揺らいでいる。特に、流出した資産の90%が回収されたと発表されたが、依然として市場のボラティリティは高い。また、機関投資家のステーキング活動が続いていることが、一定の支えとなっている。\n\n## 今日の主要トピック3つ\n1. **バイナンス流出問題**: バイナンスが流出した資産の90%を回収したと発表。今後の信頼回復に注目が集まる。\n2. **機関投資家のステーキング**: ステーキングの利回りが縮小する中でも、機関投資家が暗号資産に対する関心を維持。\n3. **テザーの準備金回復**: テザー社のUSDT準備金が1兆円を超え、流動性の向上が期待される。\n\n## メインコインの整理\nビットコインやイーサリアムは、流出事件の影響を受けて価格が横ばい状態。取引量も減少傾向にあり、投資家の動きが鈍化している。ビットコインマイナーはAI関連の利益を追求しているが、個人投資家にも新たな機会が生まれている。\n\n## 個別プロジェクトの進捗\n- **テザー社**: 準備金が6月末から約2倍に増加。市場での流動性向上が期待される。\n- **ハイパーリキッド**: 収益源の多角化が進んでおり、USDC準備金利回りが増加している。\n- **クラリティー法案**: 資産凍結の法的保護に関する論争が再燃。バイナンス流出が影響を与えている。\n\n## 今日の要約から見える示唆\nバイナンスの流出問題が市場全体に不安をもたらしているものの、機関投資家の暗号資産への関心は依然として強く、特定のプロジェクトではポジティブな進展が見られる。この状況は、短命な話題ではなく、継続的なウォッチが必要である。\n\n## 次に確認すべきこと\n- バイナンスの信頼回復に向けた動き\n- 機関投資家のステーキング活動の変化\n- テザー社の準備金状況と市場への影響\n- クラリティー法案の進展とその市場への影響\n\n## 今日の結論\n暗号資産市場はバイナンスの流出問題に揺れ動いているが、機関投資家の関心や特定プロジェクトの進展が市場を支えている。今後の動向に注目が必要である。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+      "link": "https://coinpost.jp/?p=745600",
+      "pubDate": "Sun, 01 Nov 2026 09:25:25 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "pubDate": "Sat, 31 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "pubDate": "Sat, 31 Oct 2026 16:09:30 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "pubDate": "Sat, 31 Oct 2026 16:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "pubDate": "Sat, 31 Oct 2026 15:24:10 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "pubDate": "Sat, 31 Oct 2026 14:40:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+      "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "18 years in, what has Bitcoin truly done?",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+      "pubDate": "Sat, 31 Oct 2026 12:49:47 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "仮想通貨犯罪追跡大手チェイナリシス、不正アクセス被害に",
+      "link": "https://coinpost.jp/?p=745824",
+      "pubDate": "Sat, 31 Oct 2026 14:02:04 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+      "link": "https://coinpost.jp/?p=745789",
+      "pubDate": "Sat, 31 Oct 2026 13:45:50 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "テザー社、USDT準備金の超過分が1兆円超えに回復　6月末から約2倍に",
+      "link": "https://coinpost.jp/?p=745813",
+      "pubDate": "Sat, 31 Oct 2026 13:10:53 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ハイパーリキッドの収益源多角化、USDC準備金利回りなどの割合増加＝レポート",
+      "link": "https://coinpost.jp/?p=745794",
+      "pubDate": "Sat, 31 Oct 2026 11:02:39 +0900"
+    }
+  ]
+}
