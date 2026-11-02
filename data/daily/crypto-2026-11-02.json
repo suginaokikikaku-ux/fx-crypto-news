@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-02",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "バイナンスの出金再開や北朝鮮の仮想通貨窃取問題に注目。主要コインの状況や個別プロジェクトの進捗を詳しく解説。",
+  "article": "## 1分で読める結論\nバイナンスの出金再開が市場に影響を与える中、北朝鮮による仮想通貨窃取が問題視されている。主要コインは価格変動が見られるが、特にビットコインは急落した。今後は各プロジェクトの進捗と市場の反応に注目が必要。\n\n## 今日の暗号資産市場の地合い\n市場はバイナンスによる出金再開と北朝鮮の関与が発覚したことで不安定な状況にある。出金再開後も流出が続き、投資家の信頼が揺らいでいる。また、北朝鮮の仮想通貨窃取問題が浮上しており、規制強化の可能性も考えられる。\n\n## 今日の主要トピック3つ\n1. **バイナンス出金再開**: 出金が再開されたが、9時間半で5700億円の流出が発生。\n2. **北朝鮮の仮想通貨窃取**: 累計約1.9兆円の窃取が報告され、GDPの45%に相当。\n3. **BTCPay Serverのセキュリティ問題**: ホットウォレットからの不正流出の報告を受け、サーバー停止を要請。\n\n## メインコインの整理\n- **ビットコイン**: 急落し1200万円台に。市場の不安定さが影響している。\n- **イーサリアム、リップル**: 具体的な価格変動は報告されていないが、全体としては影響を受けている。\n\n## 個別プロジェクトの進捗\n- **バイナンス**: 出金再開後も資金流出が続いており、セキュリティ対策の強化が求められている。\n- **BTCPay Server**: サーバー停止を要請されており、セキュリティ体制の見直しが必要。\n\n## 今日の要約から見える示唆\nバイナンスの出金再開で一時的に市場が活気を取り戻す可能性があるが、北朝鮮の影響やセキュリティ問題が引き続き市場に影響を及ぼす。投資家は慎重な姿勢を保つ必要がある。\n\n## 次に確認すべきこと\n- バイナンスの資金流出が今後どのように推移するか。\n- 北朝鮮の仮想通貨窃取問題に対する各国の規制対応。\n- BTCPay Serverのセキュリティ問題がどのように解決されるか。\n\n## 今日の結論\n市場は不安定であり、特にバイナンスの動向と北朝鮮の影響が今後の市場に大きな影響を与える可能性がある。投資家はこれらの情報をもとに、今後の動向を注視する必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプ氏、北朝鮮関与なら対話の意向　バイナンス攻撃でFBIが関与発表",
+      "link": "https://coinpost.jp/?p=745881",
+      "pubDate": "Mon, 02 Nov 2026 10:10:00 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "BTCPay Server、ホットウォレット不正流出の報告受けサーバー停止を要請",
+      "link": "https://coinpost.jp/?p=745885",
+      "pubDate": "Mon, 02 Nov 2026 09:35:32 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "北朝鮮の仮想通貨窃取累計約1.9兆円、GDP45％相当＝アナリスト",
+      "link": "https://coinpost.jp/?p=745872",
+      "pubDate": "Mon, 02 Nov 2026 08:31:51 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス出金再開、9時間半で純流出約5700億円　預かり資産の2.1％",
+      "link": "https://coinpost.jp/?p=745866",
+      "pubDate": "Mon, 02 Nov 2026 07:44:18 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "pubDate": "Sun, 01 Nov 2026 19:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "pubDate": "Sun, 01 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "The key races to watch for the 2026 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "pubDate": "Sun, 01 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "pubDate": "Sun, 01 Nov 2026 10:35:42 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=745685",
+      "pubDate": "Sun, 01 Nov 2026 11:30:13 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "pubDate": "Sun, 01 Nov 2026 01:10:05 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+      "link": "https://coinpost.jp/?p=745600",
+      "pubDate": "Sun, 01 Nov 2026 09:25:25 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "pubDate": "Sat, 31 Oct 2026 18:00:00 +0000"
+    }
+  ]
+}
