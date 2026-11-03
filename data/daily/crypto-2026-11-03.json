@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-03",
+  "seoTitle": "最新暗号資産市場動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要トピック、個別プロジェクトの進捗を分析し、今後の確認ポイントを整理します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ビットコイン価格が8万ドルを下回り、注目の流出事件や企業活動が影響を与えています。特にメタプラネットの自社株買いや、SBIの出資計画が注目されており、今後の市場動向に影響を与える可能性があります。\n\n## 今日の暗号資産市場の地合い\n本日の市場は不安定で、ビットコインは8万ドルを割り込み、投資家の心理に影響を与えています。市場全体としては、流出事件や規制に対する不安が広がり、取引量も減少気味です。特に、EUからの不正流出疑惑や、北朝鮮の関与否定のニュースが市場に影響を及ぼしています。\n\n## 今日の主要トピック3つ\n1. **メタプラネットが253億円の自社株買い** - ビットコイン購入に80億円を戻す。\n2. **EU拠点の組織から167億円以上の仮想通貨流出の疑い** - 市場に不安をもたらす要因。\n3. **SBIが米エレボール銀行に1億ドル出資** - ステーブルコイン関連事業の拡大。\n\n## メインコインの整理\n- **ビットコイン**: 価格が8万ドルを割り込み、ウィンターミュートが7.68万ドルを注視。\n- **その他主要コイン**: 特に価格の大きな変動は見られないが、市場全体の地合いが影響。\n\n## 個別プロジェクトの進捗\n- **メタプラネット**: 自社株買いを発表し、ビットコイン購入に向けた資金を確保。\n- **SBI**: 米エレボール銀行への出資により、ステーブルコインの入出金対応を強化。\n\n## 今日の要約から見える示唆\n市場は不安定であり、特に流出事件の影響が大きい。企業の戦略的な動きが市場に影響を与える中で、投資家は慎重に動向を見守る必要があります。特に、流出事件の続報と企業の動きに注目が集まります。\n\n## 次に確認すべきこと\n- ビットコインの価格動向と流出事件の進展。\n- メタプラネットやSBIなどの企業の動きが市場に与える影響。\n- 規制や法律に関する新たな情報。\n\n## 今日の結論\n本日の暗号資産市場は不安定な地合いが続き、重要な企業の動きが注目されています。引き続き、流出事件や価格動向に注目し、将来の市場動向を見極める必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "あたらしい経済",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "メタプラネットが253億円の自社株買い　ビットコイン購入配分を80億円戻す",
+      "link": "https://coinpost.jp/?p=746072",
+      "pubDate": "Tue, 03 Nov 2026 12:15:56 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【公開収録Vol.3】「弁護士確認済み」なら安心？ Web3事業者と弁護士の付き合い方（「そうだったのかブロックチェーン 番外編」内田善彦・酒井勇也・大津賀新也）",
+      "link": "https://www.neweconomy.jp/features/sbc/622896",
+      "pubDate": "Tue, 03 Nov 2026 02:59:28 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン8万ドル割れ、ウィンターミュートは7.68万ドルを注視",
+      "link": "https://coinpost.jp/?p=746073",
+      "pubDate": "Tue, 03 Nov 2026 11:18:45 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、トークン投票だけでは「管理者」に当たらず　FAQで見解",
+      "link": "https://coinpost.jp/?p=746068",
+      "pubDate": "Tue, 03 Nov 2026 10:38:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "EU拠点の組織から167億円以上の仮想通貨が不正流出の疑い",
+      "link": "https://coinpost.jp/?p=746056",
+      "pubDate": "Tue, 03 Nov 2026 10:15:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "北朝鮮、バイナンス流出の関与を否認　FBIに「重大な政治的挑発」",
+      "link": "https://coinpost.jp/?p=746060",
+      "pubDate": "Tue, 03 Nov 2026 09:35:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBI、米エレボール銀行に1億ドル出資へ　ステーブルコイン入出金に対応",
+      "link": "https://coinpost.jp/?p=746053",
+      "pubDate": "Tue, 03 Nov 2026 08:50:05 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ブラジル大手取引所Mercado Bitcoin、推計63億円超流出で入出金停止",
+      "link": "https://coinpost.jp/?p=746048",
+      "pubDate": "Tue, 03 Nov 2026 08:16:03 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+      "pubDate": "Mon, 02 Nov 2026 21:38:53 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "pubDate": "Mon, 02 Nov 2026 18:13:57 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "pubDate": "Mon, 02 Nov 2026 17:21:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "pubDate": "Mon, 02 Nov 2026 16:41:46 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "pubDate": "Mon, 02 Nov 2026 15:53:29 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "pubDate": "Mon, 02 Nov 2026 15:26:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "pubDate": "Mon, 02 Nov 2026 15:18:55 +0000"
+    }
+  ]
+}
