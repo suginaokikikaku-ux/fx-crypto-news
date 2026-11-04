@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-04",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "本日の暗号資産市場の地合いや主要コインの状況、注目プロジェクトの進捗を分析し、次に確認すべきポイントを整理しました。",
+  "article": "## 1分で読める結論\n本日はバイナンスのハッキング問題に関連するニュースや韓国中銀の仮想通貨リスク調査が注目されています。また、テザーのビットコイン保有量についても重要な情報が出ています。\n\n## 今日の暗号資産市場の地合い\n市場はバイナンスのハッキング問題や韓国中銀によるリスク調査の影響を受け、投資家の不安感が高まっています。また、テザーのビットコイン保有量が注目を集めており、これが市場に与える影響を注視する必要があります。\n\n## 今日の主要トピック3つ\n1. **バイナンスのハッキング問題**: バイナンスは過去のハッキングによる出金問題を解決し、出金再開を拡大していますが、依然として信頼回復には時間がかかると見られています。\n2. **韓国中銀による仮想通貨リスク調査**: 韓国中銀が金融機関31社に対して仮想通貨リスク調査を開始し、取引所停止の可能性も示唆されています。\n3. **テザーのビットコイン保有量**: テザーが保有するビットコインの量が大きく、ストラテジー以外の上場企業を大幅に超えていることが報告されています。\n\n## メインコインの整理\n- **Bitcoin (BTC)**: ハッキング問題の影響で価格は不安定。市場での信頼回復が必要。\n- **Ethereum (ETH)**: 特に新たなニュースはないが、DeFi市場の動向に影響を受けている。\n- **テザー (USDT)**: ビットコイン保有量が注目され、流動性維持や市場への影響が懸念されている。\n\n## 個別プロジェクトの進捗\n- **バイナンス**: ハッキング後の出金再開を進め、顧客の信頼回復に努力している。\n- **SBI**: 上期決算で暗号資産事業が前年同期比で30.1%減少しており、業績の回復が求められる。\n- **NYSE**: トークン化株式の管理に関する提携が進展している。\n\n## 今日の要約から見える示唆\n市場はハッキング問題や規制の影響を受けており、短期的には不安定な動きが続くと考えられます。テザーの保有量や韓国中銀の動向は、今後の市場の流れに影響を及ぼす可能性があります。\n\n## 次に確認すべきこと\n- **バイナンスの信頼回復**: 出金再開の進捗と顧客の反応を注視する。\n- **韓国中銀の調査結果**: 金融機関への影響や市場への波及効果を確認する。\n- **テザーのビットコイン保有状況**: 市場への影響を分析する。\n\n## 今日の結論\n暗号資産市場は不安定な状況が続いています。バイナンスのハッキング問題や韓国中銀の調査が市場に与える影響を注視し、テザーのビットコイン保有量に関連した動向も確認していく必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "GitBookにAI悪用の不正アクセス　仮想通貨DEXも文書を一時停止",
+      "link": "https://coinpost.jp/?p=746183",
+      "pubDate": "Wed, 04 Nov 2026 11:00:51 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "韓国中銀、金融機関31社に仮想通貨リスク調査　取引所停止も想定",
+      "link": "https://coinpost.jp/?p=746175",
+      "pubDate": "Wed, 04 Nov 2026 10:30:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンスが明かす、1兆円流出の手口に偽の採用面接　6月から段階的に侵入",
+      "link": "https://coinpost.jp/?p=746134",
+      "pubDate": "Wed, 04 Nov 2026 10:15:30 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "NYSE、トークン化株式で株主管理の4社と提携　計6社に",
+      "link": "https://coinpost.jp/?p=746158",
+      "pubDate": "Wed, 04 Nov 2026 10:00:16 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、ハッキング後の出金再開を拡大、入金額が出金額上回ったことも",
+      "link": "https://coinpost.jp/?p=746114",
+      "pubDate": "Wed, 04 Nov 2026 09:20:59 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+      "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "テザーが1.8兆円相当ビットコインを保有、ストラテジー以外の上場企業を大幅超過",
+      "link": "https://coinpost.jp/?p=746116",
+      "pubDate": "Wed, 04 Nov 2026 08:20:03 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "What voters said about their views on crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "pubDate": "Tue, 03 Nov 2026 23:19:44 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "pubDate": "Tue, 03 Nov 2026 23:00:07 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBIの上期決算、暗号資産事業収益は231億円　前年同期比30.1％減",
+      "link": "https://coinpost.jp/?p=746135",
+      "pubDate": "Wed, 04 Nov 2026 07:55:57 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場のストライブが43124BTC保有、世界2位のメタプラネットへ接近",
+      "link": "https://coinpost.jp/?p=746115",
+      "pubDate": "Wed, 04 Nov 2026 07:20:01 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "pubDate": "Tue, 03 Nov 2026 22:14:44 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC、個別株の無期限先物上場を承認",
+      "link": "https://coinpost.jp/?p=746117",
+      "pubDate": "Wed, 04 Nov 2026 06:50:05 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場が「青い津波」予想、仮想通貨に関わるオハイオなど4州も民主党優勢　米中間選挙",
+      "link": "https://coinpost.jp/?p=746119",
+      "pubDate": "Wed, 04 Nov 2026 06:20:10 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Strategy Pauses Bitcoin Buys to Focus on Preferred Stock Buybacks",
+      "link": "https://www.investing.com/analysis/strategy-pauses-bitcoin-buys-to-focus-on-preferred-stock-buybacks-200690801",
+      "pubDate": "Nov 03, 2026 19:19 GMT"
+    }
+  ]
+}
