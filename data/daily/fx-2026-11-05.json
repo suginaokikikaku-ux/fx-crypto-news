@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-05",
+  "seoTitle": "USD/JPYとマクロ環境の変化を分析",
+  "seoDescription": "米国経済の指標と金利動向がUSD/JPYに与える影響を深掘り。マクロ視点からの市場構造を解説。",
+  "article": "## 1. 1分で読める結論\n\n今日の相場は、米国経済指標の改善によりUSD/JPYが上昇し、リスクオンの動きが強まりました。特に米国の工場出荷が1.8%増加したことがトリガーとなり、経済成長への期待感が広がりました。BTCも同様のリスク選好の流れに影響を受けていると考えられます。\n\n## 2. 今日の主要ドライバー3つ\n\n1. **米国工場出荷の増加 → 経済成長への期待感**  \n米国の工場出荷が1.8%増加したことにより、企業の投資意欲が高まる兆しが見えました。これにより、経済の回復が期待され、リスクオンの流れが強化されました。\n\n2. **米国の貿易赤字がテクノロジー分野で拡大 → 市場の不安定要素の認識**  \nテクノロジーが米国の貿易赤字の2/3を占めることが明らかになり、市場参加者が今後の経済政策への影響を懸念しました。この認識がUSDの上昇を抑える要因として働く可能性があります。\n\n3. **米国の雇用情勢が変化 → 労働市場の逼迫感**  \n米国の求人件数が750万件を維持しつつも、労働者の転職が増加していることから、人手不足が浮き彫りになり、賃金上昇圧力が高まる可能性があります。これが金利上昇を促す要因となるかもしれません。\n\n## 3. 市場構造の解釈\n\n今回の動きは、主に米国の経済指標によるもので、特に金利の影響を強く受けています。工場出荷の増加は企業の投資意欲を示し、金利の上昇を期待させる要因となっています。これにより、機関投資家がリスクを取る姿勢を強め、短期の投資家も追随する動きが見られます。今後の経済指標次第で、この流れが持続するかどうかが重要なポイントです。\n\n## 4. USD/JPY分析\n\n現在の相場観は、全般的にリスクオンの流れが強いと考えられます。短期的には、米国の経済指標が好転する中で上昇しやすい環境にありますが、中期的にはテクノロジー関連の貿易赤字拡大の影響が懸念されます。今回の動きは「継続型」の可能性が高いですが、テクノロジーセクターの影響がどれほど強く出るかに注目です。\n\n## 5. BTCへの波及\n\n米国の経済指標が改善する中で、リスク選好が強まることでBTCへの資金流入が期待されます。特に金利上昇が続く場合、BTCが資金の逃避先としての役割を果たす可能性があります。したがって、リスクオンの環境はBTCにとって好材料となり得ます。\n\n## 6. 強気・弱気の分岐条件\n\n- **強気条件**: 米国経済の指標が引き続き好転し、金利上昇が期待される場合。\n- **弱気条件**: テクノロジー関連の貿易赤字が市場に強い影響を及ぼし、リスク回避の動きが強まる場合。\n\n## 7. 今日の示唆\n\n市場では、米国の経済指標に注目し、特に工場出荷や貿易赤字の動向を追うことが重要です。これにより、金利の動きやリスク選好の変化を把握することができます。また、BTCの動きにも注視することで、資金の流れを読み解く手助けになるでしょう。\n\n## 8. 今日の結論\n\n今日の相場は、米国経済の指標改善がリスク選好を促進し、USD/JPYが上昇しています。今後の経済データが市場に与える影響を注視すべきです。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "5,200 Miles: Impressions of the US Economy",
+      "link": "https://www.investing.com/analysis/5200-miles-impressions-of-the-us-economy-200690880",
+      "pubDate": "Nov 04, 2026 18:48 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Tech Now Accounts for Two-Thirds of the US Trade Deficit",
+      "link": "https://www.investing.com/analysis/tech-now-accounts-for-twothirds-of-the-us-trade-deficit-200690878",
+      "pubDate": "Nov 04, 2026 18:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Factory Orders Rose 1.8%: How Much Was Real Investment Demand?",
+      "link": "https://www.investing.com/analysis/us-factory-orders-rose-18-how-much-was-real-investment-demand-200690875",
+      "pubDate": "Nov 04, 2026 17:29 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Treasury’s $618 Billion Borrowing Plan Hides a Bigger Bond Market Question",
+      "link": "https://www.investing.com/analysis/us-treasurys-618-billion-borrowing-plan-hides-a-bigger-bond-market-question-200690874",
+      "pubDate": "Nov 04, 2026 17:18 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Equity Perpetual Futures Open a New Market and a New Risk Equation",
+      "link": "https://www.investing.com/analysis/us-equity-perpetual-futures-open-a-new-market-and-a-new-risk-equation-200690872",
+      "pubDate": "Nov 04, 2026 17:01 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Job Openings Hold at 7.5 Million, but Worker Turnover Is Shifting",
+      "link": "https://www.investing.com/analysis/us-job-openings-hold-at-75-million-but-worker-turnover-is-shifting-200690871",
+      "pubDate": "Nov 04, 2026 16:53 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "ADP Shows 86,000 New Jobs, but the Sector Split Tells a Different Story",
+      "link": "https://www.investing.com/analysis/adp-shows-86000-new-jobs-but-the-sector-split-tells-a-different-story-200690869",
+      "pubDate": "Nov 04, 2026 16:27 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/AUD Faces a Bearish Reversal as Range Resistance Puts Support at Risk",
+      "link": "https://www.investing.com/analysis/gbpaud-faces-a-bearish-reversal-as-range-resistance-puts-support-at-risk-200690862",
+      "pubDate": "Nov 04, 2026 13:56 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "November Could Be a Crucial Month for Traders: Here’s Why",
+      "link": "https://www.investing.com/analysis/november-could-be-a-crucial-month-for-traders-heres-why-200690858",
+      "pubDate": "Nov 04, 2026 13:27 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "What Democrats’ Midterm Win Means for Markets",
+      "link": "https://www.investing.com/analysis/what-democrats-midterm-win-means-for-markets-200690856",
+      "pubDate": "Nov 04, 2026 12:26 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD, Gold Forecast: 2 Trades to Watch",
+      "link": "https://www.investing.com/analysis/eurusd-gold-forecast-2-trades-to-watch-200690852",
+      "pubDate": "Nov 04, 2026 11:34 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Election-Driven Dollar Dip May Offer Buying Opportunity Ahead of Jobs Report",
+      "link": "https://www.investing.com/analysis/electiondriven-dollar-dip-may-offer-buying-opportunity-ahead-of-jobs-report-200690850",
+      "pubDate": "Nov 04, 2026 11:19 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Forex Daily: The Blue Wave Throws a Wrench Into the US Dollar’s Upside",
+      "link": "https://www.investing.com/analysis/forex-daily-the-blue-wave-throws-a-wrench-into-the-us-dollars-upside-200690832",
+      "pubDate": "Nov 04, 2026 08:43 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FX Outlook: Blue Wave Price Action a Preview of What’s to Come",
+      "link": "https://www.investing.com/analysis/fx-outlook-blue-wave-price-action-a-preview-of-whats-to-come-200690831",
+      "pubDate": "Nov 04, 2026 08:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD at 7-Week High: Bank of England Takes Centre Stage",
+      "link": "https://www.investing.com/analysis/gbpusd-at-7week-high-bank-of-england-takes-centre-stage-200690827",
+      "pubDate": "Nov 04, 2026 08:01 GMT"
+    }
+  ]
+}
