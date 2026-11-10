@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-10",
+  "seoTitle": "11月10日の暗号資産市場動向",
+  "seoDescription": "暗号資産市場の最新ニュースを整理。主要コインの状態や注目プロジェクトの進捗を詳しく解説します。",
+  "article": "# 1分で読める結論\n最近の暗号資産市場は、米中間選挙やインフレ指標の影響で不安定な動きを見せている。また、イーサリアムの元従業員による訴訟や、ビットマインのイーサリアム保有増加が注目される。\n\n## 今日の暗号資産市場の地合い\n市場全体は、米国のインフレ指標（CPI）の発表を控え、投資家の間に不安が広がっている。暗号資産は、株式市場の動向と相関する傾向が強く、特に中間選挙の結果が重要な要素となる。市場は上下に振れやすい状況が続いており、慎重な姿勢が求められる。\n\n## 今日の主要トピック3つ\n1. **イーサリアム財団元従業員の訴訟**: 財団とヴィタリック氏ら幹部を相手に不当解雇を訴える。\n2. **チャールズシュワブによる暗号資産現物取引の拡大**: 新たにSOL、AVAX、LINKを取引対象に加えた。\n3. **ビットマインのイーサリアム保有状況**: 総保有量が607万ETHを超え、目標の99%に到達した。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 米国のCPI発表を前に、価格が安定せず、投資家の注目が集まる。\n- **イーサリアム (ETH)**: 最近の訴訟問題が影響しつつも、ビットマインの保有増加はポジティブな材料。\n- **ソラナ (SOL)、アバランチ (AVAX)、リンク (LINK)**: チャールズシュワブによる現物取引の追加が、流動性向上につながる可能性がある。\n\n## 個別プロジェクトの進捗\n- **イーサリアム財団**: 訴訟問題が浮上し、今後の運営に影響を与える可能性がある。\n- **ビットマイン**: 大規模なイーサリアム保有を進め、今後の市場動向に影響を与える。\n- **PNC銀行**: 法人向けにUSDC決済の試験提供を開始し、機関投資家の参入を促進している。\n\n## 今日の要約から見える示唆\n市場全体は不安定な動きを示しており、特に米国の経済指標が暗号資産の価格に大きな影響を与える。主要コインの動向や、特定のプロジェクトの進展が市場に与える影響を注視する必要がある。\n\n## 次に確認すべきこと\n- 米国のCPI発表後の市場反応に注目。\n- イーサリアム財団の訴訟進展とビットマインの動き。\n- チャールズシュワブの取引拡大が市場に与える影響。\n\n## 今日の結論\n暗号資産市場は不安定な状況が続いており、特に米国の経済指標が市場に与える影響が大きい。主要プロジェクトの進捗にも注目が必要であり、今後の動向を慎重に見守ることが求められる。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "あたらしい経済",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム財団元従業員、不当解雇で財団やヴィタリック氏ら幹部を提訴",
+      "link": "https://coinpost.jp/?p=747201",
+      "pubDate": "Tue, 10 Nov 2026 12:40:14 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "チャールズシュワブ、暗号資産現物取引にSOL・AVAX・LINK追加",
+      "link": "https://www.neweconomy.jp/posts/625351",
+      "pubDate": "Tue, 10 Nov 2026 03:30:04 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "pubDate": "Tue, 10 Nov 2026 03:22:26 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットマインがイーサリアム追加取得、総保有量607万ETH超、目標の99%に到達",
+      "link": "https://www.neweconomy.jp/posts/625335",
+      "pubDate": "Tue, 10 Nov 2026 03:18:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプ・メディア、3Q純利益約647億円　ビットコインなどの評価益で黒字転換",
+      "link": "https://coinpost.jp/?p=747210",
+      "pubDate": "Tue, 10 Nov 2026 12:16:03 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "暗号資産市場、米中間選挙や株式動向や雇用統計など材料に上下に振れる不安定な展開（仮想通貨市場レポート 11/10 号）",
+      "link": "https://www.neweconomy.jp/features/sbivct/625022",
+      "pubDate": "Tue, 10 Nov 2026 03:13:13 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "【第3部スタート】トークンは人をどう動かす？ 「渡す」と「見せる」の違い（「そうだったのかブロックチェーン Ep.23」内田善彦・酒井勇也・大津賀新也）",
+      "link": "https://www.neweconomy.jp/features/sbc/624964",
+      "pubDate": "Tue, 10 Nov 2026 03:00:05 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米PNC銀行、法人・機関向けにUSDC決済の受取を試験提供。コインベースと",
+      "link": "https://www.neweconomy.jp/posts/625301",
+      "pubDate": "Tue, 10 Nov 2026 02:54:41 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "NYSE関連のトークン化証券基盤、清算・決済にアバランチ採用へ",
+      "link": "https://www.neweconomy.jp/posts/625291",
+      "pubDate": "Tue, 10 Nov 2026 02:49:06 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ジーキャッシュ、ブロック生成間隔をさらに短縮する提案を議論へ",
+      "link": "https://coinpost.jp/?p=747189",
+      "pubDate": "Tue, 10 Nov 2026 11:15:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "金融庁、暗号資産など無登録業者の注意喚起を更新　消費者庁対策へ導線",
+      "link": "https://coinpost.jp/?p=747194",
+      "pubDate": "Tue, 10 Nov 2026 11:06:39 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アンソロピック、「Claude Fable 5.2」と「Claude Mythos 5.2」提供開始。標準API単価を2割引き下げ",
+      "link": "https://www.neweconomy.jp/posts/625247",
+      "pubDate": "Tue, 10 Nov 2026 01:58:31 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アーベラボ、固定金利融資の開発に向けアボンのチームと技術を買収",
+      "link": "https://www.neweconomy.jp/posts/625238",
+      "pubDate": "Tue, 10 Nov 2026 01:51:01 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "サカナAI、2027年秋にもIPOと報道。公式Xで近い将来の上場計画を否定",
+      "link": "https://www.neweconomy.jp/posts/625228",
+      "pubDate": "Tue, 10 Nov 2026 01:44:08 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "DEX「Hyperliquid」を理解する実践ワークショップ｜日本デジタル経済連盟",
+      "link": "https://coinpost.jp/?p=747171",
+      "pubDate": "Tue, 10 Nov 2026 10:40:29 +0900"
+    }
+  ]
+}
