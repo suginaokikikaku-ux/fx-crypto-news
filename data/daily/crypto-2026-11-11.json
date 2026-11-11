@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-11",
+  "seoTitle": "暗号資産市場動向と注目プロジェクト分析【2026年11月11日】",
+  "seoDescription": "最新の暗号資産市場の地合い、主要コインの動向、個別プロジェクトの進捗を詳しく解説。今後の確認事項も整理。",
+  "article": "# 1分で読める結論\n2026年11月11日、暗号資産市場は流動性低下と規制懸念により厳しい地合いが続いている。ビットコインやイーサリアムのETFへの流出が目立つ中、ソラナのフォワードが大規模な保有を行うなど、特定プロジェクトは活発に動いている。\n\n## 今日の暗号資産市場の地合い\n市場全体は利上げ観測と規制強化の懸念から流動性が低下しており、特にビットコインは下値警戒の状況にある。これにより、主要コイン全体の価格にも影響が及んでいる。投資家は慎重な姿勢を維持している。\n\n## 今日の主要トピック3つ\n1. **ビットコイン・イーサリアム現物ETFの純流出**: 過去3日間で2275億円が流出し、資金流入の減少が続いている。  \n   [詳細はこちら](https://coinpost.jp/?p=747333)  \n2. **ソラナのフォワードが22万SOLを追加取得**: これにより、同社の保有は872万SOLを超え、プロジェクトの成長を示唆。  \n   [詳細はこちら](https://coinpost.jp/?p=747386)  \n3. **米CFTCによる法的措置の警告**: 規制の風向きが変わりつつあり、今後の影響が注目される。  \n   [詳細はこちら](https://coinpost.jp/?p=747321)  \n\n## メインコインの整理\n- **ビットコイン**: 流動性低下により下値が警戒されており、ETFへの流出が続いている。  \n- **イーサリアム**: ビットコイン同様に流出が続き、価格への影響が懸念される。  \n- **ソラナ**: フォワードの保有増加により市場での存在感が強まっている。  \n\n## 個別プロジェクトの進捗\n- **ソラナ**: DAT最大手フォワードが22万SOLを追加取得し、保有を872万SOL以上に拡大。これにより、プロジェクトの積極性が伺える。  \n- **Datachain**: 三井住友銀行との連携でオンチェーン金融インフラ技術の検討を支援。これにより企業向けの信頼性が向上する可能性がある。  \n   [詳細はこちら](https://coinpost.jp/?p=747362)  \n\n## 今日の要約から見える示唆\n流動性の低下と規制懸念は、今後も暗号資産市場全体に影響を与える。特にビットコインやイーサリアムのETF関連の動向は、資金の流入・流出に直結するため、投資家は注意が必要である。ソラナのように特定のプロジェクトは積極的に動いているため、注目を集めている。\n\n## 次に確認すべきこと\n- ビットコイン・イーサリアムのETF関連の流出入動向を継続的にチェックする。  \n- ソラナおよびDatachainの進捗をフォローし、他のプロジェクトとの比較を行う。  \n- 規制に関する動向を注視し、特にCFTCの法的措置の影響を分析する。  \n\n## 今日の結論\n暗号資産市場は依然として厳しい状況にあるが、特定のプロジェクトは活発な動きを見せている。投資家は、流動性や規制の影響を考慮しながら、次の動きを注視する必要がある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナDAT最大手フォワード、22万SOL追加取得　保有872万超",
+      "link": "https://coinpost.jp/?p=747386",
+      "pubDate": "Wed, 11 Nov 2026 10:34:29 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援",
+      "link": "https://coinpost.jp/?p=747362",
+      "pubDate": "Wed, 11 Nov 2026 10:15:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米ビットコイン・イーサリアム現物ETF、3日連続の純流出　累計2255億円",
+      "link": "https://coinpost.jp/?p=747333",
+      "pubDate": "Wed, 11 Nov 2026 09:35:17 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインに三重苦、利上げ観測・規制懸念・流動性低下で下値警戒｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=747345",
+      "pubDate": "Wed, 11 Nov 2026 09:00:38 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "元CFTC委員長、クラリティー法案不成立にトランプ氏のミームコインが影響と指摘＝報道",
+      "link": "https://coinpost.jp/?p=747334",
+      "pubDate": "Wed, 11 Nov 2026 08:15:09 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインを現物ETFに交換する需要、ブラックロックで過去最高水準に＝バロンズ",
+      "link": "https://coinpost.jp/?p=747337",
+      "pubDate": "Wed, 11 Nov 2026 08:05:51 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC、予測市場大手カルシに法的措置を警告　規制の風向き変わったか",
+      "link": "https://coinpost.jp/?p=747321",
+      "pubDate": "Wed, 11 Nov 2026 07:35:43 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、取引所MEXC宛て送金を拒否　関連取引は審査対象に",
+      "link": "https://coinpost.jp/?p=747322",
+      "pubDate": "Wed, 11 Nov 2026 07:25:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "2028年の大統領選出馬を検討するカンナ下院議員、スポーツ予測市場は禁止すべきと主張",
+      "link": "https://coinpost.jp/?p=747323",
+      "pubDate": "Wed, 11 Nov 2026 06:50:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、一部のiOSの脆弱性を警告",
+      "link": "https://coinpost.jp/?p=747324",
+      "pubDate": "Wed, 11 Nov 2026 06:25:51 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "pubDate": "Tue, 10 Nov 2026 20:15:08 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "pubDate": "Tue, 10 Nov 2026 17:32:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000"
+    }
+  ]
+}
