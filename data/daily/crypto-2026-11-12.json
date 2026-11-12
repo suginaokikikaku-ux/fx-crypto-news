@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-12",
+  "seoTitle": "暗号資産市場の最新動向と分析",
+  "seoDescription": "G20の規制強化やロシアの仮想通貨取引サービス提供開始など、暗号資産市場の最新情報を整理。今後の注目点も。",
+  "article": "# 1分で読める結論\n暗号資産市場は、G20による規制強化の必要性指摘やロシアの取引サービス提供開始など、規制関連のニュースが多く注目される動きが見られる。また、ステーブルコイン市場では過去30日で2.2兆円の資金流出が発生し、影響が広がる可能性がある。\n\n## 今日の暗号資産市場の地合い\n市場全体は規制強化や新たな取引サービスの導入により、不安定な側面が強まっている。特に、ステーブルコインの資金流出は市場全体に影響を及ぼす可能性が高い。投資家は慎重な姿勢を維持しているが、新たな機会を求めている様子も見受けられる。\n\n## 今日の主要トピック3つ\n1. **G20のFSBがトルコの規制強化の必要性を指摘**: トルコの暗号資産市場に対する規制が強化される可能性があることが報じられた。\n2. **ロシアが仮想通貨取引サービスの提供開始**: 11月22日からロシアで仮想通貨取引サービスが提供されることが決定し、市場の動向に影響を与える。\n3. **ステーブルコインの大規模な資金流出**: 過去30日間でステーブルコイン市場から2.2兆円が流出し、その影響が広がる見込み。\n\n## メインコインの整理\nビットコインやイーサリアムを含む主要コインは、規制の影響を受けつつも取引量は維持している。特に、ビットコインは市場全体の動向を示す重要な指標であり、投資家の関心が続いている。\n\n## 個別プロジェクトの進捗\n- **Galxe**: チームとブランドを「グラビティ」に統合する計画を発表し、既存サービスの段階的な終了を決定。\n- **OKXICE**: 11月23日に新しいトークン化証券取引所を立ち上げることを発表し、SECのイノベーション免除のもとで運営を開始。\n- **ビットコインコア**: 深刻度の高いバグを含む3件の脆弱性を修正し、セキュリティ強化が図られた。\n\n## 今日の要約から見える示唆\n規制の強化や新たな取引サービスの導入が進む中で、投資家は市場の変化に敏感になっている。特に、ステーブルコインの資金流出は市場の信頼性に影響を与えるため、今後の動向に注意が必要である。 \n\n## 次に確認すべきこと\n1. トルコの規制強化に関する具体的な方針や影響を確認する。\n2. ロシアでの仮想通貨取引サービス開始後の市場反応を観察する。\n3. ステーブルコイン市場の資金流出の原因と今後の影響を詳細に分析する。\n\n## 今日の結論\n暗号資産市場は、規制関連のニュースが多く、特にステーブルコインの動向には今後も注視が必要である。市場の不安定要素を踏まえ、投資家は新たな機会とリスクを慎重に見極める必要がある。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "G20のFSB、トルコの暗号資産・ステーブルコイン規制強化が必要と指摘",
+      "link": "https://www.neweconomy.jp/posts/626038",
+      "pubDate": "Thu, 12 Nov 2026 02:31:20 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ロシア、11月22日から仮想通貨取引サービスの提供が可能に",
+      "link": "https://coinpost.jp/?p=747580",
+      "pubDate": "Thu, 12 Nov 2026 11:25:30 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソフトバンクG、米AIデータセンター向け発電設備の調達見直しで5972億円の損失",
+      "link": "https://www.neweconomy.jp/posts/626025",
+      "pubDate": "Thu, 12 Nov 2026 02:11:42 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場ポリマーケット、人員削減と業務委託の契約解除　カルシに後れ立て直しへ＝報道",
+      "link": "https://coinpost.jp/?p=747543",
+      "pubDate": "Thu, 12 Nov 2026 11:02:35 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "エヌビディア取締役会、フアンCEOの解任準備か＝報道",
+      "link": "https://www.neweconomy.jp/posts/626018",
+      "pubDate": "Thu, 12 Nov 2026 02:02:08 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Galxe、チームとブランドを「グラビティ」に統合へ。Questなど既存サービスを段階的に終了",
+      "link": "https://www.neweconomy.jp/posts/626005",
+      "pubDate": "Thu, 12 Nov 2026 01:48:21 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "OKXICE、11/23にトークン化証券取引所を立上げへ。SECイノベーション免除のもと",
+      "link": "https://www.neweconomy.jp/posts/625995",
+      "pubDate": "Thu, 12 Nov 2026 01:35:36 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "野村HD、暗号資産子会社レーザーデジタルの売却検討か＝報道",
+      "link": "https://www.neweconomy.jp/posts/625990",
+      "pubDate": "Thu, 12 Nov 2026 01:30:45 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインコア、深刻度の高いバグ含む3件の脆弱性を修正済",
+      "link": "https://coinpost.jp/?p=747551",
+      "pubDate": "Thu, 12 Nov 2026 10:25:21 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米MSCI、ストラテジーとメタプラネットの指数除外を決定、11月末に適用",
+      "link": "https://www.neweconomy.jp/posts/625973",
+      "pubDate": "Thu, 12 Nov 2026 01:23:56 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減　4年超ぶりの資金流出",
+      "link": "https://coinpost.jp/?p=747545",
+      "pubDate": "Thu, 12 Nov 2026 10:05:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ファンド運用者の仮想通貨配分1.3％に、分散目的4割＝コインシェアーズ",
+      "link": "https://coinpost.jp/?p=747570",
+      "pubDate": "Thu, 12 Nov 2026 09:52:54 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC、個別株の無期限先物訴訟に参加　CFTCを支持",
+      "link": "https://coinpost.jp/?p=747511",
+      "pubDate": "Thu, 12 Nov 2026 09:20:20 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPYCの岡部氏がステーブルコインの重要性を主張、「銀行が停止しても使用は可能」",
+      "link": "https://coinpost.jp/?p=747532",
+      "pubDate": "Thu, 12 Nov 2026 08:00:20 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米MSCI、ストラテジー・メタプラネットを指数から除外決定　影響は？",
+      "link": "https://coinpost.jp/?p=747512",
+      "pubDate": "Thu, 12 Nov 2026 07:50:22 +0900"
+    }
+  ]
+}

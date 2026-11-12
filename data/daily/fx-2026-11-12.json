@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-12",
+  "seoTitle": "USD/JPYとマクロ経済の影響分析",
+  "seoDescription": "USD/JPYの動向を中心に、金利、地政学、流動性の影響を解説。市場構造の変化に注目。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国の金利政策に対する懸念が影響を及ぼし、USD/JPYは上昇基調を維持している。特に、インフレ指標の悪化がトリガーとなり、ドルの強さを支えている。加えて、これがBTC市場にも影響を与える可能性がある。\n\n## 2. 今日の主要ドライバー3つ\n1. **インフレ指標の上昇 → ドル強化**: 米国のインフレ指標が予想以上に上昇し、投資家の間で金利引き上げの期待が高まっている。これがドルを押し上げ、他通貨に対して強い影響を及ぼしている。\n2. **地政学的リスクの増加 → 安全資産への逃避**: 地政学的な緊張が高まる中、安全資産としてのドルが選好され、これがUSD/JPYの上昇を助長している。この流れがリスクオフの姿勢を強化している。\n3. **市場のポジション調整 → ボラティリティの増加**: 短期筋がポジションを調整する中で、ボラティリティが増加しており、これが相場の急変動を促している。この調整は、特にドルを中心に影響を与えている。\n\n## 3. 市場構造の解釈\n現在の相場は、金利の動向が主導している。特に米国のインフレデータを受けて、投資家が金利引き上げを織り込む動きが強まっているため、ドルに対する需要が高まっている。一時的な動きではなく、今後数日間はこの傾向が継続する可能性が高い。機関投資家が主導しており、短期的なボラティリティも伴う中で、流動性の変化が重要な要素となるだろう。仮説として、インフレに対する強い警戒感が市場を動かしていると考えられる。\n\n## 4. USD/JPY分析\n現在の相場観は、上昇基調にある。短期的には、ドルの強さが続くと見られるが、地政学的リスクや金利動向によって変動が予想される。中期的には、インフレ指標の影響を受け、ドル高が継続する可能性がある。今回の動きは「継続型」とみなされ、流動性の変化が相場に影響を与えている。\n\n## 5. BTCへの波及\nドルの強さが続くと、リスクオフの姿勢がBTC市場にも影響を与える可能性がある。特に、安全資産としてのドルが選ばれる中、BTCが資金の逃避先として見られにくくなる可能性がある。市場のボラティリティが高まることで、BTCも影響を受ける可能性がある。\n\n## 6. 強気・弱気の分岐条件\n- **強気シナリオ**: インフレ指標がさらに上昇し、金利引き上げ期待が強まる場合。\n- **弱気シナリオ**: 地政学的リスクが緩和し、安全資産としてのドルの需要が減少する場合。\n- **市場の反応**: 短期的なボラティリティを伴う動きが続く中で、重要な経済指標の発表があれば、さらなる影響を与える可能性がある。\n\n## 7. 今日の示唆\n今の相場で意識すべきは、米国のインフレ指標と金利動向である。これに加え、地政学的なニュースにも注目が必要で、特にリスクオフの動きがどのように展開されるかが重要だ。市場のボラティリティを見極めることが、今後の戦略に影響を与えるだろう。\n\n## 8. 今日の結論\n今日の相場は、インフレへの警戒感がドルを押し上げ、USD/JPYは上昇基調を維持している。市場の動向を見極め、流動性の変化に注目することが求められる。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Rush for Safety Is Building a Bubble of Its Own",
+      "link": "https://www.investing.com/analysis/the-rush-for-safety-is-building-a-bubble-of-its-own-200691369",
+      "pubDate": "Nov 11, 2026 17:01 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USDCAD — H4 Technical Analysis",
+      "link": "https://www.investing.com/analysis/usdcad--h4-technical-analysis-200691396",
+      "pubDate": "Nov 11, 2026 15:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Euro Options: A Fresh 2,911-Contract Put Block Appears Below the Market",
+      "link": "https://www.investing.com/analysis/euro-options-a-fresh-2911contract-put-block-appears-below-the-market-200691397",
+      "pubDate": "Nov 11, 2026 15:12 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY, DAX Forecast: 2 Trades to Watch",
+      "link": "https://www.investing.com/analysis/usdjpy-dax-forecast-2-trades-to-watch-200691382",
+      "pubDate": "Nov 11, 2026 12:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Above $4,050: Rally or Investor Trap?",
+      "link": "https://www.investing.com/analysis/gold-above-4050-rally-or-investor-trap-200691376",
+      "pubDate": "Nov 11, 2026 11:38 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Above $4,050: Is the Rally Hiding a Trap for Investors?",
+      "link": "https://www.investing.com/analysis/gold-above-4050-is-the-rally-hiding-a-trap-for-investors-200691375",
+      "pubDate": "Nov 11, 2026 11:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Inflation Bites Back: The Fed’s Hawkish Reckoning Meets $90 Billion AI IPO Test",
+      "link": "https://www.investing.com/analysis/inflation-bites-back-the-feds-hawkish-reckoning-meets-90-billion-ai-ipo-test-200691374",
+      "pubDate": "Nov 11, 2026 11:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Faces a Test at 1.1110 as Rising Treasury Yields Favor the US Dollar",
+      "link": "https://www.investing.com/analysis/eurusd-faces-a-test-at-11110-as-rising-treasury-yields-favor-the-us-dollar-200691361",
+      "pubDate": "Nov 11, 2026 10:34 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Stocks Attempt a Comeback Despite Fed Hike Bets and Nvidia Troubles",
+      "link": "https://www.investing.com/analysis/stocks-attempt-a-comeback-despite-fed-hike-bets-and-nvidia-troubles-200691368",
+      "pubDate": "Nov 11, 2026 10:21 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Why I Expect the Fed to Hold in December Despite 100% Chance of Hikes",
+      "link": "https://www.investing.com/analysis/why-i-expect-the-fed-to-hold-in-december-despite-100-chance-of-hikes-200691360",
+      "pubDate": "Nov 11, 2026 09:32 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Faces a Tricky Moment: What Will Help the Pound?",
+      "link": "https://www.investing.com/analysis/gbpusd-faces-a-tricky-moment-what-will-help-the-pound-200691359",
+      "pubDate": "Nov 11, 2026 09:31 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Indices Trade Higher in Early Wednesday Action Despite Hotter-Than-Expected CPI",
+      "link": "https://www.investing.com/analysis/us-indices-trade-higher-in-early-wednesday-action-despite-hotterthanexpected-cpi-200691357",
+      "pubDate": "Nov 11, 2026 09:20 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Oil Prices Are Betting on Iran Peace, but the Strait of Hormuz Remains a Risk",
+      "link": "https://www.investing.com/analysis/oil-prices-are-betting-on-iran-peace-but-the-strait-of-hormuz-remains-a-risk-200691355",
+      "pubDate": "Nov 11, 2026 08:51 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FX Daily: Bearish Yield Curve Flattening Lifts the Dollar",
+      "link": "https://www.investing.com/analysis/fx-daily-bearish-yield-curve-flattening-lifts-the-dollar-200691352",
+      "pubDate": "Nov 11, 2026 08:20 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY, USD/CAD Outlook: Fed Hawks Put Dollar Bulls on Alert",
+      "link": "https://www.investing.com/analysis/usdjpy-usdcad-outlook-fed-hawks-put-dollar-bulls-on-alert-200691333",
+      "pubDate": "Nov 11, 2026 08:11 GMT"
+    }
+  ]
+}

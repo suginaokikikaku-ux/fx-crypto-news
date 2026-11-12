@@ -1,111 +1,552 @@
 [
   {
-    "source": "CoinPost",
+    "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "ソラナDAT最大手フォワード、22万SOL追加取得　保有872万超",
-    "link": "https://coinpost.jp/?p=747386",
-    "pubDate": "Wed, 11 Nov 2026 10:34:29 +0900"
+    "title": "G20のFSB、トルコの暗号資産・ステーブルコイン規制強化が必要と指摘",
+    "link": "https://www.neweconomy.jp/posts/626038",
+    "pubDate": "Thu, 12 Nov 2026 02:31:20 +0000"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "Datachain、三井住友銀行のオンチェーン金融インフラ技術検討を支援",
-    "link": "https://coinpost.jp/?p=747362",
-    "pubDate": "Wed, 11 Nov 2026 10:15:11 +0900"
+    "title": "ロシア、11月22日から仮想通貨取引サービスの提供が可能に",
+    "link": "https://coinpost.jp/?p=747580",
+    "pubDate": "Thu, 12 Nov 2026 11:25:30 +0900"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ソフトバンクG、米AIデータセンター向け発電設備の調達見直しで5972億円の損失",
+    "link": "https://www.neweconomy.jp/posts/626025",
+    "pubDate": "Thu, 12 Nov 2026 02:11:42 +0000"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "米ビットコイン・イーサリアム現物ETF、3日連続の純流出　累計2255億円",
-    "link": "https://coinpost.jp/?p=747333",
-    "pubDate": "Wed, 11 Nov 2026 09:35:17 +0900"
+    "title": "予測市場ポリマーケット、人員削減と業務委託の契約解除　カルシに後れ立て直しへ＝報道",
+    "link": "https://coinpost.jp/?p=747543",
+    "pubDate": "Thu, 12 Nov 2026 11:02:35 +0900"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "エヌビディア取締役会、フアンCEOの解任準備か＝報道",
+    "link": "https://www.neweconomy.jp/posts/626018",
+    "pubDate": "Thu, 12 Nov 2026 02:02:08 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "Galxe、チームとブランドを「グラビティ」に統合へ。Questなど既存サービスを段階的に終了",
+    "link": "https://www.neweconomy.jp/posts/626005",
+    "pubDate": "Thu, 12 Nov 2026 01:48:21 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "OKXICE、11/23にトークン化証券取引所を立上げへ。SECイノベーション免除のもと",
+    "link": "https://www.neweconomy.jp/posts/625995",
+    "pubDate": "Thu, 12 Nov 2026 01:35:36 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "野村HD、暗号資産子会社レーザーデジタルの売却検討か＝報道",
+    "link": "https://www.neweconomy.jp/posts/625990",
+    "pubDate": "Thu, 12 Nov 2026 01:30:45 +0000"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "ビットコインに三重苦、利上げ観測・規制懸念・流動性低下で下値警戒｜仮想NISHI",
-    "link": "https://coinpost.jp/?p=747345",
-    "pubDate": "Wed, 11 Nov 2026 09:00:38 +0900"
+    "title": "ビットコインコア、深刻度の高いバグ含む3件の脆弱性を修正済",
+    "link": "https://coinpost.jp/?p=747551",
+    "pubDate": "Thu, 12 Nov 2026 10:25:21 +0900"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "米MSCI、ストラテジーとメタプラネットの指数除外を決定、11月末に適用",
+    "link": "https://www.neweconomy.jp/posts/625973",
+    "pubDate": "Thu, 12 Nov 2026 01:23:56 +0000"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "元CFTC委員長、クラリティー法案不成立にトランプ氏のミームコインが影響と指摘＝報道",
-    "link": "https://coinpost.jp/?p=747334",
-    "pubDate": "Wed, 11 Nov 2026 08:15:09 +0900"
+    "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減　4年超ぶりの資金流出",
+    "link": "https://coinpost.jp/?p=747545",
+    "pubDate": "Thu, 12 Nov 2026 10:05:39 +0900"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "ビットコインを現物ETFに交換する需要、ブラックロックで過去最高水準に＝バロンズ",
-    "link": "https://coinpost.jp/?p=747337",
-    "pubDate": "Wed, 11 Nov 2026 08:05:51 +0900"
+    "title": "ファンド運用者の仮想通貨配分1.3％に、分散目的4割＝コインシェアーズ",
+    "link": "https://coinpost.jp/?p=747570",
+    "pubDate": "Thu, 12 Nov 2026 09:52:54 +0900"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "米CFTC、予測市場大手カルシに法的措置を警告　規制の風向き変わったか",
-    "link": "https://coinpost.jp/?p=747321",
-    "pubDate": "Wed, 11 Nov 2026 07:35:43 +0900"
+    "title": "米SEC、個別株の無期限先物訴訟に参加　CFTCを支持",
+    "link": "https://coinpost.jp/?p=747511",
+    "pubDate": "Thu, 12 Nov 2026 09:20:20 +0900"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "バイナンス、取引所MEXC宛て送金を拒否　関連取引は審査対象に",
-    "link": "https://coinpost.jp/?p=747322",
-    "pubDate": "Wed, 11 Nov 2026 07:25:46 +0900"
+    "title": "JPYCの岡部氏がステーブルコインの重要性を主張、「銀行が停止しても使用は可能」",
+    "link": "https://coinpost.jp/?p=747532",
+    "pubDate": "Thu, 12 Nov 2026 08:00:20 +0900"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "2028年の大統領選出馬を検討するカンナ下院議員、スポーツ予測市場は禁止すべきと主張",
-    "link": "https://coinpost.jp/?p=747323",
-    "pubDate": "Wed, 11 Nov 2026 06:50:48 +0900"
+    "title": "米MSCI、ストラテジー・メタプラネットを指数から除外決定　影響は？",
+    "link": "https://coinpost.jp/?p=747512",
+    "pubDate": "Thu, 12 Nov 2026 07:50:22 +0900"
   },
   {
     "source": "CoinPost",
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
-    "title": "バイナンス、一部のiOSの脆弱性を警告",
-    "link": "https://coinpost.jp/?p=747324",
-    "pubDate": "Wed, 11 Nov 2026 06:25:51 +0900"
+    "title": "リップル元CTOのシュワルツ氏、保有仮想通貨をほぼ全売却　XRPは最大2600万から300万に",
+    "link": "https://coinpost.jp/?p=747513",
+    "pubDate": "Thu, 12 Nov 2026 07:20:24 +0900"
   },
   {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Why Sticky Inflation and Rising Shelter Costs Could Force Another Fed Rate Hike",
-    "link": "https://www.investing.com/analysis/why-sticky-inflation-and-rising-shelter-costs-could-force-another-fed-rate-hike-200691326",
-    "pubDate": "Nov 10, 2026 21:24 GMT"
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "xStocks、英国・EU上場株200社超をトークン化",
+    "link": "https://coinpost.jp/?p=747514",
+    "pubDate": "Thu, 12 Nov 2026 06:55:26 +0900"
   },
   {
     "source": "Investing",
     "category": "stocks",
     "market": "global",
     "lang": "en",
-    "title": "Nvidia, Caterpillar and Nike: 3 Corporate Events That Could Move Markets",
-    "link": "https://www.investing.com/analysis/nvidia-caterpillar-and-nike-3-corporate-events-that-could-move-markets-200691324",
-    "pubDate": "Nov 10, 2026 21:09 GMT"
+    "title": "AI Stocks Could Rebound as CoreWeave Earnings Ease Fears Over Data Center Funding",
+    "link": "https://www.investing.com/analysis/ai-stocks-could-rebound-as-coreweave-earnings-ease-fears-over-data-center-funding-200691405",
+    "pubDate": "Nov 11, 2026 18:30 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "The Rush for Safety Is Building a Bubble of Its Own",
+    "link": "https://www.investing.com/analysis/the-rush-for-safety-is-building-a-bubble-of-its-own-200691369",
+    "pubDate": "Nov 11, 2026 17:01 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "3 Undervalued Chip Stocks to Buy Amid Market Volatility",
+    "link": "https://www.investing.com/analysis/3-undervalued-chip-stocks-to-buy-amid-market-volatility-200691358",
+    "pubDate": "Nov 11, 2026 16:53 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Anthropic’s S-1 Strengthens the Case for Broadcom’s AI Growth",
+    "link": "https://www.investing.com/analysis/anthropics-s1-strengthens-the-case-for-broadcoms-ai-growth-200691403",
+    "pubDate": "Nov 11, 2026 16:14 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "America’s Rare Earth Clock Is Running Out, But Bottleneck Isn’t Where You Think",
+    "link": "https://www.investing.com/analysis/americas-rare-earth-clock-is-running-out-but-bottleneck-isnt-where-you-think-200691402",
+    "pubDate": "Nov 11, 2026 16:02 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+    "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Microsoft’s Neocloud Pullback Isn’t a Crack in AI Demand",
+    "link": "https://www.investing.com/analysis/microsofts-neocloud-pullback-isnt-a-crack-in-ai-demand-200691399",
+    "pubDate": "Nov 11, 2026 15:36 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USDCAD — H4 Technical Analysis",
+    "link": "https://www.investing.com/analysis/usdcad--h4-technical-analysis-200691396",
+    "pubDate": "Nov 11, 2026 15:33 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Axon vs. Motorola: Which Public Safety Stock Has More Upside After Q3 Earnings?",
+    "link": "https://www.investing.com/analysis/axon-vs-motorola-which-public-safety-stock-has-more-upside-after-q3-earnings-200691398",
+    "pubDate": "Nov 11, 2026 15:15 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "Euro Options: A Fresh 2,911-Contract Put Block Appears Below the Market",
+    "link": "https://www.investing.com/analysis/euro-options-a-fresh-2911contract-put-block-appears-below-the-market-200691397",
+    "pubDate": "Nov 11, 2026 15:12 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Wall Street May Be Making a Big Mistake With monday.com Stock",
+    "link": "https://www.investing.com/analysis/wall-street-may-be-making-a-big-mistake-with-mondaycom-stock-200691395",
+    "pubDate": "Nov 11, 2026 14:58 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Cloudflare’s 20% Sell-Off May Have Created an Opening for Investors",
+    "link": "https://www.investing.com/analysis/cloudflares-20-selloff-may-have-created-an-opening-for-investors-200691394",
+    "pubDate": "Nov 11, 2026 14:41 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "D-Wave and Rigetti Split as Quantum Investors Start Demanding Revenue",
+    "link": "https://www.investing.com/analysis/dwave-and-rigetti-split-as-quantum-investors-start-demanding-revenue-200691393",
+    "pubDate": "Nov 11, 2026 14:36 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Nvidia’s CoreWeave Bounce Tests Whether AI Demand Can Outrun Governance Risk",
+    "link": "https://www.investing.com/analysis/nvidias-coreweave-bounce-tests-whether-ai-demand-can-outrun-governance-risk-200691391",
+    "pubDate": "Nov 11, 2026 14:33 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin: Recovery Looks Fragile as Hot Inflation Threatens a Deeper Sell-Off",
+    "link": "https://www.investing.com/analysis/bitcoin-recovery-looks-fragile-as-hot-inflation-threatens-a-deeper-selloff-200691372",
+    "pubDate": "Nov 11, 2026 14:20 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Falls as Hot Inflation and Hawkish Fed Weigh on BTC: What’s Next?",
+    "link": "https://www.investing.com/analysis/bitcoin-falls-as-hot-inflation-and-hawkish-fed-weigh-on-btc-whats-next-200691388",
+    "pubDate": "Nov 11, 2026 13:37 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Tokenized Stock Perpetuals Face a Major Test When Traditional Markets Reopen",
+    "link": "https://www.investing.com/analysis/tokenized-stock-perpetuals-face-a-major-test-when-traditional-markets-reopen-200691386",
+    "pubDate": "Nov 11, 2026 13:17 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+    "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+    "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+    "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+    "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+    "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+    "pubDate": "Wed, 11 Nov 2026 12:21:24 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+    "pubDate": "Wed, 11 Nov 2026 12:19:30 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY, DAX Forecast: 2 Trades to Watch",
+    "link": "https://www.investing.com/analysis/usdjpy-dax-forecast-2-trades-to-watch-200691382",
+    "pubDate": "Nov 11, 2026 12:14 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin Below $74,000: Why Dollar Strength Matters for Crypto Traders",
+    "link": "https://www.investing.com/analysis/bitcoin-below-74000-why-dollar-strength-matters-for-crypto-traders-200691380",
+    "pubDate": "Nov 11, 2026 12:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "North Korea Is Making Memecoins to Wash Stolen Crypto",
+    "link": "https://www.investing.com/analysis/north-korea-is-making-memecoins-to-wash-stolen-crypto-200691379",
+    "pubDate": "Nov 11, 2026 12:00 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold Above $4,050: Rally or Investor Trap?",
+    "link": "https://www.investing.com/analysis/gold-above-4050-rally-or-investor-trap-200691376",
+    "pubDate": "Nov 11, 2026 11:38 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+    "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "pubDate": "Wed, 11 Nov 2026 11:37:04 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Gold Above $4,050: Is the Rally Hiding a Trap for Investors?",
+    "link": "https://www.investing.com/analysis/gold-above-4050-is-the-rally-hiding-a-trap-for-investors-200691375",
+    "pubDate": "Nov 11, 2026 11:33 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Inflation Bites Back: The Fed’s Hawkish Reckoning Meets $90 Billion AI IPO Test",
+    "link": "https://www.investing.com/analysis/inflation-bites-back-the-feds-hawkish-reckoning-meets-90-billion-ai-ipo-test-200691374",
+    "pubDate": "Nov 11, 2026 11:33 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": " Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+    "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+    "pubDate": "Wed, 11 Nov 2026 10:51:34 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+    "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "pubDate": "Wed, 11 Nov 2026 10:45:49 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "【11/11話題】データチェーンが三井住友銀行のオンチェーン金融インフラ構築を技術支援、バイナンスがiOS脆弱性を警告、IBCがリナックス財団傘下へ移管など（音声ニュース）",
+    "link": "https://www.neweconomy.jp/posts/625865",
+    "pubDate": "Wed, 11 Nov 2026 10:35:52 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "EUR/USD Faces a Test at 1.1110 as Rising Treasury Yields Favor the US Dollar",
+    "link": "https://www.investing.com/analysis/eurusd-faces-a-test-at-11110-as-rising-treasury-yields-favor-the-us-dollar-200691361",
+    "pubDate": "Nov 11, 2026 10:34 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Stocks Attempt a Comeback Despite Fed Hike Bets and Nvidia Troubles",
+    "link": "https://www.investing.com/analysis/stocks-attempt-a-comeback-despite-fed-hike-bets-and-nvidia-troubles-200691368",
+    "pubDate": "Nov 11, 2026 10:21 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Why I Expect the Fed to Hold in December Despite 100% Chance of Hikes",
+    "link": "https://www.investing.com/analysis/why-i-expect-the-fed-to-hold-in-december-despite-100-chance-of-hikes-200691360",
+    "pubDate": "Nov 11, 2026 09:32 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "GBP/USD Faces a Tricky Moment: What Will Help the Pound?",
+    "link": "https://www.investing.com/analysis/gbpusd-faces-a-tricky-moment-what-will-help-the-pound-200691359",
+    "pubDate": "Nov 11, 2026 09:31 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "US Indices Trade Higher in Early Wednesday Action Despite Hotter-Than-Expected CPI",
+    "link": "https://www.investing.com/analysis/us-indices-trade-higher-in-early-wednesday-action-despite-hotterthanexpected-cpi-200691357",
+    "pubDate": "Nov 11, 2026 09:20 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Oil Prices Are Betting on Iran Peace, but the Strait of Hormuz Remains a Risk",
+    "link": "https://www.investing.com/analysis/oil-prices-are-betting-on-iran-peace-but-the-strait-of-hormuz-remains-a-risk-200691355",
+    "pubDate": "Nov 11, 2026 08:51 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "FX Daily: Bearish Yield Curve Flattening Lifts the Dollar",
+    "link": "https://www.investing.com/analysis/fx-daily-bearish-yield-curve-flattening-lifts-the-dollar-200691352",
+    "pubDate": "Nov 11, 2026 08:20 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "USD/JPY, USD/CAD Outlook: Fed Hawks Put Dollar Bulls on Alert",
+    "link": "https://www.investing.com/analysis/usdjpy-usdcad-outlook-fed-hawks-put-dollar-bulls-on-alert-200691333",
+    "pubDate": "Nov 11, 2026 08:11 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "Fed Rate Hike Odds Hit 100 Percent for December After CPI Report",
+    "link": "https://www.investing.com/analysis/fed-rate-hike-odds-hit-100-percent-for-december-after-cpi-report-200691331",
+    "pubDate": "Nov 11, 2026 08:11 GMT"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ディファイデベロップメント、ソラナを9週連続購入。保有量約261万SOLに",
+    "link": "https://www.neweconomy.jp/posts/625834",
+    "pubDate": "Wed, 11 Nov 2026 08:07:36 +0000"
+  },
+  {
+    "source": "あたらしい経済",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ヘリウス、ソラナで送金額・残高を秘匿する「プライバシーリングス」公開",
+    "link": "https://www.neweconomy.jp/posts/625801",
+    "pubDate": "Wed, 11 Nov 2026 08:03:31 +0000"
+  },
+  {
+    "source": "Investing",
+    "category": "fx",
+    "market": "global",
+    "lang": "en",
+    "title": "US Dollar Index Pressing Against 100% Resistance Arc",
+    "link": "https://www.investing.com/analysis/us-dollar-index-pressing-against-100-resistance-arc-200691348",
+    "pubDate": "Nov 11, 2026 07:06 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "US Dollar Rises on Fed Hike Bets",
+    "link": "https://www.investing.com/analysis/us-dollar-rises-on-fed-hike-bets-200691329",
+    "pubDate": "Nov 11, 2026 04:38 GMT"
   },
   {
     "source": "CoinDesk",
@@ -115,24 +556,6 @@
     "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
     "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
     "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "S&P 500 Faces a Bearish Head-and-Shoulders Pattern as Key Support Breaks",
-    "link": "https://www.investing.com/analysis/sp-500-faces-a-bearish-headandshoulders-pattern-as-key-support-breaks-200691322",
-    "pubDate": "Nov 10, 2026 20:35 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "S&P 500 Gains Hide Widespread Underperformance Across 9 Market Sectors",
-    "link": "https://www.investing.com/analysis/sp-500-gains-hide-widespread-underperformance-across-9-market-sectors-200691298",
-    "pubDate": "Nov 10, 2026 20:16 GMT"
   },
   {
     "source": "CoinDesk",
@@ -145,219 +568,12 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Higher Inflation May Be Harder to Fix With Interest Rate Hikes Alone",
-    "link": "https://www.investing.com/analysis/higher-inflation-may-be-harder-to-fix-with-interest-rate-hikes-alone-200691311",
-    "pubDate": "Nov 10, 2026 19:55 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Oil Is Pricing in an Iran Peace Deal Months Too Early",
-    "link": "https://www.investing.com/analysis/oil-is-pricing-in-an-iran-peace-deal-months-too-early-200691286",
-    "pubDate": "Nov 10, 2026 19:54 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "What Wall Street Is Missing in This Tanker Stock",
-    "link": "https://www.investing.com/analysis/what-wall-street-is-missing-in-this-tanker-stock-200691317",
-    "pubDate": "Nov 10, 2026 18:41 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Beyond Nvidia, 8 Stocks With Attractive Valuations and Up to 83% Upside",
-    "link": "https://www.investing.com/analysis/beyond-nvidia-8-stocks-with-attractive-valuations-and-up-to-83-upside-200691260",
-    "pubDate": "Nov 10, 2026 17:47 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Fed’s Waller 50-Basis-Point Warning Meets 0.3% CPI Test",
-    "link": "https://www.investing.com/analysis/feds-waller-50basispoint-warning-meets-03-cpi-test-200691313",
-    "pubDate": "Nov 10, 2026 17:34 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-    "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-    "pubDate": "Tue, 10 Nov 2026 17:32:22 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "US Stocks Slip on Hot CPI as Nvidia Falls, AMD Rallies",
-    "link": "https://www.investing.com/analysis/us-stocks-slip-on-hot-cpi-as-nvidia-falls-amd-rallies-200691312",
-    "pubDate": "Nov 10, 2026 17:22 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-    "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-    "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "TSMC’s 59.7% Sales Growth Challenges Fears of an AI Spending Slowdown",
-    "link": "https://www.investing.com/analysis/tsmcs-597-sales-growth-challenges-fears-of-an-ai-spending-slowdown-200691309",
-    "pubDate": "Nov 10, 2026 16:53 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Hotter US Inflation Strengthens the Case for a December Fed Hike",
-    "link": "https://www.investing.com/analysis/hotter-us-inflation-strengthens-the-case-for-a-december-fed-hike-200691308",
-    "pubDate": "Nov 10, 2026 16:34 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "US Inflation Shockwaves Hit Markets — Fed Rate Hike Fears Send Gold Tumbling",
-    "link": "https://www.investing.com/analysis/us-inflation-shockwaves-hit-markets--fed-rate-hike-fears-send-gold-tumbling-200691305",
-    "pubDate": "Nov 10, 2026 16:24 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Stock Market Recovery: Is This Rally Already Running Out of Steam?",
-    "link": "https://www.investing.com/analysis/stock-market-recovery-is-this-rally-already-running-out-of-steam-200691307",
-    "pubDate": "Nov 10, 2026 16:20 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Fidelity and Vanguard See Lower Stock Returns for Retirement",
-    "link": "https://www.investing.com/analysis/fidelity-and-vanguard-see-lower-stock-returns-for-retirement-200691306",
-    "pubDate": "Nov 10, 2026 16:04 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-    "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-    "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Sandisk Shares Are Oversold: Bargain or Value Trap?",
-    "link": "https://www.investing.com/analysis/sandisk-shares-are-oversold-bargain-or-value-trap-200691303",
-    "pubDate": "Nov 10, 2026 15:48 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Stocks Rebound Sharply, but Is the Worst Over?",
-    "link": "https://www.investing.com/analysis/stocks-rebound-sharply-but-is-the-worst-over-200691302",
-    "pubDate": "Nov 10, 2026 15:37 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Expect No Christmas Cheer From the Fed This Year",
-    "link": "https://www.investing.com/analysis/expect-no-christmas-cheer-from-the-fed-this-year-200691299",
-    "pubDate": "Nov 10, 2026 15:17 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Will stablecoins survive once the banks catch up?",
-    "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-    "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "Investing",
     "category": "fx",
     "market": "global",
     "lang": "en",
     "title": "USD/JPY’s Bullish Setup Depends on Whether Buyers Defend the Next Pullback",
     "link": "https://www.investing.com/analysis/usdjpys-bullish-setup-depends-on-whether-buyers-defend-the-next-pullback-200691293",
     "pubDate": "Nov 10, 2026 13:44 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Solid Growth and Cooling Inflation: 3 Calls for the US",
-    "link": "https://www.investing.com/analysis/solid-growth-and-cooling-inflation-3-calls-for-the-us-200691292",
-    "pubDate": "Nov 10, 2026 13:34 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-    "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-    "pubDate": "Tue, 10 Nov 2026 13:32:09 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）",
-    "link": "https://www.neweconomy.jp/posts/625607",
-    "pubDate": "Tue, 10 Nov 2026 13:11:09 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-    "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-    "pubDate": "Tue, 10 Nov 2026 12:38:20 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-    "pubDate": "Tue, 10 Nov 2026 12:15:00 +0000"
   },
   {
     "source": "Investing",
@@ -370,87 +586,6 @@
   },
   {
     "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin Technical Analysis: Will BTC/USD Break Above $75,000?",
-    "link": "https://www.investing.com/analysis/bitcoin-technical-analysis-will-btcusd-break-above-75000-200691289",
-    "pubDate": "Nov 10, 2026 11:45 GMT"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-    "pubDate": "Tue, 10 Nov 2026 11:24:10 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "アルパカ、DTCCの証券トークン化サービス「DTS」に参画",
-    "link": "https://www.neweconomy.jp/posts/625652",
-    "pubDate": "Tue, 10 Nov 2026 10:29:01 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "テザー、ユヴェントスの増資に参加へ。満額なら約51億円拠出＝報道",
-    "link": "https://www.neweconomy.jp/posts/625644",
-    "pubDate": "Tue, 10 Nov 2026 10:18:53 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "アニモカブランズ共同創業者ヤット・シウがCEO就任へ、AIエージェント事業を推進",
-    "link": "https://www.neweconomy.jp/posts/625636",
-    "pubDate": "Tue, 10 Nov 2026 10:12:45 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "OKX・ICEのトークン化株式取引計画、マグニフィセント7全社が異議。計67社に",
-    "link": "https://www.neweconomy.jp/posts/625621",
-    "pubDate": "Tue, 10 Nov 2026 10:06:57 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "メタプラ出資予定の米スーパーリーグ、ビットコイン追加購入。累計取得量31BTCに",
-    "link": "https://www.neweconomy.jp/posts/625599",
-    "pubDate": "Tue, 10 Nov 2026 09:57:41 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "ポルカドット系DeFiのAcalaとKarura、ネットワーク終了案の投票開始",
-    "link": "https://www.neweconomy.jp/posts/625592",
-    "pubDate": "Tue, 10 Nov 2026 09:49:50 +0000"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "【TOKYO INSIDERS #006】エヌビディアのファンCEO後継者不在が問題 | アンソロピックIPO強行か | APECの米中露会談に暗雲？ |ゲスト：藤巻健史・ジュンFX Nov.10 2026",
-    "link": "https://www.neweconomy.jp/features/tokyoinsiders/625560",
-    "pubDate": "Tue, 10 Nov 2026 09:34:01 +0000"
-  },
-  {
-    "source": "Investing",
     "category": "crypto",
     "market": "global",
     "lang": "en",
@@ -460,102 +595,12 @@
   },
   {
     "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "FX Daily: Correlation Paralysis — Gold Waits for US Dollar to Make Its Move",
-    "link": "https://www.investing.com/analysis/fx-daily-correlation-paralysis--gold-waits-for-us-dollar-to-make-its-move-200691271",
-    "pubDate": "Nov 10, 2026 09:24 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "CPI to Offer Some Support to US Dollar",
-    "link": "https://www.investing.com/analysis/cpi-to-offer-some-support-to-us-dollar-200691265",
-    "pubDate": "Nov 10, 2026 08:47 GMT"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
-    "link": "https://www.neweconomy.jp/posts/625544",
-    "pubDate": "Tue, 10 Nov 2026 08:16:54 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "EUR/USD Monitors CPI and the Situation in France",
-    "link": "https://www.investing.com/analysis/eurusd-monitors-cpi-and-the-situation-in-france-200691262",
-    "pubDate": "Nov 10, 2026 08:15 GMT"
-  },
-  {
-    "source": "あたらしい経済",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米財務省、イラン関連の暗号資産取引でカナダの送金・両替業者8社に制裁",
-    "link": "https://www.neweconomy.jp/posts/625521",
-    "pubDate": "Tue, 10 Nov 2026 08:07:05 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "USD/CAD Outlook: Loonie Left Behind as CPI looms",
-    "link": "https://www.investing.com/analysis/usdcad-outlook-loonie-left-behind-as-cpi-looms-200691256",
-    "pubDate": "Nov 10, 2026 07:21 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "DXY Recovery Structure Points to a Potential Move Toward 105",
-    "link": "https://www.investing.com/analysis/dxy-recovery-structure-points-to-a-potential-move-toward-105-200691238",
-    "pubDate": "Nov 09, 2026 15:51 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "crypto",
     "market": "global",
     "lang": "en",
     "title": "Stablecoin and CBDC Market Forecast to Reach $410 Billion by 2034",
     "link": "https://www.investing.com/analysis/stablecoin-and-cbdc-market-forecast-to-reach-410-billion-by-2034-200691232",
     "pubDate": "Nov 09, 2026 13:58 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "EUR/JPY Bullish Bias Points to a Test of the 177.50 Target",
-    "link": "https://www.investing.com/analysis/eurjpy-bullish-bias-points-to-a-test-of-the-17750-target-200691231",
-    "pubDate": "Nov 09, 2026 13:50 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "EUR/USD Faces Deeper Downside as Markets Reassess the Political Risk Premium",
-    "link": "https://www.investing.com/analysis/eurusd-faces-deeper-downside-as-markets-reassess-the-political-risk-premium-200691223",
-    "pubDate": "Nov 09, 2026 12:20 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "fx",
-    "market": "global",
-    "lang": "en",
-    "title": "FX Daily: Dollar Rally Needs More Risk-off Fuel",
-    "link": "https://www.investing.com/analysis/fx-daily-dollar-rally-needs-more-riskoff-fuel-200691207",
-    "pubDate": "Nov 09, 2026 09:44 GMT"
   },
   {
     "source": "Investing",
@@ -583,51 +628,6 @@
     "title": "Bitcoin Near Strategy’s Cost Basis Raises the Stakes at $75,500",
     "link": "https://www.investing.com/analysis/bitcoin-near-strategys-cost-basis-raises-the-stakes-at-75500-200690962",
     "pubDate": "Nov 05, 2026 20:42 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Cross-Chain Liquidity Becomes the Next Battleground in Tokenized Finance",
-    "link": "https://www.investing.com/analysis/crosschain-liquidity-becomes-the-next-battleground-in-tokenized-finance-200690944",
-    "pubDate": "Nov 05, 2026 15:29 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "France’s Self-Custody Crypto Rule Died: The Threat Didn’t",
-    "link": "https://www.investing.com/analysis/frances-selfcustody-crypto-rule-died-the-threat-didnt-200690934",
-    "pubDate": "Nov 05, 2026 13:28 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Binance Hack Exposes Crypto’s Centralized Safety Net",
-    "link": "https://www.investing.com/analysis/binance-hack-exposes-cryptos-centralized-safety-net-200690933",
-    "pubDate": "Nov 05, 2026 13:24 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Institutional DeFi Set to Move at the Speed of Its Compliance Stack",
-    "link": "https://www.investing.com/analysis/institutional-defi-set-to-move-at-the-speed-of-its-compliance-stack-200690887",
-    "pubDate": "Nov 05, 2026 03:47 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin’s Rebound From $75,700 Faces a Crucial Test Near $82,000",
-    "link": "https://www.investing.com/analysis/bitcoins-rebound-from-75700-faces-a-crucial-test-near-82000-200690860",
-    "pubDate": "Nov 04, 2026 14:20 GMT"
   },
   {
     "source": "Investing",
