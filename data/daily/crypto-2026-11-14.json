@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-14",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの動向、個別プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ビットコインが70,000ドルを割り込み、AI株安の影響でロングポジションの清算が進行中です。FLOPのテストネットとエアドロップが近づいており、注目が集まっています。\n\n## 今日の暗号資産市場の地合い\n現在の市場は、ビットコインが価格下落を受けており、全体的に弱気な地合いが続いています。特に、AI関連株の価格変動が暗号資産市場に影響を与えており、投資家心理が不安定です。ロングポジションの清算が相次ぎ、価格下落が加速しています。\n\n## 今日の主要トピック3つ\n1. **FLOPのテストネットとエアドロップ**: ヘイズ氏主導のプロジェクトが11月24日にテストネットとエアドロップを開始します。\n2. **ビットコインの価格下落**: ビットコインが7万ドルを割り込み、AI株安が影響を及ぼしています。\n3. **ハイパーリキッドの四半期収益増加**: USDC準備金利回り寄与により、四半期収益が増加し、204万HYPEを買い戻しました。\n\n## メインコインの整理\n- **ビットコイン**: 現在の価格は70,000ドルを下回り、短期的な弱気トレンドが続いています。\n- **イーサリアム**: 特に価格変動のニュースはありませんが、ビットコインの影響を受けている可能性があります。\n- **その他の主要コイン**: 特に目立った動きは見られませんが、市場全体が弱気なため、全体的に影響を受けている状況です。\n\n## 個別プロジェクトの進捗\n- **FLOP**: テストネットとエアドロップが11月24日に実施されることが発表され、注目が集まっています。これは個人マイニングを重視しているプロジェクトで、今後の進捗に期待が寄せられています。\n- **ハイパーリキッド**: USDC準備金利回りの寄与により、四半期収益が増加し、204万HYPEを買い戻しました。これは、資金の流入が期待できる状況です。\n\n## 今日の要約から見える示唆\n市場全体が弱気であり、特にビットコインの価格下落が影響しています。FLOPの進展は注目に値しますが、他の主要コインやプロジェクトの動向も継続して観察が必要です。\n\n## 次に確認すべきこと\n- FLOPのテストネットとエアドロップの結果と反応を確認する。\n- ビットコインの価格動向とAI株の影響を引き続き監視する。\n- ハイパーリキッドの今後の資金流入状況をチェックする。\n\n## 今日の結論\n暗号資産市場はビットコインの価格下落が続く中、FLOPなどの新しいプロジェクトが注目されています。市場の動きに応じて、今後の展開を注視する必要があります。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「個人マイニング重視」ヘイズ氏主導のFLOP、テストネットとエアドロップを11月24日に開始へ",
+      "link": "https://coinpost.jp/?p=747951",
+      "pubDate": "Sat, 14 Nov 2026 11:05:42 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ハイパーリキッド、USDC準備金利回り寄与で四半期収益増加　204万HYPEを買い戻し",
+      "link": "https://coinpost.jp/?p=747947",
+      "pubDate": "Sat, 14 Nov 2026 10:55:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アダム・バック、ビットコインが2028年までに100万ドル到達の可能性",
+      "link": "https://coinpost.jp/?p=747950",
+      "pubDate": "Sat, 14 Nov 2026 10:10:38 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジーCEO「MSCI指数連動の株式はわずか3％で除外の影響は限定的」",
+      "link": "https://coinpost.jp/?p=747940",
+      "pubDate": "Sat, 14 Nov 2026 09:30:01 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン7万ドル割れ、AI株安が波及しロング大量清算が下落を加速｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=747946",
+      "pubDate": "Sat, 14 Nov 2026 09:15:32 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベースCEO、AIエージェント型金融と米国での株式無期限先物に注力と表明",
+      "link": "https://coinpost.jp/?p=747939",
+      "pubDate": "Sat, 14 Nov 2026 09:05:57 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "pubDate": "Fri, 13 Nov 2026 23:30:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場Twenty One Capital第3四半期決算、ビットコイン評価益で10億ドル超の黒字",
+      "link": "https://coinpost.jp/?p=747921",
+      "pubDate": "Sat, 14 Nov 2026 08:02:07 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "日本人のタイ旅行にステーブルコイン決済、タイ企業が新アプリ提供",
+      "link": "https://coinpost.jp/?p=747922",
+      "pubDate": "Sat, 14 Nov 2026 07:20:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有",
+      "link": "https://coinpost.jp/?p=747923",
+      "pubDate": "Sat, 14 Nov 2026 06:40:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米下院委員会、予測市場のインサイダー取引で政府職員の取引制限強化を要求",
+      "link": "https://coinpost.jp/?p=747924",
+      "pubDate": "Sat, 14 Nov 2026 06:30:13 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "pubDate": "Fri, 13 Nov 2026 18:39:58 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "pubDate": "Fri, 13 Nov 2026 17:05:43 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "pubDate": "Fri, 13 Nov 2026 16:01:27 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+      "pubDate": "Fri, 13 Nov 2026 14:02:00 +0000"
+    }
+  ]
+}

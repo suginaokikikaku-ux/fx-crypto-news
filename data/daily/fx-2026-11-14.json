@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-14",
+  "seoTitle": "米ドルの動向と市場構造の解釈",
+  "seoDescription": "今日の相場では、金利上昇期待が米ドルを押し上げ、USD/JPYの方向感に影響を与えています。AI関連の動向にも注目が集まる中、マクロ経済の構造を分析します。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米ドルが金利上昇期待を受けて強含み、特にUSD/JPYが上昇の方向感を見せています。AI関連の動きが市場全体に影響を与える中、投資家はこの流れを注視しています。\n\n## 2. 今日の主要ドライバー3つ  \n- **金利上昇期待 → 米ドル強化**: フェデラル・リザーブによる利上げ期待が高まり、米ドルが強含む結果となっています。この動きは、投資家が金利差を意識する要因となり、他通貨に対して米ドルが優位に立っています。  \n- **Nvidiaの会長辞任 → 市場の不安感**: Nvidiaの会長が辞任したことで、AI関連株に対する市場の不安が高まり、これがリスクオフの流れを引き起こしています。この影響で安全資産としてのドル需要が増加しています。  \n- **フランス国債のストレス → ユーロ売り圧力**: フランス国債の利回り上昇がユーロに対する売り圧力を生み出し、結果的にドルの相対的な強さを助長しています。この流れは、USD/JPYの動きにも影響を与えています。\n\n## 3. 市場構造の解釈\n現在の相場は金利上昇期待が主導しています。特に米国の金利に対する期待感が高まり、これにより流動性が変化しています。この背景には、AI関連の動きが市場に強い影響を与えていることが考えられます。機関投資家がリスクを回避する中で、ドルの需要は増加していると推測されます。この動きは短期的には継続する可能性が高いと見られます。\n\n## 4. USD/JPY分析\n現在のUSD/JPYは短期的に上昇傾向にあり、金利上昇期待が支えています。中期的には、金利差の変化が継続的に影響を与えると考えられます。今回の動きは「継続型」と見られ、相場参加者のポジション調整も影響しています。\n\n## 5. BTCへの波及\n米ドルの強さは、BTCに対する資金の流れにも影響を与える可能性があります。リスクオフの流れが強まると、BTCが資金逃避先として見られることがあるため、ドルの動向がBTCの価格形成に間接的に影響を与えるでしょう。\n\n## 6. 強気・弱気の分岐条件  \n- **強気条件**: 米国の経済指標が予想を上回り、金利上昇の見通しがさらに強化される場合。  \n- **弱気条件**: AI関連の市場が急激に悪化し、リスクオフの流れが強まる場合。\n\n## 7. 今日の示唆\n現在の相場では、金利に関する指標やAI関連のニュースが重要な指標となります。投資家はこれらの動向に注目し、特に米国の経済指標の発表に注意を払うべきです。また、ユーロ圏の政治的な動向も意識する必要があります。\n\n## 8. 今日の結論\n今日の相場は、米ドルの強さが際立っており、金利上昇期待がその背景にあります。市場の流れを把握し、今後の展開を注視することが重要です。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Bank of Nvidia Loses Its Chairman — And Wall Street Starts Checking the Collateral",
+      "link": "https://www.investing.com/analysis/bank-of-nvidia-loses-its-chairman--and-wall-street-starts-checking-the-collateral-200691561",
+      "pubDate": "Nov 13, 2026 20:52 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Risks Further Losses as French Bond Stress Adds to Rate Pressure",
+      "link": "https://www.investing.com/analysis/eurusd-risks-further-losses-as-french-bond-stress-adds-to-rate-pressure-200691559",
+      "pubDate": "Nov 13, 2026 20:28 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Targets 103.39 as Silver’s Breakdown Raises Risks of Further Losses",
+      "link": "https://www.investing.com/analysis/us-dollar-targets-10339-as-silvers-breakdown-raises-risks-of-further-losses-200691554",
+      "pubDate": "Nov 13, 2026 18:40 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "AI Spending Supports Global Stocks, but Inflation Threatens the Rally",
+      "link": "https://www.investing.com/analysis/ai-spending-supports-global-stocks-but-inflation-threatens-the-rally-200691536",
+      "pubDate": "Nov 13, 2026 17:45 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Recession Indicators Turned Green - Job Quality Hasn’t",
+      "link": "https://www.investing.com/analysis/recession-indicators-turned-green--job-quality-hasnt-200691519",
+      "pubDate": "Nov 13, 2026 17:40 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "AUD/USD Hits 9-Month Low as US and Australian Rate Expectations Diverge",
+      "link": "https://www.investing.com/analysis/audusd-hits-9month-low-as-us-and-australian-rate-expectations-diverge-200691539",
+      "pubDate": "Nov 13, 2026 15:08 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Nvidia Loses Its King, but the AI Casino Keeps Dealing",
+      "link": "https://www.investing.com/analysis/nvidia-loses-its-king-but-the-ai-casino-keeps-dealing-200691500",
+      "pubDate": "Nov 13, 2026 14:41 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Beyond Stocks and Bonds, What Role Can Real Estate Play in a Diversified Portfolio",
+      "link": "https://www.investing.com/analysis/beyond-stocks-and-bonds-what-role-can-real-estate-play-in-a-diversified-portfolio-200691526",
+      "pubDate": "Nov 13, 2026 13:05 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "The Kill Switch Can’t Undo AI Agent Payments",
+      "link": "https://www.investing.com/analysis/the-kill-switch-cant-undo-ai-agent-payments-200691525",
+      "pubDate": "Nov 13, 2026 12:29 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Gains as Fed Rate-Hike Expectations Intensify",
+      "link": "https://www.investing.com/analysis/us-dollar-gains-as-fed-ratehike-expectations-intensify-200691524",
+      "pubDate": "Nov 13, 2026 12:12 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold at a Crossroads: Can XAU/USD Regain Bullish Momentum?",
+      "link": "https://www.investing.com/analysis/gold-at-a-crossroads-can-xauusd-regain-bullish-momentum-200691522",
+      "pubDate": "Nov 13, 2026 11:17 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Sinks: Where Does Such Strong Pressure on Precious Metals Come From?",
+      "link": "https://www.investing.com/analysis/gold-sinks-where-does-such-strong-pressure-on-precious-metals-come-from-200691515",
+      "pubDate": "Nov 13, 2026 08:57 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "FX Daily: Scandal Rocks the AI Kingdom, King US Dollar Rules, and Gold Struggles",
+      "link": "https://www.investing.com/analysis/fx-daily-scandal-rocks-the-ai-kingdom-king-us-dollar-rules-and-gold-struggles-200691513",
+      "pubDate": "Nov 13, 2026 08:26 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Don’t Mess With The US Dollar Near Term",
+      "link": "https://www.investing.com/analysis/dont-mess-with-the-us-dollar-near-term-200691510",
+      "pubDate": "Nov 13, 2026 08:16 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD- Breaks Below 0.618 Support Arc - Confirmed Breakdown",
+      "link": "https://www.investing.com/analysis/gbpusd-breaks-below-0618-support-arc--confirmed-breakdown-200691507",
+      "pubDate": "Nov 13, 2026 07:08 GMT"
+    }
+  ]
+}
