@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>暗号資産市場分析：ビットコインが1000万円割れ</title>
+  <meta name="description" content="ビットコインが一時1000万円を割り、主要トピックと市場の地合いを分析。次に確認すべきポイントも解説。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-11-16.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="暗号資産市場分析：ビットコインが1000万円割れ" />
+  <meta property="og:description" content="ビットコインが一時1000万円を割り、主要トピックと市場の地合いを分析。次に確認すべきポイントも解説。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-11-16.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"暗号資産市場分析：ビットコインが1000万円割れ","description":"ビットコインが一時1000万円を割り、主要トピックと市場の地合いを分析。次に確認すべきポイントも解説。","datePublished":"2026-11-16","dateModified":"2026-11-16","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/crypto-2026-11-16.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">CRYPTO DAILY ARTICLE</div>
+        <h1>暗号資産市場分析：ビットコインが1000万円割れ</h1>
+        <p>ビットコインが一時1000万円を割り、主要トピックと市場の地合いを分析。次に確認すべきポイントも解説。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-11-16 / crypto</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はcryptoを中心に、CoinPost / CoinDeskのニュースをもとに整理しています。</div>
+      <h2>1分で読める結論</h2>
+ビットコインが一時1000万円を割り込み、主要コイン全体に影響を与えている。市場では、アンソロピックIPOやバイナンスの動向が注目されており、資金の流れが変わっている。特にイーサリアムの準備高が低下しているため、流動性の観点から注意が必要だ。</p><h2>今日の暗号資産市場の地合い</h2>
+現在の市場は、ビットコインの価格が1000万円を下回ったことを受けて、全体的に弱気の地合いが続いている。特に、資金の流出が目立ち、投資家がリスク回避の姿勢を強めている。これは、アンソロピックIPOへの資金シフトの懸念が影響している。</p><h2>今日の主要トピック3つ</h2>
+1. <strong>ビットコイン一時1000万円割れ</strong>: 清算連鎖が発生し、投資家心理に悪影響を及ぼしている。
+2. <strong>バイナンスのイーサリアム準備高の低下</strong>: 2020年以来の低水準に達し、流出が続いている。
+3. <strong>CZ氏の仮想通貨下落要因分析</strong>: バイナンスによる売りは否定されるも、他の要因が影響しているとのこと。</p><h2>メインコインの整理</h2>
+<ul><li><strong>ビットコイン</strong>: 一時的に1000万円を割り、清算連鎖が影響。市場全体の流れを反映。</li>
+<li><strong>イーサリアム</strong>: 準備高が低下しており、売り圧力が強い。流動性の観点から注意が必要。</li>
+<li><strong>XRP</strong>: 最近の流出で価格が下落し、2024年11月以来の低水準に達している。</li></p><h2>個別プロジェクトの進捗</h2>
+<li><strong>アンソロピック</strong>: 上場前のビットコイン安の影響で、IPOへの関心が高まっているが、価格の影響を受けやすい状況。</li>
+<li><strong>MegaETH</strong>: スタッフを20%削減し、AIビジネスにシフトする動きが見られる。</li></p><h2>今日の要約から見える示唆</h2>
+市場の弱気な地合いが続く中、特にイーサリアムの流出状況が流動性に影響を与える可能性が高い。この流れは、他のプロジェクトにも波及するため、注意が必要だ。</p><h2>次に確認すべきこと</h2>
+<li>ビットコインの価格動向と清算連鎖の影響を引き続き監視すること。</li>
+<li>イーサリアムの流出状況とそれが市場全体に与える影響を追跡すること。</li>
+<li>アンソロピックIPOの進捗と、それに伴う市場の反応を確認すること。</li></ul><h2>今日の結論</h2>
+ビットコインが1000万円を割り、暗号資産市場全体が弱気の地合いに入っている。特にイーサリアムの準備高の低下により、流動性が懸念される状況。投資家は今後の動向に注意を払い、特にアンソロピックIPOの影響を注視すべきだ。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/crypto/what-is-crypto.html">暗号通貨とは？</a></li><li><a href="../basics/crypto/what-is-blockchain.html">ブロックチェーンとは？</a></li><li><a href="../basics/crypto/how-to-read-projects.html">暗号資産プロジェクトの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>CoinPost / CoinDesk</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>crypto</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] ビットコイン一時1000万円割れ、清算連鎖とアンソロピックIPOへの資金シフト懸念も｜仮想NISHI（CoinPost / crypto） - <a href="https://coinpost.jp/?p=748038" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] CZ氏が考える仮想通貨下落の5要因　バイナンスによる売りは否定（CoinPost / crypto） - <a href="https://coinpost.jp/?p=748032" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] バイナンスのイーサリアム準備高、2020年以来の低水準に　流出続く＝アナリスト（CoinPost / crypto） - <a href="https://coinpost.jp/?p=748017" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] iPhoneのウォレット狙う攻撃ツール地下販売　スローミスト責任者が警告（CoinPost / crypto） - <a href="https://coinpost.jp/?p=748013" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] アンソロピック上場前のビットコイン安、スペースX時と酷似　ストライブCEO（CoinPost / crypto） - <a href="https://coinpost.jp/?p=748007" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] Did prediction markets call the U.S. midterm election?: State of Crypto （CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session（CoinDesk / crypto） - <a href="https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] XRP crashes to its lowest since November 2024 as money leaves crypto（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点｜bitbankアナリスト寄稿（CoinPost / crypto） - <a href="https://coinpost.jp/?p=747846" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] 週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ（CoinPost / crypto） - <a href="https://coinpost.jp/?p=747789" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave（CoinDesk / crypto） - <a href="https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale（CoinDesk / crypto） - <a href="https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill（CoinDesk / crypto） - <a href="https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜CRYPTO デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
