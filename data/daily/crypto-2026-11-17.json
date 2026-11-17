@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-17",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いと主要トピックを整理。注目すべきプロジェクトの進捗や次に確認すべきことも明示。",
+  "article": "# 1分で読める結論\n今日の暗号資産市場では、ソラナのウォレット機能追加が注目されており、米CFTCが新たなデリバティブ取引所を承認したことが市場に影響を与えている。また、ドイツ連邦議会による仮想通貨に関する法案可決も注目される一方、アップビットの業績悪化が懸念材料となっている。\n\n## 今日の暗号資産市場の地合い\n市場全体は、各国の規制動向やプロジェクトの進展を受けて比較的安定した状態にあるが、一部のプロジェクトは不透明感を抱えている。特に、金融機関との連携や新機能の導入が進んでいるソラナや、米国のデリバティブ市場の規制が進む中での新規参入が市場の注目を集めている。\n\n## 今日の主要トピック3つ\n1. **ソラナウォレット「Solflare」のUSDC現金化機能導入**: マネーグラムとの連携により、ユーザーはUSDCを現金化する新たな手段を得る。\n2. **米CFTCがBackpackのデリバティブ取引所承認**: これにより、無期限先物取引の提供が可能となり、業界に新たな流れを生む。\n3. **ドイツ連邦議会が出所不明資産差し押さえ法案を可決**: 仮想通貨も対象となり、規制強化の動きが見られる。\n\n## メインコインの整理\n- **ビットコイン**: 全体的な市場の動向に影響を与えつつあるが、価格の安定性が保たれている。\n- **イーサリアム**: 新たな量子対策が進行中で、ネットワークのセキュリティ強化に向けた取り組みが注目されている。\n- **ソラナ**: 新機能の導入が評価され、ユーザー数の増加が期待される。\n\n## 個別プロジェクトの進捗\n- **ソラナ**: USDCの現金化機能を追加し、ユーザー利便性を向上させる。\n- **Backpack**: CFTCの承認を受け、デリバティブ取引所としての運営を開始。\n- **アップビット**: 3Qの純損失が約22億円と報告され、売上高も減少していることから、業績の回復が急務。\n- **ノムラHDとNRIの協業**: オンチェーン金融における新たな取り組みが進行中。\n\n## 今日の要約から見える示唆\n市場は新たな機能やサービスの導入に敏感に反応しており、特に金融機関との連携や新たな規制が影響を与える可能性が高い。法案や規制の動きは、特に欧州地域での市場環境に大きな影響を及ぼす。\n\n## 次に確認すべきこと\n- ソラナのUSDC現金化機能の利用状況とユーザーの反応\n- Backpackのデリバティブ取引所の初期の取引データ\n- ドイツ連邦議会の法案可決後の市場の反応や影響\n- アップビットの業績回復のための戦略や施策\n\n## 今日の結論\n暗号資産市場は新たな機能や規制の影響を受けつつあり、特にソラナやBackpackの進展が注目される。今後の動向に注意を払いながら、各プロジェクトの進捗を定期的に確認することが重要である。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナウォレット「Solflare」、USDCの現金化機能を導入。マネーグラムと連携で",
+      "link": "https://www.neweconomy.jp/posts/627233",
+      "pubDate": "Tue, 17 Nov 2026 04:21:26 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アップビット運営ドゥナム、3Qは約22億円の純損失に。売上高60.7%減",
+      "link": "https://www.neweconomy.jp/posts/627217",
+      "pubDate": "Tue, 17 Nov 2026 04:12:44 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米CFTC、Backpackの仮想通貨デリバティブ取引所・清算機関を承認",
+      "link": "https://coinpost.jp/?p=748275",
+      "pubDate": "Tue, 17 Nov 2026 13:12:25 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バックパック、米CFTCの取引所・清算機関承認を取得。無期限先物提供へ",
+      "link": "https://www.neweconomy.jp/posts/627209",
+      "pubDate": "Tue, 17 Nov 2026 04:05:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ドイツ連邦議会、出所不明資産の差し押さえ法案可決　仮想通貨も対象",
+      "link": "https://coinpost.jp/?p=748317",
+      "pubDate": "Tue, 17 Nov 2026 13:00:31 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "野村HD・NRI・BOOSTRY、オンチェーン金融で協業検討。カントン活用へ",
+      "link": "https://www.neweconomy.jp/posts/627201",
+      "pubDate": "Tue, 17 Nov 2026 03:54:45 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットマインがイーサリアム追加取得、総保有量約608万ETHに",
+      "link": "https://www.neweconomy.jp/posts/627193",
+      "pubDate": "Tue, 17 Nov 2026 03:50:23 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ライターで約1040万USDC流出、APIキーの秘密鍵漏洩が原因。出金は再開",
+      "link": "https://www.neweconomy.jp/posts/627180",
+      "pubDate": "Tue, 17 Nov 2026 03:43:40 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米最高裁、カストディアバンクの対FRB裁判の上訴を受理せず　マスター口座巡る係争",
+      "link": "https://coinpost.jp/?p=748280",
+      "pubDate": "Tue, 17 Nov 2026 12:40:31 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トレザー、「Safe 5」の3台で不正部品を確認。販売代理店網を約80％削減",
+      "link": "https://www.neweconomy.jp/posts/627172",
+      "pubDate": "Tue, 17 Nov 2026 03:38:09 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアムの量子対策、ヴィタリックが早期実装を狙える新方式を支持",
+      "link": "https://coinpost.jp/?p=748286",
+      "pubDate": "Tue, 17 Nov 2026 12:00:46 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "お金を超えた価値指標とは？ 「スウェット」について考える（「そうだったのかブロックチェーン Ep.24」内田善彦・酒井勇也・大津賀新也）",
+      "link": "https://www.neweconomy.jp/features/sbc/626903",
+      "pubDate": "Tue, 17 Nov 2026 03:00:18 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測市場に止まらず　カルシ、2カ月以内に株取引を提供開始へ",
+      "link": "https://coinpost.jp/?p=748223",
+      "pubDate": "Tue, 17 Nov 2026 11:30:44 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米民主党上院議員9人、CFTCに予測市場の地域制限撤廃方針の撤回要求",
+      "link": "https://www.neweconomy.jp/posts/627132",
+      "pubDate": "Tue, 17 Nov 2026 02:20:30 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "カザフスタン、2027年Q1にトークン化国債発行を計画",
+      "link": "https://www.neweconomy.jp/posts/627126",
+      "pubDate": "Tue, 17 Nov 2026 02:12:38 +0000"
+    }
+  ]
+}
