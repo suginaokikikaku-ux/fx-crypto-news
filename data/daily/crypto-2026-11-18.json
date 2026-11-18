@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-18",
+  "seoTitle": "暗号資産市場動向と重要プロジェクトの進捗",
+  "seoDescription": "最新の暗号資産市場の地合いや主要コインの動向を分析。注目するべきプロジェクトと次のステップを解説します。",
+  "article": "## 1分で読める結論\n本日、暗号資産市場は依然として不安定な状況にあり、特にビットコインが週間で12%下落する中、世界銀行グループがステーブルコインの活用を模索する動きが注目されている。個別プロジェクトでは、ソラナ財団がコインゲッコーへの投資を発表し、AI関連ETFも新規上場を果たした。\n\n## 今日の暗号資産市場の地合い\n市場全体はリスクオフの姿勢が強まり、主要コインは価格が下落している。特にビットコインは金利ショックを主因とする影響を受けており、投資家の信頼が薄れている様子が見受けられる。また、米SEC前委員長が景気後退の可能性を警告しており、投資家の心理に影響を与えている。\n\n## 今日の主要トピック3つ\n1. **世界銀行グループのステーブルコインプロジェクト**: 世界銀行がシティ・サークルと提携し、USDCを利用した決済効率化を進める計画を発表。\n2. **ビットコインの価格動向**: ビットコインが週間で12%の下落を記録し、主要な価格帯での実現損失が増加していることが指摘されている。\n3. **ソラナ財団の戦略的投資**: ソラナ財団がコインゲッコーの過半数持分を取得し、次の成長段階を支援する意向を示した。\n\n## メインコインの整理\n- **ビットコイン (BTC)**: 週間12%安。金利の影響で価格が下落し、実現損失が増加している。\n- **イーサリアム (ETH)**: 具体的な価格情報はないが、全体の地合いから影響を受けていると考えられる。\n- **ステーブルコイン (USDC)**: 世界銀行との提携により、今後の利用が拡大する可能性がある。\n\n## 個別プロジェクトの進捗\n- **ソラナ財団**: コインゲッコーの過半数持分を取得し、次の成長段階を支援する意向を発表。\n- **米ビットワイズ**: AIサイバー防衛に特化したETF『ZDAY』を新規上場させ、暗号資産市場の新たな流れを反映している。\n- **アンカレッジ**: ビットコインを担保にした予測取引サービスを開始し、新たな金融サービスの提供を強化。\n\n## 今日の要約から見える示唆\n市場はリスクオフの姿勢が強く、ビットコインの価格動向が他のコインにも影響を及ぼしている。ステーブルコインの活用が進む中、金融機関の動向から今後の市場の変化を追う必要がある。\n\n## 次に確認すべきこと\n- ビットコインの実現損失がどのように市場に影響を与えるか。\n- 世界銀行とシティ・サークルのステーブルコインプロジェクトの具体的進捗。\n- ソラナ財団の今後の戦略とコインゲッコーとのシナジー。\n\n## 今日の結論\n暗号資産市場は不安定な状態が続いており、特にビットコインの動向が注目される。今後は金融機関の動きと個別プロジェクトの進捗を継続的に追うことが重要である。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
+      "link": "https://www.neweconomy.jp/posts/627814",
+      "pubDate": "Wed, 18 Nov 2026 03:30:50 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "世界銀行のステーブルコインプロジェクトをサークルが支援、USDCで決済効率化を模索",
+      "link": "https://coinpost.jp/?p=748503",
+      "pubDate": "Wed, 18 Nov 2026 11:20:33 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "元ロビンフッド社員が不正取引で有罪答弁。暗号資産の上場情報を利用し約2,000万円の利益",
+      "link": "https://www.neweconomy.jp/posts/627807",
+      "pubDate": "Wed, 18 Nov 2026 02:17:18 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインの実現損失が降伏水準、鍵となる価格帯を分析＝グラスノード",
+      "link": "https://coinpost.jp/?p=748470",
+      "pubDate": "Wed, 18 Nov 2026 10:30:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "予測取引でビットコインを担保に、アンカレッジがカルシにサービス提供",
+      "link": "https://coinpost.jp/?p=748493",
+      "pubDate": "Wed, 18 Nov 2026 10:15:24 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "pubDate": "Wed, 18 Nov 2026 00:46:25 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン週間12％安、ビットワイズCIOは金利ショックを主因に",
+      "link": "https://coinpost.jp/?p=748474",
+      "pubDate": "Wed, 18 Nov 2026 09:29:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "メタプラネット傘下入り予定の米スーパーリーグ、8ビットコインを追加購入",
+      "link": "https://coinpost.jp/?p=748443",
+      "pubDate": "Wed, 18 Nov 2026 07:50:56 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC前委員長、2028年大統領選前のAIバブル崩壊と景気後退の可能性を警告",
+      "link": "https://coinpost.jp/?p=748442",
+      "pubDate": "Wed, 18 Nov 2026 07:40:52 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナ財団、コインゲッコーの次の成長段階を支援へ　過半数持分を取得",
+      "link": "https://coinpost.jp/?p=748454",
+      "pubDate": "Wed, 18 Nov 2026 07:40:24 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "AIサイバー防衛に投資するETF『ZDAY』、米ビットワイズが新規上場",
+      "link": "https://coinpost.jp/?p=748441",
+      "pubDate": "Wed, 18 Nov 2026 07:00:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アップルのiCloud・Apple Payなど広範な障害が発生、仮想通貨購入にも影響",
+      "link": "https://coinpost.jp/?p=748440",
+      "pubDate": "Wed, 18 Nov 2026 06:40:46 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+      "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "pubDate": "Tue, 17 Nov 2026 21:25:50 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米最大手ビットコイン現物ETF、11営業日続いた資金引き揚げから一転　慎重な見解も",
+      "link": "https://coinpost.jp/?p=748439",
+      "pubDate": "Wed, 18 Nov 2026 06:15:44 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "pubDate": "Tue, 17 Nov 2026 19:45:57 +0000"
+    }
+  ]
+}
