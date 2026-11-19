@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-19",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "暗号資産市場の最新ニュースを分析し、主要コインの地合いやプロジェクトの進捗を整理。次に確認すべきポイントも解説。",
+  "article": "## 1分で読める結論\n暗号資産市場は、ビザのステーブルコイン導入試験や、米金融機関によるビットコイン保有拡大が話題になっている。一方で、テザー社のUSDTの安定性評価が最低ランクに据え置かれたことが市場の不安要因となっている。\n\n## 今日の暗号資産市場の地合い\n市場は全体的に静穏な状況にあり、特にビットコインやEthereumは価格の安定を見せている。ただし、ステーブルコインに関する規制の不透明感と、テザーの評価が影響を与える可能性がある。\n\n## 今日の主要トピック3つ\n1. **ビザのステーブルコイン導入**: アジア太平洋地域でステーブルコインを用いた送金原資の事前調達を試験的に導入。これにより、デジタル通貨の実用化が進む可能性がある。\n2. **ETFを通じたビットコイン保有拡大**: 米金融大手ウェルズが顧客分のビットコイン保有を倍増させる。機関投資家の関心が高まる中で、ビットコイン市場への影響が注目される。\n3. **テザーの安定性評価**: S&Pグローバルがテザー社のUSDTの安定性を最低ランクに据え置いたことが報じられ、市場に不安をもたらしている。\n\n## メインコインの整理\n- **ビットコイン**: 価格は安定しつつも、ETFを通じた機関投資家の動向が今後の価格に影響を与える可能性がある。\n- **Ethereum**: 特に変動は見られず、全体の市場動向に沿った動き。今後のアップデートや規制の影響に注視が必要。\n\n## 個別プロジェクトの進捗\n- **ビザ**: ステーブルコインを用いた送金原資調達の試験導入を開始。これにより、デジタル通貨の普及が進むと考えられる。\n- **テザー**: S&Pグローバルによる評価が、市場の信頼性に影響を与える懸念があるため、今後の動向に注意が必要。  \n- **ウェルズ**: ETFを通じてビットコイン保有を拡大。機関投資家の活動が活発化している。\n\n## 今日の要約から見える示唆\nビザの動きはデジタル通貨の実用化を示唆しており、今後の市場拡大に寄与する可能性がある。一方で、テザーの評価が市場に与える影響は無視できず、注意が必要である。\n\n## 次に確認すべきこと\n- ビザのステーブルコイン導入試験の進捗状況。\n- ウェルズのビットコイン保有拡大の具体的な影響と市場反応。\n- テザーの安定性評価が市場に与える影響の継続的な観察。\n\n## 今日の結論\n暗号資産市場は、ビザのステーブルコイン導入試験や機関投資家の動向に注目が集まる一方で、テザーの評価が市場に与える影響が懸念されている。今後の動向を注視し、適切な情報収集を行うことが重要である。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk",
+      "Investing"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビザ、ステーブルコインによる送金原資の事前調達をアジア太平洋で試験導入へ",
+      "link": "https://coinpost.jp/?p=748667",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米金融大手、ETF経由のビットコイン保有拡大　ウェルズは顧客分で倍増",
+      "link": "https://coinpost.jp/?p=748653",
+      "pubDate": "Thu, 19 Nov 2026 11:00:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "S&Pグローバル、テザー社USDTの安定性評価を最低ランクに据え置き",
+      "link": "https://coinpost.jp/?p=748636",
+      "pubDate": "Thu, 19 Nov 2026 10:30:28 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バンガード指数ファンド、メタプラネット株1800万株保有　以前比15％増＝報道",
+      "link": "https://coinpost.jp/?p=748645",
+      "pubDate": "Thu, 19 Nov 2026 10:00:11 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "pubDate": "Thu, 19 Nov 2026 00:33:46 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "上場マイナーのビットコイン保有、1月以降ほぼ半減＝グラスノード",
+      "link": "https://coinpost.jp/?p=748635",
+      "pubDate": "Thu, 19 Nov 2026 09:30:34 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ステーブルコイン規則案で州と連邦に差　米上院6議員が是正要請",
+      "link": "https://coinpost.jp/?p=748628",
+      "pubDate": "Thu, 19 Nov 2026 09:00:32 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "pubDate": "Wed, 18 Nov 2026 22:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "link": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+      "pubDate": "Wed, 18 Nov 2026 17:22:03 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "pubDate": "Wed, 18 Nov 2026 16:02:54 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "pubDate": "Wed, 18 Nov 2026 15:38:38 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "pubDate": "Wed, 18 Nov 2026 15:23:18 +0000"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin and XRP Stabilize, but Technical Signals Warn of Further Losses",
+      "link": "https://www.investing.com/analysis/bitcoin-and-xrp-stabilize-but-technical-signals-warn-of-further-losses-200691836",
+      "pubDate": "Nov 18, 2026 14:41 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+      "pubDate": "Wed, 18 Nov 2026 12:53:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "pubDate": "Wed, 18 Nov 2026 12:41:09 +0000"
+    }
+  ]
+}
