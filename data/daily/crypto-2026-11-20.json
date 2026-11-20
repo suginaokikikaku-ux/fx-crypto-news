@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-20",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合い、主要トピック、個別プロジェクトの進捗を整理し、次に確認すべきことを探ります。",
+  "article": "## 1分で読める結論\n暗号資産市場は全体的に活発で、特にトークン化株式の発行が注目されています。イーサリアムのガスコスト変更への対応やビットコインの保有量増加も話題で、今後の展開に注目が集まります。\n\n## 今日の暗号資産市場の地合い\n市場全体は、トークン化の進展や新しいプロジェクトの発表により活気があります。特に、トークン化株式の発行が増えており、これが市場の成長を牽引しています。また、イーサリアムの仕様変更に関する議論が続いています。\n\n## 今日の主要トピック3つ\n1. アルパカのトークン化株式発行・償還額が累計100億ドルを突破。\n2. ヴィタリックがイーサリアムのガスコスト変更に関する仕様変更ルールの明確化を提案。\n3. トゥエンティワン、ビットコインの追加購入を発表し、総保有量が4万3668BTCに達する。\n\n## メインコインの整理\n- **ビットコイン**: 追加購入が進み、保有量の増加が確認されている。\n- **イーサリアム**: ガスコストの変更に関する議論が進行中で、今後の仕様変更に影響を与える可能性がある。\n\n## 個別プロジェクトの進捗\n- **アルパカ**: トークン化株式の発行が累計100億ドルを超え、今後の成長が期待される。\n- **オンド**: アンソロピックの上場初日に株式連動トークン「ANTon」を提供開始。\n- **バイナンスUS**: 無期限先物取引の提供に向けた審査が進行中。\n\n## 今日の要約から見える示唆\n市場はトークン化に関する新たな取り組みやイーサリアムの技術的進展により、今後も成長が見込まれます。特にトークン化株式の進展は、市場全体にポジティブな影響を与えるでしょう。\n\n## 次に確認すべきこと\n- トークン化株式の市場動向や他プロジェクトの進展を引き続きウォッチする。\n- イーサリアムのガスコスト変更に関する最新情報や仕様変更についての公式発表を確認する。\n- ビットコインの市場動向と保有企業の最新情報を追跡する。\n\n## 今日の結論\n今日の暗号資産市場は、トークン化の進展やイーサリアムの技術的な話題が中心となっており、今後の成長が期待されます。市場の動向を注視し、関連情報を継続的に確認することが重要です。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アルパカのトークン化株式発行・償還額が累計100億ドル突破",
+      "link": "https://www.neweconomy.jp/posts/628527",
+      "pubDate": "Fri, 20 Nov 2026 02:57:51 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ヴィタリック、イーサリアムのガスコスト変更による互換性問題への対応を説明。仕様変更ルールの明確化を提案",
+      "link": "https://www.neweconomy.jp/posts/628521",
+      "pubDate": "Fri, 20 Nov 2026 02:54:01 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トゥエンティワン、ビットコイン追加購入を今年初公表。総保有量4万3668BTCに",
+      "link": "https://www.neweconomy.jp/posts/628511",
+      "pubDate": "Fri, 20 Nov 2026 02:47:23 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "オンド、アンソロピックの上場初日に株式連動トークン「ANTon」提供開始",
+      "link": "https://www.neweconomy.jp/posts/628504",
+      "pubDate": "Fri, 20 Nov 2026 02:40:16 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "コインベースがChatGPT向けプラグイン提供開始、株式や暗号資産の取引に対応",
+      "link": "https://www.neweconomy.jp/posts/628496",
+      "pubDate": "Fri, 20 Nov 2026 02:33:30 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンスUS、無期限先物提供へ前進　米CFTCが取引所申請を審査可能と認定",
+      "link": "https://coinpost.jp/?p=748888",
+      "pubDate": "Fri, 20 Nov 2026 11:30:28 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
+      "link": "https://www.neweconomy.jp/posts/628488",
+      "pubDate": "Fri, 20 Nov 2026 02:28:53 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "TORICOがイーサリアム追加取得、総取得数3254ETH超に",
+      "link": "https://www.neweconomy.jp/posts/628480",
+      "pubDate": "Fri, 20 Nov 2026 01:58:20 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "人気ゲーム「GTA6」の無料ダウンロード装うマルウェア、暗号資産ウォレット情報の窃取など狙う",
+      "link": "https://www.neweconomy.jp/posts/628469",
+      "pubDate": "Fri, 20 Nov 2026 01:51:39 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「デジタルだけじゃなく、フィジカルを見る」　CoinPostエンジニアが語る開発の面白さ",
+      "link": "https://coinpost.jp/?p=745692",
+      "pubDate": "Fri, 20 Nov 2026 10:40:36 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "香港当局、ハイパーリキッドを『投資家への警告リスト』に追加　無免許運営・宣伝の疑い",
+      "link": "https://coinpost.jp/?p=748849",
+      "pubDate": "Fri, 20 Nov 2026 09:45:17 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "シンガポール中銀、120億円超規模のトークン化証券発行に成功　CBDCで決済",
+      "link": "https://coinpost.jp/?p=748835",
+      "pubDate": "Fri, 20 Nov 2026 09:30:10 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム次期アップグレード、仕様変更なら2027年5月にずれ込む可能性",
+      "link": "https://coinpost.jp/?p=748812",
+      "pubDate": "Fri, 20 Nov 2026 09:05:11 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米SEC委員候補、株式トークン化の免除措置に懸念　規則整備を求める",
+      "link": "https://coinpost.jp/?p=748813",
+      "pubDate": "Fri, 20 Nov 2026 08:05:13 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ソラナ上の株トークン流通額、10月末からほぼ倍増　初10億ドル超",
+      "link": "https://coinpost.jp/?p=748814",
+      "pubDate": "Fri, 20 Nov 2026 07:40:15 +0900"
+    }
+  ]
+}
