@@ -4,6 +4,123 @@
     "category": "crypto",
     "market": "jp",
     "lang": "ja",
+    "title": "週刊仮想通貨ニュース（11/20）｜BTCとSOL強気予測・ETH相場・ファンドのメタプラ株保有まとめ",
+    "link": "https://coinpost.jp/?p=748859",
+    "pubDate": "Sun, 22 Nov 2026 09:25:36 +0900"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+    "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+    "pubDate": "Sat, 21 Nov 2026 16:41:00 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "pubDate": "Sat, 21 Nov 2026 12:30:00 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
+    "link": "https://coinpost.jp/?p=749050",
+    "pubDate": "Sat, 21 Nov 2026 21:00:24 +0900"
+  },
+  {
+    "source": "Investing",
+    "category": "macro",
+    "market": "global",
+    "lang": "en",
+    "title": "AI’s Disinflationary Power Fuels a Virtuous Cycle",
+    "link": "https://www.investing.com/analysis/ais-disinflationary-power-fuels-a-virtuous-cycle-200692034",
+    "pubDate": "Nov 21, 2026 08:08 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Anthropic’s $107 Billion IPO Raises a Bigger Question: Who Gets the Money?",
+    "link": "https://www.investing.com/analysis/anthropics-107-billion-ipo-raises-a-bigger-question-who-gets-the-money-200692025",
+    "pubDate": "Nov 21, 2026 08:04 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "When the Market Stops Rewarding Good Trades",
+    "link": "https://www.investing.com/analysis/when-the-market-stops-rewarding-good-trades-200691978",
+    "pubDate": "Nov 21, 2026 08:04 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Buy And Forget? It’s Not That Easy",
+    "link": "https://www.investing.com/analysis/buy-and-forget-its-not-that-easy-200691820",
+    "pubDate": "Nov 21, 2026 08:03 GMT"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "pubDate": "Sat, 21 Nov 2026 06:16:42 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "pubDate": "Sat, 21 Nov 2026 05:59:19 +0000"
+  },
+  {
+    "source": "CoinDesk",
+    "category": "crypto",
+    "market": "global",
+    "lang": "en",
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "pubDate": "Sat, 21 Nov 2026 04:10:07 +0000"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
+    "title": "アンソロピックの史上最大級IPOで株トークンが複数のブロックチェーンに登場、取引高15億円超",
+    "link": "https://coinpost.jp/?p=749037",
+    "pubDate": "Sat, 21 Nov 2026 12:10:45 +0900"
+  },
+  {
+    "source": "CoinPost",
+    "category": "crypto",
+    "market": "jp",
+    "lang": "ja",
     "title": "ビットコイン年初来最安値、米ハイテク株急落とマイナー売りが重荷｜仮想NISHI",
     "link": "https://coinpost.jp/?p=749035",
     "pubDate": "Sat, 21 Nov 2026 09:25:36 +0900"
@@ -70,24 +187,6 @@
     "title": "ビットコインの採掘コスト割れで高コストマイナーに売り圧力＝JPモルガン",
     "link": "https://coinpost.jp/?p=749000",
     "pubDate": "Sat, 21 Nov 2026 06:30:29 +0900"
-  },
-  {
-    "source": "Investing",
-    "category": "macro",
-    "market": "global",
-    "lang": "en",
-    "title": "AI’s Disinflationary Power Fuels a Virtuous Cycle",
-    "link": "https://www.investing.com/analysis/ais-disinflationary-power-fuels-a-virtuous-cycle-200692034",
-    "pubDate": "Nov 20, 2026 21:17 GMT"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "When the Market Stops Rewarding Good Trades",
-    "link": "https://www.investing.com/analysis/when-the-market-stops-rewarding-good-trades-200691978",
-    "pubDate": "Nov 20, 2026 21:17 GMT"
   },
   {
     "source": "Investing",
@@ -172,15 +271,6 @@
   },
   {
     "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Meta Stock Faces More Pressure as AI Costs Outpace Revenue Growth",
-    "link": "https://www.investing.com/analysis/meta-stock-faces-more-pressure-as-ai-costs-outpace-revenue-growth-200692026",
-    "pubDate": "Nov 20, 2026 18:36 GMT"
-  },
-  {
-    "source": "Investing",
     "category": "macro",
     "market": "global",
     "lang": "en",
@@ -196,15 +286,6 @@
     "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play ",
     "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
     "pubDate": "Fri, 20 Nov 2026 18:13:52 +0000"
-  },
-  {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "3 Dividend Stocks Paying 5% Or More That the Market Is Ignoring",
-    "link": "https://www.investing.com/analysis/3-dividend-stocks-paying-5-or-more-that-the-market-is-ignoring-200691992",
-    "pubDate": "Nov 20, 2026 17:59 GMT"
   },
   {
     "source": "Investing",
@@ -225,15 +306,6 @@
     "pubDate": "Nov 20, 2026 17:02 GMT"
   },
   {
-    "source": "Investing",
-    "category": "stocks",
-    "market": "global",
-    "lang": "en",
-    "title": "Hard Drives Were Left for Dead, But Seagate and Western Digital Are Soaring",
-    "link": "https://www.investing.com/analysis/hard-drives-were-left-for-dead-but-seagate-and-western-digital-are-soaring-200692018",
-    "pubDate": "Nov 20, 2026 16:22 GMT"
-  },
-  {
     "source": "CoinDesk",
     "category": "crypto",
     "market": "global",
@@ -241,24 +313,6 @@
     "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
     "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
     "pubDate": "Fri, 20 Nov 2026 14:54:30 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-    "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-    "pubDate": "Fri, 20 Nov 2026 14:38:30 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-    "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-    "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000"
   },
   {
     "source": "Investing",
@@ -288,33 +342,6 @@
     "pubDate": "Nov 20, 2026 13:40 GMT"
   },
   {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-    "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-    "pubDate": "Fri, 20 Nov 2026 13:30:22 +0000"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-    "pubDate": "Fri, 20 Nov 2026 13:11:49 +0000"
-  },
-  {
     "source": "Investing",
     "category": "macro",
     "market": "global",
@@ -331,33 +358,6 @@
     "title": "Oil and Stocks Drive Rates Lower, and Take Some Shine Off the US Dollar",
     "link": "https://www.investing.com/analysis/oil-and-stocks-drive-rates-lower-and-take-some-shine-off-the-us-dollar-200692003",
     "pubDate": "Nov 20, 2026 12:21 GMT"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米上院、戦争やテロに関する予測市場契約の上場禁止法案を可決　下院へ",
-    "link": "https://coinpost.jp/?p=748980",
-    "pubDate": "Fri, 20 Nov 2026 21:20:59 +0900"
-  },
-  {
-    "source": "CoinDesk",
-    "category": "crypto",
-    "market": "global",
-    "lang": "en",
-    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-    "pubDate": "Fri, 20 Nov 2026 12:15:08 +0000"
-  },
-  {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "米CFTC委員長、ハイパーリキッドなどの米国参入に取引所登録か提携が必要と説明",
-    "link": "https://coinpost.jp/?p=748838",
-    "pubDate": "Fri, 20 Nov 2026 21:00:41 +0900"
   },
   {
     "source": "Investing",
@@ -468,15 +468,6 @@
     "pubDate": "Nov 20, 2026 08:12 GMT"
   },
   {
-    "source": "CoinPost",
-    "category": "crypto",
-    "market": "jp",
-    "lang": "ja",
-    "title": "人気ゲーム「GTA VI」発売でトークン化株TTWOの取引高急増、エヌビディアの約3倍に",
-    "link": "https://coinpost.jp/?p=748914",
-    "pubDate": "Fri, 20 Nov 2026 17:00:55 +0900"
-  },
-  {
     "source": "あたらしい経済",
     "category": "crypto",
     "market": "jp",
@@ -547,6 +538,15 @@
     "title": "Bitcoin Pullback Nears Completion as Elliott Wave Setup Points to a Rebound",
     "link": "https://www.investing.com/analysis/bitcoin-pullback-nears-completion-as-elliott-wave-setup-points-to-a-rebound-200691947",
     "pubDate": "Nov 19, 2026 18:39 GMT"
+  },
+  {
+    "source": "Investing",
+    "category": "stocks",
+    "market": "global",
+    "lang": "en",
+    "title": "Risk Is Cheap, Safety Isn’t",
+    "link": "https://www.investing.com/analysis/risk-is-cheap-safety-isnt-200691904",
+    "pubDate": "Nov 19, 2026 17:15 GMT"
   },
   {
     "source": "Investing",
