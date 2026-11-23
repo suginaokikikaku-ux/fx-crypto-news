@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-23",
+  "seoTitle": "暗号資産市場最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状態、注目プロジェクトの進捗を詳しく解説します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は、ビットコインが1000万円を割り込み、東京国税局による追徴税額の報道が影響している。主要プロジェクトでは、国債トークン化の実機検証が進行中で、ChainflipのFLIPが大幅に下落した。\n\n## 今日の暗号資産市場の地合い\n全体的に暗号資産市場は弱気で、特にビットコインが下落傾向にある。一部の投資家はリスクを避け、売却を進めている。特に日本市場では、税制の厳格化が懸念されており、これが市場にネガティブな影響を与えている。\n\n## 今日の主要トピック3つ\n1. **東京国税局が暗号資産の追徴税額を12億円と報道** - 税制の強化が市場に影響を及ぼし、投資家心理が冷え込む可能性がある。\n2. **国債トークン化の実機検証がカントンで実施** - ブロックチェーン技術を利用した国債トークン化の進展が注目されている。\n3. **ChainflipのFLIPが30%下落** - $4.86百万のボールトドレイン疑惑が影響し、投資家の信頼感が揺らいでいる。\n\n## メインコインの整理\n- **ビットコイン**: 価格が1000万円を割り込み、投資家の懸念が高まっている。\n- **イーサリアム**: 特に目立った動きはないが、全体の市場地合いに影響を受けている。\n- **XRP**: 長期のポジション解消により、価格が10%下落。ETF資産が10億ドルを下回っている。\n\n## 個別プロジェクトの進捗\n- **国債トークン化**: 財務省の研究会がカントンのブロックチェーンで実機検証を行う。これは金融システムにおけるブロックチェーンの応用として注目度が高い。\n- **Chainflip**: FLIPトークンが30%下落し、ボールトドレインの疑惑が投資家に不安を与えている。これによりプロジェクトの信頼性が問われている。\n\n## 今日の要約から見える示唆\n市場全体はリスク回避の傾向が強まっており、特に税制の強化が投資家心理に影響を与えている。国債トークン化の進展は将来的な金融システムの変革を示唆しているが、短期的には市場のボラティリティが続く可能性が高い。\n\n## 次に確認すべきこと\n- 東京国税局の追徴税に関するさらなる報道や影響。\n- 国債トークン化の実機検証が進展する中での市場の反応。\n- Chainflipの信頼性回復に向けた対応策や新たな情報の発表。\n\n## 今日の結論\n暗号資産市場は現在、税制強化の影響を受けており、ビットコインの価格下落が投資家心理にネガティブな影響を与えている。個別プロジェクトの進展が注目されるが、全体の地合いは依然として厳しい状況にある。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道",
+      "link": "https://coinpost.jp/?p=749085",
+      "pubDate": "Mon, 23 Nov 2026 09:34:46 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "More on the pending oversight hearings: State of Crypto ",
+      "link": "https://www.coindesk.com/",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "財務省研究会資料、国債トークン化の実機検証をカントンのブロックチェーンで実施へ",
+      "link": "https://coinpost.jp/?p=749074",
+      "pubDate": "Sun, 22 Nov 2026 15:45:29 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=748953",
+      "pubDate": "Sun, 22 Nov 2026 11:30:08 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "週刊仮想通貨ニュース（11/20）｜BTCとSOL強気予測・ETH相場・ファンドのメタプラ株保有まとめ",
+      "link": "https://coinpost.jp/?p=748859",
+      "pubDate": "Sun, 22 Nov 2026 09:25:36 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "pubDate": "Sat, 21 Nov 2026 16:41:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "pubDate": "Sat, 21 Nov 2026 12:30:00 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
+      "link": "https://coinpost.jp/?p=749050",
+      "pubDate": "Sat, 21 Nov 2026 21:00:24 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "pubDate": "Sat, 21 Nov 2026 06:16:42 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "pubDate": "Sat, 21 Nov 2026 05:59:19 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "pubDate": "Sat, 21 Nov 2026 04:10:07 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アンソロピックの史上最大級IPOで株トークンが複数のブロックチェーンに登場、取引高15億円超",
+      "link": "https://coinpost.jp/?p=749037",
+      "pubDate": "Sat, 21 Nov 2026 12:10:45 +0900"
+    }
+  ]
+}
