@@ -1,0 +1,168 @@
+{
+  "type": "crypto",
+  "date": "2026-11-24",
+  "seoTitle": "暗号資産市場動向と注目プロジェクトの進捗",
+  "seoDescription": "最新の暗号資産市場の地合いや主要コインの動き、注目プロジェクトの進捗を整理し、今後の展望を提示します。",
+  "article": "## 1分で読める結論\n本日の暗号資産市場では、英財務省がマーケットメイクの自己勘定取引を除外する決定や、1inchの新しい無期限先物商品が注目されています。また、Suiのビットコイン金融基盤「Hashi」がメインネットを稼働させ、パートナーシップを拡大中です。市場は新たな規制やプロジェクトの進捗に影響され、注目が集まっています。\n\n## 今日の暗号資産市場の地合い\n市場全体は新たな規制の影響を受けている。特に、英財務省が暗号資産のマーケットメイクを自己勘定取引の認可対象から除外する決定は、投資家の心理に影響を与える可能性が高い。さらに、暗号資産関連株の動向も注視されている。\n\n## 今日の主要トピック3つ\n1. **英財務省の暗号資産規制強化** - マーケットメイクの自己勘定取引を認可対象から除外。\n2. **1inchの新サービス** - ハイパーリキッドの無期限先物を株式、商品、為替に対応させる。\n3. **SuiのHashiメインネット稼働** - 20を超えるパートナーが参画し、新たな金融基盤を構築。\n\n## メインコインの整理\n現在のビットコイン（BTC）やイーサリアム（ETH）の価格動向には、規制の変更や新たなプロジェクトの進捗が影響を与えている。これらの主要コインは、特に投資家の関心が高い。市場全体の変動に対して、主要コインの耐性が試される局面にある。\n\n## 個別プロジェクトの進捗\n- **1inch**: ハイパーリキッドの無期限先物が導入され、流動性の向上が期待される。\n- **Sui**: ビットコイン金融基盤「Hashi」がメインネットを稼働し、パートナーシップの拡大に成功。\n- **エヌビディア**: CEO復帰による株価の上昇が暗号資産市場にも波及効果を及ぼしている。\n\n## 今日の要約から見える示唆\n新たな規制の影響やプロジェクトの進展により、暗号資産市場は変動が激しい。特に、英財務省の動きは投資家の戦略に影響を及ぼす可能性がある。流動性を高める新しい金融商品が登場していることも、今後の市場の動向に重要な要素となる。\n\n## 次に確認すべきこと\n- 英財務省の規制に対する市場の反応を観察すること。\n- 1inchの新サービスの利用状況とその影響を評価すること。\n- SuiのHashiの進捗とパートナーシップの成果を追跡すること。\n\n## 今日の結論\n暗号資産市場は、規制の強化や新たなプロジェクトの進捗を背景に変化している。今後の市場動向を注視し、各プロジェクトの進捗状況を確認することが重要である。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "英財務省、暗号資産のマーケットメイクを自己勘定取引の認可対象から除外へ",
+      "link": "https://www.neweconomy.jp/posts/629262",
+      "pubDate": "Tue, 24 Nov 2026 05:49:41 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "1inch、ハイパーリキッドの無期限先物を統合。株式・商品・為替にも対応",
+      "link": "https://www.neweconomy.jp/posts/629251",
+      "pubDate": "Tue, 24 Nov 2026 05:43:31 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アンバーグループ、AI投資・事業育成に注力。マーケットメイク事業を調整",
+      "link": "https://www.neweconomy.jp/posts/629242",
+      "pubDate": "Tue, 24 Nov 2026 05:36:30 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "三井倉庫ロジスティクス・東芝ら6社、荷待ち・荷役時間の自動記録を実証。ブロックチェーン活用で",
+      "link": "https://www.neweconomy.jp/posts/629226",
+      "pubDate": "Tue, 24 Nov 2026 05:27:06 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "データチェーンとオプティミズム財団、国内金融向けにプライバシー技術連携を検討",
+      "link": "https://www.neweconomy.jp/posts/629218",
+      "pubDate": "Tue, 24 Nov 2026 05:16:59 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプコイン上位保有者の晩餐会を開催、価格は最高値から99%下落",
+      "link": "https://coinpost.jp/?p=749256",
+      "pubDate": "Tue, 24 Nov 2026 13:45:32 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Suiのビットコイン金融基盤「Hashi」がメインネット稼働、20超のパートナー参画",
+      "link": "https://www.neweconomy.jp/posts/629194",
+      "pubDate": "Tue, 24 Nov 2026 04:39:56 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "エヌビディア、ジェンスン・フアンがCEOに復帰。株価31％高、BTCや暗号資産関連株も上昇",
+      "link": "https://www.neweconomy.jp/posts/629188",
+      "pubDate": "Tue, 24 Nov 2026 04:31:44 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "グレースケール、ZEC現物ETFの日次リターン2倍を目指す「ZECX」上場",
+      "link": "https://www.neweconomy.jp/posts/629179",
+      "pubDate": "Tue, 24 Nov 2026 04:27:29 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "マレーシア初のトークン化国債取引、メイバンクが実証完了",
+      "link": "https://www.neweconomy.jp/posts/629173",
+      "pubDate": "Tue, 24 Nov 2026 04:21:12 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上院、戦争や死亡に関する予測市場の契約禁止法案「デスベッツ法案」を可決",
+      "link": "https://www.neweconomy.jp/posts/629162",
+      "pubDate": "Tue, 24 Nov 2026 04:11:37 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "BTC・ETH・ステーブルコインを一部企業の運営費に算入可、米CFTCスタッフが見解",
+      "link": "https://coinpost.jp/?p=749215",
+      "pubDate": "Tue, 24 Nov 2026 13:00:14 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "暗号移行急ぐ　イーサリアム財団、AI脅威は量子コンピュータリスクより緊急と警告",
+      "link": "https://coinpost.jp/?p=749155",
+      "pubDate": "Tue, 24 Nov 2026 11:30:33 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ロビンフッド、運用者が銘柄を選ぶETF連動トークンを米国外向けに初提供",
+      "link": "https://coinpost.jp/?p=749154",
+      "pubDate": "Tue, 24 Nov 2026 11:30:29 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "エヌビディアなど67社不参加も、OKXICEがトークン化株式の取引サービスを開始",
+      "link": "https://coinpost.jp/?p=749188",
+      "pubDate": "Tue, 24 Nov 2026 10:05:27 +0900"
+    }
+  ]
+}
