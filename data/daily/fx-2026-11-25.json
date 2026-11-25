@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-25",
+  "seoTitle": "USD/JPYの動向とマクロ要因の分析",
+  "seoDescription": "USD/JPYの反発要因やマクロ経済の影響を分析。地政学や金利、リスクオンオフの視点を含む深い考察を提供します。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、東京市場での160円のレジスタンスに挑戦する動きが見られ、特に米国のインフレ圧力が影響を与えている。USD/JPYは上昇基調を維持しているが、持続性には疑問が残る。BTCにも流動性の変化が影響を及ぼす可能性がある。\n\n## 2. 今日の主要ドライバー3つ\n1. 米国のインフレ圧力が続いており、これは投資家のリスク選好に影響を与え、ドル高を支える要因となっている。\n2. 東京市場での160円がレジスタンスとして機能し、これがトレーダーの心理に影響を与え、売買の動きを制約している。\n3. 米国の燃料価格の低下と選挙の明確性が、消費者信頼感を高め、これが経済成長への期待を高めることで市場にプラスの影響を与えている。\n\n## 3. 市場構造の解釈\n現在の相場は、主に金利の動向が主導している。特に、米国のインフレ圧力が大きく、投資家は金利の上昇を見込んでドルを買っている。これは短期的な動きではなく、継続性がある可能性が高い。機関投資家が主導権を握っており、彼らのポジション調整が相場に影響を与えていると考えられる。現在の相場の反応は、マクロ経済の見通しと投資家心理が交錯した結果である。\n\n## 4. USD/JPY分析\n現在、USD/JPYは上昇トレンドにあるが、短期的には160円のレジスタンスが意識されているため、一時的な調整が入りやすい状況である。中期的には、米国の金利動向やインフレデータに依存する可能性が高く、これらが相場の方向性を決定づける要因となる。今回の動きは継続型の可能性があるが、160円の突破が鍵となる。\n\n## 5. BTCへの波及\nドル高が続く中、BTCはリスクオフの資産としての役割を果たす可能性がある。米国のインフレや金利の動向がBTCの価格に影響を与えると考えられ、投資家は流動性の変化を注視している。BTCへの資金流入は、ドルの動きに敏感に反応するだろう。\n\n## 6. 強気・弱気の分岐条件\n- 強気シナリオ: 米国のインフレが予想以上に高い場合、金利上昇がドルを支え、USD/JPYは160円を突破する。\n- 弱気シナリオ: 米国の経済指標が予想を下回り、投資家がリスク回避に転じた場合、USD/JPYは反落する可能性がある。\n\n## 7. 今日の示唆\n今日の相場では、米国のインフレ指標や燃料価格の動向を注視することが重要である。また、東京市場での160円の動きに注目し、ポジション調整の兆候を見逃さないようにすることが求められる。特に、金利の動向に敏感な市場の反応を観察すべきである。\n\n## 8. 今日の結論\n今日の相場は、米国のインフレ圧力と東京市場での160円の動きが鍵を握る。投資家はこれらの要因を意識しつつ、流動性の変化に注意を払う必要がある。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "fx",
+      "macro"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "USD/JPY Rebound Tests Tokyo’s Resolve as 160 Caps the Upside",
+      "link": "https://www.investing.com/analysis/usdjpy-rebound-tests-tokyos-resolve-as-160-caps-the-upside-200692255",
+      "pubDate": "Nov 24, 2026 21:58 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "AI’s Castles and Cannons",
+      "link": "https://www.investing.com/analysis/ais-castles-and-cannons-200692252",
+      "pubDate": "Nov 24, 2026 21:04 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Confidence Bounces on Fuel Price Drop and Election Clarity",
+      "link": "https://www.investing.com/analysis/us-confidence-bounces-on-fuel-price-drop-and-election-clarity-200692249",
+      "pubDate": "Nov 24, 2026 20:43 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "US Inflation Remains Under Pressure Ahead of Key November 25 PCE Report",
+      "link": "https://www.investing.com/analysis/us-inflation-remains-under-pressure-ahead-of-key-november-25-pce-report-200692237",
+      "pubDate": "Nov 24, 2026 17:10 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "AUD/JPY Starting Wave Three",
+      "link": "https://www.investing.com/analysis/audjpy-starting-wave-three-200692225",
+      "pubDate": "Nov 24, 2026 13:51 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Major Stock Indices Surge as Nvidia Soars 30% Following Jensen Huang’s Return",
+      "link": "https://www.investing.com/analysis/major-stock-indices-surge-as-nvidia-soars-30-following-jensen-huangs-return-200692220",
+      "pubDate": "Nov 24, 2026 12:31 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "Turn Around Tuesday: US Dollar and Stocks Lower",
+      "link": "https://www.investing.com/analysis/turn-around-tuesday-us-dollar-and-stocks-lower-200692217",
+      "pubDate": "Nov 24, 2026 11:56 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar May Be Heading Into Overshoot Territory",
+      "link": "https://www.investing.com/analysis/us-dollar-may-be-heading-into-overshoot-territory-200692207",
+      "pubDate": "Nov 24, 2026 10:37 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Is Flying High, but Is It Running Out of Runway?",
+      "link": "https://www.investing.com/analysis/us-dollar-is-flying-high-but-is-it-running-out-of-runway-200692214",
+      "pubDate": "Nov 24, 2026 10:34 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Stocks Soar on Huang’s Return, but Concerns Remain",
+      "link": "https://www.investing.com/analysis/stocks-soar-on-huangs-return-but-concerns-remain-200692209",
+      "pubDate": "Nov 24, 2026 09:56 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Moderately Up, but Outlook Not Looking Good",
+      "link": "https://www.investing.com/analysis/eurusd-moderately-up-but-outlook-not-looking-good-200692206",
+      "pubDate": "Nov 24, 2026 07:52 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "First Light News: Look Who’s Back",
+      "link": "https://www.investing.com/analysis/first-light-news-look-whos-back-200692202",
+      "pubDate": "Nov 24, 2026 07:14 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold Holds $3,600 Before PCE: Real Bounce or Trap?",
+      "link": "https://www.investing.com/analysis/gold-holds-3600-before-pce-real-bounce-or-trap-200692196",
+      "pubDate": "Nov 24, 2026 06:23 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Asia Wrap: The King Is Back, but the AI Kimono Has Already Been Opened",
+      "link": "https://www.investing.com/analysis/asia-wrap-the-king-is-back-but-the-ai-kimono-has-already-been-opened-200692192",
+      "pubDate": "Nov 24, 2026 05:48 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Outlook: Dollar Bulls Feast on AI Revival",
+      "link": "https://www.investing.com/analysis/eurusd-outlook-dollar-bulls-feast-on-ai-revival-200692182",
+      "pubDate": "Nov 24, 2026 04:20 GMT"
+    }
+  ]
+}

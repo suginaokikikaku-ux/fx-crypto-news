@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-25",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状態、個別プロジェクトの進捗を詳しく解説。次に確認すべきポイントも提示します。",
+  "article": "# 1分で読める結論\n今日の暗号資産市場は、ビットコインの実現損失がFTX破綻以来の水準に達し、全体的に慎重な地合いが続いています。新たなプロジェクトや提携が進行中で、特にトークン化やコンプライアンス自動化が注目されています。\n\n## 今日の暗号資産市場の地合い\n現在の暗号資産市場は、ビットコインを中心に慎重な姿勢が見られます。特に、実現損失が高まっていることが市場全体の不安感を引き起こしています。一方で、新しい提携や技術進展があるため、全体の地合いは一概にネガティブとは言えません。\n\n## 今日の主要トピック3つ\n1. **ビットコインの実現損失がFTX破綻以来の水準** - 投資家の心理に影響を及ぼす。\n2. **サークルとトルコ取引所のMOU** - USDC活用やRWAトークン化を検討。\n3. **PwC Japanとオプテージの提携** - 暗号資産交換業者のコンプライアンス評価自動化へ実証。\n\n## メインコインの整理\n- **ビットコイン**: 実現損失が高く、価格の不安定要因として作用。\n- **イーサリアム**: セキュリティ強化のため、AI・量子脅威への対応を最優先に。\n- **その他の主要コイン**: 具体的な動きは見られないが、全体的な市場の動向に影響される可能性が高い。\n\n## 個別プロジェクトの進捗\n- **サークル**: トルコの取引所パリブとMOUを締結し、USDCの活用やRWAトークン化を模索。\n- **PwC Japanとオプテージ**: 暗号資産交換業者のコンプライアンス評価を自動化する実証実験を開始。\n- **HODL1**: SuperX Industriesとの提携により、AI計算資源の販売を予定。\n- **OKJ**: 国内初の「カイア（KAIA）」ステーキングサービスを提供開始。\n\n## 今日の要約から見える示唆\n現在の地合いは慎重であるものの、新たな提携やプロジェクトの進展が市場に新しい流れをもたらす可能性がある。特に、トークン化やコンプライアンスの自動化は、今後の市場の成長を支える重要な要素として注目される。\n\n## 次に確認すべきこと\n- ビットコインの実現損失の動向と、投資家の心理が今後の価格に与える影響。\n- サークルとトルコ取引所のMOUが具体的にどのように進展するか。\n- PwC Japanとオプテージの提携の成果や、業界への影響。\n\n## 今日の結論\n暗号資産市場は現在、ビットコインの実現損失が高まる中で慎重な地合いが続いている。しかし、新たなプロジェクトや提携が進行中であり、今後の市場の流れを見極めるためには、これらの動向に注目する必要がある。",
+  "meta": {
+    "sources": [
+      "CoinDesk",
+      "あたらしい経済",
+      "CoinPost"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+      "pubDate": "Wed, 25 Nov 2026 04:50:08 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "サークル、トルコの暗号資産取引所パリブとMOU。USDC活用やRWAトークン化を検討",
+      "link": "https://www.neweconomy.jp/posts/629729",
+      "pubDate": "Wed, 25 Nov 2026 04:39:08 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
+      "link": "https://www.neweconomy.jp/posts/629723",
+      "pubDate": "Wed, 25 Nov 2026 04:34:19 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "HODL1、SuperX IndustriesとAI計算資源の販売などで提携へ",
+      "link": "https://www.neweconomy.jp/posts/629715",
+      "pubDate": "Wed, 25 Nov 2026 04:26:20 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "国内初、OKJが「カイア（KAIA）」ステーキングサービス提供へ",
+      "link": "https://www.neweconomy.jp/posts/629708",
+      "pubDate": "Wed, 25 Nov 2026 04:19:38 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム財団、AI・量子脅威への対応を最優先にセキュリティチーム倍増",
+      "link": "https://www.neweconomy.jp/posts/629694",
+      "pubDate": "Wed, 25 Nov 2026 04:10:34 +0000"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "pubDate": "Wed, 25 Nov 2026 03:35:20 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スイス中銀、分散型台帳技術の可能性を模索へ　トークン化プロジェクトの一環",
+      "link": "https://coinpost.jp/?p=749418",
+      "pubDate": "Wed, 25 Nov 2026 12:30:56 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPモルガンとHSBC、デジタル金を初取引、分割所有権を担保",
+      "link": "https://coinpost.jp/?p=749399",
+      "pubDate": "Wed, 25 Nov 2026 12:15:47 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "WIZEが約4か月ぶりにソラナ追加購入、総保有量7万SOL突破",
+      "link": "https://www.neweconomy.jp/posts/629676",
+      "pubDate": "Wed, 25 Nov 2026 02:18:23 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米マイニング大手クリーンスパーク、ビットコイン評価益で4Q黒字　売上46％減",
+      "link": "https://coinpost.jp/?p=749409",
+      "pubDate": "Wed, 25 Nov 2026 10:15:21 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン、実現損失がFTX破綻以来の水準に",
+      "link": "https://coinpost.jp/?p=749397",
+      "pubDate": "Wed, 25 Nov 2026 09:40:56 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "大統領長男の投資会社と関係する4社にメス、米議員がポリマーケットなどに資料開示を要求",
+      "link": "https://coinpost.jp/?p=749380",
+      "pubDate": "Wed, 25 Nov 2026 09:10:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "オンド、ビットコイン保有4位ストライブの株式をトークン化",
+      "link": "https://coinpost.jp/?p=749347",
+      "pubDate": "Wed, 25 Nov 2026 08:30:32 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "9年ぶりに仮想通貨のICO調達解禁へ、韓国金融委が容認方針",
+      "link": "https://coinpost.jp/?p=749372",
+      "pubDate": "Wed, 25 Nov 2026 08:00:24 +0900"
+    }
+  ]
+}
