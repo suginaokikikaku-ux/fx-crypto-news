@@ -1,0 +1,170 @@
+{
+  "type": "crypto",
+  "date": "2026-11-26",
+  "seoTitle": "最新の暗号資産市場動向を分析",
+  "seoDescription": "今日の暗号資産市場の地合いや主要コインの状態、個別プロジェクトの進捗を詳しく解説し、次に確認すべきことを示します。",
+  "article": "## 1分で読める結論\n今日の暗号資産市場は新たなプロジェクトの始動や技術的な進展が目立つ中、主要コインの価格が不安定な状態にあります。特に、イーサリアムのサポートレベルが試されており、今後の動向に注目が集まります。\n\n## 今日の暗号資産市場の地合い\n市場全体は新しいプロジェクトや技術の導入により活気が見られる一方で、主要コインの価格はETFからの資金流出やホエールによる売却圧力によって不安定さが増しています。特にイーサリアムは$1,600のサポートが試されており、投資家の間で注視されています。\n\n## 今日の主要トピック3つ\n1. **SBI Solana Globalの始動**：SBI、三井住友FG、ソラナ財団の合弁が発表され、Solanaエコシステムの強化が期待されます。\n   [記事リンク](https://www.neweconomy.jp/posts/630118)\n\n2. **ステラのアップグレード「Bell」**：耐量子電子署名の検証機能を追加したアップグレードが完了し、セキュリティ向上が図られました。\n   [記事リンク](https://www.neweconomy.jp/posts/630085)\n\n3. **米上場ビット・デジタルのETH売却**：約3万ETHを売却し、債務の一部返済を行ったとのことで、今後のイーサリアム戦略に影響が出る可能性があります。\n   [記事リンク](https://coinpost.jp/?p=749534)\n\n## メインコインの整理\n- **ビットコイン**：市場の底打ちを巡る見方が揺らいでおり、6月安値を割るリスクが指摘されています。\n- **イーサリアム**：$1,600のサポートが試されており、ETFからの資金流出が影響しています。\n- **ソラナ**：SBIとの合弁開始により、エコシステムの成長が期待されています。\n\n## 個別プロジェクトの進捗\n- **SBI Solana Global**が本格始動し、Solanaのエコシステム強化に貢献する見込み。\n- **ステラ**のアップグレードにより、耐量子安全性が強化され、今後の利用が期待されます。\n- **アンソロピック**が企業向けに悪用検知ツールの公開ベータを開始し、AIセキュリティ分野での進展が見られます。\n   [記事リンク](https://www.neweconomy.jp/posts/630112)\n\n## 今日の要約から見える示唆\n新しい技術やプロジェクトの発表が続く中で、主要コインの価格は依然として不安定です。特に、イーサリアムのサポートレベルの維持が重要な焦点となっています。また、SBIとソラナの合弁は、Solanaエコシステムにとっての大きな前進を示唆しています。\n\n## 次に確認すべきこと\n- イーサリアムの$1,600サポートの動向と、ホエールの動き。\n- SBI Solana Globalの具体的な戦略とプロジェクトの進捗。\n- ステラのアップグレード後の市場への影響。\n\n## 今日の結論\n暗号資産市場は新たな技術革新により変化が見られる一方で、主要コインは依然として不安定な価格動向を示しています。投資家は主要コインのサポートラインや大型プロジェクトの進捗に注視する必要があります。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost",
+      "Investing",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
+      "link": "https://www.neweconomy.jp/posts/630118",
+      "pubDate": "Thu, 26 Nov 2026 04:03:38 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "アンソロピック、Claudeの悪用を検知する企業向け「EFS」の公開ベータ開始",
+      "link": "https://www.neweconomy.jp/posts/630112",
+      "pubDate": "Thu, 26 Nov 2026 03:43:10 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
+      "link": "https://www.neweconomy.jp/posts/630105",
+      "pubDate": "Thu, 26 Nov 2026 03:33:07 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "HSBCやJPモルガンなど3社、現物金の持分「PGI」で初の実取引。担保にも活用",
+      "link": "https://www.neweconomy.jp/posts/630097",
+      "pubDate": "Thu, 26 Nov 2026 03:29:31 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
+      "link": "https://www.neweconomy.jp/posts/630091",
+      "pubDate": "Thu, 26 Nov 2026 03:25:20 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ステラのアップグレード「Bell」がメインネットで完了、耐量子電子署名の検証などに対応",
+      "link": "https://www.neweconomy.jp/posts/630085",
+      "pubDate": "Thu, 26 Nov 2026 03:21:35 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "1Password、一部ユーザー情報流出　保管庫は影響なしと説明",
+      "link": "https://coinpost.jp/?p=749571",
+      "pubDate": "Thu, 26 Nov 2026 12:00:10 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、トレカのガチャ機能をウォレットに導入　レナイスに対応",
+      "link": "https://coinpost.jp/?p=749551",
+      "pubDate": "Thu, 26 Nov 2026 11:30:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "bitFlyer、MEXCとの送受取を停止へ　米FinCEN命令受け",
+      "link": "https://coinpost.jp/?p=749559",
+      "pubDate": "Thu, 26 Nov 2026 10:54:18 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ギャラクシー、ビットコイン底打ち判断を撤回　6月安値割れを警戒",
+      "link": "https://coinpost.jp/?p=749550",
+      "pubDate": "Thu, 26 Nov 2026 10:30:36 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ブレインズ、1000拠点以上でビットコイン採掘の乗っ取りを報告",
+      "link": "https://coinpost.jp/?p=749541",
+      "pubDate": "Thu, 26 Nov 2026 10:15:36 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "グーグルのAI論文、RSAやビットコインの暗号に影響なし＝専門家",
+      "link": "https://coinpost.jp/?p=749545",
+      "pubDate": "Thu, 26 Nov 2026 09:46:18 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米上場ビット・デジタル、約3万ETH売却で債務を一部返済　イーサリアム戦略は継続",
+      "link": "https://coinpost.jp/?p=749534",
+      "pubDate": "Thu, 26 Nov 2026 09:00:30 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ether’s $1,600 Support Faces Pressure From ETF Outflows and Whale Selling",
+      "link": "https://www.investing.com/analysis/ethers-1600-support-faces-pressure-from-etf-outflows-and-whale-selling-200692337",
+      "pubDate": "Nov 25, 2026 20:39 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "pubDate": "Wed, 25 Nov 2026 18:24:47 +0000"
+    }
+  ]
+}

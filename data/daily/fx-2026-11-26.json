@@ -1,0 +1,168 @@
+{
+  "type": "fx",
+  "date": "2026-11-26",
+  "seoTitle": "USD/JPYとマクロ経済の相関分析",
+  "seoDescription": "USD/JPYの動向を通じて、米国の金利政策や地政学的リスクの影響を探る。市場構造の解釈を深める分析記事。",
+  "article": "## 1. 1分で読める結論\n今日の相場は、米国のインフレ指標に対する反応としてUSD/JPYが影響を受けており、金利の動向が方向性を決定づけている。特に、米国の金利が上昇する中で円安が進行し、リスクオフの姿勢が見受けられる。BTCも同様にドル高の影響を受けている。\n\n## 2. 今日の主要ドライバー3つ\n1. **米国のPCEインフレ** → PCEインフレが予想よりも高かったことで、FRBの利上げ観測が強まり、ドルが買われた。これによりUSD/JPYが円安に振れた。\n2. **米国の経済成長** → 強い経済指標が出ていることから、FRBは金利をさらに引き上げる可能性が高まっている。これがドルの強さを支え、円に対しての圧力に繋がっている。\n3. **地政学的リスク** → トランプ元大統領の関税発表が市場に影響を与え、リスクオフの動きが強まっている。これにより、円が安全資産として買われる一方で、ドルの強さも持続している。\n\n## 3. 市場構造の解釈\n現在の市場は、主に金利政策によって主導されている。特に、米国の金利が上昇するという期待が高まる中で、投資家はドルを選好している。この動きには、機関投資家が中心となっており、短期的なポジション調整が見られる。FRBのインフレに対するスタンスが明確なため、今後もドル高が継続する可能性が高い。現時点での仮説は、金利上昇が市場全体を支える要因となっていることだ。\n\n## 4. USD/JPY分析\n現在の相場観は、短期的には円安の流れが続くと見られる。中期的には、FRBの金利政策が継続する限り、ドルの強さが維持されると考えられる。今回の動きは、金利上昇に伴う継続型の傾向が強いと捉えられる。\n\n## 5. BTCへの波及\nドル高が進む中で、BTCはリスク資産としての位置付けから影響を受けている。市場がリスクオフの姿勢を強める場合、BTCは売られやすくなるが、逆に投資家が資産の逃避先としてBTCを選ぶ可能性もあり、相関が注目される。\n\n## 6. 強気・弱気の分岐条件\n- **強気条件**: FRBがさらなる金利上昇を示唆すれば、ドル高が継続し、USD/JPYが上昇する可能性がある。\n- **弱気条件**: 経済成長が鈍化し、FRBの政策が緩和されれば、円高に転じるリスクがある。\n\n## 7. 今日の示唆\n現在の相場では、FRBの金利政策やPCEインフレの動向に注目すべき。特に、今後の経済指標発表を通じて、ドルと円の相関関係がどのように変化するかが重要である。また、地政学的なリスクも市場に影響を及ぼすため、これらの要因を意識して相場を見守る必要がある。\n\n## 8. 今日の結論\n今日の相場は、米国の金利政策が中心となっており、USD/JPYはドル高に引っ張られている。市場は引き続き金利動向を注視している。",
+  "meta": {
+    "sources": [
+      "Investing"
+    ],
+    "categories": [
+      "macro",
+      "fx"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "FXとは？",
+        "url": "../basics/fx/what-is-fx.html"
+      },
+      {
+        "title": "なぜ為替は動くのか",
+        "url": "../basics/fx/what-moves-fx.html"
+      },
+      {
+        "title": "ドル円とは？USD/JPYの見方",
+        "url": "../basics/fx/what-is-usdjpy.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Silver Breaks Below 4,000 as Metal Prices Slide Without a Stronger US Dollar",
+      "link": "https://www.investing.com/analysis/silver-breaks-below-4000-as-metal-prices-slide-without-a-stronger-us-dollar-200692343",
+      "pubDate": "Nov 25, 2026 21:33 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "PCE Inflation Spotlights the Huge Problem the Fed Made for Itself",
+      "link": "https://www.investing.com/analysis/pce-inflation-spotlights-the-huge-problem-the-fed-made-for-itself-200692334",
+      "pubDate": "Nov 25, 2026 19:59 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "GBP/USD Outlook Hinges on Fed Policy and the US-UK Growth Gap",
+      "link": "https://www.investing.com/analysis/gbpusd-outlook-hinges-on-fed-policy-and-the-usuk-growth-gap-200692333",
+      "pubDate": "Nov 25, 2026 19:53 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Holds Above 1.0882 as Fed-ECB Rate Divergence Stops Widening",
+      "link": "https://www.investing.com/analysis/eurusd-holds-above-10882-as-fedecb-rate-divergence-stops-widening-200692332",
+      "pubDate": "Nov 25, 2026 19:37 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Fed Faces a Policy Dilemma as Williams Sees Inflation Falling Without Slower Growt",
+      "link": "https://www.investing.com/analysis/fed-faces-a-policy-dilemma-as-williams-sees-inflation-falling-without-slower-growt-200692331",
+      "pubDate": "Nov 25, 2026 19:18 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Strong Growth and Elevated Inflation Signal More Fed Tightening",
+      "link": "https://www.investing.com/analysis/strong-growth-and-elevated-inflation-signal-more-fed-tightening-200692324",
+      "pubDate": "Nov 25, 2026 16:42 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump’s Tariff Shock Is an Opening Offer, and the Clock Is Already Running",
+      "link": "https://www.investing.com/analysis/trumps-tariff-shock-is-an-opening-offer-and-the-clock-is-already-running-200692323",
+      "pubDate": "Nov 25, 2026 16:29 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Cathie Wood Sold Nvidia: Was Her Market Timing Too Late",
+      "link": "https://www.investing.com/analysis/cathie-wood-sold-nvidia-was-her-market-timing-too-late-200692312",
+      "pubDate": "Nov 25, 2026 13:32 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Outlook: DXY Targets 105 as Inflation Risks Support the Greenback",
+      "link": "https://www.investing.com/analysis/us-dollar-outlook-dxy-targets-105-as-inflation-risks-support-the-greenback-200692311",
+      "pubDate": "Nov 25, 2026 13:21 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Commodity Currencies Part Ways",
+      "link": "https://www.investing.com/analysis/commodity-currencies-part-ways-200692310",
+      "pubDate": "Nov 25, 2026 13:06 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "US Dollar Remains Bid as Stocks Suffer and Rates Fall",
+      "link": "https://www.investing.com/analysis/us-dollar-remains-bid-as-stocks-suffer-and-rates-fall-200692306",
+      "pubDate": "Nov 25, 2026 12:04 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Trump’s Tariff Threat Returns Ahead of US PCE",
+      "link": "https://www.investing.com/analysis/trumps-tariff-threat-returns-ahead-of-us-pce-200692297",
+      "pubDate": "Nov 25, 2026 11:41 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Gold and Bitcoin Under Pressure: What US Dollar Strength Is Really Signaling",
+      "link": "https://www.investing.com/analysis/gold-and-bitcoin-under-pressure-what-us-dollar-strength-is-really-signaling-200692303",
+      "pubDate": "Nov 25, 2026 11:28 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "macro",
+      "market": "global",
+      "lang": "en",
+      "title": "Dollar Retreats as AI Sell-Off Reshapes Rate Expectations",
+      "link": "https://www.investing.com/analysis/dollar-retreats-as-ai-selloff-reshapes-rate-expectations-200692301",
+      "pubDate": "Nov 25, 2026 11:18 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "fx",
+      "market": "global",
+      "lang": "en",
+      "title": "EUR/USD Options Map: Fresh Positions Cluster at 1.0975 as Friday Puts Build",
+      "link": "https://www.investing.com/analysis/eurusd-options-map-fresh-positions-cluster-at-10975-as-friday-puts-build-200692291",
+      "pubDate": "Nov 25, 2026 08:42 GMT"
+    }
+  ]
+}
