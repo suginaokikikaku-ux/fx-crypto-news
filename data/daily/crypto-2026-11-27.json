@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-27",
+  "seoTitle": "2026年11月27日暗号資産市場分析",
+  "seoDescription": "最新の暗号資産市場の動向、主要コインの状況、プロジェクトの進捗を詳しく解説。初心者から中級者まで必見の情報を提供。",
+  "article": "## 1分で読める結論\n\n本日は、スタンダードチャータード傘下のゾディアカストディでの情報流出が報じられる中、国内の暗号資産業界団体JPCrypto-ISACが米SEALとセキュリティ連携の覚書を締結しました。市場は流動性の不足が懸念されており、USDT供給量が減少しています。特に、ビットコイン採掘に関する問題も浮上しており、今後の市場動向に注目が必要です。\n\n## 今日の暗号資産市場の地合い\n\n全体的に暗号資産市場は慎重な姿勢が見られ、特に流動性の不足が懸念されています。USDT供給量の減少が相場回復の障害となる可能性があります。また、ビットコインに関する技術的な問題も議論を呼び、投資家心理に影響を与えています。\n\n## 今日の主要トピック3つ\n1. **情報流出**: スタンダードチャータード傘下のゾディアカストディで顧客や従業員の情報が流出したと報じられ、セキュリティの重要性が再認識されています。\n2. **JPCrypto-ISACと米SEALの連携**: JPCrypto-ISACが米SEALと覚書を交わし、暗号資産のサイバー攻撃対策に取り組むことが明らかになりました。\n3. **USDT供給量の減少**: 2022年8月以来、USDTの供給量が最大の減少幅を記録し、流動性の不足が相場の回復に影響を及ぼす懸念が高まっています。\n\n## メインコインの整理\n\n- **ビットコイン**: 採掘においてブロック生成間隔が最長の98分19秒に達し、パフォーマンスに影響を与えています。また、プライバシーに関する問題も報告され、投資家の信頼に影響を及ぼす可能性があります。\n- **イーサリアムやその他の主要コイン**: 特に目立った動きは報告されていませんが、全体的な市場の流動性の低下が影響を及ぼす可能性があります。\n\n## 個別プロジェクトの進捗\n\n- **Kaia**: 韓国の金融インフラへの接続を目指すプロジェクトが、IT企業ヘクトイノベーションとMOUを締結し、進展を見せています。これは、アジア市場での影響力を強化する一環として注目されます。\n- **バイナンス**: ハッキング騒動から約4週間が経過し、顧客出金を全面再開することが発表されました。この動きは市場の信頼回復に寄与する可能性があります。\n\n## 今日の要約から見える示唆\n\n情報流出やセキュリティ問題が浮上している中で、暗号資産市場は慎重な動きを続けています。また、流動性の不足が相場に影響を及ぼす可能性が高く、これに対処するための取り組みが求められています。特に、プロジェクトの進捗や市場の信頼性回復がカギとなります。\n\n## 次に確認すべきこと\n\n- **セキュリティ関連の動向**: ゾディアカストディの情報流出に関連する影響を追跡し、同様のセキュリティ対策が他のプロジェクトに与える影響に注目する必要があります。\n- **USDTの供給量**: 今後の流動性の回復に向けた動きを注視し、相場への影響を分析することが重要です。\n- **主要コインの技術的問題**: ビットコインのプライバシー漏洩問題や採掘パフォーマンスの変動について、詳細な情報を収集し今後の市場展開を予測します。\n\n## 今日の結論\n\n本日は、暗号資産市場での情報流出やセキュリティ連携が注目される中、流動性不足が懸念される状況です。今後の市場動向を見極めるためには、セキュリティ対策や流動性の動向、主要コインの技術的問題に注視することが重要です。",
+  "meta": {
+    "sources": [
+      "あたらしい経済",
+      "CoinPost",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "スタンダードチャータード傘下ゾディアカストディで情報流出、顧客・従業員の氏名など",
+      "link": "https://www.neweconomy.jp/posts/630590",
+      "pubDate": "Fri, 27 Nov 2026 04:02:47 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "国内暗号資産業界団体JPCrypto-ISAC、米SEALとセキュリティ連携で覚書",
+      "link": "https://coinpost.jp/?p=749693",
+      "pubDate": "Fri, 27 Nov 2026 13:00:29 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "JPCrypto-ISAC、米SEALとMOU。暗号資産のサイバー攻撃対策で連携",
+      "link": "https://www.neweconomy.jp/posts/630579",
+      "pubDate": "Fri, 27 Nov 2026 03:53:24 +0000"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ファン復帰で急騰したエヌビディアはもう失速？、AI株はこの先どうなる？｜ゲスト：糸島孝俊｜TOKYO INSIDERS Nov.27 2026（#011）",
+      "link": "https://www.neweconomy.jp/features/tokyoinsiders/630553",
+      "pubDate": "Fri, 27 Nov 2026 03:33:25 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "USDT供給量、2022年8月以来最大の減少幅　相場回復には流動性必要＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=749697",
+      "pubDate": "Fri, 27 Nov 2026 11:00:17 +0900"
+    },
+    {
+      "source": "あたらしい経済",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
+      "link": "https://www.neweconomy.jp/posts/630530",
+      "pubDate": "Fri, 27 Nov 2026 01:29:21 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "AI関連株バブルの確率、9月時点でドットコム水準超え＝英研究チーム",
+      "link": "https://coinpost.jp/?p=749686",
+      "pubDate": "Fri, 27 Nov 2026 09:35:41 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "暗号資産デリバティブ提供のeTakaraなどを追加、金融庁が無登録金融商品取引業者のリスト更新",
+      "link": "https://coinpost.jp/?p=749680",
+      "pubDate": "Fri, 27 Nov 2026 08:20:07 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "エヌビディア製AI半導体レンタル価格の予測市場、ポリマーケットが2028年分まで開設",
+      "link": "https://coinpost.jp/?p=749670",
+      "pubDate": "Fri, 27 Nov 2026 08:00:48 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンスが顧客出金を全面再開、1兆円ハッキング騒動から約4週間",
+      "link": "https://coinpost.jp/?p=749669",
+      "pubDate": "Fri, 27 Nov 2026 07:20:46 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "日中韓とASEAN、越境デジタル決済の作業部会設立で合意",
+      "link": "https://coinpost.jp/?p=749657",
+      "pubDate": "Fri, 27 Nov 2026 06:55:12 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコイン採掘、ブロック生成間隔が98分19秒で7月以来の最長",
+      "link": "https://coinpost.jp/?p=749658",
+      "pubDate": "Fri, 27 Nov 2026 06:40:15 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインコアで問題発覚、約55円でプライバシー漏えいの恐れ",
+      "link": "https://coinpost.jp/?p=749659",
+      "pubDate": "Fri, 27 Nov 2026 06:20:16 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ストラテジー企業価値が保有ビットコイン比で過去最低、投げ売りの局面か＝JPモルガン",
+      "link": "https://coinpost.jp/?p=749660",
+      "pubDate": "Fri, 27 Nov 2026 06:00:18 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "pubDate": "Thu, 26 Nov 2026 17:30:00 +0000"
+    }
+  ]
+}
