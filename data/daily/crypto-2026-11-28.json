@@ -1,0 +1,169 @@
+{
+  "type": "crypto",
+  "date": "2026-11-28",
+  "seoTitle": "暗号資産市場の最新動向と注目プロジェクト",
+  "seoDescription": "最新の暗号資産市場の地合いや主要コイン、個別プロジェクトの進捗を網羅したデイリー分析。",
+  "article": "## 1分で読める結論\n現在の暗号資産市場は、ビットコインの強い買いが続く一方で、イーサリアムが重要な技術的な局面を迎えています。さらに、さまざまなプロジェクトが進行中で、特にブロックチェーン技術の進展が注目されます。\n\n## 今日の暗号資産市場の地合い\n全体的に、ビットコインの大口投資家（クジラ）が活発に市場に参入しており、価格の上昇圧力を支えています。その一方で、イーサリアムは技術的な課題に直面しており、ETH/BTCの関係も注視されています。市場は慎重ながらも、成長の可能性を秘めています。\n\n## 今日の主要トピック3つ\n1. **ビットコインのクジラが12万BTCを買い増し**：9〜11月の間でビットコインの大口保有者が大規模な買いを行い、押し目買いの動きが見られます。\n2. **イーサリアムのテストネット『グラムスターダム』が12月16日に稼働予定**：重要な技術的進展として、イーサリアムのアップグレードが期待されます。\n3. **トランプ一族関連のワールド・リバティが32億円相当のイーサリアム系資産を清算**：市場に影響を与える大規模な資金移動が懸念されます。\n\n## メインコインの整理\n- **ビットコイン**：最近のクジラの動きで価格は安定しており、次の重要な抵抗レベルは64,000ドルです。\n- **イーサリアム**：ETH/BTCの比率が重要なサポートを下回っており、テストネットの稼働が影響を与える可能性があります。\n- **その他のメインコイン**：市場全体の動向に影響されやすく、注視が必要です。\n\n## 個別プロジェクトの進捗\n- **ミッドナイト・ファウンデーション**：取引情報を保護するステーブルコイン決済を検討中。今後の展開が期待される。\n- **BGINと東京大学生産技術研究所**：ブロックチェーンの量子耐性に関するワークショップを開催予定。\n- **バイナンス**：トークン化IPO事業への本格的な参入を計画中で、規制当局の承認が待たれています。\n\n## 今日の要約から見える示唆\n市場はビットコインのクジラによる強い支持を受けつつ、イーサリアムの動向が次の大きなテーマになる可能性があります。また、各プロジェクトの進捗が市場に新たな機会を生むことが期待されます。\n\n## 次に確認すべきこと\n- ビットコインの価格が64,000ドルを超えるかどうか。\n- イーサリアムのテストネット『グラムスターダム』の稼働結果とその影響。\n- ミッドナイト・ファウンデーションやBGINのプロジェクト進捗を追跡すること。\n\n## 今日の結論\nビットコインの強い支持を受けつつ、イーサリアムの技術的な挑戦が市場の焦点となる中、各プロジェクトの進展が今後の動向に影響を与える可能性が高いです。",
+  "meta": {
+    "sources": [
+      "CoinPost",
+      "Investing",
+      "CoinDesk"
+    ],
+    "categories": [
+      "crypto"
+    ],
+    "newsCount": 15,
+    "basicsLinks": [
+      {
+        "title": "暗号通貨とは？",
+        "url": "../basics/crypto/what-is-crypto.html"
+      },
+      {
+        "title": "ブロックチェーンとは？",
+        "url": "../basics/crypto/what-is-blockchain.html"
+      },
+      {
+        "title": "暗号資産プロジェクトの見方",
+        "url": "../basics/crypto/how-to-read-projects.html"
+      }
+    ]
+  },
+  "news": [
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "取引情報を保護するステーブルコイン決済、ミッドナイト・ファウンデーションなど3社が検討",
+      "link": "https://coinpost.jp/?p=749845",
+      "pubDate": "Sat, 28 Nov 2026 11:15:54 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "暗号技術が破られる噂、公表予定の研究成果は現行方式に「差し迫った脅威ではない」＝専門家",
+      "link": "https://coinpost.jp/?p=749829",
+      "pubDate": "Sat, 28 Nov 2026 09:40:33 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "BGINと東大生研、東京駒場でブロックチェーンの量子耐性移行に関するワークショップ開催へ",
+      "link": "https://coinpost.jp/?p=749865",
+      "pubDate": "Sat, 28 Nov 2026 09:30:44 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "トランプ一族関連のワールド・リバティ、32億円相当のイーサリアム系資産を清算",
+      "link": "https://coinpost.jp/?p=749830",
+      "pubDate": "Sat, 28 Nov 2026 07:55:35 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "「押し目買い転換は異例」　ビットコインのクジラ、9〜11月で12万BTC超を買い増し",
+      "link": "https://coinpost.jp/?p=749831",
+      "pubDate": "Sat, 28 Nov 2026 07:05:37 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Ethereum Trails Bitcoin as ETH/BTC Breaks Below a Key Long-Term Level",
+      "link": "https://www.investing.com/analysis/ethereum-trails-bitcoin-as-ethbtc-breaks-below-a-key-longterm-level-200692474",
+      "pubDate": "Nov 27, 2026 21:44 GMT"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "バイナンス、『トークン化IPO』事業に本腰　規制当局の承認待ち",
+      "link": "https://coinpost.jp/?p=749832",
+      "pubDate": "Sat, 28 Nov 2026 06:30:39 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "ビットコインがスーパーサイクル確立か、最高値突破なら20万3000ドルも視野に＝アナリスト",
+      "link": "https://coinpost.jp/?p=749833",
+      "pubDate": "Sat, 28 Nov 2026 06:12:41 +0900"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "中国、ブロックチェーン基盤の分散型デジタルIDを導入へ　2027年3月施行",
+      "link": "https://coinpost.jp/?p=749834",
+      "pubDate": "Sat, 28 Nov 2026 05:55:44 +0900"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin’s Divergence From the Nasdaq Exposes Weakening Institutional Demand",
+      "link": "https://www.investing.com/analysis/bitcoins-divergence-from-the-nasdaq-exposes-weakening-institutional-demand-200692464",
+      "pubDate": "Nov 27, 2026 19:13 GMT"
+    },
+    {
+      "source": "Investing",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin Rebounds to $61.6K, but a Break Above $64K Remains the Key Test",
+      "link": "https://www.investing.com/analysis/bitcoin-rebounds-to-616k-but-a-break-above-64k-remains-the-key-test-200692442",
+      "pubDate": "Nov 27, 2026 14:45 GMT"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "link": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+      "pubDate": "Fri, 27 Nov 2026 13:19:10 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "イーサリアム、延期した『グラムスターダム』のテストネット稼働を12月16日に決定",
+      "link": "https://coinpost.jp/?p=749822",
+      "pubDate": "Fri, 27 Nov 2026 21:35:59 +0900"
+    },
+    {
+      "source": "CoinDesk",
+      "category": "crypto",
+      "market": "global",
+      "lang": "en",
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+      "pubDate": "Fri, 27 Nov 2026 12:16:07 +0000"
+    },
+    {
+      "source": "CoinPost",
+      "category": "crypto",
+      "market": "jp",
+      "lang": "ja",
+      "title": "米FRB発言が緩和寄りに転じなければ週末に仮想通貨売りの可能性＝アーサー・ヘイズ予測",
+      "link": "https://coinpost.jp/?p=749684",
+      "pubDate": "Fri, 27 Nov 2026 21:00:29 +0900"
+    }
+  ]
+}

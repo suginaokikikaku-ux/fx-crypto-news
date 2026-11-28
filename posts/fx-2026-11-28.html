@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USD/JPYとマクロ要因の市場分析</title>
+  <meta name="description" content="USD/JPYの動向とマクロ経済の影響を解説。金利、流動性、地政学的要因が相場構造に与える影響を分析します。" />
+  <link rel="canonical" href="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-11-28.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="USD/JPYとマクロ要因の市場分析" />
+  <meta property="og:description" content="USD/JPYの動向とマクロ経済の影響を解説。金利、流動性、地政学的要因が相場構造に与える影響を分析します。" />
+  <meta property="og:url" content="https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-11-28.html" />
+  <meta property="og:site_name" content="Macro Daily" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"USD/JPYとマクロ要因の市場分析","description":"USD/JPYの動向とマクロ経済の影響を解説。金利、流動性、地政学的要因が相場構造に与える影響を分析します。","datePublished":"2026-11-28","dateModified":"2026-11-28","author":{"@type":"Organization","name":"Macro Daily"},"publisher":{"@type":"Organization","name":"Macro Daily"},"mainEntityOfPage":"https://suginaokikikaku-ux.github.io/fx-crypto-news/posts/fx-2026-11-28.html"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-border: rgba(255, 255, 255, 0.08);
+      --text: #e5e7eb;
+      --text-soft: #94a3b8;
+      --heading: #f8fafc;
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --shadow: 0 16px 40px rgba(0, 0, 0, 0.28);
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.14), transparent 30%),
+        radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 28%),
+        linear-gradient(180deg, #020617 0%, #0b1120 100%);
+      color: var(--text);
+      padding: 32px 16px 64px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 18px;
+      color: #93c5fd;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(15,23,42,0.96), rgba(30,41,59,0.96));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow);
+      margin-bottom: 28px;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(120deg, rgba(56,189,248,0.14), transparent 45%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      position: relative;
+      z-index: 1;
+      max-width: 100%;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 340px;
+      border-radius: 18px;
+      margin-bottom: 28px;
+      background-image: url("../site/assets/img/hero.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .hero-image-fallback {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at center, rgba(56,189,248,0.22), transparent 35%),
+        linear-gradient(135deg, #111827, #1e293b);
+    }
+
+    .hero-image-fallback-text {
+      font-size: 32px;
+      font-weight: 800;
+      color: #f8fafc;
+      letter-spacing: -0.03em;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.1;
+      font-weight: 800;
+      color: var(--heading);
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      font-size: 17px;
+      color: #cbd5e1;
+      max-width: 680px;
+    }
+
+    .hero-actions {
+      margin-top: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .hero-note {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .content-card,
+    .info-card,
+    .references-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+    }
+
+    .content-card {
+      margin-bottom: 20px;
+    }
+
+    .intro-box {
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.18);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      margin-bottom: 20px;
+      color: #dbeafe;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: var(--heading);
+      margin-top: 34px;
+      margin-bottom: 14px;
+      font-size: 25px;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+      border-left: 4px solid var(--accent);
+      padding-left: 12px;
+    }
+
+    .content-card h2:first-child,
+    .info-card h2:first-child,
+    .references-card h2:first-child {
+      margin-top: 0;
+    }
+
+    h3 {
+      color: var(--heading);
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+      line-height: 1.45;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: #d1d5db;
+      font-size: 16px;
+    }
+
+    strong {
+      color: #f8fafc;
+    }
+
+    ul {
+      padding-left: 22px;
+      color: #d1d5db;
+      margin: 0 0 18px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .references-card a,
+    .basics-card a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .references-card a:hover,
+    .basics-card a:hover {
+      text-decoration: underline;
+    }
+
+    .basics-card {
+      background: linear-gradient(180deg, rgba(17,24,39,0.92), rgba(15,23,42,0.92));
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius-md);
+      padding: 22px 20px 20px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--panel-border);
+      color: var(--text-soft);
+      font-size: 14px;
+    }
+
+    .footer strong {
+      color: var(--heading);
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        padding: 22px;
+      }
+
+      .hero-image {
+        height: 220px;
+        margin-bottom: 22px;
+      }
+
+      .hero h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 22px;
+      }
+
+      p,
+      li {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">← 記事一覧へ戻る</a>
+
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-image" aria-label="記事ヘッダー画像"></div>
+        <div class="eyebrow">FX DAILY ARTICLE</div>
+        <h1>USD/JPYとマクロ要因の市場分析</h1>
+        <p>USD/JPYの動向とマクロ経済の影響を解説。金利、流動性、地政学的要因が相場構造に与える影響を分析します。</p>
+        <div class="hero-actions">
+          <span class="hero-note">2026-11-28 / fx・macro</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-card">
+      <div class="intro-box">この記事はfx・macroを中心に、Investingのニュースをもとに整理しています。</div>
+      <h2>1. 1分で読める結論</h2>
+今日の相場は、米連邦準備制度（FRB）の金利政策に対する懸念から、USD/JPYが上昇しています。特に、米国のGDP成長率が予想を上回ったことがトリガーとなり、投資家はリスク回避の姿勢を強めています。これは同時に、ビットコイン（BTC）にも影響を及ぼしています。</p><h2>2. 今日の主要ドライバー3つ</h2>
+1. <strong>米国のGDP成長率の上昇 → 投資家のリスク選好が高まり、ドル需要増加</strong>  
+   米国のGDP成長率が4.3%と発表され、これがFRBの今後の金利引き上げ観測を強めています。これにより、ドルが買われ、USD/JPYも上昇しました。</p><p>2. <strong>薄い流動性環境 → 価格の変動が激化</strong>  
+   感謝祭の影響で市場の流動性が薄くなっている中、相場の動きが荒くなる傾向が見られます。特に、流動性が低下すると、急激な価格変動が発生しやすくなります。</p><p>3. <strong>地政学的な不安 → 安全資産としてのドルの需要が高まる</strong>  
+   地政学的な緊張が続く中、投資家は安全資産としてのドルを選好しています。この動きは、USD/JPYの上昇を助長しています。</p><h2>3. 市場構造の解釈</h2>
+現在の動きは、主に金利の引き上げ観測と流動性の低下によって主導されています。特に、FRBの金利政策が市場の焦点となっており、これがドル相場に直接的な影響を与えています。また、機関投資家が主導していると考えられ、彼らのポジション調整が相場の変動を引き起こしている可能性があります。今の反応は、米国の経済指標が良好であることを受けたものであり、今後もこのトレンドが続くか注視が必要です。</p><h2>4. USD/JPY分析</h2>
+現在のUSD/JPYは、短期的には上昇基調が続いており、流動性の薄さが一時的な価格変動を引き起こす要因となっています。中期的には、FRBの金利決定が大きな影響を与える見込みであり、これが相場の方向性を決定づけるでしょう。今回の動きは、継続型のトレンドとして捉えられ、今後の経済指標発表が重要なポイントとなります。</p><h2>5. BTCへの波及</h2>
+ドル高の進行とリスク回避の動きは、ビットコイン市場にも影響を及ぼします。特に、投資家がリスク資産から安全資産へシフトしているため、BTCは資金逃避の対象として注目されることになります。これにより、BTCの流動性も影響を受ける可能性があります。</p><h2>6. 強気・弱気の分岐条件</h2>
+<ul><li><strong>強気条件</strong>: FRBが金利を引き上げる明確なシグナルを出すこと。</li>
+<li><strong>弱気条件</strong>: 米国の経済指標が予想を下回り、金利引き上げ観測が後退すること。</li>
+<li><strong>イベントベース</strong>: 地政学的な緊張が緩和されること。</li></ul><h2>7. 今日の示唆</h2>
+今の相場では、FRBの金利政策に関するニュースや米国の経済指標を注視する必要があります。また、薄い流動性環境下での価格変動にも注意が必要です。特に、感謝祭以降のマーケットの動きが、利益確定やポジション調整に影響を与える可能性があります。</p><h2>8. 今日の結論</h2>
+今日の相場は、米国の経済指標とFRBの金利政策に敏感に反応しています。USD/JPYは上昇基調を維持していますが、流動性の低下による変動には注意が必要です。</p>
+    </section>
+
+    <section class="basics-card">
+      <h2>関連する基礎知識</h2>
+      <ul><li><a href="../basics/fx/what-is-fx.html">FXとは？</a></li><li><a href="../basics/fx/what-moves-fx.html">なぜ為替は動くのか</a></li><li><a href="../basics/fx/what-is-usdjpy.html">ドル円とは？USD/JPYの見方</a></li></ul>
+    </section>
+
+    <section class="info-grid">
+      <div class="info-card">
+        <h2>今日の取得元</h2>
+        <p>Investing</p>
+      </div>
+
+      <div class="info-card">
+        <h2>今日のカテゴリ</h2>
+        <p>fx・macro</p>
+      </div>
+    </section>
+
+    <section class="references-card">
+      <h2>参照ニュース一覧</h2>
+      <ul><li>[1] EUR/USD Faces Deeper Downside as Fed-ECB Rate Divergence Intensifies（Investing / fx） - <a href="https://www.investing.com/analysis/eurusd-faces-deeper-downside-as-fedecb-rate-divergence-intensifies-200692470" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[2] Why Trump’s Tariffs Have Failed to Reverse America’s Growing Trade Deficit（Investing / macro） - <a href="https://www.investing.com/analysis/why-trumps-tariffs-have-failed-to-reverse-americas-growing-trade-deficit-200692468" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[3] Addressing Normalcy Bias and the Bigger Picture（Investing / macro） - <a href="https://www.investing.com/analysis/addressing-normalcy-bias-and-the-bigger-picture-200692461" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[4] EUR/USD Outlook: Can the Euro Reclaim 1.10 as US Stock Markets Reopen?（Investing / macro） - <a href="https://www.investing.com/analysis/eurusd-outlook-can-the-euro-reclaim-110-as-us-stock-markets-reopen-200692443" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[5] Firmer Stocks and Oil Leave the US Dollar Mixed（Investing / fx） - <a href="https://www.investing.com/analysis/firmer-stocks-and-oil-leave-the-us-dollar-mixed-200692439" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[6] US GDP Hits 4.3%: Is Wall Street Underestimating the Risk of a More Aggressive Fed（Investing / macro） - <a href="https://www.investing.com/analysis/us-gdp-hits-43-is-wall-street-underestimating-the-risk-of-a-more-aggressive-fed-200692432" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[7] Equities Bounce Back, Gold Jumps but Dollar Steady Amid Thin Liquidity（Investing / macro） - <a href="https://www.investing.com/analysis/equities-bounce-back-gold-jumps-but-dollar-steady-amid-thin-liquidity-200692429" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[8] AI Off-Balance Sheet Financing Worries the Fed（Investing / macro） - <a href="https://www.investing.com/analysis/ai-offbalance-sheet-financing-worries-the-fed-200692421" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[9] Thanksgiving’s Thin Liquidity Raises False Breakout Risks（Investing / macro） - <a href="https://www.investing.com/analysis/thanksgivings-thin-liquidity-raises-false-breakout-risks-200692404" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[10] FX Daily: From Petrodollars to Chip US Dollars, Wall Street’s Currency Shift（Investing / fx） - <a href="https://www.investing.com/analysis/fx-daily-from-petrodollars-to-chip-us-dollars-wall-streets-currency-shift-200692419" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[11] FX Outlook: Green Friday（Investing / fx） - <a href="https://www.investing.com/analysis/fx-outlook-green-friday-200692416" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[12] EUR/USD- Rebounding Off 1 (100%) Support Arc, Rebound May Extend Towards 1.1030（Investing / fx） - <a href="https://www.investing.com/analysis/eurusd-rebounding-off-1-100-support-arc-rebound-may-extend-towards-11030-200692413" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[13] GBP/USD: Pound Has Chances to Close the Week With Moderate Gains（Investing / fx） - <a href="https://www.investing.com/analysis/gbpusd-pound-has-chances-to-close-the-week-with-moderate-gains-200692412" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[14] China Throws Stocks a Lifeline as Plunge-Protection Team Steps In（Investing / macro） - <a href="https://www.investing.com/analysis/china-throws-stocks-a-lifeline-as-plungeprotection-team-steps-in-200692410" target="_blank" rel="noopener noreferrer">元記事</a></li><li>[15] Gold Rebounds to $3,650 as AI Jitters Fade: Reversal or Trap?（Investing / macro） - <a href="https://www.investing.com/analysis/gold-rebounds-to-3650-as-ai-jitters-fade-reversal-or-trap-200692406" target="_blank" rel="noopener noreferrer">元記事</a></li></ul>
+    </section>
+
+    <footer class="footer">
+      <p><strong>Macro Daily</strong>｜FX デイリー記事</p>
+    </footer>
+  </div>
+</body>
+</html>
